@@ -1,0 +1,62 @@
+{
+  "company_key": "brunswick bank & trust co.|https://brunswickbank.com",
+  "company_name": "Brunswick Bank & Trust Co.",
+  "company_website": "https://brunswickbank.com",
+  "created_at": "2026-10-23T11:27:53Z",
+  "searches": [
+    {
+      "query": "\"Brunswick Bank & Trust Co.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:27:59Z",
+      "page_title": "\"Brunswick Bank & Trust Co.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brunswick+Bank+%26+Trust+Co.%22+revenue",
+      "results": [
+        {
+          "title": "Mid Penn Bank completes $43.7M acquisition of Brunswick Bank - NJBIZ",
+          "url": "https://njbiz.com/mid-penn-bank-completes-43-7m-acquisition-of-brunswick-bank/",
+          "snippet": "The deal took effect at the close of business May 19 with Brunswick Bank & Trust Co. merged into Mid Penn Bank. The combined stock and cash transaction was valued at $43.7 million."
+        }
+      ]
+    },
+    {
+      "query": "\"Brunswick Bank & Trust Co.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:28:05Z",
+      "page_title": "\"Brunswick Bank & Trust Co.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brunswick+Bank+%26+Trust+Co.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Mid Penn Bank completes $43.7M acquisition of Brunswick Bank - NJBIZ",
+          "url": "https://njbiz.com/mid-penn-bank-completes-43-7m-acquisition-of-brunswick-bank/",
+          "snippet": "The deal took effect at the close of business May 19 with Brunswick Bank & Trust Co. merged into Mid Penn Bank. The combined stock and cash transaction was valued at $43.7 million."
+        },
+        {
+          "title": "Mid Penn Bancorp completes $43.7M acquisition of Brunswick Bancorp - ROI-NJ",
+          "url": "https://www.roi-nj.com/2023/05/26/finance/mid-penn-bancorp-completes-43-7m-acquisition-of-brunswick-bancorp/",
+          "snippet": "Mid Penn Bancorp announced its $43.7 million acquisition of New Brunswick-based Brunswick Bancorp was completed after the close of business on May 19. In connection with the holding company merger, Brunswick's banking subsidiary, Brunswick Bank & Trust Co., has been merged with and into Mid Penn's subsidiary bank, Mid Penn Bank, expanding the company's presence […]"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Mid Penn Bank completes $43.7M acquisition of Brunswick Bank - NJBIZ",
+      "url": "https://njbiz.com/mid-penn-bank-completes-43-7m-acquisition-of-brunswick-bank/",
+      "snippet": "The deal took effect at the close of business May 19 with Brunswick Bank & Trust Co. merged into Mid Penn Bank. The combined stock and cash transaction was valued at $43.7 million.",
+      "query": "\"Brunswick Bank & Trust Co.\" revenue",
+      "search_collected_at": "2026-10-23T11:27:59Z"
+    },
+    {
+      "title": "Mid Penn Bancorp completes $43.7M acquisition of Brunswick Bancorp - ROI-NJ",
+      "url": "https://www.roi-nj.com/2023/05/26/finance/mid-penn-bancorp-completes-43-7m-acquisition-of-brunswick-bancorp/",
+      "snippet": "Mid Penn Bancorp announced its $43.7 million acquisition of New Brunswick-based Brunswick Bancorp was completed after the close of business on May 19. In connection with the holding company merger, Brunswick's banking subsidiary, Brunswick Bank & Trust Co., has been merged with and into Mid Penn's subsidiary bank, Mid Penn Bank, expanding the company's presence […]",
+      "query": "\"Brunswick Bank & Trust Co.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:28:05Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:28:05Z",
+  "company_status": "SUCCESS"
+}

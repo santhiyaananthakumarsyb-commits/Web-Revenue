@@ -1,0 +1,34 @@
+
+Extract company revenue and employee-count claims from the supplied DuckDuckGo search results.
+
+Return only valid JSON:
+{
+  "claims": [
+    {
+      "source_id": "1",
+      "metric": "revenue",
+      "raw_value": "$1M–$5M",
+      "value_low": "1M",
+      "value_high": "5M",
+      "currency_code": "UNKNOWN",
+      "period": "UNKNOWN",
+      "claim_type": "ESTIMATE",
+      "evidence_quote": "Exact text from the source snippet"
+    }
+  ]
+}
+
+Rules:
+1. Use only the supplied evidence. Never invent data.
+2. Extract revenue and employee counts separately.
+3. Never classify revenue-per-employee, valuation, property value, sales volume, or competitor revenue as company revenue.
+4. Do not attribute competitors' figures to the target company.
+5. Preserve the original value and range.
+6. A trailing unit applies to both ends of a range when appropriate. For example, "$10–$100 million" means 10 million to 100 million.
+7. Never interpret the letter "t" in "to" as trillion.
+8. A bare "$" does not establish USD. Keep currency unknown unless the evidence explicitly identifies it.
+9. Do not infer a reporting period from the search query.
+10. Missing information must be null or UNKNOWN, never zero.
+11. Include a source ID and exact supporting quote for every claim.
+12. If evidence is ambiguous, omit the claim or mark its metric unknown.
+13. Return {"claims": []} when no supported claims exist.

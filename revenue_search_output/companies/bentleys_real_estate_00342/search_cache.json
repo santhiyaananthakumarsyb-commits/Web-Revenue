@@ -1,0 +1,62 @@
+{
+  "company_key": "bentleys real estate|https://remaxholdings.com",
+  "company_name": "Bentleys Real Estate",
+  "company_website": "https://remaxholdings.com",
+  "created_at": "2026-10-23T10:58:07Z",
+  "searches": [
+    {
+      "query": "\"Bentleys Real Estate\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:58:14Z",
+      "page_title": "\"Bentleys Real Estate\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bentleys+Real+Estate%22+revenue",
+      "results": [
+        {
+          "title": "Bentleys Real Estate Overview, Competitors, News, and Employees ...",
+          "url": "https://www.clodura.ai/directory/company/bentleys-real-estate",
+          "snippet": "Bentleys Real Estate revenue, competitors, industry, employees, sales intent, org chart, technographic data and much more. Find similar companies as well as employees by title, seniority, and much more."
+        },
+        {
+          "title": "PDF bentleysnewzealand.com",
+          "url": "http://bentleysnewzealand.com/wp-content/uploads/2020/10/Real-Estate-Information-Pack.pdf",
+          "snippet": "Bentleys Real Estate Advisory Who We Are We have been working with the Real Estate Industry for over 20 years and love the Industry and Real Estate businesses. We admire the dedication, professionalism, hard work, commitment and energy that it takes to run a successful Real Estate business, Through al our Real Estate experiences we have come to recognise the key characteristics that it takes ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bentleys Real Estate\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:58:22Z",
+      "page_title": "\"Bentleys Real Estate\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bentleys+Real+Estate%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bentleys Real Estate Overview, Competitors, News, and Employees ...",
+          "url": "https://www.clodura.ai/directory/company/bentleys-real-estate",
+          "snippet": "Bentleys Real Estate revenue, competitors, industry, employees, sales intent, org chart, technographic data, email format and much more. Find similar companies as well as employees by title, seniority, and much more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bentleys Real Estate Overview, Competitors, News, and Employees ...",
+      "url": "https://www.clodura.ai/directory/company/bentleys-real-estate",
+      "snippet": "Bentleys Real Estate revenue, competitors, industry, employees, sales intent, org chart, technographic data and much more. Find similar companies as well as employees by title, seniority, and much more.",
+      "query": "\"Bentleys Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T10:58:14Z"
+    },
+    {
+      "title": "PDF bentleysnewzealand.com",
+      "url": "http://bentleysnewzealand.com/wp-content/uploads/2020/10/Real-Estate-Information-Pack.pdf",
+      "snippet": "Bentleys Real Estate Advisory Who We Are We have been working with the Real Estate Industry for over 20 years and love the Industry and Real Estate businesses. We admire the dedication, professionalism, hard work, commitment and energy that it takes to run a successful Real Estate business, Through al our Real Estate experiences we have come to recognise the key characteristics that it takes ...",
+      "query": "\"Bentleys Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T10:58:14Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:58:22Z",
+  "company_status": "SUCCESS"
+}

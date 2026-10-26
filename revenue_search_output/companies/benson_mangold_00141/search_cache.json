@@ -1,0 +1,113 @@
+{
+  "company_key": "benson & mangold|https://bensonandmangold.com",
+  "company_name": "Benson & Mangold",
+  "company_website": "https://bensonandmangold.com",
+  "created_at": "2026-10-23T10:14:59Z",
+  "searches": [
+    {
+      "query": "\"Benson & Mangold\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:15:05Z",
+      "page_title": "\"Benson & Mangold\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Benson+%26+Mangold%22+revenue",
+      "results": [
+        {
+          "title": "Benson & Mangold - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/benson--mangold-llc/13127392",
+          "snippet": "View Benson & Mangold (www.bensonandmangold.com) location in Maryland, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Benson & Mangold - Overview, News & Competitors | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/benson-mangold-llc/455493832",
+          "snippet": "Benson & Mangold LLC is a company that operates in the Real Estate industry. It employs 11-20 people and has $1M-$5M of revenue. The company is headquartered in Trappe, Maryland. Read More View Company Info for Free"
+        },
+        {
+          "title": "Benson & Mangold Real Estate | (410) 479-0777 | Denton, Maryland - AllBiz",
+          "url": "https://www.allbiz.com/business/benson-mangold-real-estate_10d-410-479-0777",
+          "snippet": "Judith Dinges is the primary contact at Benson & Mangold Real Estate. Benson & Mangold Real Estate generates approximately USD 75,134 in revenue annually."
+        },
+        {
+          "title": "Benson & Mangold | (410) 745-0415 | Saint Michaels, Maryland - AllBiz",
+          "url": "https://www.allbiz.com/business/benson-mangold-410-745-0415",
+          "snippet": "Chuck Benson is the primary contact at Benson & Mangold. Benson & Mangold generates approximately USD 500,000 in revenue annually, and employs around 50 people at this location."
+        }
+      ]
+    },
+    {
+      "query": "\"Benson & Mangold\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:15:11Z",
+      "page_title": "\"Benson & Mangold\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Benson+%26+Mangold%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Benson & Mangold - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/benson--mangold-llc/13127392",
+          "snippet": "View Benson & Mangold (www.bensonandmangold.com) location in Maryland, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Benson & Mangold - Overview, News & Competitors | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/benson-mangold-llc/455493832",
+          "snippet": "View Benson & Mangold (www.cbishoprealtor.com) location in Maryland, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Benson & Mangold Real Estate | (410) 479-0777 | Denton, Maryland - AllBiz",
+          "url": "https://www.allbiz.com/business/benson-mangold-real-estate_10d-410-479-0777",
+          "snippet": "Business Description Benson & Mangold Real Estate is located in Denton, Maryland, and was founded in 2016. Annual sales for Benson & Mangold Real Estate are around USD 75,134. Revenue: USD 75,134 Founded: 2016 IndustryHome Services Engaged in:Real Estate Agency ISIC Codes6820SIC Codes6531NAICS Codes531"
+        },
+        {
+          "title": "Benson & Mangold | (410) 745-0415 | Saint Michaels, Maryland - AllBiz",
+          "url": "https://www.allbiz.com/business/benson-mangold-410-745-0415",
+          "snippet": "Chuck Benson is the primary contact at Benson & Mangold. Benson & Mangold generates approximately USD 500,000 in revenue annually, and employs around 50 people at this location."
+        },
+        {
+          "title": "Benson & Mangold Easton MD, 21601 - Manta.com",
+          "url": "https://www.manta.com/c/mkbf85n/benson-and-mangold-llc",
+          "snippet": "About Categorized under Residential Real Estate Agents. Current estimates show this company has an annual revenue of 252766 and employs a staff of approximately 3."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Benson & Mangold - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/benson--mangold-llc/13127392",
+      "snippet": "View Benson & Mangold (www.bensonandmangold.com) location in Maryland, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Benson & Mangold\" revenue",
+      "search_collected_at": "2026-10-23T10:15:05Z"
+    },
+    {
+      "title": "Benson & Mangold - Overview, News & Competitors | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/benson-mangold-llc/455493832",
+      "snippet": "Benson & Mangold LLC is a company that operates in the Real Estate industry. It employs 11-20 people and has $1M-$5M of revenue. The company is headquartered in Trappe, Maryland. Read More View Company Info for Free",
+      "query": "\"Benson & Mangold\" revenue",
+      "search_collected_at": "2026-10-23T10:15:05Z"
+    },
+    {
+      "title": "Benson & Mangold Real Estate | (410) 479-0777 | Denton, Maryland - AllBiz",
+      "url": "https://www.allbiz.com/business/benson-mangold-real-estate_10d-410-479-0777",
+      "snippet": "Judith Dinges is the primary contact at Benson & Mangold Real Estate. Benson & Mangold Real Estate generates approximately USD 75,134 in revenue annually.",
+      "query": "\"Benson & Mangold\" revenue",
+      "search_collected_at": "2026-10-23T10:15:05Z"
+    },
+    {
+      "title": "Benson & Mangold | (410) 745-0415 | Saint Michaels, Maryland - AllBiz",
+      "url": "https://www.allbiz.com/business/benson-mangold-410-745-0415",
+      "snippet": "Chuck Benson is the primary contact at Benson & Mangold. Benson & Mangold generates approximately USD 500,000 in revenue annually, and employs around 50 people at this location.",
+      "query": "\"Benson & Mangold\" revenue",
+      "search_collected_at": "2026-10-23T10:15:05Z"
+    },
+    {
+      "title": "Benson & Mangold Easton MD, 21601 - Manta.com",
+      "url": "https://www.manta.com/c/mkbf85n/benson-and-mangold-llc",
+      "snippet": "About Categorized under Residential Real Estate Agents. Current estimates show this company has an annual revenue of 252766 and employs a staff of approximately 3.",
+      "query": "\"Benson & Mangold\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:15:11Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T10:15:11Z",
+  "company_status": "SUCCESS"
+}

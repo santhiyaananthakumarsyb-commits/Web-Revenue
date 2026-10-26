@@ -1,0 +1,96 @@
+{
+  "company_key": "benson elliot capital management llp|https://pinebridge.com",
+  "company_name": "Benson Elliot Capital Management LLP",
+  "company_website": "https://pinebridge.com",
+  "created_at": "2026-10-23T10:41:20Z",
+  "searches": [
+    {
+      "query": "\"Benson Elliot Capital Management LLP\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:41:25Z",
+      "page_title": "\"Benson Elliot Capital Management LLP\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Benson+Elliot+Capital+Management+LLP%22+revenue",
+      "results": [
+        {
+          "title": "BENSON ELLIOT CAPITAL MANAGEMENT LLP Information - RocketReach",
+          "url": "https://rocketreach.co/benson-elliot-capital-management-llp-profile_b77cd08ec532268e",
+          "snippet": "BENSON ELLIOT CAPITAL MANAGEMENT LLP is a Real Estate company with 15 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Benson Elliot Capital Management LLP:Financial,Market Cap,Revenue ...",
+          "url": "https://discovery.patsnap.com/company/benson-elliot/financial/",
+          "snippet": "Discovery Company profile page for Benson Elliot Capital Management LLP including technical research,competitor monitor,market trends,company profile& stock symbol"
+        },
+        {
+          "title": "Benson Elliot Capital Management LLP | AUM 13F",
+          "url": "https://aum13f.com/person/benson-elliot-capital-management-llp",
+          "snippet": "Public filings of Benson Elliot Capital Management LLP located in London, X0. Direct links to the EDGAR source material."
+        }
+      ]
+    },
+    {
+      "query": "\"Benson Elliot Capital Management LLP\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:41:30Z",
+      "page_title": "\"Benson Elliot Capital Management LLP\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Benson+Elliot+Capital+Management+LLP%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Benson Elliot Capital Management LLP:Financial,Market Cap,Revenue ...",
+          "url": "https://discovery.patsnap.com/company/benson-elliot/financial/",
+          "snippet": "Discovery Company profile page for Benson Elliot Capital Management LLP including technical research,competitor monitor,market trends,company profile& stock symbol"
+        },
+        {
+          "title": "BENSON ELLIOT CAPITAL MANAGEMENT LLP Information - RocketReach",
+          "url": "https://rocketreach.co/benson-elliot-capital-management-llp-profile_b77cd08ec532268e",
+          "snippet": "BENSON ELLIOT CAPITAL MANAGEMENT LLP is a Real Estate company with 15 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Benson Elliot Capital Management LLP | AUM 13F",
+          "url": "https://aum13f.com/person/benson-elliot-capital-management-llp",
+          "snippet": "Public filings of Benson Elliot Capital Management LLP located in London, X0. Direct links to the EDGAR source material."
+        },
+        {
+          "title": "Benson Elliot Capital Management LLP:Company Profile & Technical ...",
+          "url": "https://discovery.patsnap.com/company/benson-elliot/",
+          "snippet": "Benson Elliot is a company that provides Private equity real estate and more. Benson Elliot is headquartered in Sweden Skane Lan. Benson Elliot was founded in 2005."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BENSON ELLIOT CAPITAL MANAGEMENT LLP Information - RocketReach",
+      "url": "https://rocketreach.co/benson-elliot-capital-management-llp-profile_b77cd08ec532268e",
+      "snippet": "BENSON ELLIOT CAPITAL MANAGEMENT LLP is a Real Estate company with 15 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Benson Elliot Capital Management LLP\" revenue",
+      "search_collected_at": "2026-10-23T10:41:25Z"
+    },
+    {
+      "title": "Benson Elliot Capital Management LLP:Financial,Market Cap,Revenue ...",
+      "url": "https://discovery.patsnap.com/company/benson-elliot/financial/",
+      "snippet": "Discovery Company profile page for Benson Elliot Capital Management LLP including technical research,competitor monitor,market trends,company profile& stock symbol",
+      "query": "\"Benson Elliot Capital Management LLP\" revenue",
+      "search_collected_at": "2026-10-23T10:41:25Z"
+    },
+    {
+      "title": "Benson Elliot Capital Management LLP | AUM 13F",
+      "url": "https://aum13f.com/person/benson-elliot-capital-management-llp",
+      "snippet": "Public filings of Benson Elliot Capital Management LLP located in London, X0. Direct links to the EDGAR source material.",
+      "query": "\"Benson Elliot Capital Management LLP\" revenue",
+      "search_collected_at": "2026-10-23T10:41:25Z"
+    },
+    {
+      "title": "Benson Elliot Capital Management LLP:Company Profile & Technical ...",
+      "url": "https://discovery.patsnap.com/company/benson-elliot/",
+      "snippet": "Benson Elliot is a company that provides Private equity real estate and more. Benson Elliot is headquartered in Sweden Skane Lan. Benson Elliot was founded in 2005.",
+      "query": "\"Benson Elliot Capital Management LLP\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:41:30Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T10:41:30Z",
+  "company_status": "SUCCESS"
+}

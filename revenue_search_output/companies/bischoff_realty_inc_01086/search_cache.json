@@ -1,0 +1,50 @@
+{
+  "company_key": "bischoff realty inc.|https://bischoffrealty.com",
+  "company_name": "Bischoff Realty Inc.",
+  "company_website": "https://bischoffrealty.com",
+  "created_at": "2026-10-23T13:39:41Z",
+  "searches": [
+    {
+      "query": "\"Bischoff Realty Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:39:50Z",
+      "page_title": "\"Bischoff Realty Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bischoff+Realty+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Homepage | Bischoff Realty INC.| Harrison, OH",
+          "url": "https://www.bischoffrealty.com/",
+          "snippet": "Office information Bischoff Realty, Inc. 1004 Harrison Avenue Harrison Ohio 45030 (513) 367-2171 bischoffrealty1980@gmail.com"
+        }
+      ]
+    },
+    {
+      "query": "\"Bischoff Realty Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:39:56Z",
+      "page_title": "\"Bischoff Realty Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bischoff+Realty+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Homepage | Bischoff Realty INC.| Harrison, OH",
+          "url": "https://www.bischoffrealty.com/",
+          "snippet": "In today's market, buying or selling real estate can be a very tricky affair. Our job is to take the worry away and ensure you get the home of your dreams."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Homepage | Bischoff Realty INC.| Harrison, OH",
+      "url": "https://www.bischoffrealty.com/",
+      "snippet": "Office information Bischoff Realty, Inc. 1004 Harrison Avenue Harrison Ohio 45030 (513) 367-2171 bischoffrealty1980@gmail.com",
+      "query": "\"Bischoff Realty Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:39:50Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T13:39:56Z",
+  "company_status": "SUCCESS"
+}

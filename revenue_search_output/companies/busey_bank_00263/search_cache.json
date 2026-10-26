@@ -1,0 +1,98 @@
+{
+  "company_key": "busey bank|https://crossfirstbank.com",
+  "company_name": "Busey Bank",
+  "company_website": "https://crossfirstbank.com",
+  "created_at": "2026-10-23T10:41:09Z",
+  "searches": [
+    {
+      "query": "\"Busey Bank\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:41:14Z",
+      "page_title": "\"Busey Bank\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Busey+Bank%22+revenue",
+      "results": [
+        {
+          "title": "Busey Bank - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/busey-bank/1212220154",
+          "snippet": "View Busey Bank (www.buseymortgage.com) location , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Busey Bank Financial Reports - iBanknet",
+          "url": "https://www.ibanknet.com/scripts/callreports/getbank.aspx?ibnid=usa_416245",
+          "snippet": "Busey Bank Financial Reports - Balance Sheet, Income Statement, Capital Ratios"
+        },
+        {
+          "title": "Busey Bank Peer Analysis, Q2 2026 | BankRegReports",
+          "url": "https://www.bankregreports.com/banks/busey-bank-416245/peer-analysis/",
+          "snippet": "Busey Bank (Champaign, IL) against the banks nearest its size, Q3 2024 to Q2 2026: peer median, percentile and rank for earnings, capital."
+        },
+        {
+          "title": "buse-20251231",
+          "url": "https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/buse-20251231.htm",
+          "snippet": "Busey Bank's principal sources of income are interest and fees on loans and investments, wealth management fees, service fees, and payment technology solutions revenue."
+        }
+      ]
+    },
+    {
+      "query": "\"Busey Bank\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:41:20Z",
+      "page_title": "\"Busey Bank\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Busey+Bank%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Busey Bank - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/busey-bank/1212220154",
+          "snippet": "View Busey Bank (www.buseymortgage.com) location , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "First Busey Corporation - AnnualReports.com",
+          "url": "https://www.annualreports.com/Company/first-busey-corporation",
+          "snippet": "First Busey Corporation (NASDAQ:BUSE) is an approximately $7 billion financial holding company headquartered in Champaign, Illinois. Busey Bank, First Busey Corporation's wholly-owned bank subsidiary, is also headquartered in Champaign, Illinois and has twenty-eight banking centers serving Illinois, thirteen banking centers in the St. Louis, Missouri metropolitan area, five banking centers ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Busey Bank - Overview, News & Similar companies | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/busey-bank/1212220154",
+      "snippet": "View Busey Bank (www.buseymortgage.com) location , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Busey Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:41:14Z"
+    },
+    {
+      "title": "Busey Bank Financial Reports - iBanknet",
+      "url": "https://www.ibanknet.com/scripts/callreports/getbank.aspx?ibnid=usa_416245",
+      "snippet": "Busey Bank Financial Reports - Balance Sheet, Income Statement, Capital Ratios",
+      "query": "\"Busey Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:41:14Z"
+    },
+    {
+      "title": "Busey Bank Peer Analysis, Q2 2026 | BankRegReports",
+      "url": "https://www.bankregreports.com/banks/busey-bank-416245/peer-analysis/",
+      "snippet": "Busey Bank (Champaign, IL) against the banks nearest its size, Q3 2024 to Q2 2026: peer median, percentile and rank for earnings, capital.",
+      "query": "\"Busey Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:41:14Z"
+    },
+    {
+      "title": "buse-20251231",
+      "url": "https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/buse-20251231.htm",
+      "snippet": "Busey Bank's principal sources of income are interest and fees on loans and investments, wealth management fees, service fees, and payment technology solutions revenue.",
+      "query": "\"Busey Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:41:14Z"
+    },
+    {
+      "title": "First Busey Corporation - AnnualReports.com",
+      "url": "https://www.annualreports.com/Company/first-busey-corporation",
+      "snippet": "First Busey Corporation (NASDAQ:BUSE) is an approximately $7 billion financial holding company headquartered in Champaign, Illinois. Busey Bank, First Busey Corporation's wholly-owned bank subsidiary, is also headquartered in Champaign, Illinois and has twenty-eight banking centers serving Illinois, thirteen banking centers in the St. Louis, Missouri metropolitan area, five banking centers ...",
+      "query": "\"Busey Bank\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:41:20Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T10:41:20Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,113 @@
+{
+  "company_key": "bristol group, inc.|https://bristolgroupinc.com",
+  "company_name": "Bristol Group, Inc.",
+  "company_website": "https://bristolgroupinc.com",
+  "created_at": "2026-10-23T12:01:11Z",
+  "searches": [
+    {
+      "query": "\"Bristol Group, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:01:19Z",
+      "page_title": "\"Bristol Group, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bristol+Group%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Bristol Group, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bristol-group-inc-profile_b5ea21fff42e793f",
+          "snippet": "Bristol Group, Inc. is a Commercial & Residential Construction, and Construction company located in Lexington, Kentucky with $73.8 million in revenue and 66 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bristol Group, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bristol-group-inc-profile_b5402ed0f9becf5c",
+          "snippet": "Bristol Group, Inc. is a Real Estate, Commercial & Residential Construction, and Construction company located in San Francisco, California with $5.6 million in revenue and 13 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bristol Group - Home",
+          "url": "https://bristolgroupinc.com/",
+          "snippet": "Bristol Group, Inc. is a real estate investment and development firm operating on a nationwide basis in select U.S. markets. The firm has acquired, re-positioned and developed over $3 billion of real estate. Bristol Group's current real estate portfolio consists of industrial, self-storage, office, retail, multi-family, and alternative use properties throughout the U.S."
+        },
+        {
+          "title": "The Bristol Group, Inc.",
+          "url": "https://www.dnb.com/business-directory/company-profiles.the_bristol_group_inc.26ca1360c8e4dd5863dbf9e2dbfa68f6.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for THE BRISTOL GROUP, INC. of Lexington, Kentucky. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Bristol Group, Inc. — $85M, 1 deal in FL | Traded",
+          "url": "https://traded.co/company/bristol-group-inc-1/",
+          "snippet": "Bristol Group, Inc.: 1 deal, $85M volume in FL. See closed CRE transactions, pricing, and the team on Traded."
+        }
+      ]
+    },
+    {
+      "query": "\"Bristol Group, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:01:26Z",
+      "page_title": "\"Bristol Group, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bristol+Group%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bristol Group, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bristol-group-inc-profile_b5ea21fff42e793f",
+          "snippet": "Bristol Group, Inc. is a Commercial & Residential Construction, and Construction company located in Lexington, Kentucky with $73.8 million in revenue and 66 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bristol Group, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bristol-group-inc-profile_b5402ed0f9becf5c",
+          "snippet": "Bristol Group, Inc. is a Real Estate, Commercial & Residential Construction, and Construction company located in San Francisco, California with $5.6 million in revenue and 13 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bristol Group - Home",
+          "url": "https://bristolgroupinc.com/",
+          "snippet": "Bristol Group, Inc. is a real estate investment and development firm operating on a nationwide basis in select U.S. markets. The firm has acquired, re-positioned and developed over $3 billion of real estate. Bristol Group's current real estate portfolio consists of industrial, self-storage, office, retail, multi-family, and alternative use properties throughout the U.S."
+        },
+        {
+          "title": "THE BRISTOL GROUP, INC. Company Profile | Lexington, Kentucky ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.the_bristol_group_inc.26ca1360c8e4dd5863dbf9e2dbfa68f6.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for THE BRISTOL GROUP, INC. of Lexington, Kentucky. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bristol Group, Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/bristol-group-inc-profile_b5ea21fff42e793f",
+      "snippet": "Bristol Group, Inc. is a Commercial & Residential Construction, and Construction company located in Lexington, Kentucky with $73.8 million in revenue and 66 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Bristol Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:01:19Z"
+    },
+    {
+      "title": "Bristol Group, Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/bristol-group-inc-profile_b5402ed0f9becf5c",
+      "snippet": "Bristol Group, Inc. is a Real Estate, Commercial & Residential Construction, and Construction company located in San Francisco, California with $5.6 million in revenue and 13 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Bristol Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:01:19Z"
+    },
+    {
+      "title": "Bristol Group - Home",
+      "url": "https://bristolgroupinc.com/",
+      "snippet": "Bristol Group, Inc. is a real estate investment and development firm operating on a nationwide basis in select U.S. markets. The firm has acquired, re-positioned and developed over $3 billion of real estate. Bristol Group's current real estate portfolio consists of industrial, self-storage, office, retail, multi-family, and alternative use properties throughout the U.S.",
+      "query": "\"Bristol Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:01:19Z"
+    },
+    {
+      "title": "The Bristol Group, Inc.",
+      "url": "https://www.dnb.com/business-directory/company-profiles.the_bristol_group_inc.26ca1360c8e4dd5863dbf9e2dbfa68f6.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for THE BRISTOL GROUP, INC. of Lexington, Kentucky. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Bristol Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:01:19Z"
+    },
+    {
+      "title": "Bristol Group, Inc. — $85M, 1 deal in FL | Traded",
+      "url": "https://traded.co/company/bristol-group-inc-1/",
+      "snippet": "Bristol Group, Inc.: 1 deal, $85M volume in FL. See closed CRE transactions, pricing, and the team on Traded.",
+      "query": "\"Bristol Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:01:19Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T12:01:26Z",
+  "company_status": "SUCCESS"
+}

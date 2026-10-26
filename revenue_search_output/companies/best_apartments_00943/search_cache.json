@@ -1,0 +1,113 @@
+{
+  "company_key": "best apartments|https://bestaptsnyc.com",
+  "company_name": "Best Apartments",
+  "company_website": "https://bestaptsnyc.com",
+  "created_at": "2026-10-23T13:08:06Z",
+  "searches": [
+    {
+      "query": "\"Best Apartments\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:08:12Z",
+      "page_title": "\"Best Apartments\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Best+Apartments%22+revenue",
+      "results": [
+        {
+          "title": "Best Apartments: Revenue, Worth, Valuation & Competitors 2026",
+          "url": "https://compworth.com/company/best-apartments",
+          "snippet": "Financial stats for Best Apartments include estimated revenue of $7.8M, team of around 50+ employees, operating from United States, suggesting steady progress."
+        },
+        {
+          "title": "Best Apartments Revenue: Annual, Quarterly, and Historic - Zippia",
+          "url": "https://www.zippia.com/best-apartments-careers-1582329/revenue/",
+          "snippet": "Best Apartments's revenue is $3.5 Million - Learn more about Best Apartments's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee."
+        },
+        {
+          "title": "Best Apartments Revenue, Funding & Valuation - prospeo.io",
+          "url": "https://prospeo.io/c/best-apartments-revenue",
+          "snippet": "Best Apartments has revenue of $85,555, estimated valuation of $273,776. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "Best Apartments: Revenue, Competitors, Alternatives",
+          "url": "https://growjo.com/company/best_apartments",
+          "snippet": "Best Apartments top competitors are Shannon Waltchack, Davidson Homes and Weichert Realtors and they have annual revenue of $7.8M and 58 employees."
+        },
+        {
+          "title": "ApartmentGuide - The Best Apartments For Rent",
+          "url": "https://www.apartmentguide.com/",
+          "snippet": "Use the finest apartment finder tool to search thousands of listings across the country. See ratings/reviews, HD photos/videos, compare prices, and view floor plans."
+        }
+      ]
+    },
+    {
+      "query": "\"Best Apartments\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:08:17Z",
+      "page_title": "\"Best Apartments\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Best+Apartments%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Best Apartments Revenue: Annual, Quarterly, and Historic - Zippia",
+          "url": "https://www.zippia.com/best-apartments-careers-1582329/revenue/",
+          "snippet": "Best Apartments's revenue is $3.5 Million - Learn more about Best Apartments's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee."
+        },
+        {
+          "title": "Best Apartments: Revenue, Worth, Valuation & Competitors 2026",
+          "url": "https://compworth.com/company/best-apartments",
+          "snippet": "Financial stats for Best Apartments include estimated revenue of $7.8M, team of around 50+ employees, operating from United States, suggesting steady progress."
+        },
+        {
+          "title": "Best Apartments: Revenue, Competitors, Alternatives",
+          "url": "https://growjo.com/company/best_apartments",
+          "snippet": "Best Apartments top competitors are Shannon Waltchack, Davidson Homes and Weichert Realtors and they have annual revenue of $7.8M and 58 employees."
+        },
+        {
+          "title": "Best Apartments Revenue, Funding & Valuation",
+          "url": "https://prospeo.io/c/best-apartments-revenue",
+          "snippet": "Best Apartments generates an estimated annual revenue of $85,555. This revenue figure reflects the company's market position and business performance in its industry."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Best Apartments: Revenue, Worth, Valuation & Competitors 2026",
+      "url": "https://compworth.com/company/best-apartments",
+      "snippet": "Financial stats for Best Apartments include estimated revenue of $7.8M, team of around 50+ employees, operating from United States, suggesting steady progress.",
+      "query": "\"Best Apartments\" revenue",
+      "search_collected_at": "2026-10-23T13:08:12Z"
+    },
+    {
+      "title": "Best Apartments Revenue: Annual, Quarterly, and Historic - Zippia",
+      "url": "https://www.zippia.com/best-apartments-careers-1582329/revenue/",
+      "snippet": "Best Apartments's revenue is $3.5 Million - Learn more about Best Apartments's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee.",
+      "query": "\"Best Apartments\" revenue",
+      "search_collected_at": "2026-10-23T13:08:12Z"
+    },
+    {
+      "title": "Best Apartments Revenue, Funding & Valuation - prospeo.io",
+      "url": "https://prospeo.io/c/best-apartments-revenue",
+      "snippet": "Best Apartments has revenue of $85,555, estimated valuation of $273,776. Find contacts and company information on Prospeo.",
+      "query": "\"Best Apartments\" revenue",
+      "search_collected_at": "2026-10-23T13:08:12Z"
+    },
+    {
+      "title": "Best Apartments: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/best_apartments",
+      "snippet": "Best Apartments top competitors are Shannon Waltchack, Davidson Homes and Weichert Realtors and they have annual revenue of $7.8M and 58 employees.",
+      "query": "\"Best Apartments\" revenue",
+      "search_collected_at": "2026-10-23T13:08:12Z"
+    },
+    {
+      "title": "ApartmentGuide - The Best Apartments For Rent",
+      "url": "https://www.apartmentguide.com/",
+      "snippet": "Use the finest apartment finder tool to search thousands of listings across the country. See ratings/reviews, HD photos/videos, compare prices, and view floor plans.",
+      "query": "\"Best Apartments\" revenue",
+      "search_collected_at": "2026-10-23T13:08:12Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T13:08:17Z",
+  "company_status": "SUCCESS"
+}

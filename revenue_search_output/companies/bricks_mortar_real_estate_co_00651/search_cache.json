@@ -1,0 +1,125 @@
+{
+  "company_key": "bricks & mortar real estate co.|https://bamswla.com",
+  "company_name": "Bricks & Mortar Real Estate Co.",
+  "company_website": "https://bamswla.com",
+  "created_at": "2026-10-23T12:04:59Z",
+  "searches": [
+    {
+      "query": "\"Bricks & Mortar Real Estate Co.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:05:06Z",
+      "page_title": "\"Bricks & Mortar Real Estate Co.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bricks+%26+Mortar+Real+Estate+Co.%22+revenue",
+      "results": [
+        {
+          "title": "Bricks & Mortar Real Estate Co. | Lake Charles LA - Facebook",
+          "url": "https://www.facebook.com/bamswla/",
+          "snippet": "Bricks & Mortar is a real estate company designed for agents, home buyers and businesses looking for something different - something real. Like a corporate office located right here in Lake Charles."
+        },
+        {
+          "title": "Chris Khoury - Broker - Principal at Bricks & Mortar Real Estate Co ...",
+          "url": "https://www.linkedin.com/in/chris-khoury-27b1a5210",
+          "snippet": "Broker - Principal at Bricks & Mortar Real Estate Co. · Experience: The PAR Group - Construction & Development · Location: 70605 · 492 connections on LinkedIn. View Chris Khoury's profile on ..."
+        },
+        {
+          "title": "Meet Chris Khoury of Bricks & Mortar Real Estate Co. | Land Listings ...",
+          "url": "https://www.landandfarm.com/broker/chris-khoury-1984306/",
+          "snippet": "Discover the services and properties offered by Chris Khoury of Bricks & Mortar Real Estate Co.. Get in touch for your next land transaction on LandandFarm.com."
+        },
+        {
+          "title": "Chris Khoury | Bricks & Mortar Real Estate Co. | Lake Charles, LA - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/Chris-Khoury/yj3gqfsb",
+          "snippet": "Chris Khoury - Principal. View Chris Khoury's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "Chris Khoury of Bricks & Mortar Real Estate Co. - Real Estate Agent ...",
+          "url": "https://www.land.com/member/chris-khoury/1984306/",
+          "snippet": "As a native of Lake Charles, Chris love for the community has fueled his passion to bring new growth to the area. After working in construction, Chris began work in the brokerage sector of the real estate industry. From there, he has built a full service real estate rm that handles brokerage, construction, development, consulting and management of real estate assets. Chris considers himself an ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bricks & Mortar Real Estate Co.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:05:15Z",
+      "page_title": "\"Bricks & Mortar Real Estate Co.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bricks+%26+Mortar+Real+Estate+Co.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bricks & Mortar Real Estate Co. | Lake Charles LA - Facebook",
+          "url": "https://www.facebook.com/bamswla/",
+          "snippet": "Bricks & Mortar is a real estate company designed for agents, home buyers and businesses looking for something different - something real. Like a corporate office located right here in Lake Charles."
+        },
+        {
+          "title": "Chris Khoury | Bricks & Mortar Real Estate Co. | Lake Charles, LA - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/Chris-Khoury/yj3gqfsb",
+          "snippet": "Chris Khoury Principal, Bricks & Mortar Real Estate Co. Lake Charles, LA 70601 Send a Message Phone (337) 564-6345"
+        },
+        {
+          "title": "Chris Khoury - Broker - Principal at Bricks & Mortar Real Estate Co ...",
+          "url": "https://www.linkedin.com/in/chris-khoury-27b1a5210",
+          "snippet": "Broker - Principal at Bricks & Mortar Real Estate Co. · Experience: The PAR Group - Construction & Development · Location: 70605 · 492 connections on LinkedIn. View Chris Khoury's profile on ..."
+        },
+        {
+          "title": "Chris Khoury of Bricks & Mortar Real Estate Co. - Real Estate Agent ...",
+          "url": "https://www.land.com/member/chris-khoury/1984306/",
+          "snippet": "As a native of Lake Charles, Chris love for the community has fueled his passion to bring new growth to the area. After working in construction, Chris began work in the brokerage sector of the real estate industry. From there, he has built a full service real estate rm that handles brokerage, construction, development, consulting and management of real estate assets. Chris considers himself an ..."
+        },
+        {
+          "title": "Sophia Rasile, Bricks & Mortar Real Estate Co. - Facebook",
+          "url": "https://www.facebook.com/SophiaRasileRealtor/",
+          "snippet": "Sophia Rasile, Bricks & Mortar Real Estate Co., Lake Charles. 1,336 likes · 10 talking about this. A full-service realtor with Bricks & Mortar Real Estate Co. specializing in residential home sales..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bricks & Mortar Real Estate Co. | Lake Charles LA - Facebook",
+      "url": "https://www.facebook.com/bamswla/",
+      "snippet": "Bricks & Mortar is a real estate company designed for agents, home buyers and businesses looking for something different - something real. Like a corporate office located right here in Lake Charles.",
+      "query": "\"Bricks & Mortar Real Estate Co.\" revenue",
+      "search_collected_at": "2026-10-23T12:05:06Z"
+    },
+    {
+      "title": "Chris Khoury - Broker - Principal at Bricks & Mortar Real Estate Co ...",
+      "url": "https://www.linkedin.com/in/chris-khoury-27b1a5210",
+      "snippet": "Broker - Principal at Bricks & Mortar Real Estate Co. · Experience: The PAR Group - Construction & Development · Location: 70605 · 492 connections on LinkedIn. View Chris Khoury's profile on ...",
+      "query": "\"Bricks & Mortar Real Estate Co.\" revenue",
+      "search_collected_at": "2026-10-23T12:05:06Z"
+    },
+    {
+      "title": "Meet Chris Khoury of Bricks & Mortar Real Estate Co. | Land Listings ...",
+      "url": "https://www.landandfarm.com/broker/chris-khoury-1984306/",
+      "snippet": "Discover the services and properties offered by Chris Khoury of Bricks & Mortar Real Estate Co.. Get in touch for your next land transaction on LandandFarm.com.",
+      "query": "\"Bricks & Mortar Real Estate Co.\" revenue",
+      "search_collected_at": "2026-10-23T12:05:06Z"
+    },
+    {
+      "title": "Chris Khoury | Bricks & Mortar Real Estate Co. | Lake Charles, LA - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/Chris-Khoury/yj3gqfsb",
+      "snippet": "Chris Khoury - Principal. View Chris Khoury's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Bricks & Mortar Real Estate Co.\" revenue",
+      "search_collected_at": "2026-10-23T12:05:06Z"
+    },
+    {
+      "title": "Chris Khoury of Bricks & Mortar Real Estate Co. - Real Estate Agent ...",
+      "url": "https://www.land.com/member/chris-khoury/1984306/",
+      "snippet": "As a native of Lake Charles, Chris love for the community has fueled his passion to bring new growth to the area. After working in construction, Chris began work in the brokerage sector of the real estate industry. From there, he has built a full service real estate rm that handles brokerage, construction, development, consulting and management of real estate assets. Chris considers himself an ...",
+      "query": "\"Bricks & Mortar Real Estate Co.\" revenue",
+      "search_collected_at": "2026-10-23T12:05:06Z"
+    },
+    {
+      "title": "Sophia Rasile, Bricks & Mortar Real Estate Co. - Facebook",
+      "url": "https://www.facebook.com/SophiaRasileRealtor/",
+      "snippet": "Sophia Rasile, Bricks & Mortar Real Estate Co., Lake Charles. 1,336 likes · 10 talking about this. A full-service realtor with Bricks & Mortar Real Estate Co. specializing in residential home sales...",
+      "query": "\"Bricks & Mortar Real Estate Co.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:05:15Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T12:05:15Z",
+  "company_status": "SUCCESS"
+}

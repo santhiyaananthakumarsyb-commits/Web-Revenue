@@ -1,0 +1,30 @@
+{
+  "company_key": "bernstein brothers - lauren towers apartments|https://bernsteinbrothersmanagement.com",
+  "company_name": "Bernstein Brothers - Lauren Towers Apartments",
+  "company_website": "https://bernsteinbrothersmanagement.com",
+  "created_at": "2026-10-23T11:57:27Z",
+  "searches": [
+    {
+      "query": "\"Bernstein Brothers - Lauren Towers Apartments\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:57:34Z",
+      "page_title": "\"Bernstein Brothers - Lauren Towers Apartments\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bernstein+Brothers+-+Lauren+Towers+Apartments%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Bernstein Brothers - Lauren Towers Apartments\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:57:42Z",
+      "page_title": "\"Bernstein Brothers - Lauren Towers Apartments\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bernstein+Brothers+-+Lauren+Towers+Apartments%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:57:42Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

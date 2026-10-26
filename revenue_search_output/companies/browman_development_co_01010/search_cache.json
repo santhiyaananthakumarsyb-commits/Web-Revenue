@@ -1,0 +1,56 @@
+{
+  "company_key": "browman development co.|https://browmandevelopment.com",
+  "company_name": "Browman Development Co.",
+  "company_website": "https://browmandevelopment.com",
+  "created_at": "2026-10-23T13:22:46Z",
+  "searches": [
+    {
+      "query": "\"Browman Development Co.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:22:53Z",
+      "page_title": "\"Browman Development Co.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Browman+Development+Co.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Browman Development Co.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:22:58Z",
+      "page_title": "\"Browman Development Co.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Browman+Development+Co.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Browman Development Co. - Walnut Creek, CA - LoopNet",
+          "url": "https://www.loopnet.com/company/browman-development-co/pt1ewgrl/",
+          "snippet": "For over 30 years BDC has been active in the development and operation of high quality commercial assets that add to the existing fabric of their surroundings. In the past 10 years BDC has shifted from a focus on the ground up development of regional best-in-class shopping centers to the repositioning of existing commercial assets, and in the past 5 years added multi-family investment and ..."
+        },
+        {
+          "title": "Browman Development Co. - Walnut Creek, CA - LoopNet",
+          "url": "https://www.loopnet.com/company/browman-development-co/walnut-creek-ca/pt1ewgrl/2/",
+          "snippet": "For over 30 years BDC has been active in the development and operation of high quality commercial assets that add to the existing fabric of their surroundings. In the past 10 years BDC has shifted from a focus on the ground up development of regional best-in-class shopping centers to the repositioning of existing commercial assets, and in the past 5 years added multi-family investment and ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Browman Development Co. - Walnut Creek, CA - LoopNet",
+      "url": "https://www.loopnet.com/company/browman-development-co/pt1ewgrl/",
+      "snippet": "For over 30 years BDC has been active in the development and operation of high quality commercial assets that add to the existing fabric of their surroundings. In the past 10 years BDC has shifted from a focus on the ground up development of regional best-in-class shopping centers to the repositioning of existing commercial assets, and in the past 5 years added multi-family investment and ...",
+      "query": "\"Browman Development Co.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:22:58Z"
+    },
+    {
+      "title": "Browman Development Co. - Walnut Creek, CA - LoopNet",
+      "url": "https://www.loopnet.com/company/browman-development-co/walnut-creek-ca/pt1ewgrl/2/",
+      "snippet": "For over 30 years BDC has been active in the development and operation of high quality commercial assets that add to the existing fabric of their surroundings. In the past 10 years BDC has shifted from a focus on the ground up development of regional best-in-class shopping centers to the repositioning of existing commercial assets, and in the past 5 years added multi-family investment and ...",
+      "query": "\"Browman Development Co.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:22:58Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:22:58Z",
+  "company_status": "SUCCESS"
+}

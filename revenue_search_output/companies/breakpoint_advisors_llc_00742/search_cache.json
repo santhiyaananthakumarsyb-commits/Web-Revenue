@@ -1,0 +1,67 @@
+{
+  "company_key": "breakpoint advisors llc|https://breakpointadvisors.com",
+  "company_name": "Breakpoint Advisors LLC",
+  "company_website": "https://breakpointadvisors.com",
+  "created_at": "2026-10-23T12:24:35Z",
+  "searches": [
+    {
+      "query": "\"Breakpoint Advisors LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:24:41Z",
+      "page_title": "\"Breakpoint Advisors LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Breakpoint+Advisors+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Breakpoint Advisors LLC Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/breakpoint-advisors-llc-overview",
+          "snippet": "Discover essential details about Breakpoint Advisors LLC, including address, contact, and journey of our company's evolution."
+        },
+        {
+          "title": "How much do Breakpoint Advisors LLC employees make? | Salary.com",
+          "url": "https://www.salary.com/research/company/breakpoint-advisors-llc-salary",
+          "snippet": "The average annual salary of Breakpoint Advisors LLC is estimated to be approximate $99,974 per year. The majority pay is between $87,869 to $113,111 per year. Visit Salary.com to find out Breakpoint Advisors LLC salary, Breakpoint Advisors LLC pay rate, and more."
+        }
+      ]
+    },
+    {
+      "query": "\"Breakpoint Advisors LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:24:48Z",
+      "page_title": "\"Breakpoint Advisors LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Breakpoint+Advisors+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Breakpoint Advisors LLC Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/breakpoint-advisors-llc-overview",
+          "snippet": "Discover essential details about Breakpoint Advisors LLC, including address, contact, and journey of our company's evolution."
+        },
+        {
+          "title": "How much do Breakpoint Advisors LLC employees make? | Salary.com",
+          "url": "https://www.salary.com/research/company/breakpoint-advisors-llc-salary",
+          "snippet": "The average annual salary of Breakpoint Advisors LLC is estimated to be approximate $99,974 per year. The majority pay is between $87,869 to $113,111 per year. Visit Salary.com to find out Breakpoint Advisors LLC salary, Breakpoint Advisors LLC pay rate, and more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Breakpoint Advisors LLC Overview - Salary.com",
+      "url": "https://www.salary.com/research/company/breakpoint-advisors-llc-overview",
+      "snippet": "Discover essential details about Breakpoint Advisors LLC, including address, contact, and journey of our company's evolution.",
+      "query": "\"Breakpoint Advisors LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:24:41Z"
+    },
+    {
+      "title": "How much do Breakpoint Advisors LLC employees make? | Salary.com",
+      "url": "https://www.salary.com/research/company/breakpoint-advisors-llc-salary",
+      "snippet": "The average annual salary of Breakpoint Advisors LLC is estimated to be approximate $99,974 per year. The majority pay is between $87,869 to $113,111 per year. Visit Salary.com to find out Breakpoint Advisors LLC salary, Breakpoint Advisors LLC pay rate, and more.",
+      "query": "\"Breakpoint Advisors LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:24:41Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:24:48Z",
+  "company_status": "SUCCESS"
+}

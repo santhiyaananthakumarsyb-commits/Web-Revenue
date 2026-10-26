@@ -1,0 +1,62 @@
+{
+  "company_key": "boyd watterson global|https://boydwatterson.com",
+  "company_name": "Boyd Watterson Global",
+  "company_website": "https://boydwatterson.com",
+  "created_at": "2026-10-23T10:15:47Z",
+  "searches": [
+    {
+      "query": "\"Boyd Watterson Global\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:15:55Z",
+      "page_title": "\"Boyd Watterson Global\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boyd+Watterson+Global%22+revenue",
+      "results": [
+        {
+          "title": "Our Global Platform - Boyd Watterson",
+          "url": "https://boydwatterson.com/global-platform/",
+          "snippet": "Boyd Watterson Asset Management, LLC and Amber Infrastructure Limited combined under a common parent, Boyd Watterson Global Asset Management Group LLC ('Boyd Watterson Global'), becoming a global diversified Real Estate, Infrastructure, and Fixed Income asset management platform with approximately $39.3 billion in combined AUM and over 300 employees located in eleven US cities and twelve ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Boyd Watterson Global\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:16:00Z",
+      "page_title": "\"Boyd Watterson Global\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boyd+Watterson+Global%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Our Global Platform - Boyd Watterson",
+          "url": "https://boydwatterson.com/global-platform/",
+          "snippet": "Boyd Watterson Asset Management, LLC and Amber Infrastructure Limited combined under a common parent, Boyd Watterson Global Asset Management Group LLC ('Boyd Watterson Global'), becoming a global diversified Real Estate, Infrastructure, and Fixed Income asset management platform with approximately $39.3 billion in combined AUM and over 300 employees located in eleven US cities and twelve ..."
+        },
+        {
+          "title": "Boyd Watterson Global Asset Management Group LLC",
+          "url": "https://fiscal.ai/company/AIM-TAM-inactive/estimates/revenue/",
+          "snippet": "See current and historical analyst estimates for Revenue for Boyd Watterson Global Asset Management Group LLC (TAM)."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Our Global Platform - Boyd Watterson",
+      "url": "https://boydwatterson.com/global-platform/",
+      "snippet": "Boyd Watterson Asset Management, LLC and Amber Infrastructure Limited combined under a common parent, Boyd Watterson Global Asset Management Group LLC ('Boyd Watterson Global'), becoming a global diversified Real Estate, Infrastructure, and Fixed Income asset management platform with approximately $39.3 billion in combined AUM and over 300 employees located in eleven US cities and twelve ...",
+      "query": "\"Boyd Watterson Global\" revenue",
+      "search_collected_at": "2026-10-23T10:15:55Z"
+    },
+    {
+      "title": "Boyd Watterson Global Asset Management Group LLC",
+      "url": "https://fiscal.ai/company/AIM-TAM-inactive/estimates/revenue/",
+      "snippet": "See current and historical analyst estimates for Revenue for Boyd Watterson Global Asset Management Group LLC (TAM).",
+      "query": "\"Boyd Watterson Global\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:16:00Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:16:00Z",
+  "company_status": "SUCCESS"
+}

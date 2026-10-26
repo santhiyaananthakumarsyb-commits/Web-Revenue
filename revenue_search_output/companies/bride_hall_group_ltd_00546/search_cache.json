@@ -1,0 +1,96 @@
+{
+  "company_key": "bride hall group ltd|https://bridehall.co.uk",
+  "company_name": "Bride Hall Group Ltd",
+  "company_website": "https://bridehall.co.uk",
+  "created_at": "2026-10-23T11:42:08Z",
+  "searches": [
+    {
+      "query": "\"Bride Hall Group Ltd\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:42:15Z",
+      "page_title": "\"Bride Hall Group Ltd\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bride+Hall+Group+Ltd%22+revenue",
+      "results": [
+        {
+          "title": "Bride Hall Group Ltd - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/379641Z:LN",
+          "snippet": "Company profile page for Bride Hall Group Ltd including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "BRIDE HALL GROUP LIMITED - Buying and selling of own real estate - A ...",
+          "url": "https://datalog.co.uk/browse/detail.php/CompanyNumber/01764288/CompanyName/BRIDE+HALL+GROUP+LIMITED",
+          "snippet": "About Bride Hall Group Ltd BRIDE HALL GROUP LIMITED was founded on 1983-10-25 and has its registered office in London. The organisation's status is listed as \"Active\". Bride Hall Group Limited is a Private Limited Company registered in with Companies House and the accounts submission requirement is categorised as GROUP"
+        },
+        {
+          "title": "BRI Bride Hall Group Ltd - Yumpu",
+          "url": "https://www.yumpu.com/en/document/view/4447293/uk-commercial-developers-directory-2007-propertydatacom/43",
+          "snippet": "UK Commercial Developers Directory - 2007 ... - PropertyData.com"
+        },
+        {
+          "title": "BRIDE HALL GROUP LTD VAT Registration Information for GB322513009",
+          "url": "https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB322513009",
+          "snippet": "BRIDE HALL GROUP LTD VAT sales tax information. VAT id GB322513009. Company registration number 01764288. Lookup / search / check company VAT registration information. Find a company's VAT number. Research company registration information, financial informaton, assets, history and more"
+        }
+      ]
+    },
+    {
+      "query": "\"Bride Hall Group Ltd\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:42:20Z",
+      "page_title": "\"Bride Hall Group Ltd\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bride+Hall+Group+Ltd%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bride Hall Group Ltd - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/379641Z:LN",
+          "snippet": "Bride Hall Group Limited operates as a real estate property company. The Company focuses on commercial property developments such as multi-family, retail, office, and industrial buildings."
+        },
+        {
+          "title": "BRIDE HALL GROUP LIMITED - Buying and selling of own real estate - A ...",
+          "url": "https://datalog.co.uk/browse/detail.php/CompanyNumber/01764288/CompanyName/BRIDE+HALL+GROUP+LIMITED",
+          "snippet": "About Bride Hall Group Ltd BRIDE HALL GROUP LIMITED was founded on 1983-10-25 and has its registered office in London. The organisation's status is listed as \"Active\". Bride Hall Group Limited is a Private Limited Company registered in with Companies House and the accounts submission requirement is categorised as GROUP"
+        },
+        {
+          "title": "BRIDE HALL GROUP LTD VAT Registration Information for GB322513009",
+          "url": "https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB322513009",
+          "snippet": "BRIDE HALL GROUP LTD VAT sales tax information. VAT id GB322513009. Company registration number 01764288. Lookup / search / check company VAT registration information. Find a company's VAT number. Research company registration information, financial informaton, assets, history and more"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bride Hall Group Ltd - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/379641Z:LN",
+      "snippet": "Company profile page for Bride Hall Group Ltd including stock price, company news, executives, board members, and contact information",
+      "query": "\"Bride Hall Group Ltd\" revenue",
+      "search_collected_at": "2026-10-23T11:42:15Z"
+    },
+    {
+      "title": "BRIDE HALL GROUP LIMITED - Buying and selling of own real estate - A ...",
+      "url": "https://datalog.co.uk/browse/detail.php/CompanyNumber/01764288/CompanyName/BRIDE+HALL+GROUP+LIMITED",
+      "snippet": "About Bride Hall Group Ltd BRIDE HALL GROUP LIMITED was founded on 1983-10-25 and has its registered office in London. The organisation's status is listed as \"Active\". Bride Hall Group Limited is a Private Limited Company registered in with Companies House and the accounts submission requirement is categorised as GROUP",
+      "query": "\"Bride Hall Group Ltd\" revenue",
+      "search_collected_at": "2026-10-23T11:42:15Z"
+    },
+    {
+      "title": "BRI Bride Hall Group Ltd - Yumpu",
+      "url": "https://www.yumpu.com/en/document/view/4447293/uk-commercial-developers-directory-2007-propertydatacom/43",
+      "snippet": "UK Commercial Developers Directory - 2007 ... - PropertyData.com",
+      "query": "\"Bride Hall Group Ltd\" revenue",
+      "search_collected_at": "2026-10-23T11:42:15Z"
+    },
+    {
+      "title": "BRIDE HALL GROUP LTD VAT Registration Information for GB322513009",
+      "url": "https://www.vat-lookup.co.uk/verify/vat_check.php/VATNumber/GB322513009",
+      "snippet": "BRIDE HALL GROUP LTD VAT sales tax information. VAT id GB322513009. Company registration number 01764288. Lookup / search / check company VAT registration information. Find a company's VAT number. Research company registration information, financial informaton, assets, history and more",
+      "query": "\"Bride Hall Group Ltd\" revenue",
+      "search_collected_at": "2026-10-23T11:42:15Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:42:20Z",
+  "company_status": "SUCCESS"
+}

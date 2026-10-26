@@ -1,0 +1,96 @@
+{
+  "company_key": "buligo capital partners|https://buligocapital.com",
+  "company_name": "Buligo Capital Partners",
+  "company_website": "https://buligocapital.com",
+  "created_at": "2026-10-23T13:25:10Z",
+  "searches": [
+    {
+      "query": "\"Buligo Capital Partners\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:17Z",
+      "page_title": "\"Buligo Capital Partners\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buligo+Capital+Partners%22+revenue",
+      "results": [
+        {
+          "title": "Buligo Capital Partners - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/buligo-capital-partners/395906987",
+          "snippet": "View Buligo Capital Partners (www.buligocapital.com) location in Tel Aviv, Israel , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Buligo Capital Partners Information - RocketReach",
+          "url": "https://rocketreach.co/buligo-capital-partners-profile_b40118dffff11673",
+          "snippet": "Buligo Capital Partners is a Financial Services, Investment Banking, and Finance company located in Ramat Gan, Tel Aviv with $5.2 million in revenue and 34 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Buligo Capital Partners - Financial Details - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/buligo-capital-partners/financial_details",
+          "snippet": "Buligo Capital Partners is a global real estate investment firm that offers its clients a broad range of investment options."
+        },
+        {
+          "title": "Buligo Capital Partners | Commercial Real Estate Firm Profile | Capdex",
+          "url": "https://capdex.com/firm/buligo-capital-partners",
+          "snippet": "About Buligo Capital Partners Buligo Capital is a global boutique real estate investment firm with offices in Israel and the United States. The firm invests directly in commercial real estate assets alongside experienced operators, targeting multifamily (Class A garden-style communities, development), industrial and logistics, retail, and senior housing sectors. Buligo operates a portfolio of ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Buligo Capital Partners\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:23Z",
+      "page_title": "\"Buligo Capital Partners\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buligo+Capital+Partners%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Buligo Capital Partners - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/buligo-capital-partners/395906987",
+          "snippet": "View Buligo Capital Partners (www.buligocapital.com) location in Tel Aviv, Israel , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Buligo Capital Partners Information - RocketReach",
+          "url": "https://rocketreach.co/buligo-capital-partners-profile_b40118dffff11673",
+          "snippet": "Buligo Capital Partners is a Financial Services, Investment Banking, and Finance company located in Ramat Gan, Tel Aviv with $5.2 million in revenue and 34 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Buligo Capital Partners - Financial Details - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/buligo-capital-partners/financial_details",
+          "snippet": "Buligo Capital Partners is a global real estate investment firm that offers its clients a broad range of investment options."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Buligo Capital Partners - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/buligo-capital-partners/395906987",
+      "snippet": "View Buligo Capital Partners (www.buligocapital.com) location in Tel Aviv, Israel , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Buligo Capital Partners\" revenue",
+      "search_collected_at": "2026-10-23T13:25:17Z"
+    },
+    {
+      "title": "Buligo Capital Partners Information - RocketReach",
+      "url": "https://rocketreach.co/buligo-capital-partners-profile_b40118dffff11673",
+      "snippet": "Buligo Capital Partners is a Financial Services, Investment Banking, and Finance company located in Ramat Gan, Tel Aviv with $5.2 million in revenue and 34 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Buligo Capital Partners\" revenue",
+      "search_collected_at": "2026-10-23T13:25:17Z"
+    },
+    {
+      "title": "Buligo Capital Partners - Financial Details - Crunchbase",
+      "url": "https://www.crunchbase.com/organization/buligo-capital-partners/financial_details",
+      "snippet": "Buligo Capital Partners is a global real estate investment firm that offers its clients a broad range of investment options.",
+      "query": "\"Buligo Capital Partners\" revenue",
+      "search_collected_at": "2026-10-23T13:25:17Z"
+    },
+    {
+      "title": "Buligo Capital Partners | Commercial Real Estate Firm Profile | Capdex",
+      "url": "https://capdex.com/firm/buligo-capital-partners",
+      "snippet": "About Buligo Capital Partners Buligo Capital is a global boutique real estate investment firm with offices in Israel and the United States. The firm invests directly in commercial real estate assets alongside experienced operators, targeting multifamily (Class A garden-style communities, development), industrial and logistics, retail, and senior housing sectors. Buligo operates a portfolio of ...",
+      "query": "\"Buligo Capital Partners\" revenue",
+      "search_collected_at": "2026-10-23T13:25:17Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T13:25:23Z",
+  "company_status": "SUCCESS"
+}

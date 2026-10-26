@@ -1,0 +1,30 @@
+{
+  "company_key": "blackstone - essence 144|https://blackstone-360.com",
+  "company_name": "Blackstone - Essence 144",
+  "company_website": "https://blackstone-360.com",
+  "created_at": "2026-10-23T10:28:59Z",
+  "searches": [
+    {
+      "query": "\"Blackstone - Essence 144\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:29:07Z",
+      "page_title": "\"Blackstone - Essence 144\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackstone+-+Essence+144%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Blackstone - Essence 144\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:29:15Z",
+      "page_title": "\"Blackstone - Essence 144\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackstone+-+Essence+144%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:29:15Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

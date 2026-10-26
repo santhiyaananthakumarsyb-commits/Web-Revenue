@@ -1,0 +1,113 @@
+{
+  "company_key": "bromley london borough council|https://bromley.gov.uk",
+  "company_name": "Bromley London Borough Council",
+  "company_website": "https://bromley.gov.uk",
+  "created_at": "2026-10-23T10:57:40Z",
+  "searches": [
+    {
+      "query": "\"Bromley London Borough Council\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:57:46Z",
+      "page_title": "\"Bromley London Borough Council\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bromley+London+Borough+Council%22+revenue",
+      "results": [
+        {
+          "title": "Bromley London Borough Council Analysis & Market Share Overview ...",
+          "url": "https://www.similarweb.com/company/bromley.gov.uk/",
+          "snippet": "Bromley London Borough Council is the local authority for the London Borough of Bromley in Greater London, England. It is one of 32 London borough councils. Domain bromley.gov.uk Year Founded 1965 Employees 1001 - 5000 HQ United Kingdom, Bromley Annual Revenue $10M - $15M Industry Law and Government > Government Bromley London Borough Council Bromley London Borough Council (including company ..."
+        },
+        {
+          "title": "Bromley Council - opengovt",
+          "url": "https://www.opengovt.uk/councils/bromley",
+          "snippet": "Bromley London Borough Council, also known as Bromley Council, is the local authority for the London Borough of Bromley in Greater London, England. The council has been under Conservative majority control since 2001. It is based at the Civic Centre on Westmoreland Road, Bromley."
+        },
+        {
+          "title": "Bromley London Borough Council - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bromley_London_Borough_Council",
+          "snippet": "Bromley London Borough Council, also known as Bromley Council, is the local authority for the London Borough of Bromley in Greater London, England. The council has been under Conservative majority control since 2001."
+        },
+        {
+          "title": "Bromley London Borough Council - BBC News",
+          "url": "https://www.bbc.com/news/topics/cwypr193rx1t",
+          "snippet": "All the latest content about Bromley London Borough Council from the BBC."
+        },
+        {
+          "title": "Bromley London Borough Council — Grokipedia",
+          "url": "https://grokipedia.com/page/bromley_london_borough_council",
+          "snippet": "The Bromley London Borough Council is the statutory local authority responsible for the governance and public services of the London Borough of Bromley, the southeasternmost and largest by area among Greater London's 32 boroughs, formed on 1 April 1965 under the London Government Act 1963 via the merger of the municipal boroughs of Beckenham and Bromley with the urban districts of Orpington ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bromley London Borough Council\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:57:52Z",
+      "page_title": "\"Bromley London Borough Council\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bromley+London+Borough+Council%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bromley Council - opengovt",
+          "url": "https://www.opengovt.uk/councils/bromley",
+          "snippet": "Bromley London Borough Council, also known as Bromley Council, is the local authority for the London Borough of Bromley in Greater London, England. The council has been under Conservative majority control since 2001."
+        },
+        {
+          "title": "Bromley London Borough Council - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bromley_London_Borough_Council",
+          "snippet": "Bromley London Borough Council, also known as Bromley Council, is the local authority for the London Borough of Bromley in Greater London, England. The council has been under Conservative majority control since 2001."
+        },
+        {
+          "title": "Bromley London Borough Council Analysis & Market Share Overview ...",
+          "url": "https://www.similarweb.com/company/bromley.gov.uk/",
+          "snippet": "Bromley London Borough Council is the local authority for the London Borough of Bromley in Greater London, England. It is one of 32 London borough councils. Domain bromley.gov.uk Year Founded 1965 Employees 1001 - 5000 HQ United Kingdom, Bromley Annual Revenue $10M - $15M Industry Law and Government > Government Bromley London Borough Council Bromley London Borough Council (including company ..."
+        },
+        {
+          "title": "Bromley London Borough Council - BBC News",
+          "url": "https://www.bbc.com/news/topics/cwypr193rx1t",
+          "snippet": "All the latest content about Bromley London Borough Council from the BBC."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bromley London Borough Council Analysis & Market Share Overview ...",
+      "url": "https://www.similarweb.com/company/bromley.gov.uk/",
+      "snippet": "Bromley London Borough Council is the local authority for the London Borough of Bromley in Greater London, England. It is one of 32 London borough councils. Domain bromley.gov.uk Year Founded 1965 Employees 1001 - 5000 HQ United Kingdom, Bromley Annual Revenue $10M - $15M Industry Law and Government > Government Bromley London Borough Council Bromley London Borough Council (including company ...",
+      "query": "\"Bromley London Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:57:46Z"
+    },
+    {
+      "title": "Bromley Council - opengovt",
+      "url": "https://www.opengovt.uk/councils/bromley",
+      "snippet": "Bromley London Borough Council, also known as Bromley Council, is the local authority for the London Borough of Bromley in Greater London, England. The council has been under Conservative majority control since 2001. It is based at the Civic Centre on Westmoreland Road, Bromley.",
+      "query": "\"Bromley London Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:57:46Z"
+    },
+    {
+      "title": "Bromley London Borough Council - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bromley_London_Borough_Council",
+      "snippet": "Bromley London Borough Council, also known as Bromley Council, is the local authority for the London Borough of Bromley in Greater London, England. The council has been under Conservative majority control since 2001.",
+      "query": "\"Bromley London Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:57:46Z"
+    },
+    {
+      "title": "Bromley London Borough Council - BBC News",
+      "url": "https://www.bbc.com/news/topics/cwypr193rx1t",
+      "snippet": "All the latest content about Bromley London Borough Council from the BBC.",
+      "query": "\"Bromley London Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:57:46Z"
+    },
+    {
+      "title": "Bromley London Borough Council — Grokipedia",
+      "url": "https://grokipedia.com/page/bromley_london_borough_council",
+      "snippet": "The Bromley London Borough Council is the statutory local authority responsible for the governance and public services of the London Borough of Bromley, the southeasternmost and largest by area among Greater London's 32 boroughs, formed on 1 April 1965 under the London Government Act 1963 via the merger of the municipal boroughs of Beckenham and Bromley with the urban districts of Orpington ...",
+      "query": "\"Bromley London Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:57:46Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T10:57:52Z",
+  "company_status": "SUCCESS"
+}

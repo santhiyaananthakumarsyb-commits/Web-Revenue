@@ -1,0 +1,44 @@
+{
+  "company_key": "block & company, inc.|https://blockandco.com",
+  "company_name": "Block & Company, Inc.",
+  "company_website": "https://blockandco.com",
+  "created_at": "2026-10-23T10:19:49Z",
+  "searches": [
+    {
+      "query": "\"Block & Company, Inc.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:19:56Z",
+      "page_title": "\"Block & Company, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Block+%26+Company%2C+Inc.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Block & Company, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:20:04Z",
+      "page_title": "\"Block & Company, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Block+%26+Company%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Block & Company Inc., Realtors | LinkedIn",
+          "url": "https://www.linkedin.com/company/block-and-company-inc.",
+          "snippet": "About us Block & Company, Inc., Realtors is a full-service commercial real estate company headquartered in Kansas City, Missouri since its inception in 1946."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Block & Company Inc., Realtors | LinkedIn",
+      "url": "https://www.linkedin.com/company/block-and-company-inc.",
+      "snippet": "About us Block & Company, Inc., Realtors is a full-service commercial real estate company headquartered in Kansas City, Missouri since its inception in 1946.",
+      "query": "\"Block & Company, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:20:04Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:20:04Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,30 @@
+{
+  "company_key": "brittain commercial - northridge terrace|https://brittaincommercial.net",
+  "company_name": "Brittain Commercial - Northridge Terrace",
+  "company_website": "https://brittaincommercial.net",
+  "created_at": "2026-10-23T10:48:52Z",
+  "searches": [
+    {
+      "query": "\"Brittain Commercial - Northridge Terrace\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:48:59Z",
+      "page_title": "\"Brittain Commercial - Northridge Terrace\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brittain+Commercial+-+Northridge+Terrace%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Brittain Commercial - Northridge Terrace\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:49:07Z",
+      "page_title": "\"Brittain Commercial - Northridge Terrace\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brittain+Commercial+-+Northridge+Terrace%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:49:07Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

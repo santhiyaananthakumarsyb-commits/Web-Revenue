@@ -1,0 +1,103 @@
+{
+  "company_key": "buildtech ltd|https://buildtech.com",
+  "company_name": "BuildTech LTD",
+  "company_website": "https://buildtech.com",
+  "created_at": "2026-10-23T13:03:55Z",
+  "searches": [
+    {
+      "query": "\"BuildTech LTD\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:04:01Z",
+      "page_title": "\"BuildTech LTD\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BuildTech+LTD%22+revenue",
+      "results": [
+        {
+          "title": "BUILDTECH LTD overview - Find and update company information - GOV.UK",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/14616492",
+          "snippet": "BUILDTECH LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "BUILDTECH LTD filing history - Find and update company information - GOV.UK",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/14616492/filing-history",
+          "snippet": "BUILDTECH LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        }
+      ]
+    },
+    {
+      "query": "\"BuildTech LTD\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:04:07Z",
+      "page_title": "\"BuildTech LTD\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BuildTech+LTD%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BUILDTECH LTD overview - Find and update company information - GOV.UK",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/14616492",
+          "snippet": "BUILDTECH LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "BUILDTECH LTD filing history - Find and update company information - GOV.UK",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/14616492/filing-history",
+          "snippet": "BUILDTECH LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "Buildtech Ltd - Company Profile - Endole",
+          "url": "https://open.endole.co.uk/insight/company/14616492-buildtech-ltd",
+          "snippet": "Buildtech Ltd is an active company located in Skelmersdale, Lancashire. View company profile, shareholders, contacts, financials, industry and description."
+        },
+        {
+          "title": "Buildtech Ltd Construction Development Company Profile -Sales, Contacts ...",
+          "url": "https://www.buzzfile.com/business/Buildtech-Ltd-Construction-Development-517-374-7704",
+          "snippet": "Buildtech Ltd Construction Development is estimated to generate $975,788 in annual revenues, employs approximately 3 people at this location. They occupy this facility which is approximately 1,500 square feet."
+        },
+        {
+          "title": "BUILDTECH LTD - FLINT, MI - Business Information",
+          "url": "https://www.dandb.com/businessdirectory/buildtechltd-flint-mi-12972952.html",
+          "snippet": "Buildtech Ltd was founded in 2010, and is located at 607 E 2nd Ave in Flint. It employs 2 employees and is generating approximately $110,000.00 in annual revenue."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BUILDTECH LTD overview - Find and update company information - GOV.UK",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/14616492",
+      "snippet": "BUILDTECH LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
+      "query": "\"BuildTech LTD\" revenue",
+      "search_collected_at": "2026-10-23T13:04:01Z"
+    },
+    {
+      "title": "BUILDTECH LTD filing history - Find and update company information - GOV.UK",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/14616492/filing-history",
+      "snippet": "BUILDTECH LTD - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
+      "query": "\"BuildTech LTD\" revenue",
+      "search_collected_at": "2026-10-23T13:04:01Z"
+    },
+    {
+      "title": "Buildtech Ltd - Company Profile - Endole",
+      "url": "https://open.endole.co.uk/insight/company/14616492-buildtech-ltd",
+      "snippet": "Buildtech Ltd is an active company located in Skelmersdale, Lancashire. View company profile, shareholders, contacts, financials, industry and description.",
+      "query": "\"BuildTech LTD\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:04:07Z"
+    },
+    {
+      "title": "Buildtech Ltd Construction Development Company Profile -Sales, Contacts ...",
+      "url": "https://www.buzzfile.com/business/Buildtech-Ltd-Construction-Development-517-374-7704",
+      "snippet": "Buildtech Ltd Construction Development is estimated to generate $975,788 in annual revenues, employs approximately 3 people at this location. They occupy this facility which is approximately 1,500 square feet.",
+      "query": "\"BuildTech LTD\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:04:07Z"
+    },
+    {
+      "title": "BUILDTECH LTD - FLINT, MI - Business Information",
+      "url": "https://www.dandb.com/businessdirectory/buildtechltd-flint-mi-12972952.html",
+      "snippet": "Buildtech Ltd was founded in 2010, and is located at 607 E 2nd Ave in Flint. It employs 2 employees and is generating approximately $110,000.00 in annual revenue.",
+      "query": "\"BuildTech LTD\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:04:07Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T13:04:07Z",
+  "company_status": "SUCCESS"
+}

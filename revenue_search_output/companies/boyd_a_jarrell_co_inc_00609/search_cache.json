@@ -1,0 +1,79 @@
+{
+  "company_key": "boyd a. jarrell & co., inc.|https://jarrell.org",
+  "company_name": "Boyd A. Jarrell & Co., Inc.",
+  "company_website": "https://jarrell.org",
+  "created_at": "2026-10-23T11:55:48Z",
+  "searches": [
+    {
+      "query": "\"Boyd A. Jarrell & Co., Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:55:54Z",
+      "page_title": "\"Boyd A. Jarrell & Co., Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boyd+A.+Jarrell+%26+Co.%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Boyd A. Jarrell & Co., Inc.",
+          "url": "https://jarrell.propertyware.com/",
+          "snippet": "Boyd A. Jarrell & Co., Inc. Tenants Our progressive staff works to improve quality of life for all residents. You will feel comfortable knowing that you can contact a qualified employee, 24/7, who will address maintenance issues that affect your health and safety."
+        },
+        {
+          "title": "About Us - Propertyware",
+          "url": "https://jarrell.propertyware.com/about_us.html",
+          "snippet": "Boyd A. Jarrell & Co., Inc. (\"BAJ, Inc.\") is a full service Property Management and Brokerage company, supervising portfolios owned by its Business Partners. BAJ, Inc. is a licensed Illinois Brokerage Corporation, founded in 1961, and incorporated in 1971."
+        }
+      ]
+    },
+    {
+      "query": "\"Boyd A. Jarrell & Co., Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:56:00Z",
+      "page_title": "\"Boyd A. Jarrell & Co., Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boyd+A.+Jarrell+%26+Co.%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Boyd A. Jarrell & Co., Inc.",
+          "url": "https://jarrell.propertyware.com/",
+          "snippet": "Boyd A. Jarrell & Co., Inc. Tenants Our progressive staff works to improve quality of life for all residents. You will feel comfortable knowing that you can contact a qualified employee, 24/7, who will address maintenance issues that affect your health and safety."
+        },
+        {
+          "title": "About Us - Propertyware",
+          "url": "https://jarrell.propertyware.com/about_us.html",
+          "snippet": "Boyd A. Jarrell & Co., Inc. (\"BAJ, Inc.\") is a full service Property Management and Brokerage company, supervising portfolios owned by its Business Partners. BAJ, Inc. is a licensed Illinois Brokerage Corporation, founded in 1961, and incorporated in 1971."
+        },
+        {
+          "title": "Boyd A. Jarrell & Co., Inc. | Chicago Heights, IL - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/boyd-jarrell/328x2lgb",
+          "snippet": "Boyd Jarrell - . View Boyd Jarrell's professional profile and available commercial real estate listings on LoopNet.com"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Boyd A. Jarrell & Co., Inc.",
+      "url": "https://jarrell.propertyware.com/",
+      "snippet": "Boyd A. Jarrell & Co., Inc. Tenants Our progressive staff works to improve quality of life for all residents. You will feel comfortable knowing that you can contact a qualified employee, 24/7, who will address maintenance issues that affect your health and safety.",
+      "query": "\"Boyd A. Jarrell & Co., Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:55:54Z"
+    },
+    {
+      "title": "About Us - Propertyware",
+      "url": "https://jarrell.propertyware.com/about_us.html",
+      "snippet": "Boyd A. Jarrell & Co., Inc. (\"BAJ, Inc.\") is a full service Property Management and Brokerage company, supervising portfolios owned by its Business Partners. BAJ, Inc. is a licensed Illinois Brokerage Corporation, founded in 1961, and incorporated in 1971.",
+      "query": "\"Boyd A. Jarrell & Co., Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:55:54Z"
+    },
+    {
+      "title": "Boyd A. Jarrell & Co., Inc. | Chicago Heights, IL - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/boyd-jarrell/328x2lgb",
+      "snippet": "Boyd Jarrell - . View Boyd Jarrell's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Boyd A. Jarrell & Co., Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:56:00Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T11:56:00Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,50 @@
+{
+  "company_key": "better homes and gardens metro brokers, inc.|https://metrobrokers.com",
+  "company_name": "Better Homes and Gardens Metro Brokers, Inc.",
+  "company_website": "https://metrobrokers.com",
+  "created_at": "2026-10-23T10:57:52Z",
+  "searches": [
+    {
+      "query": "\"Better Homes and Gardens Metro Brokers, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:57:59Z",
+      "page_title": "\"Better Homes and Gardens Metro Brokers, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+and+Gardens+Metro+Brokers%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Better Homes and Gardens Metro Brokers, Inc. - Blue Ridge, GA",
+          "url": "https://www.loopnet.com/company/better-homes-and-gardens-metro-brokers-inc/cedsw1el/",
+          "snippet": "Metro Brokers Financial began in 1979 and has grown into a full-service real estate organization serving Georgia buyers, sellers, and agents. The company combines residential and commercial brokerage with mortgage financing, insurance, title and closing coordination, home warranty protection, relocation assistance, and training for real estate professionals. The business also offers luxury ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Better Homes and Gardens Metro Brokers, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:58:07Z",
+      "page_title": "\"Better Homes and Gardens Metro Brokers, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+and+Gardens+Metro+Brokers%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Better Homes and Gardens Metro Brokers, Inc. - Blue Ridge, GA",
+          "url": "https://www.loopnet.com/company/better-homes-and-gardens-metro-brokers-inc/cedsw1el/",
+          "snippet": "Metro Brokers Financial began in 1979 and has grown into a full-service real estate organization serving Georgia buyers, sellers, and agents. The company combines residential and commercial brokerage with mortgage financing, insurance, title and closing coordination, home warranty protection, relocation assistance, and training for real estate professionals. The business also offers luxury ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Better Homes and Gardens Metro Brokers, Inc. - Blue Ridge, GA",
+      "url": "https://www.loopnet.com/company/better-homes-and-gardens-metro-brokers-inc/cedsw1el/",
+      "snippet": "Metro Brokers Financial began in 1979 and has grown into a full-service real estate organization serving Georgia buyers, sellers, and agents. The company combines residential and commercial brokerage with mortgage financing, insurance, title and closing coordination, home warranty protection, relocation assistance, and training for real estate professionals. The business also offers luxury ...",
+      "query": "\"Better Homes and Gardens Metro Brokers, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:57:59Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:58:07Z",
+  "company_status": "SUCCESS"
+}

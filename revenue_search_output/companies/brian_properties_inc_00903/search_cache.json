@@ -1,0 +1,62 @@
+{
+  "company_key": "brian properties, inc.|https://brianproperties.com",
+  "company_name": "Brian Properties, Inc.",
+  "company_website": "https://brianproperties.com",
+  "created_at": "2026-10-23T12:59:38Z",
+  "searches": [
+    {
+      "query": "\"Brian Properties, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:59:43Z",
+      "page_title": "\"Brian Properties, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brian+Properties%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Brian Properties, Inc. | (847) 640-1500 | Arlington Heights, Illinois",
+          "url": "https://www.allbiz.com/business/brian-properties-inc_2a-847-640-1500",
+          "snippet": "Jack B. Whisler is the primary contact at Brian Properties, Inc.. Brian Properties, Inc. generates approximately 500,000 - 999,999 in revenue annually."
+        },
+        {
+          "title": "Meet the Brian Properties Team",
+          "url": "https://www.brianproperties.com/about-us/personnel",
+          "snippet": "Mark joined Brian Properties, Inc. in 2011 and specialized in leasing over 2 million square feet of office, retail, and medical space throughout Chicagoland. Mark is also responsible for business development in the Northwest Chicago submarket, specifically focusing on property management, leasing, and tenant representation assignments."
+        }
+      ]
+    },
+    {
+      "query": "\"Brian Properties, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:59:51Z",
+      "page_title": "\"Brian Properties, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brian+Properties%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Meet the Brian Properties Team",
+          "url": "https://www.brianproperties.com/about-us/personnel",
+          "snippet": "Mark joined Brian Properties, Inc. in 2011 and specialized in leasing over 2 million square feet of office, retail, and medical space throughout Chicagoland. Mark is also responsible for business development in the Northwest Chicago submarket, specifically focusing on property management, leasing, and tenant representation assignments."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brian Properties, Inc. | (847) 640-1500 | Arlington Heights, Illinois",
+      "url": "https://www.allbiz.com/business/brian-properties-inc_2a-847-640-1500",
+      "snippet": "Jack B. Whisler is the primary contact at Brian Properties, Inc.. Brian Properties, Inc. generates approximately 500,000 - 999,999 in revenue annually.",
+      "query": "\"Brian Properties, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:59:43Z"
+    },
+    {
+      "title": "Meet the Brian Properties Team",
+      "url": "https://www.brianproperties.com/about-us/personnel",
+      "snippet": "Mark joined Brian Properties, Inc. in 2011 and specialized in leasing over 2 million square feet of office, retail, and medical space throughout Chicagoland. Mark is also responsible for business development in the Northwest Chicago submarket, specifically focusing on property management, leasing, and tenant representation assignments.",
+      "query": "\"Brian Properties, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:59:43Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:59:51Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,30 @@
+{
+  "company_key": "bomgaars supply, inc.|https://bomgaars.com",
+  "company_name": "Bomgaars Supply, Inc.",
+  "company_website": "https://bomgaars.com",
+  "created_at": "2026-10-23T10:23:04Z",
+  "searches": [
+    {
+      "query": "\"Bomgaars Supply, Inc.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:23:11Z",
+      "page_title": "\"Bomgaars Supply, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bomgaars+Supply%2C+Inc.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Bomgaars Supply, Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:23:18Z",
+      "page_title": "\"Bomgaars Supply, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bomgaars+Supply%2C+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:23:18Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

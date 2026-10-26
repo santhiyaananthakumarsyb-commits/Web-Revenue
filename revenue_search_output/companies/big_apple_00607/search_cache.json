@@ -1,0 +1,127 @@
+{
+  "company_key": "big apple|https://cnbrown.com",
+  "company_name": "Big Apple",
+  "company_website": "https://cnbrown.com",
+  "created_at": "2026-10-23T11:55:23Z",
+  "searches": [
+    {
+      "query": "\"Big Apple\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:55:29Z",
+      "page_title": "\"Big Apple\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Big+Apple%22+revenue",
+      "results": [
+        {
+          "title": "Big Apple Circus Revenue: Annual, Quarterly, and Historic - Zippia",
+          "url": "https://www.zippia.com/big-apple-circus-careers-97895/revenue/",
+          "snippet": "Big Apple Circus's revenue is $50.0 Million - Learn more about Big Apple Circus's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee."
+        },
+        {
+          "title": "The Big Apple 2026 Company Profile: Valuation, Investors ... - PitchBook",
+          "url": "https://pitchbook.com/profiles/company/158023-72",
+          "snippet": "Information on acquisition, funding, investors, and executives for The Big Apple. Use the PitchBook Platform to explore the full profile."
+        },
+        {
+          "title": "Big Apple Bagels: Revenue, Competitors, Alternatives - Growjo",
+          "url": "https://growjo.com/company/Big_Apple_Bagels",
+          "snippet": "Big Apple Bagels top competitors are and they have annual revenue of $7.5M and 78 employees."
+        },
+        {
+          "title": "Big Apple Bagels - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Big_Apple_Bagels",
+          "snippet": "Big Apple Bagels is an American franchised chain of bakery-cafes based in Deerfield, Illinois. Coffee, along with a variety of other related products are sold. The products are sold as three different brands: Big Apple Bagels, Brewster's Coffee, and My Favorite Muffin. [1]"
+        },
+        {
+          "title": "BAB, INC. SEC 10-K Report — TradingView News",
+          "url": "https://www.tradingview.com/news/tradingview:7b692da307ecd:0-bab-inc-sec-10-k-report/",
+          "snippet": "BAB, Inc., a franchisor and licensor of bagel and muffin retail units under the Big Apple Bagels® and My Favorite Muffin® trade names, has released its annual Form 10-K report. The report provides a comprehensive overview of the company's financial performance, business operations, strategic initia…"
+        },
+        {
+          "title": "Only Remaining Location of Bill Johnson's Big Apple to Close and Become ...",
+          "url": "https://www.phoenixnewtimes.com/food-drink/only-remaining-location-of-bill-johnsons-big-apple-to-close-and-become-a-parking-lot-6546767/",
+          "snippet": "Things have been rough for the folks behind the Bill Johnson's Big Apple family of restaurants for quite some time. On November 12 the company filed Chapter 11 bankruptcy, but that didn't stop the ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Big Apple\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:55:35Z",
+      "page_title": "\"Big Apple\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Big+Apple%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Big Apple Group: Revenue, Competitors, Alternatives - Growjo",
+          "url": "https://growjo.com/company/Big_Apple_Group",
+          "snippet": "Big Apple Group top competitors are Specified Air, Peak Mechanical and RITEC - The Condition Monitoring Company and they have annual revenue of $18.8M and 171 employees."
+        },
+        {
+          "title": "Big Apple Circus Revenue: Annual, Quarterly, and Historic - Zippia",
+          "url": "https://www.zippia.com/big-apple-circus-careers-97895/revenue/",
+          "snippet": "Big Apple Circus's revenue is $50.0 Million - Learn more about Big Apple Circus's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee."
+        },
+        {
+          "title": "Big Apple Bagels: Revenue, Competitors, Alternatives - Growjo",
+          "url": "https://growjo.com/company/Big_Apple_Bagels",
+          "snippet": "Big Apple Bagels top competitors are and they have annual revenue of $7.5M and 78 employees."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Big Apple Circus Revenue: Annual, Quarterly, and Historic - Zippia",
+      "url": "https://www.zippia.com/big-apple-circus-careers-97895/revenue/",
+      "snippet": "Big Apple Circus's revenue is $50.0 Million - Learn more about Big Apple Circus's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee.",
+      "query": "\"Big Apple\" revenue",
+      "search_collected_at": "2026-10-23T11:55:29Z"
+    },
+    {
+      "title": "The Big Apple 2026 Company Profile: Valuation, Investors ... - PitchBook",
+      "url": "https://pitchbook.com/profiles/company/158023-72",
+      "snippet": "Information on acquisition, funding, investors, and executives for The Big Apple. Use the PitchBook Platform to explore the full profile.",
+      "query": "\"Big Apple\" revenue",
+      "search_collected_at": "2026-10-23T11:55:29Z"
+    },
+    {
+      "title": "Big Apple Bagels: Revenue, Competitors, Alternatives - Growjo",
+      "url": "https://growjo.com/company/Big_Apple_Bagels",
+      "snippet": "Big Apple Bagels top competitors are and they have annual revenue of $7.5M and 78 employees.",
+      "query": "\"Big Apple\" revenue",
+      "search_collected_at": "2026-10-23T11:55:29Z"
+    },
+    {
+      "title": "Big Apple Bagels - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Big_Apple_Bagels",
+      "snippet": "Big Apple Bagels is an American franchised chain of bakery-cafes based in Deerfield, Illinois. Coffee, along with a variety of other related products are sold. The products are sold as three different brands: Big Apple Bagels, Brewster's Coffee, and My Favorite Muffin. [1]",
+      "query": "\"Big Apple\" revenue",
+      "search_collected_at": "2026-10-23T11:55:29Z"
+    },
+    {
+      "title": "BAB, INC. SEC 10-K Report — TradingView News",
+      "url": "https://www.tradingview.com/news/tradingview:7b692da307ecd:0-bab-inc-sec-10-k-report/",
+      "snippet": "BAB, Inc., a franchisor and licensor of bagel and muffin retail units under the Big Apple Bagels® and My Favorite Muffin® trade names, has released its annual Form 10-K report. The report provides a comprehensive overview of the company's financial performance, business operations, strategic initia…",
+      "query": "\"Big Apple\" revenue",
+      "search_collected_at": "2026-10-23T11:55:29Z"
+    },
+    {
+      "title": "Only Remaining Location of Bill Johnson's Big Apple to Close and Become ...",
+      "url": "https://www.phoenixnewtimes.com/food-drink/only-remaining-location-of-bill-johnsons-big-apple-to-close-and-become-a-parking-lot-6546767/",
+      "snippet": "Things have been rough for the folks behind the Bill Johnson's Big Apple family of restaurants for quite some time. On November 12 the company filed Chapter 11 bankruptcy, but that didn't stop the ...",
+      "query": "\"Big Apple\" revenue",
+      "search_collected_at": "2026-10-23T11:55:29Z"
+    },
+    {
+      "title": "Big Apple Group: Revenue, Competitors, Alternatives - Growjo",
+      "url": "https://growjo.com/company/Big_Apple_Group",
+      "snippet": "Big Apple Group top competitors are Specified Air, Peak Mechanical and RITEC - The Condition Monitoring Company and they have annual revenue of $18.8M and 171 employees.",
+      "query": "\"Big Apple\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:55:35Z"
+    }
+  ],
+  "result_count": 7,
+  "updated_at": "2026-10-23T11:55:35Z",
+  "company_status": "SUCCESS"
+}

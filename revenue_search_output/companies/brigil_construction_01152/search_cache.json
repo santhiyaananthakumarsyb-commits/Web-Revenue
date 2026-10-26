@@ -1,0 +1,108 @@
+{
+  "company_key": "brigil construction|https://brigil.com",
+  "company_name": "Brigil Construction",
+  "company_website": "https://brigil.com",
+  "created_at": "2026-10-23T13:54:02Z",
+  "searches": [
+    {
+      "query": "\"Brigil Construction\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:54:07Z",
+      "page_title": "\"Brigil Construction\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brigil+Construction%22+revenue",
+      "results": [
+        {
+          "title": "Brigil Construction, Ottawa, CA | Company Information",
+          "url": "https://www.infobel.com/en/canada/brigil_construction/orleans/CA101122759-6138244059/businessdetails.aspx",
+          "snippet": "Find information about this business, such as: phone number (61382...), email (..con@..), website, reviews, opening hours, photos, revenue, VAT and more"
+        },
+        {
+          "title": "Brigil Company Overview, Contact Details & Competitors | LeadIQ",
+          "url": "https://leadiq.com/c/brigil/5a1d9c9a2300005c008c56e0",
+          "snippet": "Brigil Construction Quebec, Canada 201-500 Employees Brigil is a mid-sized construction company based in Gatineau, Quebec, founded in 1985 by Gilles Desjardins. In the Outaouais region, it has contributed to local development by delivering a substantial housing program, including about 12,500 homes over the past two decades. The firm concentrates on residential and mixed-use projects that aim ..."
+        },
+        {
+          "title": "Brigil Construction Inc - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/6891293Z:CN",
+          "snippet": "Company profile page for Brigil Construction Inc including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Brigil Construction Inc Company Profile | Gatineau, QC, Canada ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brigil_construction_inc.61365b4629eb1c3e2f5fc2c9b36ccdb0.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Brigil Construction Inc of Gatineau, QC. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Groupe Brigil Construction (Le) - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/groupe-brigil-construction-le",
+          "snippet": "Groupe Brigil Construction is a renowned builder who specializes in the construction of residential buildings."
+        }
+      ]
+    },
+    {
+      "query": "\"Brigil Construction\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:54:13Z",
+      "page_title": "\"Brigil Construction\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brigil+Construction%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brigil Construction, Ottawa, CA | Company Information",
+          "url": "https://www.infobel.com/en/canada/brigil_construction/orleans/CA101122759-6138244059/businessdetails.aspx",
+          "snippet": "Find information about this business, such as: phone number (61382...), email (..con@..), website, reviews, opening hours, photos, revenue, VAT and more"
+        },
+        {
+          "title": "Brigil Construction Inc - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/6891293Z:CN",
+          "snippet": "Company profile page for Brigil Construction Inc including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Brigil Construction Inc Company Profile | Gatineau, QC, Canada ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brigil_construction_inc.61365b4629eb1c3e2f5fc2c9b36ccdb0.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Brigil Construction Inc of Gatineau, QC. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brigil Construction, Ottawa, CA | Company Information",
+      "url": "https://www.infobel.com/en/canada/brigil_construction/orleans/CA101122759-6138244059/businessdetails.aspx",
+      "snippet": "Find information about this business, such as: phone number (61382...), email (..con@..), website, reviews, opening hours, photos, revenue, VAT and more",
+      "query": "\"Brigil Construction\" revenue",
+      "search_collected_at": "2026-10-23T13:54:07Z"
+    },
+    {
+      "title": "Brigil Company Overview, Contact Details & Competitors | LeadIQ",
+      "url": "https://leadiq.com/c/brigil/5a1d9c9a2300005c008c56e0",
+      "snippet": "Brigil Construction Quebec, Canada 201-500 Employees Brigil is a mid-sized construction company based in Gatineau, Quebec, founded in 1985 by Gilles Desjardins. In the Outaouais region, it has contributed to local development by delivering a substantial housing program, including about 12,500 homes over the past two decades. The firm concentrates on residential and mixed-use projects that aim ...",
+      "query": "\"Brigil Construction\" revenue",
+      "search_collected_at": "2026-10-23T13:54:07Z"
+    },
+    {
+      "title": "Brigil Construction Inc - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/6891293Z:CN",
+      "snippet": "Company profile page for Brigil Construction Inc including stock price, company news, executives, board members, and contact information",
+      "query": "\"Brigil Construction\" revenue",
+      "search_collected_at": "2026-10-23T13:54:07Z"
+    },
+    {
+      "title": "Brigil Construction Inc Company Profile | Gatineau, QC, Canada ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.brigil_construction_inc.61365b4629eb1c3e2f5fc2c9b36ccdb0.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Brigil Construction Inc of Gatineau, QC. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Brigil Construction\" revenue",
+      "search_collected_at": "2026-10-23T13:54:07Z"
+    },
+    {
+      "title": "Groupe Brigil Construction (Le) - Crunchbase",
+      "url": "https://www.crunchbase.com/organization/groupe-brigil-construction-le",
+      "snippet": "Groupe Brigil Construction is a renowned builder who specializes in the construction of residential buildings.",
+      "query": "\"Brigil Construction\" revenue",
+      "search_collected_at": "2026-10-23T13:54:07Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T13:54:13Z",
+  "company_status": "SUCCESS"
+}

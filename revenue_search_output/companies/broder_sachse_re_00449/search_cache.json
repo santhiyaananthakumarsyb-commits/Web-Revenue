@@ -1,0 +1,50 @@
+{
+  "company_key": "broder sachse re|https://brodersachse.com",
+  "company_name": "Broder Sachse RE",
+  "company_website": "https://brodersachse.com",
+  "created_at": "2026-10-23T11:21:21Z",
+  "searches": [
+    {
+      "query": "\"Broder Sachse RE\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:21:29Z",
+      "page_title": "\"Broder Sachse RE\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broder+Sachse+RE%22+revenue",
+      "results": [
+        {
+          "title": "Broder Sachse RE - Detroit Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/broder-sachse-re/krwt348l/",
+          "snippet": "Founded in 1993, Broder & Sachse Real Estate began as an asset/property management and development firm, offering comprehensive real estate services for its portfolio of properties and for third-party clients."
+        }
+      ]
+    },
+    {
+      "query": "\"Broder Sachse RE\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:21:37Z",
+      "page_title": "\"Broder Sachse RE\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broder+Sachse+RE%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Broder Sachse RE - Detroit Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/broder-sachse-re/krwt348l/",
+          "snippet": "Headquartered in the city of Detroit, Broder & Sachse Real Estate focuses on acquiring and developing multifamily, retail, boutique office, and mixed-use projects in urban and suburban markets. The firm also manages its diverse portfolio, offering its residents and tenants access to an exceptional ecosystem of amenities and opportunities. Founded in 1993, Broder & Sachse Real Estate began as ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Broder Sachse RE - Detroit Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/broder-sachse-re/krwt348l/",
+      "snippet": "Founded in 1993, Broder & Sachse Real Estate began as an asset/property management and development firm, offering comprehensive real estate services for its portfolio of properties and for third-party clients.",
+      "query": "\"Broder Sachse RE\" revenue",
+      "search_collected_at": "2026-10-23T11:21:29Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:21:37Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,79 @@
+{
+  "company_key": "bluestar properties inc.|https://bluestarsocal.com",
+  "company_name": "Bluestar Properties Inc.",
+  "company_website": "https://bluestarsocal.com",
+  "created_at": "2026-10-23T13:13:41Z",
+  "searches": [
+    {
+      "query": "\"Bluestar Properties Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:13:47Z",
+      "page_title": "\"Bluestar Properties Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bluestar+Properties+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Bluestar Properties Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bluestar-properties-inc-profile_b5d166e9f42e4385",
+          "snippet": "Bluestar Properties Inc. is a Real Estate, Residential Property Management, and Commercial Property Management company located in Victorville, California with $7 million in revenue and 19 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bluestar Properties Inc. Company Overview, Contact Details ...",
+          "url": "https://leadiq.com/c/bluestar-properties-inc/5a1da2442300005b0093f8fc",
+          "snippet": "Learn more about Bluestar Properties Inc.'s company details, contact information, competitors, and more. Find accurate contact data easily with LeadIQ. Book a demo today."
+        }
+      ]
+    },
+    {
+      "query": "\"Bluestar Properties Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:13:53Z",
+      "page_title": "\"Bluestar Properties Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bluestar+Properties+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bluestar Properties Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bluestar-properties-inc-profile_b5d166e9f42e4385",
+          "snippet": "Bluestar Properties Inc. is a Real Estate, Residential Property Management, and Commercial Property Management company located in Victorville, California with $7 million in revenue and 19 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bluestar Properties Inc. Company Overview, Contact Details ...",
+          "url": "https://leadiq.com/c/bluestar-properties-inc/5a1da2442300005b0093f8fc",
+          "snippet": "Learn more about Bluestar Properties Inc.'s company details, contact information, competitors, and more. Find accurate contact data easily with LeadIQ. Book a demo today."
+        },
+        {
+          "title": "Bluestar Properties Inc. - Employees, Contact info, Overview - Wiza",
+          "url": "https://wiza.co/d/bluestar-properties-inc/260f",
+          "snippet": "View info about Bluestar Properties Inc. (bluestarsocal.com). Bluestar Properties Inc. is a company located in Victorville, CA, United States. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to Bluestar Properties Inc.."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bluestar Properties Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/bluestar-properties-inc-profile_b5d166e9f42e4385",
+      "snippet": "Bluestar Properties Inc. is a Real Estate, Residential Property Management, and Commercial Property Management company located in Victorville, California with $7 million in revenue and 19 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Bluestar Properties Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:13:47Z"
+    },
+    {
+      "title": "Bluestar Properties Inc. Company Overview, Contact Details ...",
+      "url": "https://leadiq.com/c/bluestar-properties-inc/5a1da2442300005b0093f8fc",
+      "snippet": "Learn more about Bluestar Properties Inc.'s company details, contact information, competitors, and more. Find accurate contact data easily with LeadIQ. Book a demo today.",
+      "query": "\"Bluestar Properties Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:13:47Z"
+    },
+    {
+      "title": "Bluestar Properties Inc. - Employees, Contact info, Overview - Wiza",
+      "url": "https://wiza.co/d/bluestar-properties-inc/260f",
+      "snippet": "View info about Bluestar Properties Inc. (bluestarsocal.com). Bluestar Properties Inc. is a company located in Victorville, CA, United States. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to Bluestar Properties Inc..",
+      "query": "\"Bluestar Properties Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:13:53Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:13:53Z",
+  "company_status": "SUCCESS"
+}

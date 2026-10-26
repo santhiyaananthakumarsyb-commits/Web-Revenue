@@ -1,0 +1,91 @@
+{
+  "company_key": "bergeys truck centers|https://bergeystruckcenters.com",
+  "company_name": "Bergeys Truck Centers",
+  "company_website": "https://bergeystruckcenters.com",
+  "created_at": "2026-10-23T13:32:29Z",
+  "searches": [
+    {
+      "query": "\"Bergeys Truck Centers\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:32:34Z",
+      "page_title": "\"Bergeys Truck Centers\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bergeys+Truck+Centers%22+revenue",
+      "results": [
+        {
+          "title": "Bergeys Truck Centers - Overview, Competitors, News, and Employees ...",
+          "url": "https://www.clodura.ai/directory/company/bergeys-truck-centers",
+          "snippet": "Bergeys Truck Centers revenue, competitors, industry, employees, sales intent, org chart, technographic data, email format and much more. Find similar companies as well as employees by title, seniority, and much more."
+        },
+        {
+          "title": "BERGEYS TRUCK CENTERS Vineland NJ, 08360 - Company Profile - Cortera",
+          "url": "https://start.cortera.com/company/research/k3q5nxr8o/bergeys-truck-centers/",
+          "snippet": "Free Business profile for BERGEYS TRUCK CENTERS at 2405 S Delsea Dr, Vineland, NJ, 08360-7025, US. BERGEYS TRUCK CENTERS specializes in: Gasoline Service Stations."
+        }
+      ]
+    },
+    {
+      "query": "\"Bergeys Truck Centers\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:32:39Z",
+      "page_title": "\"Bergeys Truck Centers\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bergeys+Truck+Centers%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bergeys Truck Centers - Overview, Competitors, News, and Employees ...",
+          "url": "https://www.clodura.ai/directory/company/bergeys-truck-centers",
+          "snippet": "Bergeys Truck Centers revenue, competitors, industry, employees, sales intent, org chart, technographic data, email format and much more. Find similar companies as well as employees by title, seniority, and much more."
+        },
+        {
+          "title": "BERGEYS TRUCK CENTERS Vineland NJ, 08360 - Company Profile - Cortera",
+          "url": "https://start.cortera.com/company/research/k3q5nxr8o/bergeys-truck-centers/",
+          "snippet": "Free Business profile for BERGEYS TRUCK CENTERS at 2405 S Delsea Dr, Vineland, NJ, 08360-7025, US. BERGEYS TRUCK CENTERS specializes in: Gasoline Service Stations."
+        },
+        {
+          "title": "Bergeys Truck Centers Crash Reports - QuickTSI",
+          "url": "https://www.quicktransportsolutions.com/crashreports/bergeys-truck-centers-usdot-1117149.php",
+          "snippet": "These are crash reports involving Bergeys Truck Centers"
+        },
+        {
+          "title": "Über Bergeys Truck Centers | XING",
+          "url": "https://www.xing.com/pages/bergeystruckcenters/about_us",
+          "snippet": "Hier kann ein \"Über uns\"-Text des Unternehmens hinzugefügt werden, der Themen wie die Visionen, Mission und Werte des Unternehmens behandelt."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bergeys Truck Centers - Overview, Competitors, News, and Employees ...",
+      "url": "https://www.clodura.ai/directory/company/bergeys-truck-centers",
+      "snippet": "Bergeys Truck Centers revenue, competitors, industry, employees, sales intent, org chart, technographic data, email format and much more. Find similar companies as well as employees by title, seniority, and much more.",
+      "query": "\"Bergeys Truck Centers\" revenue",
+      "search_collected_at": "2026-10-23T13:32:34Z"
+    },
+    {
+      "title": "BERGEYS TRUCK CENTERS Vineland NJ, 08360 - Company Profile - Cortera",
+      "url": "https://start.cortera.com/company/research/k3q5nxr8o/bergeys-truck-centers/",
+      "snippet": "Free Business profile for BERGEYS TRUCK CENTERS at 2405 S Delsea Dr, Vineland, NJ, 08360-7025, US. BERGEYS TRUCK CENTERS specializes in: Gasoline Service Stations.",
+      "query": "\"Bergeys Truck Centers\" revenue",
+      "search_collected_at": "2026-10-23T13:32:34Z"
+    },
+    {
+      "title": "Bergeys Truck Centers Crash Reports - QuickTSI",
+      "url": "https://www.quicktransportsolutions.com/crashreports/bergeys-truck-centers-usdot-1117149.php",
+      "snippet": "These are crash reports involving Bergeys Truck Centers",
+      "query": "\"Bergeys Truck Centers\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:32:39Z"
+    },
+    {
+      "title": "Über Bergeys Truck Centers | XING",
+      "url": "https://www.xing.com/pages/bergeystruckcenters/about_us",
+      "snippet": "Hier kann ein \"Über uns\"-Text des Unternehmens hinzugefügt werden, der Themen wie die Visionen, Mission und Werte des Unternehmens behandelt.",
+      "query": "\"Bergeys Truck Centers\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:32:39Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T13:32:39Z",
+  "company_status": "SUCCESS"
+}

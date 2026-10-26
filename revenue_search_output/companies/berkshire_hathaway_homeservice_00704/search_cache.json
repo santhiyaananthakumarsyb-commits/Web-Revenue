@@ -1,0 +1,86 @@
+{
+  "company_key": "berkshire hathaway homeservice|https://plantationrealtyinc.com",
+  "company_name": "Berkshire Hathaway Homeservice",
+  "company_website": "https://plantationrealtyinc.com",
+  "created_at": "2026-10-23T12:16:25Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Homeservice\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:16:30Z",
+      "page_title": "\"Berkshire Hathaway Homeservice\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Homeservice%22+revenue",
+      "results": [
+        {
+          "title": "FV-04213 · Berkshire Hathaway Homeservice Franchise Review",
+          "url": "https://franchiseverdict.com/brand/berkshire-hathaway-homeservice",
+          "snippet": "The Berkshire Hathaway Homeservice franchise does not disclose total investment in its current FDD. The latest FDD does not disclose unit-level revenue (no Item 19)."
+        },
+        {
+          "title": "Berkshire Hathaway Homeservice: Financial Models",
+          "url": "https://franchiseverdict.com/brand/berkshire-hathaway-homeservice/financials",
+          "snippet": "Single-unit ROIC, 25-unit portfolio returns, and levered IRR for Berkshire Hathaway Homeservice franchise. Pre-filled from FDD Item 7 and Item 19."
+        },
+        {
+          "title": "Berkshire Hathaway HomeService California Realty: Revenue, Competitors ...",
+          "url": "https://growjo.com/company/Berkshire_Hathaway_HomeService_California_Realty",
+          "snippet": "Berkshire Hathaway HomeService California Realty top competitors are Placer Title Company, OAKWOOD ESCROW METRO and SmartStop Asset Management and they have annual revenue of $600k and 8 employees."
+        },
+        {
+          "title": "BERKSHIRE HATHAWAY HOMESERVICE Company Profile | Boca Raton, FL ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.berkshire_hathaway_homeservice.5021dfd106877106c77b587edf7d0068.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BERKSHIRE HATHAWAY HOMESERVICE of Boca Raton, FL. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Homeservice\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:16:38Z",
+      "page_title": "\"Berkshire Hathaway Homeservice\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Homeservice%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Hathaway HomeService California Realty: Revenue, Competitors ...",
+          "url": "https://growjo.com/company/Berkshire_Hathaway_HomeService_California_Realty",
+          "snippet": "Berkshire Hathaway HomeService California Realty top competitors are Placer Title Company, OAKWOOD ESCROW METRO and SmartStop Asset Management and they have annual revenue of $600k and 8 employees."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "FV-04213 · Berkshire Hathaway Homeservice Franchise Review",
+      "url": "https://franchiseverdict.com/brand/berkshire-hathaway-homeservice",
+      "snippet": "The Berkshire Hathaway Homeservice franchise does not disclose total investment in its current FDD. The latest FDD does not disclose unit-level revenue (no Item 19).",
+      "query": "\"Berkshire Hathaway Homeservice\" revenue",
+      "search_collected_at": "2026-10-23T12:16:30Z"
+    },
+    {
+      "title": "Berkshire Hathaway Homeservice: Financial Models",
+      "url": "https://franchiseverdict.com/brand/berkshire-hathaway-homeservice/financials",
+      "snippet": "Single-unit ROIC, 25-unit portfolio returns, and levered IRR for Berkshire Hathaway Homeservice franchise. Pre-filled from FDD Item 7 and Item 19.",
+      "query": "\"Berkshire Hathaway Homeservice\" revenue",
+      "search_collected_at": "2026-10-23T12:16:30Z"
+    },
+    {
+      "title": "Berkshire Hathaway HomeService California Realty: Revenue, Competitors ...",
+      "url": "https://growjo.com/company/Berkshire_Hathaway_HomeService_California_Realty",
+      "snippet": "Berkshire Hathaway HomeService California Realty top competitors are Placer Title Company, OAKWOOD ESCROW METRO and SmartStop Asset Management and they have annual revenue of $600k and 8 employees.",
+      "query": "\"Berkshire Hathaway Homeservice\" revenue",
+      "search_collected_at": "2026-10-23T12:16:30Z"
+    },
+    {
+      "title": "BERKSHIRE HATHAWAY HOMESERVICE Company Profile | Boca Raton, FL ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.berkshire_hathaway_homeservice.5021dfd106877106c77b587edf7d0068.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BERKSHIRE HATHAWAY HOMESERVICE of Boca Raton, FL. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Berkshire Hathaway Homeservice\" revenue",
+      "search_collected_at": "2026-10-23T12:16:30Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T12:16:38Z",
+  "company_status": "SUCCESS"
+}

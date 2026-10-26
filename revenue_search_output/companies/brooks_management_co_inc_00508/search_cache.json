@@ -1,0 +1,30 @@
+{
+  "company_key": "brooks management co. inc|https://brooksmanagementcompany.com",
+  "company_name": "Brooks Management Co. Inc",
+  "company_website": "https://brooksmanagementcompany.com",
+  "created_at": "2026-10-23T11:33:59Z",
+  "searches": [
+    {
+      "query": "\"Brooks Management Co. Inc\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:34:07Z",
+      "page_title": "\"Brooks Management Co. Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brooks+Management+Co.+Inc%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Brooks Management Co. Inc\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:34:14Z",
+      "page_title": "\"Brooks Management Co. Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brooks+Management+Co.+Inc%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:34:14Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

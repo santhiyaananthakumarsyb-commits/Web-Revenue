@@ -1,0 +1,91 @@
+{
+  "company_key": "bonneville county assessors office|https://id.us",
+  "company_name": "Bonneville County Assessors Office",
+  "company_website": "https://id.us",
+  "created_at": "2026-10-23T14:07:23Z",
+  "searches": [
+    {
+      "query": "\"Bonneville County Assessors Office\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:07:29Z",
+      "page_title": "\"Bonneville County Assessors Office\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bonneville+County+Assessors+Office%22+revenue",
+      "results": [
+        {
+          "title": "Bonneville County Assessors Office - MapQuest",
+          "url": "https://www.mapquest.com/us/idaho/bonneville-county-assessors-office-547880204",
+          "snippet": "The Bonneville County Assessors Office in Idaho Falls, ID is a government agency responsible for assessing and valuing properties within the county for tax purposes."
+        },
+        {
+          "title": "Angela Skillings - Certified Residential Appraiser at ... - LinkedIn",
+          "url": "https://www.linkedin.com/in/angela-skillings-6ab3951aa",
+          "snippet": "Certified Residential Appraiser at Bonneville county assessors office · Experience: Bonneville county assessors office · Location: Idaho Falls. View Angela Skillings' profile on LinkedIn, a ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bonneville County Assessors Office\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:07:35Z",
+      "page_title": "\"Bonneville County Assessors Office\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bonneville+County+Assessors+Office%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Angela Skillings - Certified Residential Appraiser at ... - LinkedIn",
+          "url": "https://www.linkedin.com/in/angela-skillings-6ab3951aa",
+          "snippet": "Certified Residential Appraiser at Bonneville county assessors office · Experience: Bonneville county assessors office · Location: Idaho Falls. View Angela Skillings' profile on LinkedIn, a ..."
+        },
+        {
+          "title": "How often do raises occur at Bonneville County Assessors Office? - Indeed",
+          "url": "https://www.indeed.com/cmp/Bonneville-County-Assessors-Office/faq/how-often-do-raises-occur-at-bonneville-county-assessors-office?quid=1gsvd1cumtsm8801",
+          "snippet": "Find answers to 'How often do raises occur at Bonneville County Assessors Office?' from Bonneville County Assessors Office employees. Get answers to your biggest company questions on Indeed."
+        },
+        {
+          "title": "Bonneville County Assessors Office - MapQuest",
+          "url": "https://www.mapquest.com/us/idaho/bonneville-county-assessors-office-547880204",
+          "snippet": "The Bonneville County Assessors Office in Idaho Falls, ID is a government agency responsible for assessing and valuing properties within the county for tax purposes. They provide property owners with information on property assessments, tax rates, and exemptions, ensuring compliance with local tax laws. Generated from their business information"
+        },
+        {
+          "title": "Questions and Answers about Bonneville County Assessors Office ... - Indeed",
+          "url": "https://www.indeed.com/cmp/Bonneville-County-Assessors-Office/faq/interviews",
+          "snippet": "4 questions and answers about Bonneville County Assessors Office Interviews. How should I prepare for an interview at Bonneville County Assessors Office?"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bonneville County Assessors Office - MapQuest",
+      "url": "https://www.mapquest.com/us/idaho/bonneville-county-assessors-office-547880204",
+      "snippet": "The Bonneville County Assessors Office in Idaho Falls, ID is a government agency responsible for assessing and valuing properties within the county for tax purposes.",
+      "query": "\"Bonneville County Assessors Office\" revenue",
+      "search_collected_at": "2026-10-23T14:07:29Z"
+    },
+    {
+      "title": "Angela Skillings - Certified Residential Appraiser at ... - LinkedIn",
+      "url": "https://www.linkedin.com/in/angela-skillings-6ab3951aa",
+      "snippet": "Certified Residential Appraiser at Bonneville county assessors office · Experience: Bonneville county assessors office · Location: Idaho Falls. View Angela Skillings' profile on LinkedIn, a ...",
+      "query": "\"Bonneville County Assessors Office\" revenue",
+      "search_collected_at": "2026-10-23T14:07:29Z"
+    },
+    {
+      "title": "How often do raises occur at Bonneville County Assessors Office? - Indeed",
+      "url": "https://www.indeed.com/cmp/Bonneville-County-Assessors-Office/faq/how-often-do-raises-occur-at-bonneville-county-assessors-office?quid=1gsvd1cumtsm8801",
+      "snippet": "Find answers to 'How often do raises occur at Bonneville County Assessors Office?' from Bonneville County Assessors Office employees. Get answers to your biggest company questions on Indeed.",
+      "query": "\"Bonneville County Assessors Office\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T14:07:35Z"
+    },
+    {
+      "title": "Questions and Answers about Bonneville County Assessors Office ... - Indeed",
+      "url": "https://www.indeed.com/cmp/Bonneville-County-Assessors-Office/faq/interviews",
+      "snippet": "4 questions and answers about Bonneville County Assessors Office Interviews. How should I prepare for an interview at Bonneville County Assessors Office?",
+      "query": "\"Bonneville County Assessors Office\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T14:07:35Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T14:07:35Z",
+  "company_status": "SUCCESS"
+}

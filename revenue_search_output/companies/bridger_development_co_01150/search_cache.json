@@ -1,0 +1,62 @@
+{
+  "company_key": "bridger development co.|https://bridgerslc.com",
+  "company_name": "Bridger Development Co.",
+  "company_website": "https://bridgerslc.com",
+  "created_at": "2026-10-23T13:53:36Z",
+  "searches": [
+    {
+      "query": "\"Bridger Development Co.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:53:42Z",
+      "page_title": "\"Bridger Development Co.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bridger+Development+Co.%22+revenue",
+      "results": [
+        {
+          "title": "Bridger Development Co | (206) 622-7454 | Seattle - AllBiz",
+          "url": "https://www.allbiz.com/business/bridger-development-company_1w-206-622-7454",
+          "snippet": "Craig Robinson is the primary contact at Bridger Development Co. Bridger Development Co generates approximately USD 1,706,200 in revenue annually, and employs around 4 people at this location."
+        },
+        {
+          "title": "Craig Robinson - PRESIDENT at Bridger Development Co - Cybo",
+          "url": "https://www.cybo.com/US-contact/bridger-development-co/Craig+Robinson",
+          "snippet": "Craig Robinson, PRESIDENT at Bridger Development Co. Located in Salt Lake City. Find contact information for Craig Robinson, including phone and fax number, email and more."
+        }
+      ]
+    },
+    {
+      "query": "\"Bridger Development Co.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:53:50Z",
+      "page_title": "\"Bridger Development Co.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bridger+Development+Co.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Craig Robinson - PRESIDENT at Bridger Development Co - Cybo",
+          "url": "https://www.cybo.com/US-contact/bridger-development-co/Craig+Robinson",
+          "snippet": "Craig Robinson, PRESIDENT at Bridger Development Co. Located in Salt Lake City. Find contact information for Craig Robinson, including phone and fax number, email and more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bridger Development Co | (206) 622-7454 | Seattle - AllBiz",
+      "url": "https://www.allbiz.com/business/bridger-development-company_1w-206-622-7454",
+      "snippet": "Craig Robinson is the primary contact at Bridger Development Co. Bridger Development Co generates approximately USD 1,706,200 in revenue annually, and employs around 4 people at this location.",
+      "query": "\"Bridger Development Co.\" revenue",
+      "search_collected_at": "2026-10-23T13:53:42Z"
+    },
+    {
+      "title": "Craig Robinson - PRESIDENT at Bridger Development Co - Cybo",
+      "url": "https://www.cybo.com/US-contact/bridger-development-co/Craig+Robinson",
+      "snippet": "Craig Robinson, PRESIDENT at Bridger Development Co. Located in Salt Lake City. Find contact information for Craig Robinson, including phone and fax number, email and more.",
+      "query": "\"Bridger Development Co.\" revenue",
+      "search_collected_at": "2026-10-23T13:53:42Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:53:50Z",
+  "company_status": "SUCCESS"
+}

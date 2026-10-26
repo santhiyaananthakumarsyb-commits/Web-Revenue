@@ -1,0 +1,67 @@
+{
+  "company_key": "bruce and co ltd|https://bruceandco.co.uk",
+  "company_name": "Bruce and Co Ltd",
+  "company_website": "https://bruceandco.co.uk",
+  "created_at": "2026-10-23T13:58:14Z",
+  "searches": [
+    {
+      "query": "\"Bruce and Co Ltd\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:58:20Z",
+      "page_title": "\"Bruce and Co Ltd\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bruce+and+Co+Ltd%22+revenue",
+      "results": [
+        {
+          "title": "G Bruce and Co Ltd Information - RocketReach",
+          "url": "https://rocketreach.co/g-bruce-and-co-ltd-profile_b5cf4ccdf42e09dd",
+          "snippet": "G Bruce and Co Ltd is a Grocery Retail, and Retail company located in Evesham, Hereford and Worcester with $5 million in revenue and 6 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "G Bruce And Co Ltd/Brusco - Employees, Contact info, Overview - Wiza",
+          "url": "https://wiza.co/d/g-bruce-and-co-ltd/6556",
+          "snippet": "G Bruce And Co Ltd/Brusco is a company located in Offenham, Worcestershire, United Kingdom. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to G Bruce And Co Ltd/Brusco."
+        }
+      ]
+    },
+    {
+      "query": "\"Bruce and Co Ltd\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:58:25Z",
+      "page_title": "\"Bruce and Co Ltd\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bruce+and+Co+Ltd%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "G Bruce and Co Ltd Information - RocketReach",
+          "url": "https://rocketreach.co/g-bruce-and-co-ltd-profile_b5cf4ccdf42e09dd",
+          "snippet": "What is the annual revenue of G Bruce and Co Ltd? The G Bruce and Co Ltd annual revenue was $5 million in 2026."
+        },
+        {
+          "title": "G Bruce And Co Ltd/Brusco - Employees, Contact info, Overview - Wiza",
+          "url": "https://wiza.co/d/g-bruce-and-co-ltd/6556",
+          "snippet": "G Bruce And Co Ltd/Brusco is a company located in Offenham, Worcestershire, United Kingdom. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to G Bruce And Co Ltd/Brusco."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "G Bruce and Co Ltd Information - RocketReach",
+      "url": "https://rocketreach.co/g-bruce-and-co-ltd-profile_b5cf4ccdf42e09dd",
+      "snippet": "G Bruce and Co Ltd is a Grocery Retail, and Retail company located in Evesham, Hereford and Worcester with $5 million in revenue and 6 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Bruce and Co Ltd\" revenue",
+      "search_collected_at": "2026-10-23T13:58:20Z"
+    },
+    {
+      "title": "G Bruce And Co Ltd/Brusco - Employees, Contact info, Overview - Wiza",
+      "url": "https://wiza.co/d/g-bruce-and-co-ltd/6556",
+      "snippet": "G Bruce And Co Ltd/Brusco is a company located in Offenham, Worcestershire, United Kingdom. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to G Bruce And Co Ltd/Brusco.",
+      "query": "\"Bruce and Co Ltd\" revenue",
+      "search_collected_at": "2026-10-23T13:58:20Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:58:25Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,96 @@
+{
+  "company_key": "bolton real estate services|https://bolton-realestate.com",
+  "company_name": "Bolton Real Estate Services",
+  "company_website": "https://bolton-realestate.com",
+  "created_at": "2026-10-23T13:46:05Z",
+  "searches": [
+    {
+      "query": "\"Bolton Real Estate Services\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:46:11Z",
+      "page_title": "\"Bolton Real Estate Services\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bolton+Real+Estate+Services%22+revenue",
+      "results": [
+        {
+          "title": "Nancy Thompson | Bolton Real Estate Services | Austin, TX - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/nancy-thompson/jz2tyf4b",
+          "snippet": "Nancy Thompson - Office, Retail, Land. View Nancy Thompson's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "Bolton Real Estate Services Real Estate Agency in AUSTIN, TX | realtor.com®",
+          "url": "https://www.realtor.com/realestateagency/589e50d5b8e9c1000ebf32be",
+          "snippet": "Find real estate agency Bolton Real Estate Services in AUSTIN, TX on realtor.com®, your source for top rated real estate professionals."
+        },
+        {
+          "title": "R. Chance Bolton | TALCB - Texas",
+          "url": "https://www.talcb.texas.gov/r-chance-bolton",
+          "snippet": "Additionally, he is the Owner/Broker of Bolton Real Estate Services, a commercial real estate brokerage firm. Mr. Bolton is a Texas Certified General Real Estate Appraiser and a licensed Texas Real Estate Broker."
+        },
+        {
+          "title": "Bolton Real Estate Services - HAR.com",
+          "url": "https://www.har.com/bolton-real-estate-services/broker_SABORTX-BOLT00",
+          "snippet": "Bolton Real Estate Services provides professional real estate services for both commercial and residential properties. Read more!"
+        }
+      ]
+    },
+    {
+      "query": "\"Bolton Real Estate Services\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:46:18Z",
+      "page_title": "\"Bolton Real Estate Services\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bolton+Real+Estate+Services%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Nancy Thompson | Bolton Real Estate Services | Austin, TX - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/nancy-thompson/jz2tyf4b",
+          "snippet": "Nancy Thompson - Office, Retail, Land. View Nancy Thompson's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "Bolton Real Estate Services Real Estate Agency in AUSTIN, TX | realtor.com®",
+          "url": "https://www.realtor.com/realestateagency/589e50d5b8e9c1000ebf32be",
+          "snippet": "Find real estate agency Bolton Real Estate Services in AUSTIN, TX on realtor.com®, your source for top rated real estate professionals."
+        },
+        {
+          "title": "R. Chance Bolton | TALCB - Texas",
+          "url": "https://www.talcb.texas.gov/r-chance-bolton",
+          "snippet": "R. Chance Bolton is the Managing Partner of Bolton Real Estate Consultants LLC, a 50 year old commercial real estate appraisal company specializing in complex appraisal assignments throughout Texas. Additionally, he is the Owner/Broker of Bolton Real Estate Services, a commercial real estate brokerage firm. Mr. Bolton is a Texas Certified General Real Estate Appraiser and a licensed Texas Real ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Nancy Thompson | Bolton Real Estate Services | Austin, TX - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/nancy-thompson/jz2tyf4b",
+      "snippet": "Nancy Thompson - Office, Retail, Land. View Nancy Thompson's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Bolton Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T13:46:11Z"
+    },
+    {
+      "title": "Bolton Real Estate Services Real Estate Agency in AUSTIN, TX | realtor.com®",
+      "url": "https://www.realtor.com/realestateagency/589e50d5b8e9c1000ebf32be",
+      "snippet": "Find real estate agency Bolton Real Estate Services in AUSTIN, TX on realtor.com®, your source for top rated real estate professionals.",
+      "query": "\"Bolton Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T13:46:11Z"
+    },
+    {
+      "title": "R. Chance Bolton | TALCB - Texas",
+      "url": "https://www.talcb.texas.gov/r-chance-bolton",
+      "snippet": "Additionally, he is the Owner/Broker of Bolton Real Estate Services, a commercial real estate brokerage firm. Mr. Bolton is a Texas Certified General Real Estate Appraiser and a licensed Texas Real Estate Broker.",
+      "query": "\"Bolton Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T13:46:11Z"
+    },
+    {
+      "title": "Bolton Real Estate Services - HAR.com",
+      "url": "https://www.har.com/bolton-real-estate-services/broker_SABORTX-BOLT00",
+      "snippet": "Bolton Real Estate Services provides professional real estate services for both commercial and residential properties. Read more!",
+      "query": "\"Bolton Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T13:46:11Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T13:46:18Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,62 @@
+{
+  "company_key": "berrada properties management, inc.|https://berradaproperties.com",
+  "company_name": "Berrada Properties Management, Inc.",
+  "company_website": "https://berradaproperties.com",
+  "created_at": "2026-10-23T13:07:52Z",
+  "searches": [
+    {
+      "query": "\"Berrada Properties Management, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:08:00Z",
+      "page_title": "\"Berrada Properties Management, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berrada+Properties+Management%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Berrada Properties Management, Inc. (B057888)",
+          "url": "https://apps.dfi.wi.gov/apps/CorpSearch/Details.aspx?entityID=B057888&hash=935063083&searchFunctionID=1fa2f8f4-b87f-4487-a003-df5121750238&type=Simple&q=Berrada",
+          "snippet": "BERRADA PROPERTIES MANAGEMENT, INC. You can: File an Annual Report - Request a Certificate of Status - File a Registered Agent/Office Update Form Vital Statistics Entity ID B057888 Registered Effective Date 09/11/2006 Period of Existence PER Status Restored to Good Standing Request a Certificate of Status Status Date 07/02/2026 Entity Type ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Berrada Properties Management, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:08:06Z",
+      "page_title": "\"Berrada Properties Management, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berrada+Properties+Management%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berrada Properties Management, Inc. (B057888)",
+          "url": "https://apps.dfi.wi.gov/apps/CorpSearch/Details.aspx?entityID=B057888&hash=935063083&searchFunctionID=1fa2f8f4-b87f-4487-a003-df5121750238&type=Simple&q=Berrada",
+          "snippet": "BERRADA PROPERTIES MANAGEMENT, INC. You can: File an Annual Report - Request a Certificate of Status - File a Registered Agent/Office Update Form Vital Statistics Entity ID B057888 Registered Effective Date 09/11/2006 Period of Existence PER Status Restored to Good Standing Request a Certificate of Status Status Date 07/02/2026 Entity Type ..."
+        },
+        {
+          "title": "BERRADA PROPERTIES MANAGEMENT, INC. in Madison, WI | Company Info",
+          "url": "https://www.bizapedia.com/wi/berrada-properties-management-inc.html",
+          "snippet": "Berrada Properties Management, Inc. is a Domestic Business Corporation organized under the laws of the State of Wisconsin. The business was filed on September 11, 2006 and is currently listed as Restored to Good Standing with the Wisconsin Department of Financial Institutions."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berrada Properties Management, Inc. (B057888)",
+      "url": "https://apps.dfi.wi.gov/apps/CorpSearch/Details.aspx?entityID=B057888&hash=935063083&searchFunctionID=1fa2f8f4-b87f-4487-a003-df5121750238&type=Simple&q=Berrada",
+      "snippet": "BERRADA PROPERTIES MANAGEMENT, INC. You can: File an Annual Report - Request a Certificate of Status - File a Registered Agent/Office Update Form Vital Statistics Entity ID B057888 Registered Effective Date 09/11/2006 Period of Existence PER Status Restored to Good Standing Request a Certificate of Status Status Date 07/02/2026 Entity Type ...",
+      "query": "\"Berrada Properties Management, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:08:00Z"
+    },
+    {
+      "title": "BERRADA PROPERTIES MANAGEMENT, INC. in Madison, WI | Company Info",
+      "url": "https://www.bizapedia.com/wi/berrada-properties-management-inc.html",
+      "snippet": "Berrada Properties Management, Inc. is a Domestic Business Corporation organized under the laws of the State of Wisconsin. The business was filed on September 11, 2006 and is currently listed as Restored to Good Standing with the Wisconsin Department of Financial Institutions.",
+      "query": "\"Berrada Properties Management, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:08:06Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:08:06Z",
+  "company_status": "SUCCESS"
+}

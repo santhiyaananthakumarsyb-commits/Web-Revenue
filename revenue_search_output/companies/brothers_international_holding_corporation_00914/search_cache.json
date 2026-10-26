@@ -1,0 +1,113 @@
+{
+  "company_key": "brothers international holding corporation|https://brothersintl.com",
+  "company_name": "Brothers International Holding Corporation",
+  "company_website": "https://brothersintl.com",
+  "created_at": "2026-10-23T13:01:48Z",
+  "searches": [
+    {
+      "query": "\"Brothers International Holding Corporation\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:01:56Z",
+      "page_title": "\"Brothers International Holding Corporation\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brothers+International+Holding+Corporation%22+revenue",
+      "results": [
+        {
+          "title": "Brothers International :: Home",
+          "url": "http://www.brothersintl.com/",
+          "snippet": "Proudly Owns and Provides Property Management for Prospective Businesses in San Francisco and the Bay Area. If you are searching for an office space, a new home for your business, or an outstanding location for a store or retail business, chances are Brothers International Holding Corporation has the perfect fit. We take great pride in offering premium commercial space in some of the most ..."
+        },
+        {
+          "title": "Brothers International Holding: Employee Directory - ZoomInfo",
+          "url": "https://www.zoominfo.com/pic/brothers-international-holding-corp/355420461",
+          "snippet": "Brothers International Holding Corporation is a holding company dedicated to providing premium commercial real estate properties and property management services to prospective businesses. We serve companies looking for office space, a location for corporate headquarters, or retails space for stores or restaurants."
+        },
+        {
+          "title": "Brothers International :: About Us",
+          "url": "http://brothersintl.com/about-us",
+          "snippet": "About Brothers International Brothers International Holding Corporation is a holding company dedicated to providing premium commercial real estate properties and property management services to prospective businesses. We serve companies looking for office space, a location for corporate headquarters, or retails space for stores or restaurants."
+        },
+        {
+          "title": "Brothers International Holding Corporation - Commercial Observer",
+          "url": "https://commercialobserver.com/company/brothers-international-holding-corporation/",
+          "snippet": "Articles about Brothers International Holding Corporation from Commercial Observer, New York's authority on commercial real estate leasing, financing, deals and culture."
+        },
+        {
+          "title": "Justin Kwan - Executive Director & Vice President at Brothers ...",
+          "url": "https://www.linkedin.com/in/justin-kwan-358828252",
+          "snippet": "Executive Director & Vice President at Brothers International Holding Corporation · Experience: BROTHERS INTERNATIONAL HOLDINGS CORP · Location: San Francisco. View Justin Kwan's profile on ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Brothers International Holding Corporation\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:02:05Z",
+      "page_title": "\"Brothers International Holding Corporation\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brothers+International+Holding+Corporation%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brothers International :: Home",
+          "url": "http://www.brothersintl.com/",
+          "snippet": "If you are searching for an office space, a new home for your business, or an outstanding location for a store or retail business, chances are Brothers International Holding Corporation has the perfect fit."
+        },
+        {
+          "title": "Brothers International Holding: Employee Directory - ZoomInfo",
+          "url": "https://www.zoominfo.com/pic/brothers-international-holding-corp/355420461",
+          "snippet": "Brothers International Holding Corporation is a holding company dedicated to providing premium commercial real estate properties and property management services to prospective businesses. We serve companies looking for office space, a location for corporate headquarters, or retails space for stores or restaurants."
+        },
+        {
+          "title": "Brothers International :: About Us",
+          "url": "http://brothersintl.com/about-us",
+          "snippet": "About Brothers International Brothers International Holding Corporation is a holding company dedicated to providing premium commercial real estate properties and property management services to prospective businesses. We serve companies looking for office space, a location for corporate headquarters, or retails space for stores or restaurants."
+        },
+        {
+          "title": "Brothers International Holding Corporation - Commercial Observer",
+          "url": "https://commercialobserver.com/company/brothers-international-holding-corporation/",
+          "snippet": "Articles about Brothers International Holding Corporation from Commercial Observer, New York's authority on commercial real estate leasing, financing, deals and culture."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brothers International :: Home",
+      "url": "http://www.brothersintl.com/",
+      "snippet": "Proudly Owns and Provides Property Management for Prospective Businesses in San Francisco and the Bay Area. If you are searching for an office space, a new home for your business, or an outstanding location for a store or retail business, chances are Brothers International Holding Corporation has the perfect fit. We take great pride in offering premium commercial space in some of the most ...",
+      "query": "\"Brothers International Holding Corporation\" revenue",
+      "search_collected_at": "2026-10-23T13:01:56Z"
+    },
+    {
+      "title": "Brothers International Holding: Employee Directory - ZoomInfo",
+      "url": "https://www.zoominfo.com/pic/brothers-international-holding-corp/355420461",
+      "snippet": "Brothers International Holding Corporation is a holding company dedicated to providing premium commercial real estate properties and property management services to prospective businesses. We serve companies looking for office space, a location for corporate headquarters, or retails space for stores or restaurants.",
+      "query": "\"Brothers International Holding Corporation\" revenue",
+      "search_collected_at": "2026-10-23T13:01:56Z"
+    },
+    {
+      "title": "Brothers International :: About Us",
+      "url": "http://brothersintl.com/about-us",
+      "snippet": "About Brothers International Brothers International Holding Corporation is a holding company dedicated to providing premium commercial real estate properties and property management services to prospective businesses. We serve companies looking for office space, a location for corporate headquarters, or retails space for stores or restaurants.",
+      "query": "\"Brothers International Holding Corporation\" revenue",
+      "search_collected_at": "2026-10-23T13:01:56Z"
+    },
+    {
+      "title": "Brothers International Holding Corporation - Commercial Observer",
+      "url": "https://commercialobserver.com/company/brothers-international-holding-corporation/",
+      "snippet": "Articles about Brothers International Holding Corporation from Commercial Observer, New York's authority on commercial real estate leasing, financing, deals and culture.",
+      "query": "\"Brothers International Holding Corporation\" revenue",
+      "search_collected_at": "2026-10-23T13:01:56Z"
+    },
+    {
+      "title": "Justin Kwan - Executive Director & Vice President at Brothers ...",
+      "url": "https://www.linkedin.com/in/justin-kwan-358828252",
+      "snippet": "Executive Director & Vice President at Brothers International Holding Corporation · Experience: BROTHERS INTERNATIONAL HOLDINGS CORP · Location: San Francisco. View Justin Kwan's profile on ...",
+      "query": "\"Brothers International Holding Corporation\" revenue",
+      "search_collected_at": "2026-10-23T13:01:56Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T13:02:05Z",
+  "company_status": "SUCCESS"
+}

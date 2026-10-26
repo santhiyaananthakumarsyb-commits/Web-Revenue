@@ -1,0 +1,96 @@
+{
+  "company_key": "brown & co|https://brown-co.com",
+  "company_name": "Brown & Co",
+  "company_website": "https://brown-co.com",
+  "created_at": "2026-10-23T10:05:40Z",
+  "searches": [
+    {
+      "query": "\"Brown & Co\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:05:47Z",
+      "page_title": "\"Brown & Co\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brown+%26+Co%22+revenue",
+      "results": [
+        {
+          "title": "Brown & Co Revenue, Funding & Valuation - prospeo.io",
+          "url": "https://prospeo.io/c/brown-co-revenue",
+          "snippet": "Brown & Co has revenue of $171,110, estimated valuation of $547,552. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "Brown and Co: Revenue, Competitors, Alternatives",
+          "url": "https://growjo.com/company/Brown_and_Co",
+          "snippet": "Brown & Co are a leading provider of property and business consultancy services across the residential, commercial and agricultural sectors. We have specialist teams in Architecture, planning, property management, land agency, valuation and auctions."
+        },
+        {
+          "title": "Brown & Co | Customers | Ignition",
+          "url": "https://www.ignitionapp.com/customers/brown-co",
+          "snippet": "Brown & Co grows revenue 8x and halves debtor days with Ignition By implementing Ignition, Brown & Co transformed how it sells, bills, and gets paid. The firm built a scalable recurring revenue model, accelerated proposals, and gained predictable cash flow as it expanded through acquisitions."
+        },
+        {
+          "title": "PDF BROWN AND COMPANY PLC Annual Report 2024/25",
+          "url": "https://www.brownsgroup.com/pdf/browns_annual_report_2024_2025.pdf",
+          "snippet": "Supplied and installed by the Engineering Division of Brown & Co. the advanced machinery, including a Mascerator, Dryer, Rotary Cutter, Extruder and Hydraulic Baling Press, enabled the production of the high grade Cenat rubber product."
+        }
+      ]
+    },
+    {
+      "query": "\"Brown & Co\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:05:53Z",
+      "page_title": "\"Brown & Co\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brown+%26+Co%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brown & Co Revenue, Funding & Valuation - prospeo.io",
+          "url": "https://prospeo.io/c/brown-co-revenue",
+          "snippet": "Brown & Co has revenue of $171,110, estimated valuation of $547,552. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "PDF BROWN AND COMPANY PLC Annual Report 2024/25 BRO",
+          "url": "https://www.brownsgroup.com/pdf/browns_annual_report_2024_2025.pdf",
+          "snippet": "Supplied and installed by the Engineering Division of Brown & Co. the advanced machinery, including a Mascerator, Dryer, Rotary Cutter, Extruder and Hydraulic Baling Press, enabled the production of the high grade Cenat rubber product."
+        },
+        {
+          "title": "Brown & Co | Customers | Ignition",
+          "url": "https://www.ignitionapp.com/customers/brown-co",
+          "snippet": "Brown & Co implemented Ignition in early 2020 as the foundation for a new recurring-revenue model. The firm began using Ignition to create professional proposals and engagement letters, capture client approvals, and automatically charge clients for services through recurring payments."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brown & Co Revenue, Funding & Valuation - prospeo.io",
+      "url": "https://prospeo.io/c/brown-co-revenue",
+      "snippet": "Brown & Co has revenue of $171,110, estimated valuation of $547,552. Find contacts and company information on Prospeo.",
+      "query": "\"Brown & Co\" revenue",
+      "search_collected_at": "2026-10-23T10:05:47Z"
+    },
+    {
+      "title": "Brown and Co: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Brown_and_Co",
+      "snippet": "Brown & Co are a leading provider of property and business consultancy services across the residential, commercial and agricultural sectors. We have specialist teams in Architecture, planning, property management, land agency, valuation and auctions.",
+      "query": "\"Brown & Co\" revenue",
+      "search_collected_at": "2026-10-23T10:05:47Z"
+    },
+    {
+      "title": "Brown & Co | Customers | Ignition",
+      "url": "https://www.ignitionapp.com/customers/brown-co",
+      "snippet": "Brown & Co grows revenue 8x and halves debtor days with Ignition By implementing Ignition, Brown & Co transformed how it sells, bills, and gets paid. The firm built a scalable recurring revenue model, accelerated proposals, and gained predictable cash flow as it expanded through acquisitions.",
+      "query": "\"Brown & Co\" revenue",
+      "search_collected_at": "2026-10-23T10:05:47Z"
+    },
+    {
+      "title": "PDF BROWN AND COMPANY PLC Annual Report 2024/25",
+      "url": "https://www.brownsgroup.com/pdf/browns_annual_report_2024_2025.pdf",
+      "snippet": "Supplied and installed by the Engineering Division of Brown & Co. the advanced machinery, including a Mascerator, Dryer, Rotary Cutter, Extruder and Hydraulic Baling Press, enabled the production of the high grade Cenat rubber product.",
+      "query": "\"Brown & Co\" revenue",
+      "search_collected_at": "2026-10-23T10:05:47Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T10:05:53Z",
+  "company_status": "SUCCESS"
+}

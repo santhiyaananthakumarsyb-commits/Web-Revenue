@@ -1,0 +1,50 @@
+{
+  "company_key": "blue emerald real estate co & property management|https://blueemeraldrealestate.com",
+  "company_name": "Blue Emerald Real Estate Co & Property Management",
+  "company_website": "https://blueemeraldrealestate.com",
+  "created_at": "2026-10-23T11:58:48Z",
+  "searches": [
+    {
+      "query": "\"Blue Emerald Real Estate Co & Property Management\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:58:55Z",
+      "page_title": "\"Blue Emerald Real Estate Co & Property Management\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Emerald+Real+Estate+Co+%26+Property+Management%22+revenue",
+      "results": [
+        {
+          "title": "Blue Emerald Real Estate Co & Property Management - Angi",
+          "url": "https://www.angi.com/companylist/us/wa/federal-way/blue-emerald-real-estate-co-and-property-management-reviews-2554882.htm",
+          "snippet": "See reviews for Blue Emerald Real Estate Co & Property Management in Federal Way, WA at 2100 S 314th St from Angi members or join today to leave your own review."
+        }
+      ]
+    },
+    {
+      "query": "\"Blue Emerald Real Estate Co & Property Management\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:59:02Z",
+      "page_title": "\"Blue Emerald Real Estate Co & Property Management\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Emerald+Real+Estate+Co+%26+Property+Management%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blue Emerald Real Estate Co & Property Management - Angi",
+          "url": "https://www.angi.com/companylist/us/wa/federal-way/blue-emerald-real-estate-co-and-property-management-reviews-2554882.htm",
+          "snippet": "See reviews for Blue Emerald Real Estate Co & Property Management in Federal Way, WA at 2100 S 314th St from Angi members or join today to leave your own review."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blue Emerald Real Estate Co & Property Management - Angi",
+      "url": "https://www.angi.com/companylist/us/wa/federal-way/blue-emerald-real-estate-co-and-property-management-reviews-2554882.htm",
+      "snippet": "See reviews for Blue Emerald Real Estate Co & Property Management in Federal Way, WA at 2100 S 314th St from Angi members or join today to leave your own review.",
+      "query": "\"Blue Emerald Real Estate Co & Property Management\" revenue",
+      "search_collected_at": "2026-10-23T11:58:55Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:59:02Z",
+  "company_status": "SUCCESS"
+}

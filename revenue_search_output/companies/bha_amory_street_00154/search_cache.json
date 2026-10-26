@@ -1,0 +1,30 @@
+{
+  "company_key": "bha -  amory street|https://bostonhousing.org",
+  "company_name": "BHA -  Amory Street",
+  "company_website": "https://bostonhousing.org",
+  "created_at": "2026-10-23T10:17:43Z",
+  "searches": [
+    {
+      "query": "\"BHA -  Amory Street\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:17:50Z",
+      "page_title": "\"BHA - Amory Street\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHA+-++Amory+Street%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"BHA -  Amory Street\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:17:58Z",
+      "page_title": "\"BHA - Amory Street\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHA+-++Amory+Street%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:17:58Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

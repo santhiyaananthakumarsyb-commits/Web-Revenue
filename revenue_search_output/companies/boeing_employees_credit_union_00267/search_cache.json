@@ -1,0 +1,62 @@
+{
+  "company_key": "boeing employees’ credit union|https://becu.org",
+  "company_name": "Boeing Employees’ Credit Union",
+  "company_website": "https://becu.org",
+  "created_at": "2026-10-23T10:41:59Z",
+  "searches": [
+    {
+      "query": "\"Boeing Employees’ Credit Union\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:42:07Z",
+      "page_title": "\"Boeing Employees' Credit Union\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boeing+Employees%E2%80%99+Credit+Union%22+revenue",
+      "results": [
+        {
+          "title": "The Boeing Employees' Credit Union | (212) 902-1000 | Brooklyn - AllBiz",
+          "url": "https://www.allbiz.com/business/the-boeing-employees-credit-union_6g-212-902-1000",
+          "snippet": "Shelly Evoy is the primary contact at The Boeing Employees' Credit Union. The Boeing Employees' Credit Union generates approximately USD 140,697,893 in revenue annually, and employs around 30 people at this location."
+        }
+      ]
+    },
+    {
+      "query": "\"Boeing Employees’ Credit Union\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:42:12Z",
+      "page_title": "\"Boeing Employees' Credit Union\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boeing+Employees%E2%80%99+Credit+Union%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "The Boeing Employees' Credit Union | (212) 902-1000 | Brooklyn - AllBiz",
+          "url": "https://www.allbiz.com/business/the-boeing-employees-credit-union_6g-212-902-1000",
+          "snippet": "Shelly Evoy is the primary contact at The Boeing Employees' Credit Union. The Boeing Employees' Credit Union generates approximately USD 140,697,893 in revenue annually, and employs around 30 people at this location."
+        },
+        {
+          "title": "Boeing Employees' Credit Union 2025 Annual Report - Free PDF",
+          "url": "https://www.sustainabilityreports.com/becu/2025/report-to-membership",
+          "snippet": "Download Boeing Employees' Credit Union's 2025 Annual Report PDF with structured document metadata from SustainabilityReports.com."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Boeing Employees' Credit Union | (212) 902-1000 | Brooklyn - AllBiz",
+      "url": "https://www.allbiz.com/business/the-boeing-employees-credit-union_6g-212-902-1000",
+      "snippet": "Shelly Evoy is the primary contact at The Boeing Employees' Credit Union. The Boeing Employees' Credit Union generates approximately USD 140,697,893 in revenue annually, and employs around 30 people at this location.",
+      "query": "\"Boeing Employees’ Credit Union\" revenue",
+      "search_collected_at": "2026-10-23T10:42:07Z"
+    },
+    {
+      "title": "Boeing Employees' Credit Union 2025 Annual Report - Free PDF",
+      "url": "https://www.sustainabilityreports.com/becu/2025/report-to-membership",
+      "snippet": "Download Boeing Employees' Credit Union's 2025 Annual Report PDF with structured document metadata from SustainabilityReports.com.",
+      "query": "\"Boeing Employees’ Credit Union\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:42:12Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:42:12Z",
+  "company_status": "SUCCESS"
+}

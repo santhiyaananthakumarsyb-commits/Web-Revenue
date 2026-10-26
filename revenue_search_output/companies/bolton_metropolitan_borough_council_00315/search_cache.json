@@ -1,0 +1,134 @@
+{
+  "company_key": "bolton metropolitan borough council|https://bolton.gov.uk",
+  "company_name": "Bolton Metropolitan Borough Council",
+  "company_website": "https://bolton.gov.uk",
+  "created_at": "2026-10-23T10:52:25Z",
+  "searches": [
+    {
+      "query": "\"Bolton Metropolitan Borough Council\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:52:32Z",
+      "page_title": "\"Bolton Metropolitan Borough Council\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bolton+Metropolitan+Borough+Council%22+revenue",
+      "results": [
+        {
+          "title": "Bolton Metropolitan Borough Council - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bolton-metropolitan-borough-council/1165810198",
+          "snippet": "View Bolton Metropolitan Borough Council (st-barts.bolton.sch.uk) location in Lancashire, United Kingdom , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "PDF Colour palette",
+          "url": "https://bolton.moderngov.co.uk/documents/s3885/Item 6 - Bolton Council AAR 22-23 - FINAL.pdf",
+          "snippet": "Our Auditor's Annual Report (AAR) summarises the work we have undertaken as the auditor for Bolton Metropolitan Borough Council ('the Council') for the year ended 31 March 2023. Although this report is addressed to the Council, it is designed to be read by a wider audience including members of the public and other external stakeholders."
+        },
+        {
+          "title": "Bolton Council Analysis & Market Share Overview | Similarweb",
+          "url": "https://www.similarweb.com/company/bolton.gov.uk/",
+          "snippet": "Bolton Council, also called Bolton Metropolitan Borough Council is the local authority of the Metropolitan Borough of Bolton in Greater Manchester, England."
+        },
+        {
+          "title": "Bolton Metropolitan Borough Council | 01942 634567 | Bolton - BizSeek",
+          "url": "https://www.bizseek.co.uk/bolton-metropolitan-borough-council_47H-01942-634567",
+          "snippet": "Bolton Metropolitan Borough Council generates approximately 0 - 250,000 in revenue annually."
+        },
+        {
+          "title": "Bolton Council - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bolton_Council",
+          "snippet": "Bolton Council, or Bolton Metropolitan Borough Council, is the local authority of the Metropolitan Borough of Bolton in Greater Manchester, England. It is a metropolitan borough council and provides the majority of local government services in the borough."
+        }
+      ]
+    },
+    {
+      "query": "\"Bolton Metropolitan Borough Council\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:52:37Z",
+      "page_title": "\"Bolton Metropolitan Borough Council\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bolton+Metropolitan+Borough+Council%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "PDF Auditor's Annual Report",
+          "url": "https://bolton.moderngov.co.uk/documents/s3885/Item 6 - Bolton Council AAR 22-23 - FINAL.pdf",
+          "snippet": "Purpose of the Auditor's Annual Report Our Auditor's Annual Report (AAR) summarises the work we have undertaken as the auditor for Bolton Metropolitan Borough Council ('the Council') for the year ended 31 March 2023. Although this report is addressed to the Council, it is designed to be read by a wider audience including members of the public and other external stakeholders."
+        },
+        {
+          "title": "Bolton Metropolitan Borough Council - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bolton-metropolitan-borough-council/1152805967",
+          "snippet": "View Bolton Metropolitan Borough Council (thevalley.bolton.sch.uk) location in Lancashire, United Kingdom , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Bolton Metropolitan Borough Council - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/bolton-metropolitan-borough-council",
+          "snippet": "Bolton Metropolitan Borough Council provides local government services and information for residents, businesses and visitors. The council administers housing and council tax, business rates, planning applications and licensing."
+        },
+        {
+          "title": "Bolton Borough Council | opengovt",
+          "url": "https://www.opengovt.uk/councils/bolton",
+          "snippet": "Bolton Council, or Bolton Metropolitan Borough Council, is the local authority of the Metropolitan Borough of Bolton in Greater Manchester, England. It is a Metropolitan Borough Council and provides the majority of local government services in the Borough."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bolton Metropolitan Borough Council - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/bolton-metropolitan-borough-council/1165810198",
+      "snippet": "View Bolton Metropolitan Borough Council (st-barts.bolton.sch.uk) location in Lancashire, United Kingdom , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Bolton Metropolitan Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:52:32Z"
+    },
+    {
+      "title": "PDF Colour palette",
+      "url": "https://bolton.moderngov.co.uk/documents/s3885/Item 6 - Bolton Council AAR 22-23 - FINAL.pdf",
+      "snippet": "Our Auditor's Annual Report (AAR) summarises the work we have undertaken as the auditor for Bolton Metropolitan Borough Council ('the Council') for the year ended 31 March 2023. Although this report is addressed to the Council, it is designed to be read by a wider audience including members of the public and other external stakeholders.",
+      "query": "\"Bolton Metropolitan Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:52:32Z"
+    },
+    {
+      "title": "Bolton Council Analysis & Market Share Overview | Similarweb",
+      "url": "https://www.similarweb.com/company/bolton.gov.uk/",
+      "snippet": "Bolton Council, also called Bolton Metropolitan Borough Council is the local authority of the Metropolitan Borough of Bolton in Greater Manchester, England.",
+      "query": "\"Bolton Metropolitan Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:52:32Z"
+    },
+    {
+      "title": "Bolton Metropolitan Borough Council | 01942 634567 | Bolton - BizSeek",
+      "url": "https://www.bizseek.co.uk/bolton-metropolitan-borough-council_47H-01942-634567",
+      "snippet": "Bolton Metropolitan Borough Council generates approximately 0 - 250,000 in revenue annually.",
+      "query": "\"Bolton Metropolitan Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:52:32Z"
+    },
+    {
+      "title": "Bolton Council - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bolton_Council",
+      "snippet": "Bolton Council, or Bolton Metropolitan Borough Council, is the local authority of the Metropolitan Borough of Bolton in Greater Manchester, England. It is a metropolitan borough council and provides the majority of local government services in the borough.",
+      "query": "\"Bolton Metropolitan Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T10:52:32Z"
+    },
+    {
+      "title": "Bolton Metropolitan Borough Council - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/bolton-metropolitan-borough-council/1152805967",
+      "snippet": "View Bolton Metropolitan Borough Council (thevalley.bolton.sch.uk) location in Lancashire, United Kingdom , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Bolton Metropolitan Borough Council\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:52:37Z"
+    },
+    {
+      "title": "Bolton Metropolitan Borough Council - Crunchbase",
+      "url": "https://www.crunchbase.com/organization/bolton-metropolitan-borough-council",
+      "snippet": "Bolton Metropolitan Borough Council provides local government services and information for residents, businesses and visitors. The council administers housing and council tax, business rates, planning applications and licensing.",
+      "query": "\"Bolton Metropolitan Borough Council\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:52:37Z"
+    },
+    {
+      "title": "Bolton Borough Council | opengovt",
+      "url": "https://www.opengovt.uk/councils/bolton",
+      "snippet": "Bolton Council, or Bolton Metropolitan Borough Council, is the local authority of the Metropolitan Borough of Bolton in Greater Manchester, England. It is a Metropolitan Borough Council and provides the majority of local government services in the Borough.",
+      "query": "\"Bolton Metropolitan Borough Council\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:52:37Z"
+    }
+  ],
+  "result_count": 8,
+  "updated_at": "2026-10-23T10:52:37Z",
+  "company_status": "SUCCESS"
+}

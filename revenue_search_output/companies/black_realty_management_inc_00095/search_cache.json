@@ -1,0 +1,50 @@
+{
+  "company_key": "black realty management, inc.|https://blackrealtymanagement.com",
+  "company_name": "Black Realty Management, Inc.",
+  "company_website": "https://blackrealtymanagement.com",
+  "created_at": "2026-10-23T10:05:05Z",
+  "searches": [
+    {
+      "query": "\"Black Realty Management, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:05:11Z",
+      "page_title": "\"Black Realty Management, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Black+Realty+Management%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BLACK REALTY MANAGEMENT, INC. Company Profile: Financials, Valuation ...",
+          "url": "https://system.privco.com/company/black-realty_private_stock_annual_report_financials",
+          "snippet": "BLACK REALTY MANAGEMENT, INC. is a privately-held company that operates in the real estate industry. BLACK REALTY MANAGEMENT, INC. headquarters are located in Spokane, Washington."
+        }
+      ]
+    },
+    {
+      "query": "\"Black Realty Management, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:05:18Z",
+      "page_title": "\"Black Realty Management, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Black+Realty+Management%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BLACK REALTY MANAGEMENT, INC. Company Profile: Financials, Valuation ...",
+          "url": "https://system.privco.com/company/black-realty_private_stock_annual_report_financials",
+          "snippet": "BLACK REALTY MANAGEMENT, INC. is a privately-held company that operates in the real estate industry. BLACK REALTY MANAGEMENT, INC. headquarters are located in Spokane, Washington."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BLACK REALTY MANAGEMENT, INC. Company Profile: Financials, Valuation ...",
+      "url": "https://system.privco.com/company/black-realty_private_stock_annual_report_financials",
+      "snippet": "BLACK REALTY MANAGEMENT, INC. is a privately-held company that operates in the real estate industry. BLACK REALTY MANAGEMENT, INC. headquarters are located in Spokane, Washington.",
+      "query": "\"Black Realty Management, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:05:11Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:05:18Z",
+  "company_status": "SUCCESS"
+}

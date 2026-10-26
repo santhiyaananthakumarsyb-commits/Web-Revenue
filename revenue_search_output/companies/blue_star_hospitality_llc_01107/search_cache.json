@@ -1,0 +1,79 @@
+{
+  "company_key": "blue star hospitality, llc|https://bluestarhospitality.net",
+  "company_name": "Blue Star Hospitality, LLC",
+  "company_website": "https://bluestarhospitality.net",
+  "created_at": "2026-10-23T13:44:13Z",
+  "searches": [
+    {
+      "query": "\"Blue Star Hospitality, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:44:21Z",
+      "page_title": "\"Blue Star Hospitality, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Star+Hospitality%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Blue Star Hospitality, LLC - LinkedIn",
+          "url": "https://www.linkedin.com/company/bluestarhospitality",
+          "snippet": "Blue Star Hospitality, LLC is a hotel management company that operates and develops hotels in the US, and affiliates of the company operate hotels outside of the US."
+        },
+        {
+          "title": "Blue Star Hospitality | Hospitality Investments | Real Estate ...",
+          "url": "https://bluestarhospitality.net/",
+          "snippet": "Blue Star Hospitality, LLC is a hotel management company that operates and develops hotels in the US, and affiliates of the company operate hotels outside of the US. The company's history started in 1995 with the development of its first Holiday Inn Express franchise, followed by 26+ hotels and other retail and real estate developments in North Carolina, South Carolina, Tennessee, and ..."
+        },
+        {
+          "title": "Contact Us - Blue Star Hospitality",
+          "url": "https://bluestarhospitality.net/contact-us/",
+          "snippet": "Blue Star Hospitality, LLC PO Box 759 Fletcher, NC 28732 828-687-0378 We are actively seeking hospitality investments which can be repositioned by changes in branding, management, rehabilitation, and marketing."
+        }
+      ]
+    },
+    {
+      "query": "\"Blue Star Hospitality, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:44:29Z",
+      "page_title": "\"Blue Star Hospitality, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Star+Hospitality%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blue Star Hospitality | Hospitality Investments | Real Estate ...",
+          "url": "https://bluestarhospitality.net/",
+          "snippet": "Blue Star Hospitality, LLC is a hotel management company that operates and develops hotels in the US, and affiliates of the company operate hotels outside of the US. The company's history started in 1995 with the development of its first Holiday Inn Express franchise, followed by 26+ hotels and other retail and real estate developments in North Carolina, South Carolina, Tennessee, and ..."
+        },
+        {
+          "title": "Blue Star Hospitality, LLC - LinkedIn",
+          "url": "https://www.linkedin.com/company/bluestarhospitality",
+          "snippet": "Blue Star Hospitality, LLC is a hotel management company that operates and develops hotels in the US, and affiliates of the company operate hotels outside of the US."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blue Star Hospitality, LLC - LinkedIn",
+      "url": "https://www.linkedin.com/company/bluestarhospitality",
+      "snippet": "Blue Star Hospitality, LLC is a hotel management company that operates and develops hotels in the US, and affiliates of the company operate hotels outside of the US.",
+      "query": "\"Blue Star Hospitality, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:44:21Z"
+    },
+    {
+      "title": "Blue Star Hospitality | Hospitality Investments | Real Estate ...",
+      "url": "https://bluestarhospitality.net/",
+      "snippet": "Blue Star Hospitality, LLC is a hotel management company that operates and develops hotels in the US, and affiliates of the company operate hotels outside of the US. The company's history started in 1995 with the development of its first Holiday Inn Express franchise, followed by 26+ hotels and other retail and real estate developments in North Carolina, South Carolina, Tennessee, and ...",
+      "query": "\"Blue Star Hospitality, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:44:21Z"
+    },
+    {
+      "title": "Contact Us - Blue Star Hospitality",
+      "url": "https://bluestarhospitality.net/contact-us/",
+      "snippet": "Blue Star Hospitality, LLC PO Box 759 Fletcher, NC 28732 828-687-0378 We are actively seeking hospitality investments which can be repositioned by changes in branding, management, rehabilitation, and marketing.",
+      "query": "\"Blue Star Hospitality, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:44:21Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:44:29Z",
+  "company_status": "SUCCESS"
+}

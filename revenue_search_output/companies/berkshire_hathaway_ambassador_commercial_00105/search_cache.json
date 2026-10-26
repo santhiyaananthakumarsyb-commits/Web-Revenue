@@ -1,0 +1,56 @@
+{
+  "company_key": "berkshire hathaway ambassador commercial|https://bhhsambcommercial.com",
+  "company_name": "Berkshire Hathaway Ambassador Commercial",
+  "company_website": "https://bhhsambcommercial.com",
+  "created_at": "2026-10-23T10:07:08Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Ambassador Commercial\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:07:15Z",
+      "page_title": "\"Berkshire Hathaway Ambassador Commercial\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Ambassador+Commercial%22+revenue",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Ambassador Commercial - Omaha, NE",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-ambassador-commercial/c9m1g5dl/",
+          "snippet": "Berkshire Hathaway Ambassador Commercial, formerly Ambassador Real Estate, operates as a commercial real estate brokerage within the broader BHHS Ambassador organization. The business grew out of Ambassador Real Estate and later adopted the Berkshire Hathaway HomeServices brand, while keeping a regional focus on commercial property services. Services include sales, leasing, property management ..."
+        },
+        {
+          "title": "Berkshire Hathaway Ambassador Commercial - Showcase",
+          "url": "https://www.showcase.com/c/berkshire-hathaway-ambassador-commercial-omaha/239974",
+          "snippet": "Contact Berkshire Hathaway Ambassador Commercial in Omaha, NE, for inquiries about their commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Ambassador Commercial\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:07:23Z",
+      "page_title": "\"Berkshire Hathaway Ambassador Commercial\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Ambassador+Commercial%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Hathaway Ambassador Commercial - Omaha, NE",
+      "url": "https://www.loopnet.com/company/berkshire-hathaway-ambassador-commercial/c9m1g5dl/",
+      "snippet": "Berkshire Hathaway Ambassador Commercial, formerly Ambassador Real Estate, operates as a commercial real estate brokerage within the broader BHHS Ambassador organization. The business grew out of Ambassador Real Estate and later adopted the Berkshire Hathaway HomeServices brand, while keeping a regional focus on commercial property services. Services include sales, leasing, property management ...",
+      "query": "\"Berkshire Hathaway Ambassador Commercial\" revenue",
+      "search_collected_at": "2026-10-23T10:07:15Z"
+    },
+    {
+      "title": "Berkshire Hathaway Ambassador Commercial - Showcase",
+      "url": "https://www.showcase.com/c/berkshire-hathaway-ambassador-commercial-omaha/239974",
+      "snippet": "Contact Berkshire Hathaway Ambassador Commercial in Omaha, NE, for inquiries about their commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"Berkshire Hathaway Ambassador Commercial\" revenue",
+      "search_collected_at": "2026-10-23T10:07:15Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:07:23Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,56 @@
+{
+  "company_key": "better properties commercial|https://betterpropertiesupf.com",
+  "company_name": "Better Properties Commercial",
+  "company_website": "https://betterpropertiesupf.com",
+  "created_at": "2026-10-23T11:31:01Z",
+  "searches": [
+    {
+      "query": "\"Better Properties Commercial\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:31:07Z",
+      "page_title": "\"Better Properties Commercial\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Properties+Commercial%22+revenue",
+      "results": [
+        {
+          "title": "Better Properties Commercial Properties for Sale - Crexi.com",
+          "url": "https://www.crexi.com/brokerage/Better_Properties_Commercial",
+          "snippet": "Search for Better Properties Commercial listed properties, review due diligence and submit offers on commercial properties at Crexi.com."
+        },
+        {
+          "title": "Better Properties Commercial - Tacoma, WA - LoopNet",
+          "url": "https://www.loopnet.com/company/better-properties-commercial/ew171cnl/",
+          "snippet": "If you're looking for real estate, homes or property in the state of Washington, they can help you choose the right home or property for your needs and will guide you toward making an informed real estate decision."
+        }
+      ]
+    },
+    {
+      "query": "\"Better Properties Commercial\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:31:14Z",
+      "page_title": "\"Better Properties Commercial\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Properties+Commercial%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Better Properties Commercial Properties for Sale - Crexi.com",
+      "url": "https://www.crexi.com/brokerage/Better_Properties_Commercial",
+      "snippet": "Search for Better Properties Commercial listed properties, review due diligence and submit offers on commercial properties at Crexi.com.",
+      "query": "\"Better Properties Commercial\" revenue",
+      "search_collected_at": "2026-10-23T11:31:07Z"
+    },
+    {
+      "title": "Better Properties Commercial - Tacoma, WA - LoopNet",
+      "url": "https://www.loopnet.com/company/better-properties-commercial/ew171cnl/",
+      "snippet": "If you're looking for real estate, homes or property in the state of Washington, they can help you choose the right home or property for your needs and will guide you toward making an informed real estate decision.",
+      "query": "\"Better Properties Commercial\" revenue",
+      "search_collected_at": "2026-10-23T11:31:07Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:31:14Z",
+  "company_status": "SUCCESS"
+}

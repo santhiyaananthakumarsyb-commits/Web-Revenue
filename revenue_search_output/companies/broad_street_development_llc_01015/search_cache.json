@@ -1,0 +1,101 @@
+{
+  "company_key": "broad street development llc|https://bsdre.com",
+  "company_name": "Broad Street Development LLC",
+  "company_website": "https://bsdre.com",
+  "created_at": "2026-10-23T13:23:54Z",
+  "searches": [
+    {
+      "query": "\"Broad Street Development LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:23:59Z",
+      "page_title": "\"Broad Street Development LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broad+Street+Development+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Broad Street Development LLC Information - RocketReach",
+          "url": "https://rocketreach.co/broad-street-development-llc-profile_b4b99cd4fb13c076",
+          "snippet": "Broad Street Development LLC is a Real Estate company located in New York, New York with $8.8 million in revenue and 21 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Broad Street Development LLC | (212) 609-3700 | New York City - AllBiz",
+          "url": "https://www.allbiz.com/business/broad-street-development-llc_3X-212-609-3700",
+          "snippet": "Broad Street Development LLC is located in New York City, and was founded in 2004. Annual sales for Broad Street Development LLC are around USD 500,000 - 999,999."
+        },
+        {
+          "title": "Broad Street Development LLC - New York, NY - LoopNet",
+          "url": "https://www.loopnet.com/company/broad-street-development-llc/s4dwhm5l/",
+          "snippet": "Broad Street Development (\"BSD\") is a privately held, New York-based real estate developer, investor and operator founded in 2004 by Raymond Chalme' and Daniel Blanco, each bringing over 20 years of institutional real estate experience in acquisitions, finance, development, management, sales and leasing."
+        },
+        {
+          "title": "David Israni | Broad Street Development LLC | New York, NY - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/David-Israni/8gth7b0b",
+          "snippet": "Since joining Broad Street Development in 2006, David has brokered deals of nearly 1.5 million square feet and accounting for over $500 million in revenue for the commercial portfolio and has maintained a 99% occupancy across the residential portfolio. In addition, David is an integral part of the due diligence team."
+        }
+      ]
+    },
+    {
+      "query": "\"Broad Street Development LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:24:04Z",
+      "page_title": "\"Broad Street Development LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broad+Street+Development+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Broad Street Development LLC Information - RocketReach",
+          "url": "https://rocketreach.co/broad-street-development-llc-profile_b4b99cd4fb13c076",
+          "snippet": "Broad Street Development LLC is a Real Estate company located in New York, New York with $8.8 million in revenue and 21 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Broad Street Development LLC | (212) 609-3700 | New York City - AllBiz",
+          "url": "https://www.allbiz.com/business/broad-street-development-llc_3X-212-609-3700",
+          "snippet": "Broad Street Development LLC is located in New York City, and was founded in 2004. Annual sales for Broad Street Development LLC are around USD 500,000 - 999,999."
+        },
+        {
+          "title": "Broad Street Development LLC - New York, NY - LoopNet",
+          "url": "https://www.loopnet.com/company/broad-street-development-llc/s4dwhm5l/",
+          "snippet": "Broad Street Development (\"BSD\") is a privately held, New York-based real estate developer, investor and operator founded in 2004 by Raymond Chalme' and Daniel Blanco, each bringing over 20 years of institutional real estate experience in acquisitions, finance, development, management, sales and leasing."
+        },
+        {
+          "title": "David Israni | Broad Street Development LLC | New York, NY - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/David-Israni/8gth7b0b",
+          "snippet": "Since joining Broad Street Development in 2006, David has brokered deals of nearly 1.5 million square feet and accounting for over $500 million in revenue for the commercial portfolio and has maintained a 99% occupancy across the residential portfolio. In addition, David is an integral part of the due diligence team."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Broad Street Development LLC Information - RocketReach",
+      "url": "https://rocketreach.co/broad-street-development-llc-profile_b4b99cd4fb13c076",
+      "snippet": "Broad Street Development LLC is a Real Estate company located in New York, New York with $8.8 million in revenue and 21 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Broad Street Development LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:23:59Z"
+    },
+    {
+      "title": "Broad Street Development LLC | (212) 609-3700 | New York City - AllBiz",
+      "url": "https://www.allbiz.com/business/broad-street-development-llc_3X-212-609-3700",
+      "snippet": "Broad Street Development LLC is located in New York City, and was founded in 2004. Annual sales for Broad Street Development LLC are around USD 500,000 - 999,999.",
+      "query": "\"Broad Street Development LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:23:59Z"
+    },
+    {
+      "title": "Broad Street Development LLC - New York, NY - LoopNet",
+      "url": "https://www.loopnet.com/company/broad-street-development-llc/s4dwhm5l/",
+      "snippet": "Broad Street Development (\"BSD\") is a privately held, New York-based real estate developer, investor and operator founded in 2004 by Raymond Chalme' and Daniel Blanco, each bringing over 20 years of institutional real estate experience in acquisitions, finance, development, management, sales and leasing.",
+      "query": "\"Broad Street Development LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:23:59Z"
+    },
+    {
+      "title": "David Israni | Broad Street Development LLC | New York, NY - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/David-Israni/8gth7b0b",
+      "snippet": "Since joining Broad Street Development in 2006, David has brokered deals of nearly 1.5 million square feet and accounting for over $500 million in revenue for the commercial portfolio and has maintained a 99% occupancy across the residential portfolio. In addition, David is an integral part of the due diligence team.",
+      "query": "\"Broad Street Development LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:23:59Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T13:24:04Z",
+  "company_status": "SUCCESS"
+}

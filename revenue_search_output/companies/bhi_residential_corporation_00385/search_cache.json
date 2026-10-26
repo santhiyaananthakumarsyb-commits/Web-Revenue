@@ -1,0 +1,103 @@
+{
+  "company_key": "bhi residential corporation|https://sentral.com",
+  "company_name": "BHI Residential Corporation",
+  "company_website": "https://sentral.com",
+  "created_at": "2026-10-23T11:07:32Z",
+  "searches": [
+    {
+      "query": "\"BHI Residential Corporation\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:07:37Z",
+      "page_title": "\"BHI Residential Corporation\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHI+Residential+Corporation%22+revenue",
+      "results": [
+        {
+          "title": "BHI RESIDENTIAL CORPORATION in Williamstown, NJ | Company Info - Bizapedia",
+          "url": "https://www.bizapedia.com/nj/bhi-residential-corporation.html",
+          "snippet": "Bhi Residential Corporation is a Foreign Profit Corporation organized under the laws of the State of New Jersey. The business was filed on April 2, 2024 and is currently listed as Active with the New Jersey Division of Revenue. The official file number for this entity is 451109090. Mailing correspondence may be sent to 316 Berrhill Dr Williamstown, NJ 08094. The Registered Agent on file is ..."
+        },
+        {
+          "title": "BHI RESIDENTIAL CORPORATION - Colorado Company",
+          "url": "https://colorado-corp.com/co/bhi-residential-corporation",
+          "snippet": "BHI RESIDENTIAL CORPORATION BHI RESIDENTIAL CORPORATION (ID number: 20198020321) was incorporated on 12/19/2019 in Colorado. Their business is recorded as FPC. The Company's current operating status is Good Standing"
+        },
+        {
+          "title": "Elisha Henry | BHI Residential Corporation | Denver, CO - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/elisha-henry/545mlsqb",
+          "snippet": "Elisha Henry - Revenue Analyst. View Elisha Henry's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "BHI RESIDENTIAL CORPORATION in Denver, NC - Bizapedia",
+          "url": "https://www.bizapedia.com/nc/bhi-residential-corporation.html",
+          "snippet": "Bhi Residential Corporation is a Foreign Business Corporation organized under the laws of the State of North Carolina. The business was filed on April 15, 2026 and is currently listed as Current-Active with the North Carolina Secretary of State. The official file number for this entity is 3265179. The principal office address is located at 1550 Larimer Street Suite 312 Denver, CO 80202 ..."
+        }
+      ]
+    },
+    {
+      "query": "\"BHI Residential Corporation\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:07:43Z",
+      "page_title": "\"BHI Residential Corporation\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHI+Residential+Corporation%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BHI RESIDENTIAL CORPORATION - Colorado Company",
+          "url": "https://colorado-corp.com/co/bhi-residential-corporation",
+          "snippet": "BHI RESIDENTIAL CORPORATION BHI RESIDENTIAL CORPORATION (ID number: 20198020321) was incorporated on 12/19/2019 in Colorado. Their business is recorded as FPC. The Company's current operating status is Good Standing"
+        },
+        {
+          "title": "Elisha Henry | BHI Residential Corporation | Denver, CO - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/elisha-henry/545mlsqb",
+          "snippet": "Elisha Henry - Revenue Analyst. View Elisha Henry's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "Entity Details :: OpenCorporates",
+          "url": "https://opencorporates.com/companies/us_co/20198020321",
+          "snippet": "Free and open company data on Colorado (US) company BHI RESIDENTIAL CORPORATION (company number 20198020321)"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BHI RESIDENTIAL CORPORATION in Williamstown, NJ | Company Info - Bizapedia",
+      "url": "https://www.bizapedia.com/nj/bhi-residential-corporation.html",
+      "snippet": "Bhi Residential Corporation is a Foreign Profit Corporation organized under the laws of the State of New Jersey. The business was filed on April 2, 2024 and is currently listed as Active with the New Jersey Division of Revenue. The official file number for this entity is 451109090. Mailing correspondence may be sent to 316 Berrhill Dr Williamstown, NJ 08094. The Registered Agent on file is ...",
+      "query": "\"BHI Residential Corporation\" revenue",
+      "search_collected_at": "2026-10-23T11:07:37Z"
+    },
+    {
+      "title": "BHI RESIDENTIAL CORPORATION - Colorado Company",
+      "url": "https://colorado-corp.com/co/bhi-residential-corporation",
+      "snippet": "BHI RESIDENTIAL CORPORATION BHI RESIDENTIAL CORPORATION (ID number: 20198020321) was incorporated on 12/19/2019 in Colorado. Their business is recorded as FPC. The Company's current operating status is Good Standing",
+      "query": "\"BHI Residential Corporation\" revenue",
+      "search_collected_at": "2026-10-23T11:07:37Z"
+    },
+    {
+      "title": "Elisha Henry | BHI Residential Corporation | Denver, CO - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/elisha-henry/545mlsqb",
+      "snippet": "Elisha Henry - Revenue Analyst. View Elisha Henry's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"BHI Residential Corporation\" revenue",
+      "search_collected_at": "2026-10-23T11:07:37Z"
+    },
+    {
+      "title": "BHI RESIDENTIAL CORPORATION in Denver, NC - Bizapedia",
+      "url": "https://www.bizapedia.com/nc/bhi-residential-corporation.html",
+      "snippet": "Bhi Residential Corporation is a Foreign Business Corporation organized under the laws of the State of North Carolina. The business was filed on April 15, 2026 and is currently listed as Current-Active with the North Carolina Secretary of State. The official file number for this entity is 3265179. The principal office address is located at 1550 Larimer Street Suite 312 Denver, CO 80202 ...",
+      "query": "\"BHI Residential Corporation\" revenue",
+      "search_collected_at": "2026-10-23T11:07:37Z"
+    },
+    {
+      "title": "Entity Details :: OpenCorporates",
+      "url": "https://opencorporates.com/companies/us_co/20198020321",
+      "snippet": "Free and open company data on Colorado (US) company BHI RESIDENTIAL CORPORATION (company number 20198020321)",
+      "query": "\"BHI Residential Corporation\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:07:43Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T11:07:43Z",
+  "company_status": "SUCCESS"
+}

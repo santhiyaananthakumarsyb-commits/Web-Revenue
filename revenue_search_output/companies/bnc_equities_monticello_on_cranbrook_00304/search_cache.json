@@ -1,0 +1,44 @@
+{
+  "company_key": "bnc equities - monticello on cranbrook|https://bncrealestate.com",
+  "company_name": "BNC Equities - Monticello on Cranbrook",
+  "company_website": "https://bncrealestate.com",
+  "created_at": "2026-10-23T10:50:00Z",
+  "searches": [
+    {
+      "query": "\"BNC Equities - Monticello on Cranbrook\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:50:07Z",
+      "page_title": "\"BNC Equities - Monticello on Cranbrook\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BNC+Equities+-+Monticello+on+Cranbrook%22+revenue",
+      "results": [
+        {
+          "title": "Shannon Philip - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/shannon-philip/41607201/",
+          "snippet": "Shannon Philip, Leasing Consultant at BNC Equities - Monticello on Cranbrook in Houston, TX has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"BNC Equities - Monticello on Cranbrook\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:50:14Z",
+      "page_title": "\"BNC Equities - Monticello on Cranbrook\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BNC+Equities+-+Monticello+on+Cranbrook%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Shannon Philip - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/shannon-philip/41607201/",
+      "snippet": "Shannon Philip, Leasing Consultant at BNC Equities - Monticello on Cranbrook in Houston, TX has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"BNC Equities - Monticello on Cranbrook\" revenue",
+      "search_collected_at": "2026-10-23T10:50:07Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:50:14Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,108 @@
+{
+  "company_key": "brr architecture inc|https://brrarch.com",
+  "company_name": "BRR Architecture Inc",
+  "company_website": "https://brrarch.com",
+  "created_at": "2026-10-23T11:34:14Z",
+  "searches": [
+    {
+      "query": "\"BRR Architecture Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:34:20Z",
+      "page_title": "\"BRR Architecture Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BRR+Architecture+Inc%22+revenue",
+      "results": [
+        {
+          "title": "BRR Architecture Inc Information - RocketReach",
+          "url": "https://rocketreach.co/brr-architecture-inc-profile_b658804acb5a20e5",
+          "snippet": "BRR Architecture Inc is an Architecture, Engineering & Design, and Construction company located in Shawnee Mission, Kansas with $26.2 million in revenue and 0 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "BRR Architecture Inc - $26.2 M Revenue | Kona Equity",
+          "url": "https://www.konaequity.com/company/brr-architecture-inc-4391263604/",
+          "snippet": "BRR Architecture Inc has an estimated annual revenue of $26.2 M, 303 employees, headquartered in Overland Park, KS, founded in 1963. Explore BRR Architecture Inc revenue history, growth rate, competitors, and more in the Architect industry."
+        },
+        {
+          "title": "Brr Architecture Inc | Kansas City, Missouri | Brett J. Coppage",
+          "url": "https://www.allbiz.com/business/brr-architecture-inc_5l",
+          "snippet": "Brett J. Coppage is the primary contact at Brr Architecture Inc. Brr Architecture Inc generates approximately USD 110,000 in revenue annually, and employs around 2 people at this location."
+        },
+        {
+          "title": "BRR ARCHITECTURE INC - KANSAS CITY, MO - Business Profile",
+          "url": "https://www.dandb.com/businessdirectory/brrarchitectureinc-kansascity-mo-30268360.html",
+          "snippet": "Company Summary Brr Architecture Inc is located at 2345 Grand Blvd Ste 2600 in Kansas City and has been in the business of Architectural Services since 2010."
+        }
+      ]
+    },
+    {
+      "query": "\"BRR Architecture Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:34:26Z",
+      "page_title": "\"BRR Architecture Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BRR+Architecture+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BRR Architecture Inc Information - RocketReach",
+          "url": "https://rocketreach.co/brr-architecture-inc-profile_b658804acb5a20e5",
+          "snippet": "BRR Architecture Inc is an Architecture, Engineering & Design, and Construction company located in Shawnee Mission, Kansas with $26.2 million in revenue and 0 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "BRR Architecture Inc - $26.2 M Revenue | Kona Equity",
+          "url": "https://www.konaequity.com/company/brr-architecture-inc-4391263604/",
+          "snippet": "BRR Architecture Inc has an estimated annual revenue of $26.2 M, 303 employees, headquartered in Overland Park, KS, founded in 1963. Explore BRR Architecture Inc revenue history, growth rate, competitors, and more in the Architect industry."
+        },
+        {
+          "title": "Brr Architecture Inc | Kansas City, Missouri | Brett J. Coppage - AllBiz",
+          "url": "https://www.allbiz.com/business/brr-architecture-inc_5l",
+          "snippet": "Business Description Brr Architecture Inc is located in Kansas City, Missouri, and was founded in 2010. At this location, Brr Architecture Inc employs approximately 2 people. This business is working in the following industry: Architects. Annual sales for Brr Architecture Inc are around USD 110,000. Employees: 2 Revenue: USD 110,000 Founded: 2010 IndustryProfessional Services» Architects ..."
+        },
+        {
+          "title": "BRR ARCHITECTURE INC - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/brrarchitectureinc-atlanta-ga-29468106.html",
+          "snippet": "Founded 2010 Incorporated Annual Revenue $62,000.00 Employee Count 1 Industries Architectural Services Contacts"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BRR Architecture Inc Information - RocketReach",
+      "url": "https://rocketreach.co/brr-architecture-inc-profile_b658804acb5a20e5",
+      "snippet": "BRR Architecture Inc is an Architecture, Engineering & Design, and Construction company located in Shawnee Mission, Kansas with $26.2 million in revenue and 0 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"BRR Architecture Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:34:20Z"
+    },
+    {
+      "title": "BRR Architecture Inc - $26.2 M Revenue | Kona Equity",
+      "url": "https://www.konaequity.com/company/brr-architecture-inc-4391263604/",
+      "snippet": "BRR Architecture Inc has an estimated annual revenue of $26.2 M, 303 employees, headquartered in Overland Park, KS, founded in 1963. Explore BRR Architecture Inc revenue history, growth rate, competitors, and more in the Architect industry.",
+      "query": "\"BRR Architecture Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:34:20Z"
+    },
+    {
+      "title": "Brr Architecture Inc | Kansas City, Missouri | Brett J. Coppage",
+      "url": "https://www.allbiz.com/business/brr-architecture-inc_5l",
+      "snippet": "Brett J. Coppage is the primary contact at Brr Architecture Inc. Brr Architecture Inc generates approximately USD 110,000 in revenue annually, and employs around 2 people at this location.",
+      "query": "\"BRR Architecture Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:34:20Z"
+    },
+    {
+      "title": "BRR ARCHITECTURE INC - KANSAS CITY, MO - Business Profile",
+      "url": "https://www.dandb.com/businessdirectory/brrarchitectureinc-kansascity-mo-30268360.html",
+      "snippet": "Company Summary Brr Architecture Inc is located at 2345 Grand Blvd Ste 2600 in Kansas City and has been in the business of Architectural Services since 2010.",
+      "query": "\"BRR Architecture Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:34:20Z"
+    },
+    {
+      "title": "BRR ARCHITECTURE INC - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/brrarchitectureinc-atlanta-ga-29468106.html",
+      "snippet": "Founded 2010 Incorporated Annual Revenue $62,000.00 Employee Count 1 Industries Architectural Services Contacts",
+      "query": "\"BRR Architecture Inc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:34:26Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T11:34:26Z",
+  "company_status": "SUCCESS"
+}

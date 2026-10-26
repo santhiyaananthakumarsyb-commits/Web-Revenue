@@ -1,0 +1,67 @@
+{
+  "company_key": "bentley cadillac of huntsville|https://cadillac.com",
+  "company_name": "Bentley Cadillac of Huntsville",
+  "company_website": "https://cadillac.com",
+  "created_at": "2026-10-23T11:07:19Z",
+  "searches": [
+    {
+      "query": "\"Bentley Cadillac of Huntsville\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:07:25Z",
+      "page_title": "\"Bentley Cadillac of Huntsville\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bentley+Cadillac+of+Huntsville%22+revenue",
+      "results": [
+        {
+          "title": "Bentley Cadillac of Huntsville - Facebook",
+          "url": "https://www.facebook.com/BentleyCadillacofHuntsville/",
+          "snippet": "Bentley Cadillac of Huntsville. 626 followers · 71 talking about this · 509 were here. Bentley Cadillac, an Automobile Dealership, Automotive and Collision Repair Center in Huntsville Alab"
+        },
+        {
+          "title": "Cadillac Dealer Near You | Bentley Cadillac of Huntsville",
+          "url": "https://www.bentleycadillac.com/",
+          "snippet": "Bentley Cadillac Huntsville is your top Cadillac dealer serving Huntsville and Madison, AL areas. We offer new & used Cadillac vehicles & Cadillac service."
+        }
+      ]
+    },
+    {
+      "query": "\"Bentley Cadillac of Huntsville\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:07:32Z",
+      "page_title": "\"Bentley Cadillac of Huntsville\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bentley+Cadillac+of+Huntsville%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bentley Cadillac of Huntsville - Facebook",
+          "url": "https://www.facebook.com/BentleyCadillacofHuntsville/",
+          "snippet": "Bentley Cadillac of Huntsville. 626 followers · 71 talking about this · 509 were here. Bentley Cadillac, an Automobile Dealership, Automotive and Collision Repair Center in Huntsville Alab"
+        },
+        {
+          "title": "Cadillac Dealer Near You | Bentley Cadillac of Huntsville",
+          "url": "https://www.bentleycadillac.com/",
+          "snippet": "Bentley Cadillac Huntsville is your top Cadillac dealer serving Huntsville and Madison, AL areas. We offer new & used Cadillac vehicles & Cadillac service."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bentley Cadillac of Huntsville - Facebook",
+      "url": "https://www.facebook.com/BentleyCadillacofHuntsville/",
+      "snippet": "Bentley Cadillac of Huntsville. 626 followers · 71 talking about this · 509 were here. Bentley Cadillac, an Automobile Dealership, Automotive and Collision Repair Center in Huntsville Alab",
+      "query": "\"Bentley Cadillac of Huntsville\" revenue",
+      "search_collected_at": "2026-10-23T11:07:25Z"
+    },
+    {
+      "title": "Cadillac Dealer Near You | Bentley Cadillac of Huntsville",
+      "url": "https://www.bentleycadillac.com/",
+      "snippet": "Bentley Cadillac Huntsville is your top Cadillac dealer serving Huntsville and Madison, AL areas. We offer new & used Cadillac vehicles & Cadillac service.",
+      "query": "\"Bentley Cadillac of Huntsville\" revenue",
+      "search_collected_at": "2026-10-23T11:07:25Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:07:32Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,74 @@
+{
+  "company_key": "burris hennessy & company|https://burrishennessy.com",
+  "company_name": "Burris Hennessy & Company",
+  "company_website": "https://burrishennessy.com",
+  "created_at": "2026-10-23T13:04:20Z",
+  "searches": [
+    {
+      "query": "\"Burris Hennessy & Company\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:04:26Z",
+      "page_title": "\"Burris Hennessy & Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burris+Hennessy+%26+Company%22+revenue",
+      "results": [
+        {
+          "title": "Tim Burris | Burris Hennessy & Company | Tucson, AZ - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/tim-burris/g01pgkwb",
+          "snippet": "Tim Burris - President/Co-founder, Broker. View Tim Burris's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "Mike Hennessy | Burris Hennessy & Company | Tucson, AZ - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/mike-hennessy/cmjkcjgb",
+          "snippet": "Mike Hennessy Co-founder/ Broker, Burris Hennessy & Company Tucson, AZ 85745 25 years selling and leasing Tucson Commercial Properties Send a Message"
+        }
+      ]
+    },
+    {
+      "query": "\"Burris Hennessy & Company\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:04:32Z",
+      "page_title": "\"Burris Hennessy & Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burris+Hennessy+%26+Company%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Mike Hennessy | Burris Hennessy & Company | Tucson, AZ - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/mike-hennessy/cmjkcjgb",
+          "snippet": "Mike Hennessy Co-founder/ Broker, Burris Hennessy & Company Tucson, AZ 85745 25 years selling and leasing Tucson Commercial Properties Send a Message"
+        },
+        {
+          "title": "Burris Hennessy & Company - Tucson Commercial Listings & Brokers - LoopNet",
+          "url": "https://www.loopnet.com/company/burris-hennessy-company/h647t40l/",
+          "snippet": "Burris, Hennessy & Co was founded in 1989. Their knowledge of the market and real estate business has allowed them to successfully navigate through some difficult real estate markets and maintain a consistent, excellent level of service for their clients. The core business is industrial land and buildings. The various agents have brought expertise in a number of other areas including ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Tim Burris | Burris Hennessy & Company | Tucson, AZ - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/tim-burris/g01pgkwb",
+      "snippet": "Tim Burris - President/Co-founder, Broker. View Tim Burris's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Burris Hennessy & Company\" revenue",
+      "search_collected_at": "2026-10-23T13:04:26Z"
+    },
+    {
+      "title": "Mike Hennessy | Burris Hennessy & Company | Tucson, AZ - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/mike-hennessy/cmjkcjgb",
+      "snippet": "Mike Hennessy Co-founder/ Broker, Burris Hennessy & Company Tucson, AZ 85745 25 years selling and leasing Tucson Commercial Properties Send a Message",
+      "query": "\"Burris Hennessy & Company\" revenue",
+      "search_collected_at": "2026-10-23T13:04:26Z"
+    },
+    {
+      "title": "Burris Hennessy & Company - Tucson Commercial Listings & Brokers - LoopNet",
+      "url": "https://www.loopnet.com/company/burris-hennessy-company/h647t40l/",
+      "snippet": "Burris, Hennessy & Co was founded in 1989. Their knowledge of the market and real estate business has allowed them to successfully navigate through some difficult real estate markets and maintain a consistent, excellent level of service for their clients. The core business is industrial land and buildings. The various agents have brought expertise in a number of other areas including ...",
+      "query": "\"Burris Hennessy & Company\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:04:32Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:04:32Z",
+  "company_status": "SUCCESS"
+}

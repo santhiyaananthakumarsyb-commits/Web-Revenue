@@ -1,0 +1,69 @@
+{
+  "company_key": "bnd commercial real estate|https://bndcommercial.com",
+  "company_name": "BND Commercial Real Estate",
+  "company_website": "https://bndcommercial.com",
+  "created_at": "2026-10-23T10:59:37Z",
+  "searches": [
+    {
+      "query": "\"BND Commercial Real Estate\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:59:42Z",
+      "page_title": "\"BND Commercial Real Estate\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BND+Commercial+Real+Estate%22+revenue",
+      "results": [
+        {
+          "title": "BND Commercial Company Overview, Contact Details & Competitors | LeadIQ",
+          "url": "https://leadiq.com/c/bnd-commercial/5a1d91275400005300766df9",
+          "snippet": "BND Commercial Real Estate Indiana, United States 11-50 Employees BND Commercial is a real estate company based at 1021 South Calhoun Suite One, Fort Wayne, Indiana 46802, United States, and it employs 11 to 50 people. It was established in 2004 by O. Karl Behrens, CCIM, SIOR; David W. Nugent, CCIM, SIOR; and David W. Dumas. In August 2010, BND Commercial expanded through the acquisition of ..."
+        },
+        {
+          "title": "Bnd Commercial Real Estate - ZIP 46802, NAICS 531210",
+          "url": "https://siccode.com/business/bnd-commercial-real-estate",
+          "snippet": "Business Overview \"Bnd Commercial Real Estate\" of Fort Wayne, IN 46802 operates primarily in SIC Code 6531 - Real Estate Agents and Managers and NAICS Code 531210 - Offices of Real Estate Agents and Brokers. Bnd Commercial Real Estate is a small-sized business with low revenue, that is established in its industry. City:Fort Wayne County:Allen ..."
+        }
+      ]
+    },
+    {
+      "query": "\"BND Commercial Real Estate\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:59:50Z",
+      "page_title": "\"BND Commercial Real Estate\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BND+Commercial+Real+Estate%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Karl Behrens | BND Commercial Real Estate | Fort Wayne, IN - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/karl-behrens/5vskgvqb",
+          "snippet": "Karl Behrens - Founding Partner and Principal Broker at BND Commercial Real Estate. View Karl Behrens's professional profile and available commercial real estate listings on LoopNet.com"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BND Commercial Company Overview, Contact Details & Competitors | LeadIQ",
+      "url": "https://leadiq.com/c/bnd-commercial/5a1d91275400005300766df9",
+      "snippet": "BND Commercial Real Estate Indiana, United States 11-50 Employees BND Commercial is a real estate company based at 1021 South Calhoun Suite One, Fort Wayne, Indiana 46802, United States, and it employs 11 to 50 people. It was established in 2004 by O. Karl Behrens, CCIM, SIOR; David W. Nugent, CCIM, SIOR; and David W. Dumas. In August 2010, BND Commercial expanded through the acquisition of ...",
+      "query": "\"BND Commercial Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T10:59:42Z"
+    },
+    {
+      "title": "Bnd Commercial Real Estate - ZIP 46802, NAICS 531210",
+      "url": "https://siccode.com/business/bnd-commercial-real-estate",
+      "snippet": "Business Overview \"Bnd Commercial Real Estate\" of Fort Wayne, IN 46802 operates primarily in SIC Code 6531 - Real Estate Agents and Managers and NAICS Code 531210 - Offices of Real Estate Agents and Brokers. Bnd Commercial Real Estate is a small-sized business with low revenue, that is established in its industry. City:Fort Wayne County:Allen ...",
+      "query": "\"BND Commercial Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T10:59:42Z"
+    },
+    {
+      "title": "Karl Behrens | BND Commercial Real Estate | Fort Wayne, IN - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/karl-behrens/5vskgvqb",
+      "snippet": "Karl Behrens - Founding Partner and Principal Broker at BND Commercial Real Estate. View Karl Behrens's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"BND Commercial Real Estate\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:59:50Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T10:59:50Z",
+  "company_status": "SUCCESS"
+}

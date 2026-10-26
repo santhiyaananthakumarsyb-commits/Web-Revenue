@@ -1,0 +1,110 @@
+{
+  "company_key": "branch properties, llc|https://branchprop.com",
+  "company_name": "Branch Properties, LLC",
+  "company_website": "https://branchprop.com",
+  "created_at": "2026-10-23T11:32:07Z",
+  "searches": [
+    {
+      "query": "\"Branch Properties, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:32:12Z",
+      "page_title": "\"Branch Properties, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Branch+Properties%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Branch Properties - Valuation, Revenue & Market Scope - 2026",
+          "url": "https://compworth.com/company/branch-properties",
+          "snippet": "About Branch Properties Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private real estate investment firm primarily focused on high-quality neighborhood shopping centers located in the southeastern United States. As a vertically integrated real estate operating company, Branch has the in-house expertise to source, negotiate, acquire, develop, finance, lease and manage ..."
+        },
+        {
+          "title": "Branch Properties: Revenue, Competitors, Alternatives - Growjo",
+          "url": "https://growjo.com/company/Branch_Properties",
+          "snippet": "Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private real estate investment firm primarily focused on high-quality neighborhood shopping centers located in the southeastern United States. As a vertically integrated real estate operating company, Branch has the in-house expertise to source, negotiate, acquire, develop, finance, lease and manage neighborhood shopping center ..."
+        },
+        {
+          "title": "Branch Properties LLC Company Overview, Contact Details & Competitors ...",
+          "url": "https://leadiq.com/c/branch-properties-llc/5a1da2502300005c009409ae",
+          "snippet": "Branch Properties, LLC is a private real estate company founded in 1973 and based in Atlanta, Georgia. It operates as a vertically integrated real estate…"
+        },
+        {
+          "title": "Our History - Branch Properties",
+          "url": "https://www.branchprop.com/our-history/",
+          "snippet": "Branch forms a wholly-owned subsidiary, Branch Properties, LLC, to manage the day-to-day operations of the company. After building an impressive retail portfolio including 25 assets, Branch Properties, L.P. is sold to Regency Centers Corporation for $209 million."
+        },
+        {
+          "title": "Branch Properties LLC - Services & Company Info - Clutch",
+          "url": "https://clutch.co/profile/branch-properties",
+          "snippet": "Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private real estate investment firm primarily focused on high-quality neighborhood shopping centers located in the southeastern United States. As a vertically integrated real estate operating company, Branch has the in-house expertise to source, negotiate, acquire, develop, finance, lease and manage neighborhood shopping center ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Branch Properties, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:32:17Z",
+      "page_title": "\"Branch Properties, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Branch+Properties%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Branch Properties LLC - Services & Company Info - Clutch",
+          "url": "https://clutch.co/profile/branch-properties",
+          "snippet": "Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private real estate investment firm primarily focused on high-quality neighborhood shopping centers located in the southeastern United States. As a vertically integrated real estate operating company, Branch has the in-house expertise to source, negotiate, acquire, develop, finance, lease and manage neighborhood shopping center ..."
+        },
+        {
+          "title": "Branch Properties LLC - LinkedIn",
+          "url": "https://www.linkedin.com/company/branch-properties-llc",
+          "snippet": "Branch Properties LLC | 2,260 followers on LinkedIn. Branch invests in, develops and operates grocery-focused retail. | Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Branch Properties - Valuation, Revenue & Market Scope - 2026",
+      "url": "https://compworth.com/company/branch-properties",
+      "snippet": "About Branch Properties Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private real estate investment firm primarily focused on high-quality neighborhood shopping centers located in the southeastern United States. As a vertically integrated real estate operating company, Branch has the in-house expertise to source, negotiate, acquire, develop, finance, lease and manage ...",
+      "query": "\"Branch Properties, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:32:12Z"
+    },
+    {
+      "title": "Branch Properties: Revenue, Competitors, Alternatives - Growjo",
+      "url": "https://growjo.com/company/Branch_Properties",
+      "snippet": "Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private real estate investment firm primarily focused on high-quality neighborhood shopping centers located in the southeastern United States. As a vertically integrated real estate operating company, Branch has the in-house expertise to source, negotiate, acquire, develop, finance, lease and manage neighborhood shopping center ...",
+      "query": "\"Branch Properties, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:32:12Z"
+    },
+    {
+      "title": "Branch Properties LLC Company Overview, Contact Details & Competitors ...",
+      "url": "https://leadiq.com/c/branch-properties-llc/5a1da2502300005c009409ae",
+      "snippet": "Branch Properties, LLC is a private real estate company founded in 1973 and based in Atlanta, Georgia. It operates as a vertically integrated real estate…",
+      "query": "\"Branch Properties, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:32:12Z"
+    },
+    {
+      "title": "Our History - Branch Properties",
+      "url": "https://www.branchprop.com/our-history/",
+      "snippet": "Branch forms a wholly-owned subsidiary, Branch Properties, LLC, to manage the day-to-day operations of the company. After building an impressive retail portfolio including 25 assets, Branch Properties, L.P. is sold to Regency Centers Corporation for $209 million.",
+      "query": "\"Branch Properties, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:32:12Z"
+    },
+    {
+      "title": "Branch Properties LLC - Services & Company Info - Clutch",
+      "url": "https://clutch.co/profile/branch-properties",
+      "snippet": "Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private real estate investment firm primarily focused on high-quality neighborhood shopping centers located in the southeastern United States. As a vertically integrated real estate operating company, Branch has the in-house expertise to source, negotiate, acquire, develop, finance, lease and manage neighborhood shopping center ...",
+      "query": "\"Branch Properties, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:32:12Z"
+    },
+    {
+      "title": "Branch Properties LLC - LinkedIn",
+      "url": "https://www.linkedin.com/company/branch-properties-llc",
+      "snippet": "Branch Properties LLC | 2,260 followers on LinkedIn. Branch invests in, develops and operates grocery-focused retail. | Founded in 1973 and based in Atlanta, Branch Properties, LLC is a private ...",
+      "query": "\"Branch Properties, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:32:17Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T11:32:17Z",
+  "company_status": "SUCCESS"
+}

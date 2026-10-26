@@ -1,0 +1,50 @@
+{
+  "company_key": "buick-gmc of mahwah|https://gmc.com",
+  "company_name": "Buick-Gmc Of Mahwah",
+  "company_website": "https://gmc.com",
+  "created_at": "2026-10-23T12:44:30Z",
+  "searches": [
+    {
+      "query": "\"Buick-Gmc Of Mahwah\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:44:37Z",
+      "page_title": "\"Buick-Gmc Of Mahwah\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buick-Gmc+Of+Mahwah%22+revenue",
+      "results": [
+        {
+          "title": "BUICK-GMC OF MAHWAH, LLC in Mahwah, NJ | Company Info & Reviews - Bizapedia",
+          "url": "https://www.bizapedia.com/nj/buick-gmc-of-mahwah-llc.html",
+          "snippet": "Buick-Gmc of Mahwah, LLC is a Domestic Limited-Liability Company organized under the laws of the State of New Jersey. The business was filed on June 13, 2008 and is currently listed as Inactive with the New Jersey Division of Revenue."
+        }
+      ]
+    },
+    {
+      "query": "\"Buick-Gmc Of Mahwah\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:44:44Z",
+      "page_title": "\"Buick-Gmc Of Mahwah\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buick-Gmc+Of+Mahwah%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BUICK-GMC OF MAHWAH, LLC in Mahwah, NJ | Company Info & Reviews - Bizapedia",
+          "url": "https://www.bizapedia.com/nj/buick-gmc-of-mahwah-llc.html",
+          "snippet": "Buick-Gmc of Mahwah, LLC is a Domestic Limited-Liability Company organized under the laws of the State of New Jersey. The business was filed on June 13, 2008 and is currently listed as Inactive with the New Jersey Division of Revenue. The official file number for this entity is 0400236234. Mailing correspondence may be sent to 386 Route 17 South Mahwah, NJ 07430. The Registered Agent on file ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BUICK-GMC OF MAHWAH, LLC in Mahwah, NJ | Company Info & Reviews - Bizapedia",
+      "url": "https://www.bizapedia.com/nj/buick-gmc-of-mahwah-llc.html",
+      "snippet": "Buick-Gmc of Mahwah, LLC is a Domestic Limited-Liability Company organized under the laws of the State of New Jersey. The business was filed on June 13, 2008 and is currently listed as Inactive with the New Jersey Division of Revenue.",
+      "query": "\"Buick-Gmc Of Mahwah\" revenue",
+      "search_collected_at": "2026-10-23T12:44:37Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:44:44Z",
+  "company_status": "SUCCESS"
+}

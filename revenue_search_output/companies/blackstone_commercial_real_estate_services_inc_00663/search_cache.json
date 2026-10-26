@@ -1,0 +1,30 @@
+{
+  "company_key": "blackstone commercial real estate services inc.|https://blackstonecommercial.com",
+  "company_name": "Blackstone Commercial Real Estate Services Inc.",
+  "company_website": "https://blackstonecommercial.com",
+  "created_at": "2026-10-23T12:07:44Z",
+  "searches": [
+    {
+      "query": "\"Blackstone Commercial Real Estate Services Inc.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:07:52Z",
+      "page_title": "\"Blackstone Commercial Real Estate Services Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackstone+Commercial+Real+Estate+Services+Inc.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Blackstone Commercial Real Estate Services Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:08:00Z",
+      "page_title": "\"Blackstone Commercial Real Estate Services Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackstone+Commercial+Real+Estate+Services+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T12:08:00Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

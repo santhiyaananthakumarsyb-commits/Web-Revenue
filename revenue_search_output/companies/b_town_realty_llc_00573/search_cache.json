@@ -1,0 +1,50 @@
+{
+  "company_key": "b town realty llc|https://b-townrealty.com",
+  "company_name": "B Town Realty LLC",
+  "company_website": "https://b-townrealty.com",
+  "created_at": "2026-10-23T11:47:54Z",
+  "searches": [
+    {
+      "query": "\"B Town Realty LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:48:01Z",
+      "page_title": "\"B Town Realty LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B+Town+Realty+LLC%22+revenue",
+      "results": [
+        {
+          "title": "B Town Realty LLC - Brownsville, TX - LoopNet",
+          "url": "https://www.loopnet.com/company/b-town-realty-llc/pqjjb3tl/",
+          "snippet": "See all B Town Realty LLC current commercial real estate listings and brokers from the B Town Realty LLC office at 3775 Calle Buenos Aires Rd, Brownsville, TX 78526. Contact a B Town Realty LLC broker for inquiries about any of their available listings for sale or lease."
+        }
+      ]
+    },
+    {
+      "query": "\"B Town Realty LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:48:09Z",
+      "page_title": "\"B Town Realty LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B+Town+Realty+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "B Town Realty LLC - Brownsville Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/b-town-realty-llc/pqjjb3tl/",
+          "snippet": "See all B Town Realty LLC current commercial real estate listings and brokers from the B Town Realty LLC office at 3775 Calle Buenos Aires Rd, Brownsville, TX 78526. Contact a B Town Realty LLC broker for inquiries about any of their available listings for sale or lease."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "B Town Realty LLC - Brownsville, TX - LoopNet",
+      "url": "https://www.loopnet.com/company/b-town-realty-llc/pqjjb3tl/",
+      "snippet": "See all B Town Realty LLC current commercial real estate listings and brokers from the B Town Realty LLC office at 3775 Calle Buenos Aires Rd, Brownsville, TX 78526. Contact a B Town Realty LLC broker for inquiries about any of their available listings for sale or lease.",
+      "query": "\"B Town Realty LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:48:01Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:48:09Z",
+  "company_status": "SUCCESS"
+}

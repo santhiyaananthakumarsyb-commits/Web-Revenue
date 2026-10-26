@@ -1,0 +1,30 @@
+{
+  "company_key": "buffalo management - crestmount|https://bmgapt.com",
+  "company_name": "Buffalo Management - Crestmount",
+  "company_website": "https://bmgapt.com",
+  "created_at": "2026-10-23T11:11:46Z",
+  "searches": [
+    {
+      "query": "\"Buffalo Management - Crestmount\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:11:53Z",
+      "page_title": "\"Buffalo Management - Crestmount\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buffalo+Management+-+Crestmount%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Buffalo Management - Crestmount\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:12:00Z",
+      "page_title": "\"Buffalo Management - Crestmount\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buffalo+Management+-+Crestmount%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:12:00Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

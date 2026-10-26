@@ -1,0 +1,62 @@
+{
+  "company_key": "b.hom student living, llc|https://bhomstudentliving.com",
+  "company_name": "B.HOM Student Living, LLC",
+  "company_website": "https://bhomstudentliving.com",
+  "created_at": "2026-10-23T13:36:36Z",
+  "searches": [
+    {
+      "query": "\"B.HOM Student Living, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:36:44Z",
+      "page_title": "\"B.HOM Student Living, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B.HOM+Student+Living%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "1981276 - B.Hom Student Living, LLC - City-Data.com",
+          "url": "https://www.city-data.com/business-entities/NC/BHom-Student-Living-LLC-1981276-NC.html",
+          "snippet": "1981276 - B.Hom Student Living, LLC All Cities Iowa, IA smaller cities, IA small cities Des Moines, IA main city page Business entities in Iowa Business entities in Des Moines, IA B.Hom Student Living, LLC"
+        }
+      ]
+    },
+    {
+      "query": "\"B.HOM Student Living, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:36:49Z",
+      "page_title": "\"B.HOM Student Living, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B.HOM+Student+Living%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "1981276 - B.Hom Student Living, LLC - City-Data.com",
+          "url": "https://www.city-data.com/business-entities/NC/BHom-Student-Living-LLC-1981276-NC.html",
+          "snippet": "1981276 - B.Hom Student Living, LLC All Cities Iowa, IA smaller cities, IA small cities Des Moines, IA main city page Business entities in Iowa Business entities in Des Moines, IA B.Hom Student Living, LLC"
+        },
+        {
+          "title": "B.HOM Student Living, LLC Property Management Company | Apartments.com",
+          "url": "https://www.apartments.com/pmc/b-hom-student-living-llc/1vqmkn4/",
+          "snippet": "B.HOM Student Living, LLC is a property management company serving several markets accross the USA"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "1981276 - B.Hom Student Living, LLC - City-Data.com",
+      "url": "https://www.city-data.com/business-entities/NC/BHom-Student-Living-LLC-1981276-NC.html",
+      "snippet": "1981276 - B.Hom Student Living, LLC All Cities Iowa, IA smaller cities, IA small cities Des Moines, IA main city page Business entities in Iowa Business entities in Des Moines, IA B.Hom Student Living, LLC",
+      "query": "\"B.HOM Student Living, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:36:44Z"
+    },
+    {
+      "title": "B.HOM Student Living, LLC Property Management Company | Apartments.com",
+      "url": "https://www.apartments.com/pmc/b-hom-student-living-llc/1vqmkn4/",
+      "snippet": "B.HOM Student Living, LLC is a property management company serving several markets accross the USA",
+      "query": "\"B.HOM Student Living, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:36:49Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:36:49Z",
+  "company_status": "SUCCESS"
+}

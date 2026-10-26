@@ -1,0 +1,50 @@
+{
+  "company_key": "bull realty inc.|https://bullrealty.com",
+  "company_name": "Bull Realty Inc.",
+  "company_website": "https://bullrealty.com",
+  "created_at": "2026-10-23T11:10:02Z",
+  "searches": [
+    {
+      "query": "\"Bull Realty Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:10:10Z",
+      "page_title": "\"Bull Realty Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bull+Realty+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Bull Realty Inc. - Atlanta Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/bull-realty-inc/sztnpx5l/",
+          "snippet": "Bull Realty is a commercial real estate sales, leasing and advisory firm licensed in nine southeast states headquartered in Atlanta. The firm was founded in 1998 on two primary missions: advisors known for integrity and the best disposition marketing in the nation. Still guided by these philosophies, the firm's services also include acquisition, project leasing, and tenant representation. To ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bull Realty Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:10:18Z",
+      "page_title": "\"Bull Realty Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bull+Realty+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bull Realty Inc. - Atlanta Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/bull-realty-inc/sztnpx5l/",
+          "snippet": "Bull Realty is a commercial real estate sales, leasing and advisory firm licensed in nine southeast states headquartered in Atlanta. The firm was founded in 1998 on two primary missions: advisors known for integrity and the best disposition marketing in the nation. Still guided by these philosophies, the firm's services also include acquisition, project leasing, and tenant representation. To ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bull Realty Inc. - Atlanta Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/bull-realty-inc/sztnpx5l/",
+      "snippet": "Bull Realty is a commercial real estate sales, leasing and advisory firm licensed in nine southeast states headquartered in Atlanta. The firm was founded in 1998 on two primary missions: advisors known for integrity and the best disposition marketing in the nation. Still guided by these philosophies, the firm's services also include acquisition, project leasing, and tenant representation. To ...",
+      "query": "\"Bull Realty Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:10:10Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:10:18Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,30 @@
+{
+  "company_key": "berkshire hathaway kee realty|https://bhhskeerealty.com",
+  "company_name": "Berkshire Hathaway Kee Realty",
+  "company_website": "https://bhhskeerealty.com",
+  "created_at": "2026-10-23T10:02:02Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Kee Realty\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:02:09Z",
+      "page_title": "\"Berkshire Hathaway Kee Realty\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Kee+Realty%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Berkshire Hathaway Kee Realty\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:02:17Z",
+      "page_title": "\"Berkshire Hathaway Kee Realty\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Kee+Realty%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:02:17Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

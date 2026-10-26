@@ -1,0 +1,113 @@
+{
+  "company_key": "bpl group of properties|https://jasongriffin.ninja",
+  "company_name": "BPL Group of Properties",
+  "company_website": "https://jasongriffin.ninja",
+  "created_at": "2026-10-23T12:04:04Z",
+  "searches": [
+    {
+      "query": "\"BPL Group of Properties\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:04:10Z",
+      "page_title": "\"BPL Group of Properties\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BPL+Group+of+Properties%22+revenue",
+      "results": [
+        {
+          "title": "BPL Group of Properties - Henderson, NV - LoopNet",
+          "url": "https://www.loopnet.com/company/bpl-group-of-properties/jdj1556l/",
+          "snippet": "BPL Management is a \"Unique Property Management Company\" are an owner/operator property management company, which enables them to respond more quickly to the needs of their tenants and residents. They offer in-house management, maintenance and the administrative teams for each property, and can handle most emergency situations as they arise. BPL takes pride in their management efforts, and ..."
+        },
+        {
+          "title": "Property Manager at BPL Group of Properties - LinkedIn",
+          "url": "https://www.linkedin.com/in/janet-mentzel-2730b378",
+          "snippet": "Property Manager at BPL Group of Properties · Experience: BPL Group of Properties · Location: Henderson · 1 connection on LinkedIn. View Janet Mentzel's profile on LinkedIn, a professional ..."
+        },
+        {
+          "title": "Susan McCarthy | BPL Group of Properties | Henderson, NV - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/susan-mccarthy/304swtgb",
+          "snippet": "Susan McCarthy Property Manager/Accounts Payable, BPL Group of Properties Henderson, NV 89014 Send a Message Phone (702) 737-8063"
+        },
+        {
+          "title": "C/O Bpl Group of Properties Henderson, NV 89014 | Bizapedia",
+          "url": "https://www.bizapedia.com/addresses/c-o-bpl-group-of-properties-henderson-nv-89014.html",
+          "snippet": "Explore 3 companies with an address matching C/O Bpl Group of Properties Henderson, NV 89014. View profiles, business connections, and more."
+        }
+      ]
+    },
+    {
+      "query": "\"BPL Group of Properties\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:04:16Z",
+      "page_title": "\"BPL Group of Properties\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BPL+Group+of+Properties%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BPL Group of Properties - Henderson, NV - LoopNet",
+          "url": "https://www.loopnet.com/company/bpl-group-of-properties/jdj1556l/",
+          "snippet": "BPL Management is a \"Unique Property Management Company\" are an owner/operator property management company, which enables them to respond more quickly to the needs of their tenants and residents. They offer in-house management, maintenance and the administrative teams for each property, and can handle most emergency situations as they arise. BPL takes pride in their management efforts, and ..."
+        },
+        {
+          "title": "Susan McCarthy | BPL Group of Properties | Henderson, NV - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/susan-mccarthy/304swtgb",
+          "snippet": "Susan McCarthy Property Manager/Accounts Payable, BPL Group of Properties Henderson, NV 89014 Send a Message Phone (702) 737-8063"
+        },
+        {
+          "title": "Property Manager at BPL Group of Properties - LinkedIn",
+          "url": "https://www.linkedin.com/in/janet-mentzel-2730b378",
+          "snippet": "Property Manager at BPL Group of Properties · Experience: BPL Group of Properties · Location: Henderson · 1 connection on LinkedIn. View Janet Mentzel's profile on LinkedIn, a professional ..."
+        },
+        {
+          "title": "C/O Bpl Group of Properties Henderson, NV 89014 | Bizapedia",
+          "url": "https://www.bizapedia.com/addresses/c-o-bpl-group-of-properties-henderson-nv-89014.html",
+          "snippet": "Explore 3 companies with an address matching C/O Bpl Group of Properties Henderson, NV 89014. View profiles, business connections, and more."
+        },
+        {
+          "title": "Marylou Pe- Chang | BPL Group of Properties | Henderson, NV - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/marylou-pe-chang/hg733t3b",
+          "snippet": "Marylou Pe- Chang - Manager. View Marylou Pe- Chang's professional profile and available commercial real estate listings on LoopNet.com"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BPL Group of Properties - Henderson, NV - LoopNet",
+      "url": "https://www.loopnet.com/company/bpl-group-of-properties/jdj1556l/",
+      "snippet": "BPL Management is a \"Unique Property Management Company\" are an owner/operator property management company, which enables them to respond more quickly to the needs of their tenants and residents. They offer in-house management, maintenance and the administrative teams for each property, and can handle most emergency situations as they arise. BPL takes pride in their management efforts, and ...",
+      "query": "\"BPL Group of Properties\" revenue",
+      "search_collected_at": "2026-10-23T12:04:10Z"
+    },
+    {
+      "title": "Property Manager at BPL Group of Properties - LinkedIn",
+      "url": "https://www.linkedin.com/in/janet-mentzel-2730b378",
+      "snippet": "Property Manager at BPL Group of Properties · Experience: BPL Group of Properties · Location: Henderson · 1 connection on LinkedIn. View Janet Mentzel's profile on LinkedIn, a professional ...",
+      "query": "\"BPL Group of Properties\" revenue",
+      "search_collected_at": "2026-10-23T12:04:10Z"
+    },
+    {
+      "title": "Susan McCarthy | BPL Group of Properties | Henderson, NV - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/susan-mccarthy/304swtgb",
+      "snippet": "Susan McCarthy Property Manager/Accounts Payable, BPL Group of Properties Henderson, NV 89014 Send a Message Phone (702) 737-8063",
+      "query": "\"BPL Group of Properties\" revenue",
+      "search_collected_at": "2026-10-23T12:04:10Z"
+    },
+    {
+      "title": "C/O Bpl Group of Properties Henderson, NV 89014 | Bizapedia",
+      "url": "https://www.bizapedia.com/addresses/c-o-bpl-group-of-properties-henderson-nv-89014.html",
+      "snippet": "Explore 3 companies with an address matching C/O Bpl Group of Properties Henderson, NV 89014. View profiles, business connections, and more.",
+      "query": "\"BPL Group of Properties\" revenue",
+      "search_collected_at": "2026-10-23T12:04:10Z"
+    },
+    {
+      "title": "Marylou Pe- Chang | BPL Group of Properties | Henderson, NV - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/marylou-pe-chang/hg733t3b",
+      "snippet": "Marylou Pe- Chang - Manager. View Marylou Pe- Chang's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"BPL Group of Properties\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:04:16Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T12:04:16Z",
+  "company_status": "SUCCESS"
+}

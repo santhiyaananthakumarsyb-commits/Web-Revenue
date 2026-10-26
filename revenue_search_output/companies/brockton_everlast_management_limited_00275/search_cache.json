@@ -1,0 +1,120 @@
+{
+  "company_key": "brockton everlast management limited|https://brocktoneverlast.com",
+  "company_name": "Brockton Everlast Management Limited",
+  "company_website": "https://brocktoneverlast.com",
+  "created_at": "2026-10-23T10:43:43Z",
+  "searches": [
+    {
+      "query": "\"Brockton Everlast Management Limited\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:43:48Z",
+      "page_title": "\"Brockton Everlast Management Limited\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brockton+Everlast+Management+Limited%22+revenue",
+      "results": [
+        {
+          "title": "BROCKTON EVERLAST MANAGEMENT LIMITED - Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/11191196",
+          "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "Brockton Everlast Management Limited - Company Profile - Endole",
+          "url": "https://open.endole.co.uk/insight/company/11191196-brockton-everlast-management-limited",
+          "snippet": "Brockton Everlast Management Limited is an active company located in . View company profile, shareholders, contacts, financials, industry and description."
+        },
+        {
+          "title": "BROCKTON EVERLAST MANAGEMENT LIMITED - Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/11191196/filing-history",
+          "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free Company Check",
+          "url": "https://www.companieslist.co.uk/11191196-brockton-everlast-management-limited",
+          "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free Company Check: financial information, company documents, company directors and board members, contact details, registered ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Brockton Everlast Management Limited\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:43:53Z",
+      "page_title": "\"Brockton Everlast Management Limited\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brockton+Everlast+Management+Limited%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BROCKTON EVERLAST MANAGEMENT LIMITED - Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/11191196",
+          "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "Brockton Everlast Management Limited - Company Profile - Endole",
+          "url": "https://open.endole.co.uk/insight/company/11191196-brockton-everlast-management-limited",
+          "snippet": "Brockton Everlast Management Limited is an active company located in . View company profile, shareholders, contacts, financials, industry and description."
+        },
+        {
+          "title": "BROCKTON EVERLAST MANAGEMENT LIMITED - Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/11191196/filing-history",
+          "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "Brockton Everlast Management Ltd - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/2341474D:LN",
+          "snippet": "Brockton Everlast Management Limited was founded in 2018. The company's line of business includes real estate investment trusts and related mortgage assets."
+        },
+        {
+          "title": "BROCKTON EVERLAST MANAGEMENT LIMITED Active - UK.GlobalDatabase.com",
+          "url": "https://uk.globaldatabase.com/company/brockton-everlast-management-limited",
+          "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED is a Private limited company (Ltd.) company based in 89 WARDOUR STREET LONDON, United Kingdom, which employs 36 people. The company started trading on 6 February 2018. The company registration number is 11191196, It's main line of business activity is Activities of real estate investment trusts, and the company is listed as Active. According to the latest ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BROCKTON EVERLAST MANAGEMENT LIMITED - Companies House",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/11191196",
+      "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
+      "query": "\"Brockton Everlast Management Limited\" revenue",
+      "search_collected_at": "2026-10-23T10:43:48Z"
+    },
+    {
+      "title": "Brockton Everlast Management Limited - Company Profile - Endole",
+      "url": "https://open.endole.co.uk/insight/company/11191196-brockton-everlast-management-limited",
+      "snippet": "Brockton Everlast Management Limited is an active company located in . View company profile, shareholders, contacts, financials, industry and description.",
+      "query": "\"Brockton Everlast Management Limited\" revenue",
+      "search_collected_at": "2026-10-23T10:43:48Z"
+    },
+    {
+      "title": "BROCKTON EVERLAST MANAGEMENT LIMITED - Companies House",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/11191196/filing-history",
+      "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
+      "query": "\"Brockton Everlast Management Limited\" revenue",
+      "search_collected_at": "2026-10-23T10:43:48Z"
+    },
+    {
+      "title": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free Company Check",
+      "url": "https://www.companieslist.co.uk/11191196-brockton-everlast-management-limited",
+      "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED - Free Company Check: financial information, company documents, company directors and board members, contact details, registered ...",
+      "query": "\"Brockton Everlast Management Limited\" revenue",
+      "search_collected_at": "2026-10-23T10:43:48Z"
+    },
+    {
+      "title": "Brockton Everlast Management Ltd - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/2341474D:LN",
+      "snippet": "Brockton Everlast Management Limited was founded in 2018. The company's line of business includes real estate investment trusts and related mortgage assets.",
+      "query": "\"Brockton Everlast Management Limited\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:43:53Z"
+    },
+    {
+      "title": "BROCKTON EVERLAST MANAGEMENT LIMITED Active - UK.GlobalDatabase.com",
+      "url": "https://uk.globaldatabase.com/company/brockton-everlast-management-limited",
+      "snippet": "BROCKTON EVERLAST MANAGEMENT LIMITED is a Private limited company (Ltd.) company based in 89 WARDOUR STREET LONDON, United Kingdom, which employs 36 people. The company started trading on 6 February 2018. The company registration number is 11191196, It's main line of business activity is Activities of real estate investment trusts, and the company is listed as Active. According to the latest ...",
+      "query": "\"Brockton Everlast Management Limited\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:43:53Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T10:43:53Z",
+  "company_status": "SUCCESS"
+}

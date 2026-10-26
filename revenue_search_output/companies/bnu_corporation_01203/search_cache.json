@@ -1,0 +1,113 @@
+{
+  "company_key": "bnu corporation|https://cofco.com",
+  "company_name": "BNU Corporation",
+  "company_website": "https://cofco.com",
+  "created_at": "2026-10-23T14:04:57Z",
+  "searches": [
+    {
+      "query": "\"BNU Corporation\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:05:02Z",
+      "page_title": "\"BNU Corporation\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BNU+Corporation%22+revenue",
+      "results": [
+        {
+          "title": "BNU Corporation - South Africa company - K2024544627 | B2BHint",
+          "url": "https://b2bhint.com/en/company/za/bnu-corporation--K2024544627",
+          "snippet": "BNU Corporation South African company. Company number: K2024544627, Officers: Sandra Lee Smal. See directors, owners, financials & registration status — free on B2BHint."
+        },
+        {
+          "title": "Bnu Corporation - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/bnucorporation-phoenix-az-25890588.html",
+          "snippet": "Visit the Bnu Corporation business profile in Phoenix , AZ . Explore the D&B Business Directory at DandB.com."
+        },
+        {
+          "title": "Bnu Corporation - Phoenix, AZ - Apartments in Phoenix, Arizona - Manta",
+          "url": "https://www.manta.com/c/mm49glb/bnu-corporation",
+          "snippet": "Get information, directions, products, services, phone numbers, and reviews on Bnu Corporation in Phoenix, undefined Discover more Operators of Apartment Buildings companies in Phoenix on Manta.com"
+        },
+        {
+          "title": "Cofco Food Co LLC | (602) 225-2288 | Phoenix, Arizona - AllBiz",
+          "url": "https://www.allbiz.com/business/cofco-food-co-llc-602-225-2288",
+          "snippet": "Bnu Corporation is the primary contact at Cofco Food Co LLC. Cofco Food Co LLC generates approximately USD 3,400,000 in revenue annually."
+        },
+        {
+          "title": "EIN 86-0706880 - Bnu Corporation, Phoenix, Arizona",
+          "url": "https://eintaxid.com/company/860706880-bnu-corporation/",
+          "snippet": "The Employer Identification Number (EIN) for Bnu Corporation is 86-0706880. EIN numbers are also referred to as FEIN or FTIN. Find EIN, Contact Details for Bnu Corporation."
+        }
+      ]
+    },
+    {
+      "query": "\"BNU Corporation\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:05:07Z",
+      "page_title": "\"BNU Corporation\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BNU+Corporation%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BNU Corporation - South Africa company - K2024544627 | B2BHint",
+          "url": "https://b2bhint.com/en/company/za/bnu-corporation--K2024544627",
+          "snippet": "BNU Corporation South African company. Company number: K2024544627, Officers: Sandra Lee Smal. See directors, owners, financials & registration status — free on B2BHint."
+        },
+        {
+          "title": "Bnu Corporation - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/bnucorporation-phoenix-az-25890588.html",
+          "snippet": "Founded 1991 Incorporated AZ Annual Revenue $3,763,110.00 Employee Count 50 Industries Apartment Building Operators Contacts Elizabeth Mann"
+        },
+        {
+          "title": "Bnu Corporation - Phoenix, AZ - Apartments in Phoenix, Arizona - Manta",
+          "url": "https://www.manta.com/c/mm49glb/bnu-corporation",
+          "snippet": "Categorized under Apartments. Our records show it was established in 1991 and incorporated in AZ. Current estimates show this company has an annual revenue of 3695408 and employs a staff of approximately 125."
+        },
+        {
+          "title": "EIN 86-0706880 - Bnu Corporation, Phoenix, Arizona",
+          "url": "https://eintaxid.com/company/860706880-bnu-corporation/",
+          "snippet": "Bnu Corporation is a small employer located at Phoenix, Arizona. The employer identification number (EIN) for Bnu Corporation is 860706880. EIN for organizations is sometimes also referred to as taxpayer identification number or TIN. Bnu Corporation sponsors an employee benefit plan and files Form 5500-SF short form annual return/report."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BNU Corporation - South Africa company - K2024544627 | B2BHint",
+      "url": "https://b2bhint.com/en/company/za/bnu-corporation--K2024544627",
+      "snippet": "BNU Corporation South African company. Company number: K2024544627, Officers: Sandra Lee Smal. See directors, owners, financials & registration status — free on B2BHint.",
+      "query": "\"BNU Corporation\" revenue",
+      "search_collected_at": "2026-10-23T14:05:02Z"
+    },
+    {
+      "title": "Bnu Corporation - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/bnucorporation-phoenix-az-25890588.html",
+      "snippet": "Visit the Bnu Corporation business profile in Phoenix , AZ . Explore the D&B Business Directory at DandB.com.",
+      "query": "\"BNU Corporation\" revenue",
+      "search_collected_at": "2026-10-23T14:05:02Z"
+    },
+    {
+      "title": "Bnu Corporation - Phoenix, AZ - Apartments in Phoenix, Arizona - Manta",
+      "url": "https://www.manta.com/c/mm49glb/bnu-corporation",
+      "snippet": "Get information, directions, products, services, phone numbers, and reviews on Bnu Corporation in Phoenix, undefined Discover more Operators of Apartment Buildings companies in Phoenix on Manta.com",
+      "query": "\"BNU Corporation\" revenue",
+      "search_collected_at": "2026-10-23T14:05:02Z"
+    },
+    {
+      "title": "Cofco Food Co LLC | (602) 225-2288 | Phoenix, Arizona - AllBiz",
+      "url": "https://www.allbiz.com/business/cofco-food-co-llc-602-225-2288",
+      "snippet": "Bnu Corporation is the primary contact at Cofco Food Co LLC. Cofco Food Co LLC generates approximately USD 3,400,000 in revenue annually.",
+      "query": "\"BNU Corporation\" revenue",
+      "search_collected_at": "2026-10-23T14:05:02Z"
+    },
+    {
+      "title": "EIN 86-0706880 - Bnu Corporation, Phoenix, Arizona",
+      "url": "https://eintaxid.com/company/860706880-bnu-corporation/",
+      "snippet": "The Employer Identification Number (EIN) for Bnu Corporation is 86-0706880. EIN numbers are also referred to as FEIN or FTIN. Find EIN, Contact Details for Bnu Corporation.",
+      "query": "\"BNU Corporation\" revenue",
+      "search_collected_at": "2026-10-23T14:05:02Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T14:05:07Z",
+  "company_status": "SUCCESS"
+}

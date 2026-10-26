@@ -1,0 +1,91 @@
+{
+  "company_key": "bruce w. reyle & company|https://reyleappraisers.com",
+  "company_name": "Bruce W. Reyle & Company",
+  "company_website": "https://reyleappraisers.com",
+  "created_at": "2026-10-23T12:46:02Z",
+  "searches": [
+    {
+      "query": "\"Bruce W. Reyle & Company\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:46:09Z",
+      "page_title": "\"Bruce W. Reyle & Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bruce+W.+Reyle+%26+Company%22+revenue",
+      "results": [
+        {
+          "title": "Bruce W. Reyle & Company, Inc.| Appraisers - Real Estate Appraisal and ...",
+          "url": "https://reyleappraisers.com/",
+          "snippet": "Bruce W. Reyle Real Estate Appraisers and Consultants, specializing in residential and commercial Virginia, Maryland and the District of Columbia Real Estate Property Appraisals. Easement appraiser, historical preservation Industrial, special use and land appraising."
+        },
+        {
+          "title": "BRUCE W. REYLE & COMPANY, INC. | Real Estate Appraisers in Fairfax, VA",
+          "url": "https://naicslist.com/company-profile/bruce-w-reyle-company-inc-fairfax-va-22030",
+          "snippet": "Bruce W. Reyle & Company, Inc. is a Real Estate Appraisers business in Fairfax, VA (22030). Operating for over 2 years with ~12 employees. Compare against 23 nearby competitors."
+        }
+      ]
+    },
+    {
+      "query": "\"Bruce W. Reyle & Company\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:46:18Z",
+      "page_title": "\"Bruce W. Reyle & Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bruce+W.+Reyle+%26+Company%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bruce W. Reyle & Company, Inc.| Appraisers - Real Estate Appraisal and ...",
+          "url": "https://reyleappraisers.com/",
+          "snippet": "Bruce W. Reyle Real Estate Appraisers and Consultants, specializing in residential and commercial Virginia, Maryland and the District of Columbia Real Estate Property Appraisals. Easement appraiser, historical preservation Industrial, special use and land appraising."
+        },
+        {
+          "title": "Bruce W. Reyle & Company Real Estate Appraisers & Consultants ...",
+          "url": "https://reyleappraisers.com/Intro.aspx",
+          "snippet": "Bruce W. Reyle Real Estate Appraisers and Consultants, specializing in residential and commercial Virginia, Maryland and the District of Columbia Real Estate Property Appraisals. Easement appraiser, historical preservation Industrial, special use and land appraising."
+        },
+        {
+          "title": "BRUCE W. REYLE & COMPANY, INC. | Real Estate Appraisers in Fairfax, VA",
+          "url": "https://naicslist.com/company-profile/bruce-w-reyle-company-inc-fairfax-va-22030",
+          "snippet": "Bruce W. Reyle & Company, Inc. is a Real Estate Appraisers business in Fairfax, VA (22030). Operating for over 2 years with ~12 employees. Compare against 23 nearby competitors."
+        },
+        {
+          "title": "Bruce W. Reyle & Company Real Estate Appraisers & Consultants",
+          "url": "https://aaalocalbizlistings.com/location/bruce-w-reyle-company-real-estate-appraisers-consultants/",
+          "snippet": "Bruce W. Reyle & Company Real Estate Appraisers & Consultants 3837 Plaza Dr 703-273-7375 ,"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bruce W. Reyle & Company, Inc.| Appraisers - Real Estate Appraisal and ...",
+      "url": "https://reyleappraisers.com/",
+      "snippet": "Bruce W. Reyle Real Estate Appraisers and Consultants, specializing in residential and commercial Virginia, Maryland and the District of Columbia Real Estate Property Appraisals. Easement appraiser, historical preservation Industrial, special use and land appraising.",
+      "query": "\"Bruce W. Reyle & Company\" revenue",
+      "search_collected_at": "2026-10-23T12:46:09Z"
+    },
+    {
+      "title": "BRUCE W. REYLE & COMPANY, INC. | Real Estate Appraisers in Fairfax, VA",
+      "url": "https://naicslist.com/company-profile/bruce-w-reyle-company-inc-fairfax-va-22030",
+      "snippet": "Bruce W. Reyle & Company, Inc. is a Real Estate Appraisers business in Fairfax, VA (22030). Operating for over 2 years with ~12 employees. Compare against 23 nearby competitors.",
+      "query": "\"Bruce W. Reyle & Company\" revenue",
+      "search_collected_at": "2026-10-23T12:46:09Z"
+    },
+    {
+      "title": "Bruce W. Reyle & Company Real Estate Appraisers & Consultants ...",
+      "url": "https://reyleappraisers.com/Intro.aspx",
+      "snippet": "Bruce W. Reyle Real Estate Appraisers and Consultants, specializing in residential and commercial Virginia, Maryland and the District of Columbia Real Estate Property Appraisals. Easement appraiser, historical preservation Industrial, special use and land appraising.",
+      "query": "\"Bruce W. Reyle & Company\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:46:18Z"
+    },
+    {
+      "title": "Bruce W. Reyle & Company Real Estate Appraisers & Consultants",
+      "url": "https://aaalocalbizlistings.com/location/bruce-w-reyle-company-real-estate-appraisers-consultants/",
+      "snippet": "Bruce W. Reyle & Company Real Estate Appraisers & Consultants 3837 Plaza Dr 703-273-7375 ,",
+      "query": "\"Bruce W. Reyle & Company\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:46:18Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T12:46:18Z",
+  "company_status": "SUCCESS"
+}

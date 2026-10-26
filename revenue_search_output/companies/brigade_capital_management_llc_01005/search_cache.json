@@ -1,0 +1,57 @@
+{
+  "company_key": "brigade capital management llc|https://brigadecapital.com",
+  "company_name": "Brigade Capital Management LLC",
+  "company_website": "https://brigadecapital.com",
+  "created_at": "2026-10-23T13:21:33Z",
+  "searches": [
+    {
+      "query": "\"Brigade Capital Management LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:21:40Z",
+      "page_title": "\"Brigade Capital Management LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brigade+Capital+Management+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Brigade Capital Management LLC | AUM 13F",
+          "url": "https://aum13f.com/firm/brigade-capital-management-llc",
+          "snippet": "Track the AUM, funds, and holdings for Brigade Capital Management LLC over time. View the latest funds and 13F holdings. Compare against similar firms."
+        }
+      ]
+    },
+    {
+      "query": "\"Brigade Capital Management LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:21:48Z",
+      "page_title": "\"Brigade Capital Management LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brigade+Capital+Management+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brigade Capital Management LLC | AUM 13F",
+          "url": "https://aum13f.com/firm/brigade-capital-management-llc?view_all=sec345",
+          "snippet": "Track the AUM, funds, and holdings for Brigade Capital Management LLC over time. View the latest funds and 13F holdings. Compare against similar firms."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brigade Capital Management LLC | AUM 13F",
+      "url": "https://aum13f.com/firm/brigade-capital-management-llc",
+      "snippet": "Track the AUM, funds, and holdings for Brigade Capital Management LLC over time. View the latest funds and 13F holdings. Compare against similar firms.",
+      "query": "\"Brigade Capital Management LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:21:40Z"
+    },
+    {
+      "title": "Brigade Capital Management LLC | AUM 13F",
+      "url": "https://aum13f.com/firm/brigade-capital-management-llc?view_all=sec345",
+      "snippet": "Track the AUM, funds, and holdings for Brigade Capital Management LLC over time. View the latest funds and 13F holdings. Compare against similar firms.",
+      "query": "\"Brigade Capital Management LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:21:48Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:21:48Z",
+  "company_status": "SUCCESS"
+}

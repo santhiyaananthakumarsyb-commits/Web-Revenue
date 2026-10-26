@@ -1,0 +1,113 @@
+{
+  "company_key": "brause realty inc.|https://brauserealty.com",
+  "company_name": "Brause Realty Inc.",
+  "company_website": "https://brauserealty.com",
+  "created_at": "2026-10-23T12:58:37Z",
+  "searches": [
+    {
+      "query": "\"Brause Realty Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:58:42Z",
+      "page_title": "\"Brause Realty Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brause+Realty+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Brause Realty Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/brause-realty-inc-profile_b4441603fab498cb",
+          "snippet": "Brause Realty Inc. is a Real Estate company located in New York, New York with $7.4 million in revenue and 16 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "BRAUSE REALTY INC. Company Profile | New York, New York | Competitors ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brause_realty_inc.a3843e644d216ab35124aa909a0c35f5.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRAUSE REALTY INC. of New York, New York. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "BRAUSE REALTY INC. Company Profile | Saratoga Springs, New York ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brause_realty_inc.26264c5d18f1321f5df915bb1173c7a5.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRAUSE REALTY INC. of Saratoga Springs, New York. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Brause Realty Inc. - Company Profile & Staff Directory | ContactOut",
+          "url": "https://contactout.com/company/Brause-Realty-Inc-69676",
+          "snippet": "Brause Realty Inc. is a Real Estate company located in 52 Vanderbilt Ave, New York, NY 10017, US with 17 employees. Access Brause Realty Inc.'s email format and staff directory for direct contact details."
+        },
+        {
+          "title": "Brause Realty INC. - New York company - 157749 | B2BHint",
+          "url": "https://b2bhint.com/en/company/us-ny/brause-realty-inc--157749",
+          "snippet": "Brause Realty INC. American (New York) company. Company number: 157749, Officers: David Brause. See directors, owners, financials & registration status — free on B2BHint."
+        }
+      ]
+    },
+    {
+      "query": "\"Brause Realty Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:58:48Z",
+      "page_title": "\"Brause Realty Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brause+Realty+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brause Realty Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/brause-realty-inc-profile_b4441603fab498cb",
+          "snippet": "Brause Realty Inc. is a Real Estate company located in New York, New York with $7.4 million in revenue and 16 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Brause Realty Inc. - Company Profile & Staff Directory | ContactOut",
+          "url": "https://contactout.com/company/Brause-Realty-Inc-69676",
+          "snippet": "What is Brause Realty Inc.'s annual revenue? Brause Realty Inc. generates an estimated $1M-$5M annually, based on industry analysis and publicly available market data."
+        },
+        {
+          "title": "Brause Realty INC. - New York company - 157749 | B2BHint",
+          "url": "https://b2bhint.com/en/company/us-ny/brause-realty-inc--157749",
+          "snippet": "Brause Realty INC. American (New York) company. Company number: 157749, Officers: David Brause. See directors, owners, financials & registration status — free on B2BHint."
+        },
+        {
+          "title": "BRAUSE REALTY INC. Company Profile | New York, New York | Competitors ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brause_realty_inc.a3843e644d216ab35124aa909a0c35f5.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRAUSE REALTY INC. of New York, New York. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brause Realty Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/brause-realty-inc-profile_b4441603fab498cb",
+      "snippet": "Brause Realty Inc. is a Real Estate company located in New York, New York with $7.4 million in revenue and 16 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Brause Realty Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:58:42Z"
+    },
+    {
+      "title": "BRAUSE REALTY INC. Company Profile | New York, New York | Competitors ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.brause_realty_inc.a3843e644d216ab35124aa909a0c35f5.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BRAUSE REALTY INC. of New York, New York. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Brause Realty Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:58:42Z"
+    },
+    {
+      "title": "BRAUSE REALTY INC. Company Profile | Saratoga Springs, New York ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.brause_realty_inc.26264c5d18f1321f5df915bb1173c7a5.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BRAUSE REALTY INC. of Saratoga Springs, New York. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Brause Realty Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:58:42Z"
+    },
+    {
+      "title": "Brause Realty Inc. - Company Profile & Staff Directory | ContactOut",
+      "url": "https://contactout.com/company/Brause-Realty-Inc-69676",
+      "snippet": "Brause Realty Inc. is a Real Estate company located in 52 Vanderbilt Ave, New York, NY 10017, US with 17 employees. Access Brause Realty Inc.'s email format and staff directory for direct contact details.",
+      "query": "\"Brause Realty Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:58:42Z"
+    },
+    {
+      "title": "Brause Realty INC. - New York company - 157749 | B2BHint",
+      "url": "https://b2bhint.com/en/company/us-ny/brause-realty-inc--157749",
+      "snippet": "Brause Realty INC. American (New York) company. Company number: 157749, Officers: David Brause. See directors, owners, financials & registration status — free on B2BHint.",
+      "query": "\"Brause Realty Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:58:42Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T12:58:48Z",
+  "company_status": "SUCCESS"
+}

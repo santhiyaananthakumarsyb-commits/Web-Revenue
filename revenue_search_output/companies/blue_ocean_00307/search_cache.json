@@ -1,0 +1,120 @@
+{
+  "company_key": "blue ocean|https://blueoceanrealty.net",
+  "company_name": "Blue Ocean",
+  "company_website": "https://blueoceanrealty.net",
+  "created_at": "2026-10-23T10:50:39Z",
+  "searches": [
+    {
+      "query": "\"Blue Ocean\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:50:45Z",
+      "page_title": "\"Blue Ocean\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Ocean%22+revenue",
+      "results": [
+        {
+          "title": "Blue Ocean Revenue: Annual, Quarterly, and Historic - Zippia",
+          "url": "https://www.zippia.com/blue-ocean-holdings-careers-544326/revenue/",
+          "snippet": "Blue Ocean's revenue is $450,000 - Learn more about Blue Ocean's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee."
+        },
+        {
+          "title": "Blue Ocean - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/blue-ocean-inc/469967349",
+          "snippet": "View Blue Ocean (www.blueoceanglobe.net) location in Oregon, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Blue Ocean Robotics - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/blue-ocean-robotics/372866239",
+          "snippet": "View Blue Ocean Robotics (www.blue-ocean-robotics.com) location in Region Syddanmark, Denmark , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Blue Ocean - Business Snapshot & Rival Analysis - 2026",
+          "url": "https://compworth.com/company/blue-ocean",
+          "snippet": "Blue Ocean is driven by estimated revenue of $18.9M, team of around 60+ employees, active in Beaverton, with a strong focus on scaling operations."
+        },
+        {
+          "title": "Blue Ocean Revenue, Funding & Valuation - prospeo.io",
+          "url": "https://prospeo.io/c/blue-ocean-revenue",
+          "snippet": "Blue Ocean has revenue of $6,844,400, estimated valuation of $22,000,000. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "Blue Ocean: Revenue, Competitors, Alternatives - Growjo",
+          "url": "https://growjo.com/company/Blue_Ocean",
+          "snippet": "Blue Ocean top competitors are Mr Dirt, Abba Freight Systems and ecoShuttle and they have annual revenue of $18.9M and 64 employees."
+        }
+      ]
+    },
+    {
+      "query": "\"Blue Ocean\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:50:51Z",
+      "page_title": "\"Blue Ocean\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Ocean%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blue Ocean - Business Snapshot & Rival Analysis - 2026",
+          "url": "https://compworth.com/company/blue-ocean",
+          "snippet": "Blue Ocean Revenue & Valuation Blue Ocean reportedly generates an annual revenue of $18.9M. Blue Ocean's operational efficiency results in $295.2K revenue per employee."
+        },
+        {
+          "title": "Blue Ocean Revenue, Funding & Valuation - prospeo.io",
+          "url": "https://prospeo.io/c/blue-ocean-revenue",
+          "snippet": "Blue Ocean has revenue of $6,844,400, estimated valuation of $22,000,000. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "Blue Ocean Revenue: Annual, Quarterly, and Historic - Zippia",
+          "url": "https://www.zippia.com/blue-ocean-holdings-careers-544326/revenue/",
+          "snippet": "Blue Ocean's revenue is $450,000 - Learn more about Blue Ocean's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blue Ocean Revenue: Annual, Quarterly, and Historic - Zippia",
+      "url": "https://www.zippia.com/blue-ocean-holdings-careers-544326/revenue/",
+      "snippet": "Blue Ocean's revenue is $450,000 - Learn more about Blue Ocean's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee.",
+      "query": "\"Blue Ocean\" revenue",
+      "search_collected_at": "2026-10-23T10:50:45Z"
+    },
+    {
+      "title": "Blue Ocean - Overview, News & Similar companies | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/blue-ocean-inc/469967349",
+      "snippet": "View Blue Ocean (www.blueoceanglobe.net) location in Oregon, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Blue Ocean\" revenue",
+      "search_collected_at": "2026-10-23T10:50:45Z"
+    },
+    {
+      "title": "Blue Ocean Robotics - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/blue-ocean-robotics/372866239",
+      "snippet": "View Blue Ocean Robotics (www.blue-ocean-robotics.com) location in Region Syddanmark, Denmark , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Blue Ocean\" revenue",
+      "search_collected_at": "2026-10-23T10:50:45Z"
+    },
+    {
+      "title": "Blue Ocean - Business Snapshot & Rival Analysis - 2026",
+      "url": "https://compworth.com/company/blue-ocean",
+      "snippet": "Blue Ocean is driven by estimated revenue of $18.9M, team of around 60+ employees, active in Beaverton, with a strong focus on scaling operations.",
+      "query": "\"Blue Ocean\" revenue",
+      "search_collected_at": "2026-10-23T10:50:45Z"
+    },
+    {
+      "title": "Blue Ocean Revenue, Funding & Valuation - prospeo.io",
+      "url": "https://prospeo.io/c/blue-ocean-revenue",
+      "snippet": "Blue Ocean has revenue of $6,844,400, estimated valuation of $22,000,000. Find contacts and company information on Prospeo.",
+      "query": "\"Blue Ocean\" revenue",
+      "search_collected_at": "2026-10-23T10:50:45Z"
+    },
+    {
+      "title": "Blue Ocean: Revenue, Competitors, Alternatives - Growjo",
+      "url": "https://growjo.com/company/Blue_Ocean",
+      "snippet": "Blue Ocean top competitors are Mr Dirt, Abba Freight Systems and ecoShuttle and they have annual revenue of $18.9M and 64 employees.",
+      "query": "\"Blue Ocean\" revenue",
+      "search_collected_at": "2026-10-23T10:50:45Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T10:50:51Z",
+  "company_status": "SUCCESS"
+}

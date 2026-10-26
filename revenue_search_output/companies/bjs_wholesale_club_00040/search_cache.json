@@ -1,0 +1,74 @@
+{
+  "company_key": "bjs wholesale club|https://bjs.com",
+  "company_name": "BJs Wholesale Club",
+  "company_website": "https://bjs.com",
+  "created_at": "2026-10-23T09:52:58Z",
+  "searches": [
+    {
+      "query": "\"BJs Wholesale Club\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:53:05Z",
+      "page_title": "\"BJs Wholesale Club\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BJs+Wholesale+Club%22+revenue",
+      "results": [
+        {
+          "title": "BJS Wholesale Club Revenue, Growth & Competitor Profile",
+          "url": "https://incfact.com/company/bjswholesaleclub-marlborough-ma/",
+          "snippet": "Company Report on BJS Wholesale Club with Revenue, Growth, Competitors, & Trends"
+        },
+        {
+          "title": "BJs Wholesale Club Holdings - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bjs-wholesale-club-holdings/9487723",
+          "snippet": "View BJs Wholesale Club Holdings (www.bjs.com) location in Massachusetts, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    },
+    {
+      "query": "\"BJs Wholesale Club\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:53:12Z",
+      "page_title": "\"BJs Wholesale Club\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BJs+Wholesale+Club%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BJS Wholesale Club Revenue, Growth & Competitor Profile",
+          "url": "https://incfact.com/company/bjswholesaleclub-marlborough-ma/",
+          "snippet": "BJS Wholesale Club's Annual Report & Profile shows critical firmographic facts: What is the company's size? (Annual sales and employees) BJS Wholesale Club's annual revenues are Over $500 million (see exact revenue data) What industry is the company in? BJS Wholesale Club is classified as operating in the Miscellaneous Store Retailers industry, NAICS Code 453. BJS Wholesale Club Annual Revenue ..."
+        },
+        {
+          "title": "BJs Wholesale Club Holdings, Inc. (BJ) Financials",
+          "url": "https://www.stocktitan.net/financials/BJ/",
+          "snippet": "BJs Wholesale Club Holdings, Inc. (BJ) reported $21.5B in revenue, $578.0M net income (EPS $4.38) and a 18.6% gross margin for FY2025. Income statement, balance sheet, cash flow and ratios from SEC filings."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BJS Wholesale Club Revenue, Growth & Competitor Profile",
+      "url": "https://incfact.com/company/bjswholesaleclub-marlborough-ma/",
+      "snippet": "Company Report on BJS Wholesale Club with Revenue, Growth, Competitors, & Trends",
+      "query": "\"BJs Wholesale Club\" revenue",
+      "search_collected_at": "2026-10-23T09:53:05Z"
+    },
+    {
+      "title": "BJs Wholesale Club Holdings - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/bjs-wholesale-club-holdings/9487723",
+      "snippet": "View BJs Wholesale Club Holdings (www.bjs.com) location in Massachusetts, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"BJs Wholesale Club\" revenue",
+      "search_collected_at": "2026-10-23T09:53:05Z"
+    },
+    {
+      "title": "BJs Wholesale Club Holdings, Inc. (BJ) Financials",
+      "url": "https://www.stocktitan.net/financials/BJ/",
+      "snippet": "BJs Wholesale Club Holdings, Inc. (BJ) reported $21.5B in revenue, $578.0M net income (EPS $4.38) and a 18.6% gross margin for FY2025. Income statement, balance sheet, cash flow and ratios from SEC filings.",
+      "query": "\"BJs Wholesale Club\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:53:12Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T09:53:12Z",
+  "company_status": "SUCCESS"
+}

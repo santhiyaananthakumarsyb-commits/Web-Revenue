@@ -1,0 +1,93 @@
+{
+  "company_key": "berkeley county real property|https://berkeleycountysc.gov",
+  "company_name": "Berkeley County Real Property",
+  "company_website": "https://berkeleycountysc.gov",
+  "created_at": "2026-10-23T11:13:47Z",
+  "searches": [
+    {
+      "query": "\"Berkeley County Real Property\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:13:53Z",
+      "page_title": "\"Berkeley County Real Property\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkeley+County+Real+Property%22+revenue",
+      "results": [
+        {
+          "title": "Berkeley County, South Carolina Property Search",
+          "url": "https://cadpropertysearch.com/south-carolina/berkeley-county/property-lookup/",
+          "snippet": "The local property search is the best first stop when you need to connect an address or owner name to the official parcel, account, assessed value, and tax record. Open the listed portal below, then keep the parcel or account identifier available for any follow-up with Berkeley County Real Property Services (Assessor)."
+        },
+        {
+          "title": "Berkeley County CAD Property Search, Records & Appraisal District",
+          "url": "https://county-cad.us/berkeley-county-cad-property-search-records-appraisal-district/",
+          "snippet": "Berkeley County does not use a Texas-style Central Appraisal District. Use Berkeley County Real Property Services for property cards and assessment questions, the Treasurer for tax payments, and the Register of Deeds for deeds, plats, mortgages and recorded property documents."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkeley County Real Property\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:14:00Z",
+      "page_title": "\"Berkeley County Real Property\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkeley+County+Real+Property%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Message from Berkeley County Real Property Services",
+          "url": "https://berkeleycountysc.gov/message-from-berkeley-county-real-property-services/",
+          "snippet": "Message from Berkeley County Real Property Services: DON'T WAIT TO APPLY FOR THE 4% SPECIAL ASSESSMENT! If you recently bought a new home or made changes to your deed (ex. death of an owner, added an owner, removed an owner), you need to apply for the 4% special assessment."
+        },
+        {
+          "title": "Berkeley County, SC Assessor Property Search and Records | AssessorSearch",
+          "url": "https://assessorsearch.com/property-records/south-carolina/berkeley-county",
+          "snippet": "Use the official Berkeley County Real Property Search for county ownership and parcel records when owner names are available online. Use AssessorSearch property search as a free, easy-to-use option to look up Berkeley County properties by address or APN. Where can I verify assessed value in Berkeley County?"
+        },
+        {
+          "title": "Berkeley County Real Property Service Comparable Sales Tool",
+          "url": "https://assessor.berkeleycountysc.gov/compsales/comparable_sales.php",
+          "snippet": "Acreage ranges must be numeric. Sales price ranges must be numeric. Building SQFT ranges must be numeric."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkeley County, South Carolina Property Search",
+      "url": "https://cadpropertysearch.com/south-carolina/berkeley-county/property-lookup/",
+      "snippet": "The local property search is the best first stop when you need to connect an address or owner name to the official parcel, account, assessed value, and tax record. Open the listed portal below, then keep the parcel or account identifier available for any follow-up with Berkeley County Real Property Services (Assessor).",
+      "query": "\"Berkeley County Real Property\" revenue",
+      "search_collected_at": "2026-10-23T11:13:53Z"
+    },
+    {
+      "title": "Berkeley County CAD Property Search, Records & Appraisal District",
+      "url": "https://county-cad.us/berkeley-county-cad-property-search-records-appraisal-district/",
+      "snippet": "Berkeley County does not use a Texas-style Central Appraisal District. Use Berkeley County Real Property Services for property cards and assessment questions, the Treasurer for tax payments, and the Register of Deeds for deeds, plats, mortgages and recorded property documents.",
+      "query": "\"Berkeley County Real Property\" revenue",
+      "search_collected_at": "2026-10-23T11:13:53Z"
+    },
+    {
+      "title": "Message from Berkeley County Real Property Services",
+      "url": "https://berkeleycountysc.gov/message-from-berkeley-county-real-property-services/",
+      "snippet": "Message from Berkeley County Real Property Services: DON'T WAIT TO APPLY FOR THE 4% SPECIAL ASSESSMENT! If you recently bought a new home or made changes to your deed (ex. death of an owner, added an owner, removed an owner), you need to apply for the 4% special assessment.",
+      "query": "\"Berkeley County Real Property\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:14:00Z"
+    },
+    {
+      "title": "Berkeley County, SC Assessor Property Search and Records | AssessorSearch",
+      "url": "https://assessorsearch.com/property-records/south-carolina/berkeley-county",
+      "snippet": "Use the official Berkeley County Real Property Search for county ownership and parcel records when owner names are available online. Use AssessorSearch property search as a free, easy-to-use option to look up Berkeley County properties by address or APN. Where can I verify assessed value in Berkeley County?",
+      "query": "\"Berkeley County Real Property\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:14:00Z"
+    },
+    {
+      "title": "Berkeley County Real Property Service Comparable Sales Tool",
+      "url": "https://assessor.berkeleycountysc.gov/compsales/comparable_sales.php",
+      "snippet": "Acreage ranges must be numeric. Sales price ranges must be numeric. Building SQFT ranges must be numeric.",
+      "query": "\"Berkeley County Real Property\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:14:00Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T11:14:00Z",
+  "company_status": "SUCCESS"
+}

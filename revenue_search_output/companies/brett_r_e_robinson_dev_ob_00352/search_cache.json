@@ -1,0 +1,50 @@
+{
+  "company_key": "brett r/e, robinson dev ob|https://brettrobinson.com",
+  "company_name": "Brett R/E, Robinson Dev OB",
+  "company_website": "https://brettrobinson.com",
+  "created_at": "2026-10-23T11:00:17Z",
+  "searches": [
+    {
+      "query": "\"Brett R/E, Robinson Dev OB\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:00:24Z",
+      "page_title": "\"Brett R/E, Robinson Dev OB\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brett+R%2FE%2C+Robinson+Dev+OB%22+revenue",
+      "results": [
+        {
+          "title": "John Cline | Brett R/E, Robinson Dev OB | Orange Beach, AL",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/john-cline/bpldcp9b",
+          "snippet": "John Cline - Over 4 decades of Real Estate Brokerage services.. View John Cline's professional profile and available commercial real estate listings on LoopNet.com"
+        }
+      ]
+    },
+    {
+      "query": "\"Brett R/E, Robinson Dev OB\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:00:31Z",
+      "page_title": "\"Brett R/E, Robinson Dev OB\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brett+R%2FE%2C+Robinson+Dev+OB%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "John Cline | Brett R/E, Robinson Dev OB | Orange Beach, AL",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/john-cline/bpldcp9b",
+          "snippet": "John Cline - Over 4 decades of Real Estate Brokerage services.. View John Cline's professional profile and available commercial real estate listings on LoopNet.com"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "John Cline | Brett R/E, Robinson Dev OB | Orange Beach, AL",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/john-cline/bpldcp9b",
+      "snippet": "John Cline - Over 4 decades of Real Estate Brokerage services.. View John Cline's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Brett R/E, Robinson Dev OB\" revenue",
+      "search_collected_at": "2026-10-23T11:00:24Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:00:31Z",
+  "company_status": "SUCCESS"
+}

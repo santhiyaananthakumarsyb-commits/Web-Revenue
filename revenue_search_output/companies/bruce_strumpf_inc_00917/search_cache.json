@@ -1,0 +1,56 @@
+{
+  "company_key": "bruce strumpf, inc.|https://brucestrumpf.com",
+  "company_name": "Bruce Strumpf, Inc.",
+  "company_website": "https://brucestrumpf.com",
+  "created_at": "2026-10-23T13:02:35Z",
+  "searches": [
+    {
+      "query": "\"Bruce Strumpf, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:02:44Z",
+      "page_title": "\"Bruce Strumpf, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bruce+Strumpf%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Management - BRUCE STRUMPF",
+          "url": "https://brucestrumpf.com/management/",
+          "snippet": "Management BRUCE STRUMPF, INC. HAS THE FLEXIBILITY TO WORK WITH EACH OWNERSHIP ACCORDING TO THEIR NEEDS. Tampa Bay Business Journal has named Bruce Strumpf, Inc. annually as one of the top retail management companies in Tampa Bay. What We Do: Our property managers oversee expansion, renovation and re-tenanting of existing centers."
+        },
+        {
+          "title": "Tower Oak Plaza - brucestrumpf.com",
+          "url": "https://brucestrumpf.com/property/tower-oak-plaza/",
+          "snippet": "Leasing Agent John F. Stoner, CCIM • Bruce Strumpf, Inc. • 2120 Drew Street • Clearwater, FL 33765 (727) 449-2020 Phone • (727) 449-2212 Fax Johnstoner@brucestrumpf.com • Contact Us"
+        }
+      ]
+    },
+    {
+      "query": "\"Bruce Strumpf, Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:02:51Z",
+      "page_title": "\"Bruce Strumpf, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bruce+Strumpf%2C+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Management - BRUCE STRUMPF",
+      "url": "https://brucestrumpf.com/management/",
+      "snippet": "Management BRUCE STRUMPF, INC. HAS THE FLEXIBILITY TO WORK WITH EACH OWNERSHIP ACCORDING TO THEIR NEEDS. Tampa Bay Business Journal has named Bruce Strumpf, Inc. annually as one of the top retail management companies in Tampa Bay. What We Do: Our property managers oversee expansion, renovation and re-tenanting of existing centers.",
+      "query": "\"Bruce Strumpf, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:02:44Z"
+    },
+    {
+      "title": "Tower Oak Plaza - brucestrumpf.com",
+      "url": "https://brucestrumpf.com/property/tower-oak-plaza/",
+      "snippet": "Leasing Agent John F. Stoner, CCIM • Bruce Strumpf, Inc. • 2120 Drew Street • Clearwater, FL 33765 (727) 449-2020 Phone • (727) 449-2212 Fax Johnstoner@brucestrumpf.com • Contact Us",
+      "query": "\"Bruce Strumpf, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:02:44Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:02:51Z",
+  "company_status": "SUCCESS"
+}

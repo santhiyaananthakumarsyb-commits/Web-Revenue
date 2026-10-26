@@ -1,0 +1,67 @@
+{
+  "company_key": "block real estate services llc|https://blockllc.com",
+  "company_name": "Block Real Estate Services LLC",
+  "company_website": "https://blockllc.com",
+  "created_at": "2026-10-23T11:02:02Z",
+  "searches": [
+    {
+      "query": "\"Block Real Estate Services LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:02:07Z",
+      "page_title": "\"Block Real Estate Services LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Block+Real+Estate+Services+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Block Real Estate Services LLC - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/0156106D:US",
+          "snippet": "Company profile page for Block Real Estate Services LLC including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Block Real Estate Services LLC Company Profile: Financials, Valuation ...",
+          "url": "https://www.privco.com/company/block-real-estate-services",
+          "snippet": "Block Real Estate Services LLC is a privately-held company that operates in the real estate industry. Block Real Estate Services LLC headquarters are located in Kansas City, Missouri."
+        }
+      ]
+    },
+    {
+      "query": "\"Block Real Estate Services LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:02:13Z",
+      "page_title": "\"Block Real Estate Services LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Block+Real+Estate+Services+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Block Real Estate Services LLC - Company Profile and News - Bloomberg ...",
+          "url": "https://www.bloomberg.com/profile/company/0156106D:US",
+          "snippet": "Company profile page for Block Real Estate Services LLC including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Block Real Estate Services LLC Company Profile: Financials, Valuation ...",
+          "url": "https://www.privco.com/company/block-real-estate-services",
+          "snippet": "Block Real Estate Services LLC is a privately-held company that operates in the real estate industry. Block Real Estate Services LLC headquarters are located in Kansas City, Missouri."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Block Real Estate Services LLC - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/0156106D:US",
+      "snippet": "Company profile page for Block Real Estate Services LLC including stock price, company news, executives, board members, and contact information",
+      "query": "\"Block Real Estate Services LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:02:07Z"
+    },
+    {
+      "title": "Block Real Estate Services LLC Company Profile: Financials, Valuation ...",
+      "url": "https://www.privco.com/company/block-real-estate-services",
+      "snippet": "Block Real Estate Services LLC is a privately-held company that operates in the real estate industry. Block Real Estate Services LLC headquarters are located in Kansas City, Missouri.",
+      "query": "\"Block Real Estate Services LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:02:07Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:02:13Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,74 @@
+{
+  "company_key": "blake investment partners, llc|https://blakeinvestmentpartners.com",
+  "company_name": "BLAKE Investment Partners, LLC",
+  "company_website": "https://blakeinvestmentpartners.com",
+  "created_at": "2026-10-23T13:41:37Z",
+  "searches": [
+    {
+      "query": "\"BLAKE Investment Partners, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:41:43Z",
+      "page_title": "\"BLAKE Investment Partners, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BLAKE+Investment+Partners%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Blake Investment Partners, LLC - Private Equity International",
+          "url": "https://www.privateequityinternational.com/institution-profiles/blake-investment-partners-llc.html",
+          "snippet": "Use Private Equity International's platform to access the latest news, analysis, insights and fund data for Blake Investment Partners, LLC, as well as key contact information."
+        },
+        {
+          "title": "Blake Investment Partners, LLC - buzzfile.com",
+          "url": "https://www.buzzfile.com/business/Blake-Investment-Partners,-LLC-727-498-3330",
+          "snippet": "Blake Investment Partners is in the Investors, nec industry within the Holding and Other Investment Offices sector and has been in business for approximately 10 years."
+        }
+      ]
+    },
+    {
+      "query": "\"BLAKE Investment Partners, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:41:49Z",
+      "page_title": "\"BLAKE Investment Partners, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BLAKE+Investment+Partners%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blake Investment Partners, LLC - Private Equity International",
+          "url": "https://www.privateequityinternational.com/institution-profiles/blake-investment-partners-llc.html",
+          "snippet": "Use Private Equity International's platform to access the latest news, analysis, insights and fund data for Blake Investment Partners, LLC, as well as key contact information."
+        },
+        {
+          "title": "BLAKE INVESTMENT PARTNERS, LLC | D&B Business Directory | US",
+          "url": "https://www.dnb.com/business-directory/company-profiles/blake-investment-partners-llc.3ccfd5aebd70b9746f81f7f20fd27ce8",
+          "snippet": "Explore the company profile for BLAKE INVESTMENT PARTNERS, LLC, including overview, industry, competitors, and key business details from the D&B Business Directory."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blake Investment Partners, LLC - Private Equity International",
+      "url": "https://www.privateequityinternational.com/institution-profiles/blake-investment-partners-llc.html",
+      "snippet": "Use Private Equity International's platform to access the latest news, analysis, insights and fund data for Blake Investment Partners, LLC, as well as key contact information.",
+      "query": "\"BLAKE Investment Partners, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:41:43Z"
+    },
+    {
+      "title": "Blake Investment Partners, LLC - buzzfile.com",
+      "url": "https://www.buzzfile.com/business/Blake-Investment-Partners,-LLC-727-498-3330",
+      "snippet": "Blake Investment Partners is in the Investors, nec industry within the Holding and Other Investment Offices sector and has been in business for approximately 10 years.",
+      "query": "\"BLAKE Investment Partners, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:41:43Z"
+    },
+    {
+      "title": "BLAKE INVESTMENT PARTNERS, LLC | D&B Business Directory | US",
+      "url": "https://www.dnb.com/business-directory/company-profiles/blake-investment-partners-llc.3ccfd5aebd70b9746f81f7f20fd27ce8",
+      "snippet": "Explore the company profile for BLAKE INVESTMENT PARTNERS, LLC, including overview, industry, competitors, and key business details from the D&B Business Directory.",
+      "query": "\"BLAKE Investment Partners, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:41:49Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:41:49Z",
+  "company_status": "SUCCESS"
+}

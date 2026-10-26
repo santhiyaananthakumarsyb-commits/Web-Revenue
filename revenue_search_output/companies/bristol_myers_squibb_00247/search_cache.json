@@ -1,0 +1,139 @@
+{
+  "company_key": "bristol myers squibb|https://bms.com",
+  "company_name": "Bristol Myers Squibb",
+  "company_website": "https://bms.com",
+  "created_at": "2026-10-23T10:37:41Z",
+  "searches": [
+    {
+      "query": "\"Bristol Myers Squibb\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:37:49Z",
+      "page_title": "\"Bristol Myers Squibb\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bristol+Myers+Squibb%22+revenue",
+      "results": [
+        {
+          "title": "Key facts - Bristol Myers Squibb - bms.com",
+          "url": "https://www.bms.com/investors/financial-reporting/key-facts.html",
+          "snippet": "Learn more about Bristol Myers Squibb's key financial and product revenue information."
+        },
+        {
+          "title": "Bristol Myers Squibb Revenue 2012-2026 | BMY - Macrotrends",
+          "url": "https://www.macrotrends.net/stocks/charts/BMY/bristol-myers-squibb/revenue",
+          "snippet": "Bristol Myers Squibb annual/quarterly revenue history and growth rate from 2012 to 2026. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services."
+        },
+        {
+          "title": "PDF Bristol Myers Squibb®",
+          "url": "https://www.bms.com/assets/bms/us/en-us/pdf/investor-info/doc_financials/quarterly_reports/2025/BMY-Q4-2025-Earnings-Press-Release.pdf",
+          "snippet": "Bristol Myers Squibb® Bristol Myers Squibb Reports Fourth Quarter and Full-Year Financial Results for 2025 Financial results reflect disciplined execution and focus on delivering long-term growth"
+        },
+        {
+          "title": "Annual Report 2025 - Bristol Myers Squibb",
+          "url": "https://annual-report.bms.com/2025.html",
+          "snippet": "Learn how a single touch can transform patients' lives in Bristol Myers Squibb's 2025 Annual Report."
+        },
+        {
+          "title": "Bristol Myers Squibb - Bristol Myers Squibb Reports Fourth Quarter and ...",
+          "url": "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Reports-Fourth-Quarter-and-Full-Year-Financial-Results-for-2025/default.aspx",
+          "snippet": "About Bristol Myers Squibb: Transforming Patients' Lives Through Science At Bristol Myers Squibb, our mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. We are pursuing bold science to define what's possible for the future of medicine and the patients we serve."
+        },
+        {
+          "title": "Bristol Myers Squibb - Bristol Myers Squibb Reports Fourth Quarter and ...",
+          "url": "https://news.bms.com/news/details/2025/Bristol-Myers-Squibb-Reports-Fourth-Quarter-and-Full-Year-Financial-Results-for-2024/default.aspx",
+          "snippet": "PRINCETON, N.J.-- (BUSINESS WIRE)-- Bristol Myers Squibb (NYSE: BMY) today reports results for the fourth quarter and full year of 2024. \"We made good progress in 2024, which was capped by a fourth quarter of strong topline growth driven by key products and important pipeline advancements. We also achieved the landmark U.S. approval of Cobenfy last year for the treatment of schizophrenia in ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bristol Myers Squibb\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:37:54Z",
+      "page_title": "\"Bristol Myers Squibb\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bristol+Myers+Squibb%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BMY financial reporting - Bristol Myers Squibb",
+          "url": "https://www.bms.com/investors/financial-reporting.html",
+          "snippet": "Explore comprehensive information on Bristol Myers Squibb reports, earnings, product sales, SEC filings and more to help you make an informed investment decision."
+        },
+        {
+          "title": "Bristol Myers Squibb Co (BMY) Analyst Estimates - Revenue & EPS",
+          "url": "https://businessquant.com/stocks/bmy/estimates/",
+          "snippet": "View detailed analyst estimates for Bristol Myers Squibb Co (BMY), including Revenue and EPS forecasts, reported figures, and consensus data."
+        },
+        {
+          "title": "PDF Bristol Myers Squibb®",
+          "url": "https://www.bms.com/assets/bms/us/en-us/pdf/investor-info/doc_financials/quarterly_reports/2025/BMY-Q4-2025-Earnings-Press-Release.pdf",
+          "snippet": "BRISTOL-MYERS SQUIBB COMPANY SPECIFIED ITEMS (Unaudited, dollars in millions) (a) Includes cash settlement of unvested stock awards, and other related costs incurred in connection with recent acquisitions."
+        },
+        {
+          "title": "Bristol Myers Squibb Revenue 2012-2026 | BMY - Macrotrends",
+          "url": "https://www.macrotrends.net/stocks/charts/BMY/bristol-myers-squibb/revenue",
+          "snippet": "Bristol Myers Squibb annual/quarterly revenue history and growth rate from 2012 to 2026. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Key facts - Bristol Myers Squibb - bms.com",
+      "url": "https://www.bms.com/investors/financial-reporting/key-facts.html",
+      "snippet": "Learn more about Bristol Myers Squibb's key financial and product revenue information.",
+      "query": "\"Bristol Myers Squibb\" revenue",
+      "search_collected_at": "2026-10-23T10:37:49Z"
+    },
+    {
+      "title": "Bristol Myers Squibb Revenue 2012-2026 | BMY - Macrotrends",
+      "url": "https://www.macrotrends.net/stocks/charts/BMY/bristol-myers-squibb/revenue",
+      "snippet": "Bristol Myers Squibb annual/quarterly revenue history and growth rate from 2012 to 2026. Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services.",
+      "query": "\"Bristol Myers Squibb\" revenue",
+      "search_collected_at": "2026-10-23T10:37:49Z"
+    },
+    {
+      "title": "PDF Bristol Myers Squibb®",
+      "url": "https://www.bms.com/assets/bms/us/en-us/pdf/investor-info/doc_financials/quarterly_reports/2025/BMY-Q4-2025-Earnings-Press-Release.pdf",
+      "snippet": "Bristol Myers Squibb® Bristol Myers Squibb Reports Fourth Quarter and Full-Year Financial Results for 2025 Financial results reflect disciplined execution and focus on delivering long-term growth",
+      "query": "\"Bristol Myers Squibb\" revenue",
+      "search_collected_at": "2026-10-23T10:37:49Z"
+    },
+    {
+      "title": "Annual Report 2025 - Bristol Myers Squibb",
+      "url": "https://annual-report.bms.com/2025.html",
+      "snippet": "Learn how a single touch can transform patients' lives in Bristol Myers Squibb's 2025 Annual Report.",
+      "query": "\"Bristol Myers Squibb\" revenue",
+      "search_collected_at": "2026-10-23T10:37:49Z"
+    },
+    {
+      "title": "Bristol Myers Squibb - Bristol Myers Squibb Reports Fourth Quarter and ...",
+      "url": "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Reports-Fourth-Quarter-and-Full-Year-Financial-Results-for-2025/default.aspx",
+      "snippet": "About Bristol Myers Squibb: Transforming Patients' Lives Through Science At Bristol Myers Squibb, our mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. We are pursuing bold science to define what's possible for the future of medicine and the patients we serve.",
+      "query": "\"Bristol Myers Squibb\" revenue",
+      "search_collected_at": "2026-10-23T10:37:49Z"
+    },
+    {
+      "title": "Bristol Myers Squibb - Bristol Myers Squibb Reports Fourth Quarter and ...",
+      "url": "https://news.bms.com/news/details/2025/Bristol-Myers-Squibb-Reports-Fourth-Quarter-and-Full-Year-Financial-Results-for-2024/default.aspx",
+      "snippet": "PRINCETON, N.J.-- (BUSINESS WIRE)-- Bristol Myers Squibb (NYSE: BMY) today reports results for the fourth quarter and full year of 2024. \"We made good progress in 2024, which was capped by a fourth quarter of strong topline growth driven by key products and important pipeline advancements. We also achieved the landmark U.S. approval of Cobenfy last year for the treatment of schizophrenia in ...",
+      "query": "\"Bristol Myers Squibb\" revenue",
+      "search_collected_at": "2026-10-23T10:37:49Z"
+    },
+    {
+      "title": "BMY financial reporting - Bristol Myers Squibb",
+      "url": "https://www.bms.com/investors/financial-reporting.html",
+      "snippet": "Explore comprehensive information on Bristol Myers Squibb reports, earnings, product sales, SEC filings and more to help you make an informed investment decision.",
+      "query": "\"Bristol Myers Squibb\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:37:54Z"
+    },
+    {
+      "title": "Bristol Myers Squibb Co (BMY) Analyst Estimates - Revenue & EPS",
+      "url": "https://businessquant.com/stocks/bmy/estimates/",
+      "snippet": "View detailed analyst estimates for Bristol Myers Squibb Co (BMY), including Revenue and EPS forecasts, reported figures, and consensus data.",
+      "query": "\"Bristol Myers Squibb\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:37:54Z"
+    }
+  ],
+  "result_count": 8,
+  "updated_at": "2026-10-23T10:37:54Z",
+  "company_status": "SUCCESS"
+}

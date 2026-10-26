@@ -1,0 +1,67 @@
+{
+  "company_key": "broadgate estates ltd|https://savills.com",
+  "company_name": "Broadgate Estates Ltd",
+  "company_website": "https://savills.com",
+  "created_at": "2026-10-23T11:46:52Z",
+  "searches": [
+    {
+      "query": "\"Broadgate Estates Ltd\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:46:57Z",
+      "page_title": "\"Broadgate Estates Ltd\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broadgate+Estates+Ltd%22+revenue",
+      "results": [
+        {
+          "title": "Broadgate Estates Ltd., London - North Data",
+          "url": "https://www.northdata.com/Broadgate Estates Ltd·, London/Companies House 05172189",
+          "snippet": "Name: Broadgate Estates Ltd 5 Jul 2022 as Broadgate Estates Insurance Mediation Services Ltd. Annual report for the year ending 31/03/2022 1 Apr 2022 as Broadgate Estates Insurance Mediation Services Ltd. No longer Director: Charles J. Middleton 3 Sept 2021 as Broadgate Estates Insurance Mediation Services Ltd."
+        },
+        {
+          "title": "Broadgate Estates Ltd - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/1581434Z:LN",
+          "snippet": "Company profile page for Broadgate Estates Ltd including stock price, company news, executives, board members, and contact information"
+        }
+      ]
+    },
+    {
+      "query": "\"Broadgate Estates Ltd\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:47:02Z",
+      "page_title": "\"Broadgate Estates Ltd\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broadgate+Estates+Ltd%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Broadgate Estates Ltd., London - North Data",
+          "url": "https://www.northdata.com/Broadgate Estates Ltd·, London/Companies House 05172189",
+          "snippet": "Name: Broadgate Estates Ltd 5 Jul 2022 as Broadgate Estates Insurance Mediation Services Ltd. Annual report for the year ending 31/03/2022 1 Apr 2022 as Broadgate Estates Insurance Mediation Services Ltd. No longer Director: Charles J. Middleton 3 Sept 2021 as Broadgate Estates Insurance Mediation Services Ltd."
+        },
+        {
+          "title": "Broadgate Estates Ltd - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/1581434Z:LN",
+          "snippet": "Company profile page for Broadgate Estates Ltd including stock price, company news, executives, board members, and contact information"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Broadgate Estates Ltd., London - North Data",
+      "url": "https://www.northdata.com/Broadgate Estates Ltd·, London/Companies House 05172189",
+      "snippet": "Name: Broadgate Estates Ltd 5 Jul 2022 as Broadgate Estates Insurance Mediation Services Ltd. Annual report for the year ending 31/03/2022 1 Apr 2022 as Broadgate Estates Insurance Mediation Services Ltd. No longer Director: Charles J. Middleton 3 Sept 2021 as Broadgate Estates Insurance Mediation Services Ltd.",
+      "query": "\"Broadgate Estates Ltd\" revenue",
+      "search_collected_at": "2026-10-23T11:46:57Z"
+    },
+    {
+      "title": "Broadgate Estates Ltd - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/1581434Z:LN",
+      "snippet": "Company profile page for Broadgate Estates Ltd including stock price, company news, executives, board members, and contact information",
+      "query": "\"Broadgate Estates Ltd\" revenue",
+      "search_collected_at": "2026-10-23T11:46:57Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:47:02Z",
+  "company_status": "SUCCESS"
+}

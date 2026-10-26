@@ -1,0 +1,62 @@
+{
+  "company_key": "broad reach retail partners, llc|https://broadreachretail.com",
+  "company_name": "Broad Reach Retail Partners, LLC",
+  "company_website": "https://broadreachretail.com",
+  "created_at": "2026-10-23T13:55:19Z",
+  "searches": [
+    {
+      "query": "\"Broad Reach Retail Partners, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:55:26Z",
+      "page_title": "\"Broad Reach Retail Partners, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broad+Reach+Retail+Partners%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Broad Reach Retail Partners, LLC Information - RocketReach",
+          "url": "https://rocketreach.co/broad-reach-retail-partners-llc-profile_b5e02877f42e6fe6",
+          "snippet": "Broad Reach Retail Partners, LLC is a Real Estate company located in Millersville, Maryland with $5.8 million in revenue and 21 employees. Find top employees, contact details and business statistics at RocketReach."
+        }
+      ]
+    },
+    {
+      "query": "\"Broad Reach Retail Partners, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:55:32Z",
+      "page_title": "\"Broad Reach Retail Partners, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broad+Reach+Retail+Partners%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Broad Reach Retail Partners, LLC Information - RocketReach",
+          "url": "https://rocketreach.co/broad-reach-retail-partners-llc-profile_b5e02877f42e6fe6",
+          "snippet": "What is the annual revenue of Broad Reach Retail Partners, LLC? The Broad Reach Retail Partners, LLC annual revenue was $5.8 million in 2026."
+        },
+        {
+          "title": "Broad Reach Retail Partners LLC - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/1535065D:US",
+          "snippet": "Broad Reach Retail Partners, LLC operates as a real estate owners and developers. The Company provides property management, development, leasing, acquisition, and accounting services."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Broad Reach Retail Partners, LLC Information - RocketReach",
+      "url": "https://rocketreach.co/broad-reach-retail-partners-llc-profile_b5e02877f42e6fe6",
+      "snippet": "Broad Reach Retail Partners, LLC is a Real Estate company located in Millersville, Maryland with $5.8 million in revenue and 21 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Broad Reach Retail Partners, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:55:26Z"
+    },
+    {
+      "title": "Broad Reach Retail Partners LLC - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/1535065D:US",
+      "snippet": "Broad Reach Retail Partners, LLC operates as a real estate owners and developers. The Company provides property management, development, leasing, acquisition, and accounting services.",
+      "query": "\"Broad Reach Retail Partners, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:55:32Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:55:32Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,91 @@
+{
+  "company_key": "black knight, inc.|https://blackknightinc.com",
+  "company_name": "Black Knight, Inc.",
+  "company_website": "https://blackknightinc.com",
+  "created_at": "2026-10-23T11:08:19Z",
+  "searches": [
+    {
+      "query": "\"Black Knight, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:08:24Z",
+      "page_title": "\"Black Knight, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Black+Knight%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Black Knight (BKI) - Revenue - CompaniesMarketCap.com",
+          "url": "https://companiesmarketcap.com/black-knight/revenue/",
+          "snippet": "Black Knight, Inc., formerly known as Black Knight Financial Services, is an American corporation that provides integrated technology, services, data and analytics to the mortgage and real estate industries."
+        },
+        {
+          "title": "Black Knight (BKI) - Revenue - CompaniesMarketCap.com",
+          "url": "https://companiesmarketcap.com/inr/black-knight/revenue/",
+          "snippet": "Black Knight, Inc., formerly known as Black Knight Financial Services, is an American corporation that provides integrated technology, services, data and analytics to the mortgage and real estate industries."
+        },
+        {
+          "title": "Black Knight, Inc. (BKI): annual reports and key ratios comparison",
+          "url": "https://www.readyratios.com/sec/BKI_black-knight-inc",
+          "snippet": "Find out how Black Knight, Inc. (BKI) is performing against its competitors. Compare financial ratios of 10,000 largest U.S. public companies with industry averages."
+        },
+        {
+          "title": "SEC.gov | HOME",
+          "url": "https://www.sec.gov/Archives/edgar/data/1627014/000155837023002252/bki-20221231x10k.htm",
+          "snippet": "The aggregate market value of the shares of Black Knight, Inc. common stock held by non-affiliates of the registrant as of June 30, 2022 was $ 9,847,744,920 based on the closing price of $65.39 as reported by the New York Stock Exchange. As of February 24, 2023, there were 155,923,950 shares of Black Knight, Inc. common stock outstanding."
+        }
+      ]
+    },
+    {
+      "query": "\"Black Knight, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:08:29Z",
+      "page_title": "\"Black Knight, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Black+Knight%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Black Knight (BKI) - Revenue - CompaniesMarketCap.com",
+          "url": "https://companiesmarketcap.com/black-knight/revenue/",
+          "snippet": "Black Knight, Inc., formerly known as Black Knight Financial Services, is an American corporation that provides integrated technology, services, data and analytics to the mortgage and real estate industries."
+        },
+        {
+          "title": "Black Knight, Inc. (BKI): annual reports and key ratios comparison",
+          "url": "https://www.readyratios.com/sec/BKI_black-knight-inc",
+          "snippet": "The financial position of Black Knight, Inc. is better than that of most listed companies that file financial statements with the U.S. Securities and Exchange Commission."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Black Knight (BKI) - Revenue - CompaniesMarketCap.com",
+      "url": "https://companiesmarketcap.com/black-knight/revenue/",
+      "snippet": "Black Knight, Inc., formerly known as Black Knight Financial Services, is an American corporation that provides integrated technology, services, data and analytics to the mortgage and real estate industries.",
+      "query": "\"Black Knight, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:08:24Z"
+    },
+    {
+      "title": "Black Knight (BKI) - Revenue - CompaniesMarketCap.com",
+      "url": "https://companiesmarketcap.com/inr/black-knight/revenue/",
+      "snippet": "Black Knight, Inc., formerly known as Black Knight Financial Services, is an American corporation that provides integrated technology, services, data and analytics to the mortgage and real estate industries.",
+      "query": "\"Black Knight, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:08:24Z"
+    },
+    {
+      "title": "Black Knight, Inc. (BKI): annual reports and key ratios comparison",
+      "url": "https://www.readyratios.com/sec/BKI_black-knight-inc",
+      "snippet": "Find out how Black Knight, Inc. (BKI) is performing against its competitors. Compare financial ratios of 10,000 largest U.S. public companies with industry averages.",
+      "query": "\"Black Knight, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:08:24Z"
+    },
+    {
+      "title": "SEC.gov | HOME",
+      "url": "https://www.sec.gov/Archives/edgar/data/1627014/000155837023002252/bki-20221231x10k.htm",
+      "snippet": "The aggregate market value of the shares of Black Knight, Inc. common stock held by non-affiliates of the registrant as of June 30, 2022 was $ 9,847,744,920 based on the closing price of $65.39 as reported by the New York Stock Exchange. As of February 24, 2023, there were 155,923,950 shares of Black Knight, Inc. common stock outstanding.",
+      "query": "\"Black Knight, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:08:24Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:08:29Z",
+  "company_status": "SUCCESS"
+}

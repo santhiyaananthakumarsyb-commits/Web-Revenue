@@ -1,0 +1,62 @@
+{
+  "company_key": "briggs properties inc.|https://briggsproperties.com",
+  "company_name": "Briggs Properties Inc.",
+  "company_website": "https://briggsproperties.com",
+  "created_at": "2026-10-23T12:25:12Z",
+  "searches": [
+    {
+      "query": "\"Briggs Properties Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:25:18Z",
+      "page_title": "\"Briggs Properties Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Briggs+Properties+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BRIGGS PROPERTIES INC. Company Profile | Atlanta, Georgia | Competitors ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.briggs_properties_inc.9d08349cef8d5355c11cc4b8cf1bc394.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRIGGS PROPERTIES INC. of Atlanta, Georgia. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    },
+    {
+      "query": "\"Briggs Properties Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:25:25Z",
+      "page_title": "\"Briggs Properties Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Briggs+Properties+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BRIGGS PROPERTIES INC. Company Profile | Atlanta, Georgia | Competitors ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.briggs_properties_inc.9d08349cef8d5355c11cc4b8cf1bc394.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRIGGS PROPERTIES INC. of Atlanta, Georgia. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Briggs Properties Inc. - Buzzfile",
+          "url": "https://www.buzzfile.com/business/Briggs-Properties-Inc.-770-317-1401",
+          "snippet": "Business Description Briggs Properties is located in Atlanta, Georgia. This organization primarily operates in the Real Estate Agents and Managers business / industry within the Real Estate sector. This organization has been operating for approximately 7 years. Briggs Properties is estimated to generate $126,956 in annual revenues, and employs approximately 4 people at this single location."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BRIGGS PROPERTIES INC. Company Profile | Atlanta, Georgia | Competitors ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.briggs_properties_inc.9d08349cef8d5355c11cc4b8cf1bc394.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BRIGGS PROPERTIES INC. of Atlanta, Georgia. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Briggs Properties Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:25:18Z"
+    },
+    {
+      "title": "Briggs Properties Inc. - Buzzfile",
+      "url": "https://www.buzzfile.com/business/Briggs-Properties-Inc.-770-317-1401",
+      "snippet": "Business Description Briggs Properties is located in Atlanta, Georgia. This organization primarily operates in the Real Estate Agents and Managers business / industry within the Real Estate sector. This organization has been operating for approximately 7 years. Briggs Properties is estimated to generate $126,956 in annual revenues, and employs approximately 4 people at this single location.",
+      "query": "\"Briggs Properties Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:25:25Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:25:25Z",
+  "company_status": "SUCCESS"
+}

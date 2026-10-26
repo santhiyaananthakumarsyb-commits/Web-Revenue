@@ -1,0 +1,30 @@
+{
+  "company_key": "burns properties, inc.|https://burnspropertiesinc.com",
+  "company_name": "Burns Properties, Inc.",
+  "company_website": "https://burnspropertiesinc.com",
+  "created_at": "2026-10-23T14:02:25Z",
+  "searches": [
+    {
+      "query": "\"Burns Properties, Inc.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:02:32Z",
+      "page_title": "\"Burns Properties, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burns+Properties%2C+Inc.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Burns Properties, Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:02:39Z",
+      "page_title": "\"Burns Properties, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burns+Properties%2C+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T14:02:39Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

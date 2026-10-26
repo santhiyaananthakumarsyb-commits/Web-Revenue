@@ -1,0 +1,57 @@
+{
+  "company_key": "broderick group, inc.|https://broderickgroup.com",
+  "company_name": "Broderick Group, Inc.",
+  "company_website": "https://broderickgroup.com",
+  "created_at": "2026-10-23T12:01:49Z",
+  "searches": [
+    {
+      "query": "\"Broderick Group, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:01:56Z",
+      "page_title": "\"Broderick Group, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broderick+Group%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Broderick Group, Inc. - Bellevue Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/broderick-group-inc/5l2t13ml/",
+          "snippet": "Broderick Group was established in 1997 and has grown into a commercial real estate brokerage firm serving the greater Puget Sound market. The company focuses on landlord and tenant representation, transaction management, investment sales, and market research. Its work also includes property marketing and advisory services for office, technology, and industrial properties. The firm emphasizes ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Broderick Group, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:02:04Z",
+      "page_title": "\"Broderick Group, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broderick+Group%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Broderick Group, Inc. Company Profile: Financials, Valuation, and ...",
+          "url": "https://system.privco.com/company/broderick_private_stock_annual_report_financials",
+          "snippet": "Broderick Group, Inc. is a privately-held commercial real estate company. Broderick Group, Inc. was founded in 1997. Broderick Group, Inc. headquarters are located in Bellevue, Washington."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Broderick Group, Inc. - Bellevue Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/broderick-group-inc/5l2t13ml/",
+      "snippet": "Broderick Group was established in 1997 and has grown into a commercial real estate brokerage firm serving the greater Puget Sound market. The company focuses on landlord and tenant representation, transaction management, investment sales, and market research. Its work also includes property marketing and advisory services for office, technology, and industrial properties. The firm emphasizes ...",
+      "query": "\"Broderick Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:01:56Z"
+    },
+    {
+      "title": "Broderick Group, Inc. Company Profile: Financials, Valuation, and ...",
+      "url": "https://system.privco.com/company/broderick_private_stock_annual_report_financials",
+      "snippet": "Broderick Group, Inc. is a privately-held commercial real estate company. Broderick Group, Inc. was founded in 1997. Broderick Group, Inc. headquarters are located in Bellevue, Washington.",
+      "query": "\"Broderick Group, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:02:04Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:02:04Z",
+  "company_status": "SUCCESS"
+}

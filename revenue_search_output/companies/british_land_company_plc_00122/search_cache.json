@@ -1,0 +1,151 @@
+{
+  "company_key": "british land company plc|https://britishland.com",
+  "company_name": "British Land Company plc",
+  "company_website": "https://britishland.com",
+  "created_at": "2026-10-23T10:10:57Z",
+  "searches": [
+    {
+      "query": "\"British Land Company plc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:11:02Z",
+      "page_title": "\"British Land Company plc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22British+Land+Company+plc%22+revenue",
+      "results": [
+        {
+          "title": "British Land Company (LON:BLND) Revenue - Stock Analysis",
+          "url": "https://stockanalysis.com/quote/lon/BLND/revenue/",
+          "snippet": "Current and historical revenue information for British Land Company PLC (LON:BLND) stock, including a chart and comparison to related stocks."
+        },
+        {
+          "title": "Financials The British Land Company PLC - MarketScreener.com",
+          "url": "https://www.marketscreener.com/quote/stock/THE-BRITISH-LAND-COMPANY--9583554/finances/",
+          "snippet": "The British Land Company PLC: Forcasts, revenue, earnings, analysts expectations, ratios for The British Land Company PLC Stock | BLND | GB0001367019"
+        },
+        {
+          "title": "British Land Company PLC (BLD) Revenue - Investing.com UK",
+          "url": "https://uk.investing.com/pro/DB:BLD/explorer/total_rev",
+          "snippet": "British Land's latest twelve months revenue is 705.4 million. View British Land Company PLC's Revenue trends, charts, and more."
+        },
+        {
+          "title": "British Land - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/British_Land",
+          "snippet": "The British Land Company Plc[2] is one of the largest property development and investment companies in the United Kingdom. The firm became a real estate investment trust when REITs were introduced in the UK in January 2007."
+        }
+      ]
+    },
+    {
+      "query": "\"British Land Company plc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:11:08Z",
+      "page_title": "\"British Land Company plc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22British+Land+Company+plc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "British Land Company (LON:BLND) Revenue - Stock Analysis",
+          "url": "https://stockanalysis.com/quote/lon/BLND/revenue/",
+          "snippet": "Current and historical revenue information for British Land Company PLC (LON:BLND) stock, including a chart and comparison to related stocks."
+        },
+        {
+          "title": "Financials The British Land Company PLC - MarketScreener.com",
+          "url": "https://www.marketscreener.com/quote/stock/THE-BRITISH-LAND-COMPANY--9583554/finances/",
+          "snippet": "The British Land Company PLC: Forcasts, revenue, earnings, analysts expectations, ratios for The British Land Company PLC Stock | BLND | GB0001367019"
+        },
+        {
+          "title": "The British Land Company PLC: Financial Data Forecasts Estimates and ...",
+          "url": "https://uk.marketscreener.com/quote/stock/THE-BRITISH-LAND-COMPANY--9583554/finances/",
+          "snippet": "The British Land Company PLC: Forcasts, revenue, earnings, analysts expectations, ratios for The British Land Company PLC Stock | BLND | GB0001367019"
+        },
+        {
+          "title": "British Land Company PLC: Financial Data Forecasts Estimates and ...",
+          "url": "https://www.marketscreener.com/quote/stock/BRITISH-LAND-COMPANY-PLC-120788746/finances/",
+          "snippet": "British Land Company PLC: Forcasts, revenue, earnings, analysts expectations, ratios for British Land Company PLC Stock | BTLCY | US1108281007"
+        },
+        {
+          "title": "British Land Company Public Limited Company, BLND:LSE forecasts - FT.com",
+          "url": "https://markets.ft.com/data/equities/tearsheet/forecasts?s=BLND:LSE",
+          "snippet": "Revenue history & estimates in GBP British Land Company Plc had revenues for the full year 2026 of 551.00m. This was 21.37% above the prior year's results."
+        },
+        {
+          "title": "British Land Company PLC (BLND.L) - Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/BLND.L/financials/",
+          "snippet": "Get the detailed quarterly/annual income statement for British Land Company PLC (BLND.L). Find out the revenue, expenses and profit or loss over the last fiscal year."
+        },
+        {
+          "title": "British Land Company PLC (BLND.L) - Yahoo Finance",
+          "url": "https://uk.finance.yahoo.com/quote/BLND.L/financials/",
+          "snippet": "Get the detailed quarterly/annual income statement for British Land Company PLC (BLND.L). Find out the revenue, expenses and profit or loss over the last fiscal year."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "British Land Company (LON:BLND) Revenue - Stock Analysis",
+      "url": "https://stockanalysis.com/quote/lon/BLND/revenue/",
+      "snippet": "Current and historical revenue information for British Land Company PLC (LON:BLND) stock, including a chart and comparison to related stocks.",
+      "query": "\"British Land Company plc\" revenue",
+      "search_collected_at": "2026-10-23T10:11:02Z"
+    },
+    {
+      "title": "Financials The British Land Company PLC - MarketScreener.com",
+      "url": "https://www.marketscreener.com/quote/stock/THE-BRITISH-LAND-COMPANY--9583554/finances/",
+      "snippet": "The British Land Company PLC: Forcasts, revenue, earnings, analysts expectations, ratios for The British Land Company PLC Stock | BLND | GB0001367019",
+      "query": "\"British Land Company plc\" revenue",
+      "search_collected_at": "2026-10-23T10:11:02Z"
+    },
+    {
+      "title": "British Land Company PLC (BLD) Revenue - Investing.com UK",
+      "url": "https://uk.investing.com/pro/DB:BLD/explorer/total_rev",
+      "snippet": "British Land's latest twelve months revenue is 705.4 million. View British Land Company PLC's Revenue trends, charts, and more.",
+      "query": "\"British Land Company plc\" revenue",
+      "search_collected_at": "2026-10-23T10:11:02Z"
+    },
+    {
+      "title": "British Land - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/British_Land",
+      "snippet": "The British Land Company Plc[2] is one of the largest property development and investment companies in the United Kingdom. The firm became a real estate investment trust when REITs were introduced in the UK in January 2007.",
+      "query": "\"British Land Company plc\" revenue",
+      "search_collected_at": "2026-10-23T10:11:02Z"
+    },
+    {
+      "title": "The British Land Company PLC: Financial Data Forecasts Estimates and ...",
+      "url": "https://uk.marketscreener.com/quote/stock/THE-BRITISH-LAND-COMPANY--9583554/finances/",
+      "snippet": "The British Land Company PLC: Forcasts, revenue, earnings, analysts expectations, ratios for The British Land Company PLC Stock | BLND | GB0001367019",
+      "query": "\"British Land Company plc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:11:08Z"
+    },
+    {
+      "title": "British Land Company PLC: Financial Data Forecasts Estimates and ...",
+      "url": "https://www.marketscreener.com/quote/stock/BRITISH-LAND-COMPANY-PLC-120788746/finances/",
+      "snippet": "British Land Company PLC: Forcasts, revenue, earnings, analysts expectations, ratios for British Land Company PLC Stock | BTLCY | US1108281007",
+      "query": "\"British Land Company plc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:11:08Z"
+    },
+    {
+      "title": "British Land Company Public Limited Company, BLND:LSE forecasts - FT.com",
+      "url": "https://markets.ft.com/data/equities/tearsheet/forecasts?s=BLND:LSE",
+      "snippet": "Revenue history & estimates in GBP British Land Company Plc had revenues for the full year 2026 of 551.00m. This was 21.37% above the prior year's results.",
+      "query": "\"British Land Company plc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:11:08Z"
+    },
+    {
+      "title": "British Land Company PLC (BLND.L) - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BLND.L/financials/",
+      "snippet": "Get the detailed quarterly/annual income statement for British Land Company PLC (BLND.L). Find out the revenue, expenses and profit or loss over the last fiscal year.",
+      "query": "\"British Land Company plc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:11:08Z"
+    },
+    {
+      "title": "British Land Company PLC (BLND.L) - Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/quote/BLND.L/financials/",
+      "snippet": "Get the detailed quarterly/annual income statement for British Land Company PLC (BLND.L). Find out the revenue, expenses and profit or loss over the last fiscal year.",
+      "query": "\"British Land Company plc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:11:08Z"
+    }
+  ],
+  "result_count": 9,
+  "updated_at": "2026-10-23T10:11:08Z",
+  "company_status": "SUCCESS"
+}

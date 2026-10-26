@@ -1,0 +1,79 @@
+{
+  "company_key": "buena vista custom homes inc|https://buenavistahomes.com",
+  "company_name": "Buena Vista Custom Homes Inc",
+  "company_website": "https://buenavistahomes.com",
+  "created_at": "2026-10-23T14:00:19Z",
+  "searches": [
+    {
+      "query": "\"Buena Vista Custom Homes Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:00:23Z",
+      "page_title": "\"Buena Vista Custom Homes Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buena+Vista+Custom+Homes+Inc%22+revenue",
+      "results": [
+        {
+          "title": "BUENA VISTA CUSTOM HOMES INC Lake Oswego OR, 97035 - Cortera",
+          "url": "https://start.cortera.com/company/research/k4j3myo1m/buena-vista-custom-homes-inc/",
+          "snippet": "Free Business profile for BUENA VISTA CUSTOM HOMES INC at 5665 Meadows Rd, Lake Oswego, OR, 97035-2102, US. BUENA VISTA CUSTOM HOMES INC specializes in: General Contractors Single-Family Houses."
+        },
+        {
+          "title": "BUENA VISTA CUSTOM HOMES INC Lake Oswego OR, 97034 - Cortera",
+          "url": "https://start.cortera.com/company/research/k7n3mvo0s/buena-vista-custom-homes-inc/",
+          "snippet": "Free Business profile for BUENA VISTA CUSTOM HOMES INC at 311 B Ave, Lake Oswego, OR, 97034-3071, US. BUENA VISTA CUSTOM HOMES INC specializes in: General Contractors Single-Family Houses. This business can be reached at (503) 443-6033"
+        },
+        {
+          "title": "Buena Vista Custom Homes Inc | (503) 443-6033 | Portland, Oregon - AllBiz",
+          "url": "https://www.allbiz.com/business/buena-vista-custom-homes-inc-503-443-6033",
+          "snippet": "Buena Vista Custom Homes Inc is located in Portland, Oregon, and was founded in 2002. This business is working in the following industry: Construction of buildings. Annual sales for Buena Vista Custom Homes Inc are around USD 0 - 1,000,000."
+        }
+      ]
+    },
+    {
+      "query": "\"Buena Vista Custom Homes Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:00:29Z",
+      "page_title": "\"Buena Vista Custom Homes Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buena+Vista+Custom+Homes+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BUENA VISTA CUSTOM HOMES INC Lake Oswego OR, 97034 - Cortera",
+          "url": "https://start.cortera.com/company/research/k7n3mvo0s/buena-vista-custom-homes-inc/",
+          "snippet": "Free Business profile for BUENA VISTA CUSTOM HOMES INC at 311 B Ave, Lake Oswego, OR, 97034-3071, US. BUENA VISTA CUSTOM HOMES INC specializes in: General Contractors Single-Family Houses."
+        },
+        {
+          "title": "Buena Vista Custom Homes Inc | (503) 443-6033 | Portland, Oregon - AllBiz",
+          "url": "https://www.allbiz.com/business/buena-vista-custom-homes-inc-503-443-6033",
+          "snippet": "Buena Vista Custom Homes Inc is located in Portland, Oregon, and was founded in 2002. This business is working in the following industry: Construction of buildings. Annual sales for Buena Vista Custom Homes Inc are around USD 0 - 1,000,000."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BUENA VISTA CUSTOM HOMES INC Lake Oswego OR, 97035 - Cortera",
+      "url": "https://start.cortera.com/company/research/k4j3myo1m/buena-vista-custom-homes-inc/",
+      "snippet": "Free Business profile for BUENA VISTA CUSTOM HOMES INC at 5665 Meadows Rd, Lake Oswego, OR, 97035-2102, US. BUENA VISTA CUSTOM HOMES INC specializes in: General Contractors Single-Family Houses.",
+      "query": "\"Buena Vista Custom Homes Inc\" revenue",
+      "search_collected_at": "2026-10-23T14:00:23Z"
+    },
+    {
+      "title": "BUENA VISTA CUSTOM HOMES INC Lake Oswego OR, 97034 - Cortera",
+      "url": "https://start.cortera.com/company/research/k7n3mvo0s/buena-vista-custom-homes-inc/",
+      "snippet": "Free Business profile for BUENA VISTA CUSTOM HOMES INC at 311 B Ave, Lake Oswego, OR, 97034-3071, US. BUENA VISTA CUSTOM HOMES INC specializes in: General Contractors Single-Family Houses. This business can be reached at (503) 443-6033",
+      "query": "\"Buena Vista Custom Homes Inc\" revenue",
+      "search_collected_at": "2026-10-23T14:00:23Z"
+    },
+    {
+      "title": "Buena Vista Custom Homes Inc | (503) 443-6033 | Portland, Oregon - AllBiz",
+      "url": "https://www.allbiz.com/business/buena-vista-custom-homes-inc-503-443-6033",
+      "snippet": "Buena Vista Custom Homes Inc is located in Portland, Oregon, and was founded in 2002. This business is working in the following industry: Construction of buildings. Annual sales for Buena Vista Custom Homes Inc are around USD 0 - 1,000,000.",
+      "query": "\"Buena Vista Custom Homes Inc\" revenue",
+      "search_collected_at": "2026-10-23T14:00:23Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T14:00:29Z",
+  "company_status": "SUCCESS"
+}

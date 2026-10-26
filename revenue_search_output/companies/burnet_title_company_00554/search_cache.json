@@ -1,0 +1,91 @@
+{
+  "company_key": "burnet title company|https://burnettitle.com",
+  "company_name": "Burnet Title Company",
+  "company_website": "https://burnettitle.com",
+  "created_at": "2026-10-23T11:44:02Z",
+  "searches": [
+    {
+      "query": "\"Burnet Title Company\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:44:07Z",
+      "page_title": "\"Burnet Title Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burnet+Title+Company%22+revenue",
+      "results": [
+        {
+          "title": "Burnet Title Company Profile - Office Locations, Competitors, Revenue ...",
+          "url": "https://craft.co/burnet-title",
+          "snippet": "Burnet Title has 5 employees at their 1 location. See insights on Burnet Title including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft."
+        },
+        {
+          "title": "BURNET TITLE Company Profile | West Bend, WI | Competitors, Financials ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.burnet_title.d2881e92f8e11bf94fb18fb77684b788.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BURNET TITLE of West Bend, WI. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Burnet Title Company Profile -Sales, Contacts, Competitors - Buzzfile",
+          "url": "https://www.buzzfile.com/business/BURNET-TITLE-612-920-7667",
+          "snippet": "Burnet Title (trade name BURNET TITLE) is in the Title and Trust Companies business. View competitors, revenue, employees, website and phone number."
+        }
+      ]
+    },
+    {
+      "query": "\"Burnet Title Company\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:44:14Z",
+      "page_title": "\"Burnet Title Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burnet+Title+Company%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Burnet Title Company Profile -Sales, Contacts, Competitors - Buzzfile",
+          "url": "https://www.buzzfile.com/business/Burnet-Title-LLC-952-844-6200_no:15355614",
+          "snippet": "Burnet Title is estimated to generate $90.5 million in annual revenues, and employs approximately 27 people at this headquarters location and 238 total employees across all locations."
+        },
+        {
+          "title": "Burnet Title Company Profile -Sales, Contacts, Competitors - Buzzfile",
+          "url": "https://www.buzzfile.com/business/BURNET-TITLE-612-920-7667",
+          "snippet": "Burnet Title (trade name BURNET TITLE) is in the Title and Trust Companies business. View competitors, revenue, employees, website and phone number."
+        },
+        {
+          "title": "Burnet Title Company Profile - Office Locations, Competitors, Revenue ...",
+          "url": "https://craft.co/burnet-title",
+          "snippet": "Burnet Title has 5 employees at their 1 location. See insights on Burnet Title including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Burnet Title Company Profile - Office Locations, Competitors, Revenue ...",
+      "url": "https://craft.co/burnet-title",
+      "snippet": "Burnet Title has 5 employees at their 1 location. See insights on Burnet Title including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.",
+      "query": "\"Burnet Title Company\" revenue",
+      "search_collected_at": "2026-10-23T11:44:07Z"
+    },
+    {
+      "title": "BURNET TITLE Company Profile | West Bend, WI | Competitors, Financials ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.burnet_title.d2881e92f8e11bf94fb18fb77684b788.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BURNET TITLE of West Bend, WI. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Burnet Title Company\" revenue",
+      "search_collected_at": "2026-10-23T11:44:07Z"
+    },
+    {
+      "title": "Burnet Title Company Profile -Sales, Contacts, Competitors - Buzzfile",
+      "url": "https://www.buzzfile.com/business/BURNET-TITLE-612-920-7667",
+      "snippet": "Burnet Title (trade name BURNET TITLE) is in the Title and Trust Companies business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Burnet Title Company\" revenue",
+      "search_collected_at": "2026-10-23T11:44:07Z"
+    },
+    {
+      "title": "Burnet Title Company Profile -Sales, Contacts, Competitors - Buzzfile",
+      "url": "https://www.buzzfile.com/business/Burnet-Title-LLC-952-844-6200_no:15355614",
+      "snippet": "Burnet Title is estimated to generate $90.5 million in annual revenues, and employs approximately 27 people at this headquarters location and 238 total employees across all locations.",
+      "query": "\"Burnet Title Company\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:44:14Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:44:14Z",
+  "company_status": "SUCCESS"
+}

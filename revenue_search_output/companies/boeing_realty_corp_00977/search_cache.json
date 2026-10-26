@@ -1,0 +1,108 @@
+{
+  "company_key": "boeing realty corp|https://boeing.com",
+  "company_name": "Boeing Realty Corp",
+  "company_website": "https://boeing.com",
+  "created_at": "2026-10-23T13:15:34Z",
+  "searches": [
+    {
+      "query": "\"Boeing Realty Corp\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:15:41Z",
+      "page_title": "\"Boeing Realty Corp\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boeing+Realty+Corp%22+revenue",
+      "results": [
+        {
+          "title": "BOEING REALTY CORP - LONG BEACH, CA - Business Profile",
+          "url": "https://www.dandb.com/businessdirectory/boeingrealtycorp-longbeach-ca-14466911.html",
+          "snippet": "Find the BOEING REALTY CORP business profile in LONG BEACH, CA at DandB.com. Explore the Credibility Review Business Directory to learn more."
+        },
+        {
+          "title": "Boeing Realty Corp - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/boeingrealtycorp-irvine-ca-29336004.html",
+          "snippet": "Company Summary Boeing Realty Corp is located at 15480 Laguna Canyon Rd in Irvine and has been in the business of Real Estate Brokers And Agents since 2011."
+        },
+        {
+          "title": "Boeing Realty Corp - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/0838799D:US",
+          "snippet": "Company profile page for Boeing Realty Corp including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Boeing Realty Corp in Long Beach CA - Company Profile",
+          "url": "https://www.corporationwiki.com/California/Long-Beach/boeing-realty-corp/52764195.aspx",
+          "snippet": "View company leaders and background information for Boeing Realty Corp. Search our database of over 100 million company and executive profiles."
+        },
+        {
+          "title": "Boeing Realty Corp. Announces Sale of Kent 18-23 Building in Pacific ...",
+          "url": "https://boeing.mediaroom.com/2005-02-07-Boeing-Realty-Corp.-Announces-Sale-of-Kent-18-23-Building-in-Pacific-Gateway-Business-Park",
+          "snippet": "Boeing Realty Corp. today announced the sale of its 18- 23 building located in the Kent Space Center to Belshaw Brothers, Inc. a manufacturer of doughnut, bakery and food service equipment. The building is an 118,400-square-foot high-bay crane-served industrial facility suited for manufacturing, light assembly, general storage and warehousing."
+        }
+      ]
+    },
+    {
+      "query": "\"Boeing Realty Corp\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:15:47Z",
+      "page_title": "\"Boeing Realty Corp\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boeing+Realty+Corp%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Boeing Realty Corp - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/boeingrealtycorp-irvine-ca-29336004.html",
+          "snippet": "Company Summary Boeing Realty Corp is located at 15480 Laguna Canyon Rd in Irvine and has been in the business of Real Estate Brokers And Agents since 2011."
+        },
+        {
+          "title": "BOEING REALTY CORP - LONG BEACH, CA - Business Profile",
+          "url": "https://www.dandb.com/businessdirectory/boeingrealtycorp-longbeach-ca-14466911.html",
+          "snippet": "Business Info Founded 1997 Incorporated Annual Revenue $32,707,600.00 Employee Count -- Industries Commercial And Industrial Building Operation Contacts --"
+        },
+        {
+          "title": "Boeing Realty Corp - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/0838799D:US",
+          "snippet": "Company profile page for Boeing Realty Corp including stock price, company news, executives, board members, and contact information"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BOEING REALTY CORP - LONG BEACH, CA - Business Profile",
+      "url": "https://www.dandb.com/businessdirectory/boeingrealtycorp-longbeach-ca-14466911.html",
+      "snippet": "Find the BOEING REALTY CORP business profile in LONG BEACH, CA at DandB.com. Explore the Credibility Review Business Directory to learn more.",
+      "query": "\"Boeing Realty Corp\" revenue",
+      "search_collected_at": "2026-10-23T13:15:41Z"
+    },
+    {
+      "title": "Boeing Realty Corp - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/boeingrealtycorp-irvine-ca-29336004.html",
+      "snippet": "Company Summary Boeing Realty Corp is located at 15480 Laguna Canyon Rd in Irvine and has been in the business of Real Estate Brokers And Agents since 2011.",
+      "query": "\"Boeing Realty Corp\" revenue",
+      "search_collected_at": "2026-10-23T13:15:41Z"
+    },
+    {
+      "title": "Boeing Realty Corp - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/0838799D:US",
+      "snippet": "Company profile page for Boeing Realty Corp including stock price, company news, executives, board members, and contact information",
+      "query": "\"Boeing Realty Corp\" revenue",
+      "search_collected_at": "2026-10-23T13:15:41Z"
+    },
+    {
+      "title": "Boeing Realty Corp in Long Beach CA - Company Profile",
+      "url": "https://www.corporationwiki.com/California/Long-Beach/boeing-realty-corp/52764195.aspx",
+      "snippet": "View company leaders and background information for Boeing Realty Corp. Search our database of over 100 million company and executive profiles.",
+      "query": "\"Boeing Realty Corp\" revenue",
+      "search_collected_at": "2026-10-23T13:15:41Z"
+    },
+    {
+      "title": "Boeing Realty Corp. Announces Sale of Kent 18-23 Building in Pacific ...",
+      "url": "https://boeing.mediaroom.com/2005-02-07-Boeing-Realty-Corp.-Announces-Sale-of-Kent-18-23-Building-in-Pacific-Gateway-Business-Park",
+      "snippet": "Boeing Realty Corp. today announced the sale of its 18- 23 building located in the Kent Space Center to Belshaw Brothers, Inc. a manufacturer of doughnut, bakery and food service equipment. The building is an 118,400-square-foot high-bay crane-served industrial facility suited for manufacturing, light assembly, general storage and warehousing.",
+      "query": "\"Boeing Realty Corp\" revenue",
+      "search_collected_at": "2026-10-23T13:15:41Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T13:15:47Z",
+  "company_status": "SUCCESS"
+}

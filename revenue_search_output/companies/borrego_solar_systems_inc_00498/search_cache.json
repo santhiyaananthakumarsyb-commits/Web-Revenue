@@ -1,0 +1,74 @@
+{
+  "company_key": "borrego solar systems, inc.|https://borregosolar.com",
+  "company_name": "Borrego Solar Systems, Inc.",
+  "company_website": "https://borregosolar.com",
+  "created_at": "2026-10-23T11:31:55Z",
+  "searches": [
+    {
+      "query": "\"Borrego Solar Systems, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:32:00Z",
+      "page_title": "\"Borrego Solar Systems, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Borrego+Solar+Systems%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Borrego Solar Systems, Inc | (619) 562-7183 | New York City - AllBiz",
+          "url": "https://www.allbiz.com/business/borrego-solar-systems-inc_7V-619-562-7183",
+          "snippet": "Earl Von Moos is the primary contact at Borrego Solar Systems, Inc. Borrego Solar Systems, Inc generates approximately USD 500,000 in revenue annually."
+        },
+        {
+          "title": "Borrego Solar Systems, Inc. Company Profile: Financials, Valuation, and ...",
+          "url": "https://www.privco.com/company/borrego-solar-systems",
+          "snippet": "Borrego Solar Systems, Inc. is a privately-held company that operates in the renewable electricity & fuels industry. Borrego Solar Systems, Inc. was founded in 1980 by James Rickard. Borrego Solar Systems, Inc. headquarters are located in San Diego, California."
+        },
+        {
+          "title": "Borrego Solar Systems Inc | (888) 898-6273 | Berkeley, California - AllBiz",
+          "url": "https://www.allbiz.com/business/borrego-solar-systems-inc_1Z",
+          "snippet": "Business Description Borrego Solar Systems, Inc. is a leading designer and installer of commercial and government grid-connected solar electric power systems. Established in 1980, the company has a strong track record in the industry and is known for its expertise in the field. Show More Employees: 18 Revenue: USD 25,000,000 - 50,000,000 Founded: 2003 IndustryIndustry Engaged in:Solar Energy ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Borrego Solar Systems, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:32:07Z",
+      "page_title": "\"Borrego Solar Systems, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Borrego+Solar+Systems%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Borrego Solar Systems, Inc. Company Profile: Financials, Valuation, and ...",
+          "url": "https://www.privco.com/company/borrego-solar-systems",
+          "snippet": "Borrego Solar Systems, Inc. is a privately-held company that operates in the renewable electricity & fuels industry. Borrego Solar Systems, Inc. was founded in 1980 by James Rickard. Borrego Solar Systems, Inc. headquarters are located in San Diego, California."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Borrego Solar Systems, Inc | (619) 562-7183 | New York City - AllBiz",
+      "url": "https://www.allbiz.com/business/borrego-solar-systems-inc_7V-619-562-7183",
+      "snippet": "Earl Von Moos is the primary contact at Borrego Solar Systems, Inc. Borrego Solar Systems, Inc generates approximately USD 500,000 in revenue annually.",
+      "query": "\"Borrego Solar Systems, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:32:00Z"
+    },
+    {
+      "title": "Borrego Solar Systems, Inc. Company Profile: Financials, Valuation, and ...",
+      "url": "https://www.privco.com/company/borrego-solar-systems",
+      "snippet": "Borrego Solar Systems, Inc. is a privately-held company that operates in the renewable electricity & fuels industry. Borrego Solar Systems, Inc. was founded in 1980 by James Rickard. Borrego Solar Systems, Inc. headquarters are located in San Diego, California.",
+      "query": "\"Borrego Solar Systems, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:32:00Z"
+    },
+    {
+      "title": "Borrego Solar Systems Inc | (888) 898-6273 | Berkeley, California - AllBiz",
+      "url": "https://www.allbiz.com/business/borrego-solar-systems-inc_1Z",
+      "snippet": "Business Description Borrego Solar Systems, Inc. is a leading designer and installer of commercial and government grid-connected solar electric power systems. Established in 1980, the company has a strong track record in the industry and is known for its expertise in the field. Show More Employees: 18 Revenue: USD 25,000,000 - 50,000,000 Founded: 2003 IndustryIndustry Engaged in:Solar Energy ...",
+      "query": "\"Borrego Solar Systems, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:32:00Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T11:32:07Z",
+  "company_status": "SUCCESS"
+}

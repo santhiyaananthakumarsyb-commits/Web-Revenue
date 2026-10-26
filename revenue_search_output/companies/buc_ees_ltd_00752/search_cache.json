@@ -1,0 +1,30 @@
+{
+  "company_key": "buc-ees, ltd.|https://buc-ees.com",
+  "company_name": "Buc-ees, Ltd.",
+  "company_website": "https://buc-ees.com",
+  "created_at": "2026-10-23T12:26:43Z",
+  "searches": [
+    {
+      "query": "\"Buc-ees, Ltd.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:26:51Z",
+      "page_title": "\"Buc-ees, Ltd.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buc-ees%2C+Ltd.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Buc-ees, Ltd.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:26:59Z",
+      "page_title": "\"Buc-ees, Ltd.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buc-ees%2C+Ltd.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T12:26:59Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

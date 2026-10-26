@@ -1,0 +1,62 @@
+{
+  "company_key": "boyer co|https://boyercompany.com",
+  "company_name": "Boyer Co",
+  "company_website": "https://boyercompany.com",
+  "created_at": "2026-10-23T10:56:37Z",
+  "searches": [
+    {
+      "query": "\"Boyer Co\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:56:44Z",
+      "page_title": "\"Boyer Co\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boyer+Co%22+revenue",
+      "results": [
+        {
+          "title": "Boyer Co LC/The - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/29894Z:US",
+          "snippet": "Company profile page for Boyer Co LC/The including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Boyer Company Profile | Management and Employees List - Datanyze",
+          "url": "https://www.datanyze.com/companies/boyer/1128822179",
+          "snippet": "Boyer Profile and History Boyer Co is a company that operates in the Commercial & Residential Construction industry. It employs 1to4 people and has 1Mto5M of revenue. The company is headquartered in Costa Mesa, California."
+        }
+      ]
+    },
+    {
+      "query": "\"Boyer Co\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:56:52Z",
+      "page_title": "\"Boyer Co\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boyer+Co%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Boyer Co LC/The - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/29894Z:US",
+          "snippet": "Company profile page for Boyer Co LC/The including stock price, company news, executives, board members, and contact information"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Boyer Co LC/The - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/29894Z:US",
+      "snippet": "Company profile page for Boyer Co LC/The including stock price, company news, executives, board members, and contact information",
+      "query": "\"Boyer Co\" revenue",
+      "search_collected_at": "2026-10-23T10:56:44Z"
+    },
+    {
+      "title": "Boyer Company Profile | Management and Employees List - Datanyze",
+      "url": "https://www.datanyze.com/companies/boyer/1128822179",
+      "snippet": "Boyer Profile and History Boyer Co is a company that operates in the Commercial & Residential Construction industry. It employs 1to4 people and has 1Mto5M of revenue. The company is headquartered in Costa Mesa, California.",
+      "query": "\"Boyer Co\" revenue",
+      "search_collected_at": "2026-10-23T10:56:44Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:56:52Z",
+  "company_status": "SUCCESS"
+}

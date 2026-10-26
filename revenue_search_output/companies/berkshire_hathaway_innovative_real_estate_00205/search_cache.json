@@ -1,0 +1,50 @@
+{
+  "company_key": "berkshire hathaway innovative real estate|https://bhhscore.com",
+  "company_name": "Berkshire Hathaway Innovative Real Estate",
+  "company_website": "https://bhhscore.com",
+  "created_at": "2026-10-23T10:28:45Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Innovative Real Estate\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:28:52Z",
+      "page_title": "\"Berkshire Hathaway Innovative Real Estate\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Innovative+Real+Estate%22+revenue",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Innovative Real Estate - Englewood, CO",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-innovative-real-estate/2j764ycl/",
+          "snippet": "Berkshire Hathaway HomeServices Colorado Real Estate is a full-service real estate brokerage specializing in residential and commercial real estate along Colorado's Front Range. The network, among the few organizations entrusted to use the world-renowned Berkshire Hathaway name, brings to the real estate market a definitive mark of trust, integrity, stability, and longevity. With years of ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Innovative Real Estate\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:28:59Z",
+      "page_title": "\"Berkshire Hathaway Innovative Real Estate\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Innovative+Real+Estate%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Innovative Real Estate - Englewood, CO",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-innovative-real-estate/2j764ycl/",
+          "snippet": "Berkshire Hathaway HomeServices Colorado Real Estate is a full-service real estate brokerage specializing in residential and commercial real estate along Colorado's Front Range. The network, among the few organizations entrusted to use the world-renowned Berkshire Hathaway name, brings to the real estate market a definitive mark of trust, integrity, stability, and longevity. With years of ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Hathaway Innovative Real Estate - Englewood, CO",
+      "url": "https://www.loopnet.com/company/berkshire-hathaway-innovative-real-estate/2j764ycl/",
+      "snippet": "Berkshire Hathaway HomeServices Colorado Real Estate is a full-service real estate brokerage specializing in residential and commercial real estate along Colorado's Front Range. The network, among the few organizations entrusted to use the world-renowned Berkshire Hathaway name, brings to the real estate market a definitive mark of trust, integrity, stability, and longevity. With years of ...",
+      "query": "\"Berkshire Hathaway Innovative Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T10:28:52Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:28:59Z",
+  "company_status": "SUCCESS"
+}

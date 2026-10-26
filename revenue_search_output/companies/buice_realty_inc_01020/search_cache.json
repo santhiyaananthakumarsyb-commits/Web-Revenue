@@ -1,0 +1,30 @@
+{
+  "company_key": "buice realty inc.|https://buicereal.com",
+  "company_name": "Buice Realty Inc.",
+  "company_website": "https://buicereal.com",
+  "created_at": "2026-10-23T13:24:56Z",
+  "searches": [
+    {
+      "query": "\"Buice Realty Inc.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:03Z",
+      "page_title": "\"Buice Realty Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buice+Realty+Inc.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Buice Realty Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:10Z",
+      "page_title": "\"Buice Realty Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buice+Realty+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T13:25:10Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

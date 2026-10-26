@@ -1,0 +1,74 @@
+{
+  "company_key": "brokers real estate group, inc.|https://bregroups.com",
+  "company_name": "Brokers Real Estate Group, Inc.",
+  "company_website": "https://bregroups.com",
+  "created_at": "2026-10-23T12:59:02Z",
+  "searches": [
+    {
+      "query": "\"Brokers Real Estate Group, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:59:07Z",
+      "page_title": "\"Brokers Real Estate Group, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brokers+Real+Estate+Group%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Brokers Real Estate Group, Inc. - Orlando, FL - LoopNet",
+          "url": "https://www.loopnet.com/company/brokers-real-estate-group-inc/z5b80mwl/",
+          "snippet": "Brokers Real Estate Group, Inc. (B.R.E.G) is an organization that provides high-level of expertise in all the areas of the Real Estate Industry. They are located in Central Florida and their main goal has always been to provide the highest quality of sales service and the business structure of a solid Real Estate firm that facilitates buyers and sellers with the acquisition or disposition of ..."
+        },
+        {
+          "title": "BREG | Brokers Real Estate Group, Inc.",
+          "url": "https://bregroups.com/",
+          "snippet": "At Brokers Real Estate Group, Inc. whether your are looking for a primary residence, vacation home, investment property, commercial property or even vacant land, our licensed agents are passionate service professionals."
+        },
+        {
+          "title": "Meet the Team - Brokers Real Estate Group, Inc.",
+          "url": "https://bregroups.com/meet-the-team/",
+          "snippet": "At Brokers Real Estate Group, Inc. whether your are looking for a primary residence, vacation home, investment property, commercial property or even vacant land, our licensed agents are passionate service professionals."
+        }
+      ]
+    },
+    {
+      "query": "\"Brokers Real Estate Group, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:59:14Z",
+      "page_title": "\"Brokers Real Estate Group, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brokers+Real+Estate+Group%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BREG | Brokers Real Estate Group, Inc.",
+          "url": "https://bregroups.com/",
+          "snippet": "At Brokers Real Estate Group, Inc. whether your are looking for a primary residence, vacation home, investment property, commercial property or even vacant land, our licensed agents are passionate service professionals."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brokers Real Estate Group, Inc. - Orlando, FL - LoopNet",
+      "url": "https://www.loopnet.com/company/brokers-real-estate-group-inc/z5b80mwl/",
+      "snippet": "Brokers Real Estate Group, Inc. (B.R.E.G) is an organization that provides high-level of expertise in all the areas of the Real Estate Industry. They are located in Central Florida and their main goal has always been to provide the highest quality of sales service and the business structure of a solid Real Estate firm that facilitates buyers and sellers with the acquisition or disposition of ...",
+      "query": "\"Brokers Real Estate Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:59:07Z"
+    },
+    {
+      "title": "BREG | Brokers Real Estate Group, Inc.",
+      "url": "https://bregroups.com/",
+      "snippet": "At Brokers Real Estate Group, Inc. whether your are looking for a primary residence, vacation home, investment property, commercial property or even vacant land, our licensed agents are passionate service professionals.",
+      "query": "\"Brokers Real Estate Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:59:07Z"
+    },
+    {
+      "title": "Meet the Team - Brokers Real Estate Group, Inc.",
+      "url": "https://bregroups.com/meet-the-team/",
+      "snippet": "At Brokers Real Estate Group, Inc. whether your are looking for a primary residence, vacation home, investment property, commercial property or even vacant land, our licensed agents are passionate service professionals.",
+      "query": "\"Brokers Real Estate Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:59:07Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T12:59:14Z",
+  "company_status": "SUCCESS"
+}

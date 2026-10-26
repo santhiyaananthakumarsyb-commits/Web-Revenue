@@ -1,0 +1,79 @@
+{
+  "company_key": "broadcast music, inc.|https://bmi.com",
+  "company_name": "Broadcast Music, Inc.",
+  "company_website": "https://bmi.com",
+  "created_at": "2026-10-23T12:21:23Z",
+  "searches": [
+    {
+      "query": "\"Broadcast Music, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:21:28Z",
+      "page_title": "\"Broadcast Music, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broadcast+Music%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Broadcast Music, Inc. (BMI) Information - RocketReach",
+          "url": "https://rocketreach.co/broadcast-music-inc-bmi-profile_b5c632b2f42e0c5d",
+          "snippet": "Broadcast Music, Inc. (BMI) is a Musicians, Music & Music Related Services, and Songwriter company located in New York, New York with $456.4 million in revenue and 4,161 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Broadcast Music, Inc. | (615) 401-2000 | Nashville, Tennessee - AllBiz",
+          "url": "https://www.allbiz.com/business/broadcast-music-inc_51i-615-401-2000",
+          "snippet": "Michael O'Neill is the primary contact at Broadcast Music, Inc.. Broadcast Music, Inc. generates approximately USD 188,332,315 in revenue annually, and employs around 450 people at this location."
+        }
+      ]
+    },
+    {
+      "query": "\"Broadcast Music, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:21:35Z",
+      "page_title": "\"Broadcast Music, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broadcast+Music%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Broadcast Music, Inc. (BMI) Information - RocketReach",
+          "url": "https://rocketreach.co/broadcast-music-inc-bmi-profile_b5c632b2f42e0c5d",
+          "snippet": "Broadcast Music, Inc. (BMI) is a Musicians, Music & Music Related Services, and Songwriter company located in New York, New York with $456.4 million in revenue and 4,161 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "What is the annual revenue of Broadcast Music, Inc. (BMI)?",
+          "url": "https://rocketreach.co/answers/what-is-the-annual-revenue-of-broadcast-music-inc-bmi_b5c632b2f42e0c5d",
+          "snippet": "The annual revenue of Broadcast Music, Inc. (BMI) was $456.4 million in 2024."
+        },
+        {
+          "title": "Broadcast Music, Inc. | (615) 401-2000 | Nashville, Tennessee - AllBiz",
+          "url": "https://www.allbiz.com/business/broadcast-music-inc_51i-615-401-2000",
+          "snippet": "Michael O'Neill is the primary contact at Broadcast Music, Inc.. Broadcast Music, Inc. generates approximately USD 188,332,315 in revenue annually, and employs around 450 people at this location."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Broadcast Music, Inc. (BMI) Information - RocketReach",
+      "url": "https://rocketreach.co/broadcast-music-inc-bmi-profile_b5c632b2f42e0c5d",
+      "snippet": "Broadcast Music, Inc. (BMI) is a Musicians, Music & Music Related Services, and Songwriter company located in New York, New York with $456.4 million in revenue and 4,161 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Broadcast Music, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:21:28Z"
+    },
+    {
+      "title": "Broadcast Music, Inc. | (615) 401-2000 | Nashville, Tennessee - AllBiz",
+      "url": "https://www.allbiz.com/business/broadcast-music-inc_51i-615-401-2000",
+      "snippet": "Michael O'Neill is the primary contact at Broadcast Music, Inc.. Broadcast Music, Inc. generates approximately USD 188,332,315 in revenue annually, and employs around 450 people at this location.",
+      "query": "\"Broadcast Music, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:21:28Z"
+    },
+    {
+      "title": "What is the annual revenue of Broadcast Music, Inc. (BMI)?",
+      "url": "https://rocketreach.co/answers/what-is-the-annual-revenue-of-broadcast-music-inc-bmi_b5c632b2f42e0c5d",
+      "snippet": "The annual revenue of Broadcast Music, Inc. (BMI) was $456.4 million in 2024.",
+      "query": "\"Broadcast Music, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:21:35Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T12:21:35Z",
+  "company_status": "SUCCESS"
+}

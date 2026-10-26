@@ -1,0 +1,86 @@
+{
+  "company_key": "ben venue laboratories, inc|https://boehringer-ingelheim.com",
+  "company_name": "Ben Venue Laboratories, Inc",
+  "company_website": "https://boehringer-ingelheim.com",
+  "created_at": "2026-10-23T11:50:38Z",
+  "searches": [
+    {
+      "query": "\"Ben Venue Laboratories, Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:50:43Z",
+      "page_title": "\"Ben Venue Laboratories, Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Ben+Venue+Laboratories%2C+Inc%22+revenue",
+      "results": [
+        {
+          "title": "BEN VENUE LABORATORIES, INC. - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.ben_venue_laboratories_inc.f6a7925133b07cad682f0f1b7db8f1a0.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BEN VENUE LABORATORIES, INC. of Ridgefield, Connecticut. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Ben Venue Laboratories, Inc. - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/benvenuelaboratoriesinc.-ridgefield-ct-9432051.html",
+          "snippet": "Ben Venue Laboratories, Inc. was founded in 1995, and is located at 900 Ridgebury Rd in Ridgefield. Additional information is available at www.benvenue.com or by contacting Jerry Maher at (203) 798-4899."
+        },
+        {
+          "title": "PDF Ben Venue Laboratories, Inc. 483 inspection 11/7/11 - 12/2/11",
+          "url": "https://fda.report/media/82042/Ben-Venue-Laboratories--Inc.--Bedford--OH-483-issued-12-2-2011.pdf",
+          "snippet": "1. The \"Quality Manual\", document #030-SOP-OP-01340, dated 28 Feb 2011, \"describes the pharmaceutical quality system (PQS) as implemented at BVL. The Quality Manual identifies the elements of the PQS and the sequences, linkages, and interdependencies of related processes, and the responsibilities of Management to ensure effective implementation.\" The \"Quality Manual includes the ..."
+        },
+        {
+          "title": "Ben Venue Laboratories, Inc to Cease Production - Fierce Pharma",
+          "url": "https://www.fiercepharma.com/pharma/ben-venue-laboratories-inc-to-cease-production",
+          "snippet": "Ben Venue Laboratories, Inc. (Ben Venue) of Bedford, Ohio, has decided to cease production by the end of 2013. Despite the ongoing support of the U.S. Food and Drug Administration (FDA), the ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Ben Venue Laboratories, Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:50:51Z",
+      "page_title": "\"Ben Venue Laboratories, Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Ben+Venue+Laboratories%2C+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BEN VENUE LABORATORIES, INC. - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.ben_venue_laboratories_inc.f6a7925133b07cad682f0f1b7db8f1a0.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BEN VENUE LABORATORIES, INC. of Ridgefield, Connecticut. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BEN VENUE LABORATORIES, INC. - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.ben_venue_laboratories_inc.f6a7925133b07cad682f0f1b7db8f1a0.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BEN VENUE LABORATORIES, INC. of Ridgefield, Connecticut. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Ben Venue Laboratories, Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:50:43Z"
+    },
+    {
+      "title": "Ben Venue Laboratories, Inc. - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/benvenuelaboratoriesinc.-ridgefield-ct-9432051.html",
+      "snippet": "Ben Venue Laboratories, Inc. was founded in 1995, and is located at 900 Ridgebury Rd in Ridgefield. Additional information is available at www.benvenue.com or by contacting Jerry Maher at (203) 798-4899.",
+      "query": "\"Ben Venue Laboratories, Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:50:43Z"
+    },
+    {
+      "title": "PDF Ben Venue Laboratories, Inc. 483 inspection 11/7/11 - 12/2/11",
+      "url": "https://fda.report/media/82042/Ben-Venue-Laboratories--Inc.--Bedford--OH-483-issued-12-2-2011.pdf",
+      "snippet": "1. The \"Quality Manual\", document #030-SOP-OP-01340, dated 28 Feb 2011, \"describes the pharmaceutical quality system (PQS) as implemented at BVL. The Quality Manual identifies the elements of the PQS and the sequences, linkages, and interdependencies of related processes, and the responsibilities of Management to ensure effective implementation.\" The \"Quality Manual includes the ...",
+      "query": "\"Ben Venue Laboratories, Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:50:43Z"
+    },
+    {
+      "title": "Ben Venue Laboratories, Inc to Cease Production - Fierce Pharma",
+      "url": "https://www.fiercepharma.com/pharma/ben-venue-laboratories-inc-to-cease-production",
+      "snippet": "Ben Venue Laboratories, Inc. (Ben Venue) of Bedford, Ohio, has decided to cease production by the end of 2013. Despite the ongoing support of the U.S. Food and Drug Administration (FDA), the ...",
+      "query": "\"Ben Venue Laboratories, Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:50:43Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:50:51Z",
+  "company_status": "SUCCESS"
+}

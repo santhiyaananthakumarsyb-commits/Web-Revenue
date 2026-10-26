@@ -1,0 +1,120 @@
+{
+  "company_key": "brothers management company|https://brothersmanagement.com",
+  "company_name": "Brothers Management Company",
+  "company_website": "https://brothersmanagement.com",
+  "created_at": "2026-10-23T10:51:04Z",
+  "searches": [
+    {
+      "query": "\"Brothers Management Company\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:51:12Z",
+      "page_title": "\"Brothers Management Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brothers+Management+Company%22+revenue",
+      "results": [
+        {
+          "title": "Price Brothers Management Company Information - RocketReach",
+          "url": "https://rocketreach.co/price-brothers-management-company-profile_b446b78ffaead720",
+          "snippet": "Price Brothers Management Company is a Real Estate company located in Overland Park, Kansas with $15.1 million in revenue and 14 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Brothers Management Company Profile - Office Locations ... - Craft",
+          "url": "https://craft.co/brothers-management",
+          "snippet": "Brothers Management has 5 employees at their 1 location. See insights on Brothers Management including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft."
+        },
+        {
+          "title": "Price Brothers Management Company - Home",
+          "url": "https://www.pricebrotherskc.com/",
+          "snippet": "Price Brothers has been building quality communities since 1922 through hands-on management, responsive service, and a tradition of excellence."
+        },
+        {
+          "title": "Fisher Brothers Management Revenue, Growth & Competitor Profile",
+          "url": "https://incfact.com/company/fisherbrothersmanagement-newyork-ny/",
+          "snippet": "Premium Company Report The Premium Fisher Brothers Management Company Report contains critical information including: Revenue from previous years (2010 to present) Growth rate Estimated financials and profit margin Funding from Venture Capital and Private Equity firms Latest trademark applications Additional industries in which the company operates"
+        },
+        {
+          "title": "Brothers Management Company Profile | Management and ... - Datanyze",
+          "url": "https://www.datanyze.com/companies/brothers-management/17796430",
+          "snippet": "Find contact information for Brothers Management. Learn about their Real Estate market share, competitors, and Brothers Management's email format."
+        },
+        {
+          "title": "Price Brothers Management Company - Meet Our Team",
+          "url": "https://www.pricebrotherskc.com/team/",
+          "snippet": "On this page, you will find a list of Price Brothers Management Company's executive officers, corporate leadership, residential leadership, and commercial leadership."
+        }
+      ]
+    },
+    {
+      "query": "\"Brothers Management Company\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:51:17Z",
+      "page_title": "\"Brothers Management Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brothers+Management+Company%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brothers Management Company Profile - Office Locations ... - Craft",
+          "url": "https://craft.co/brothers-management",
+          "snippet": "Brothers Management has 5 employees at their 1 location. See insights on Brothers Management including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft."
+        },
+        {
+          "title": "Price Brothers Management Company Information - RocketReach",
+          "url": "https://rocketreach.co/price-brothers-management-company-profile_b446b78ffaead720",
+          "snippet": "What is the annual revenue of Price Brothers Management Company? The Price Brothers Management Company annual revenue was $15.1 million in 2026."
+        },
+        {
+          "title": "Brothers Management Company Profile | Management and ... - Datanyze",
+          "url": "https://www.datanyze.com/companies/brothers-management/17796430",
+          "snippet": "Find contact information for Brothers Management. Learn about their Real Estate market share, competitors, and Brothers Management's email format."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Price Brothers Management Company Information - RocketReach",
+      "url": "https://rocketreach.co/price-brothers-management-company-profile_b446b78ffaead720",
+      "snippet": "Price Brothers Management Company is a Real Estate company located in Overland Park, Kansas with $15.1 million in revenue and 14 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Brothers Management Company\" revenue",
+      "search_collected_at": "2026-10-23T10:51:12Z"
+    },
+    {
+      "title": "Brothers Management Company Profile - Office Locations ... - Craft",
+      "url": "https://craft.co/brothers-management",
+      "snippet": "Brothers Management has 5 employees at their 1 location. See insights on Brothers Management including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.",
+      "query": "\"Brothers Management Company\" revenue",
+      "search_collected_at": "2026-10-23T10:51:12Z"
+    },
+    {
+      "title": "Price Brothers Management Company - Home",
+      "url": "https://www.pricebrotherskc.com/",
+      "snippet": "Price Brothers has been building quality communities since 1922 through hands-on management, responsive service, and a tradition of excellence.",
+      "query": "\"Brothers Management Company\" revenue",
+      "search_collected_at": "2026-10-23T10:51:12Z"
+    },
+    {
+      "title": "Fisher Brothers Management Revenue, Growth & Competitor Profile",
+      "url": "https://incfact.com/company/fisherbrothersmanagement-newyork-ny/",
+      "snippet": "Premium Company Report The Premium Fisher Brothers Management Company Report contains critical information including: Revenue from previous years (2010 to present) Growth rate Estimated financials and profit margin Funding from Venture Capital and Private Equity firms Latest trademark applications Additional industries in which the company operates",
+      "query": "\"Brothers Management Company\" revenue",
+      "search_collected_at": "2026-10-23T10:51:12Z"
+    },
+    {
+      "title": "Brothers Management Company Profile | Management and ... - Datanyze",
+      "url": "https://www.datanyze.com/companies/brothers-management/17796430",
+      "snippet": "Find contact information for Brothers Management. Learn about their Real Estate market share, competitors, and Brothers Management's email format.",
+      "query": "\"Brothers Management Company\" revenue",
+      "search_collected_at": "2026-10-23T10:51:12Z"
+    },
+    {
+      "title": "Price Brothers Management Company - Meet Our Team",
+      "url": "https://www.pricebrotherskc.com/team/",
+      "snippet": "On this page, you will find a list of Price Brothers Management Company's executive officers, corporate leadership, residential leadership, and commercial leadership.",
+      "query": "\"Brothers Management Company\" revenue",
+      "search_collected_at": "2026-10-23T10:51:12Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T10:51:17Z",
+  "company_status": "SUCCESS"
+}

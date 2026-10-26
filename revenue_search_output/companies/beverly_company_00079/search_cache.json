@@ -1,0 +1,120 @@
+{
+  "company_key": "beverly & company|https://beverlycompany.com",
+  "company_name": "Beverly & Company",
+  "company_website": "https://beverlycompany.com",
+  "created_at": "2026-10-23T10:01:38Z",
+  "searches": [
+    {
+      "query": "\"Beverly & Company\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:01:44Z",
+      "page_title": "\"Beverly & Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Beverly+%26+Company%22+revenue",
+      "results": [
+        {
+          "title": "Beverly & Company Revenue, Funding & Valuation",
+          "url": "https://prospeo.io/c/beverly-company-revenue",
+          "snippet": "Beverly & Company has revenue of $37,500,000, estimated valuation of $120,000,000. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "Beverly & Company Information - RocketReach",
+          "url": "https://rocketreach.co/beverly-company-profile_b45c8891fc6efbc0",
+          "snippet": "Beverly & Company is a Real Estate company located in Los Angeles, California with $17.9 million in revenue and 283 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Beverly & Company — $142M, 23 deals in CA | Traded",
+          "url": "https://traded.co/company/beverly-company/",
+          "snippet": "Beverly & Company: 23 deals, $142M volume in CA. See closed CRE transactions, pricing, and the team on Traded."
+        },
+        {
+          "title": "Beverly & Company - Company Profile - Tracxn",
+          "url": "https://tracxn.com/d/companies/beverly-company/__JzmVyaMk6EgGc3gEansUT7cO4FNpC7ARuVm-fzXgOzw",
+          "snippet": "Beverly & Company is a brokerage firm located in Los Angeles offering support and services to empower agents to succeed in the real estate industry. With multiple offices in California, Beverly & Company has redefined the brokerage experience for both agents and clients."
+        },
+        {
+          "title": "Beverly & Company - LinkedIn",
+          "url": "https://www.linkedin.com/company/beverly-company",
+          "snippet": "Beverly & Company | 1,064 followers on LinkedIn. Beverly & Company is LA's fastest-growing 100% real estate brokerage. We pride ourselves on empowering agents and offer clients and unparalleled ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Beverly & Company\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:01:49Z",
+      "page_title": "\"Beverly & Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Beverly+%26+Company%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Beverly & Company Revenue, Funding & Valuation",
+          "url": "https://prospeo.io/c/beverly-company-revenue",
+          "snippet": "Beverly & Company has revenue of $37,500,000, estimated valuation of $120,000,000. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "Beverly & Company Information - RocketReach",
+          "url": "https://rocketreach.co/beverly-company-profile_b45c8891fc6efbc0",
+          "snippet": "Beverly & Company Questions What is the annual revenue of Beverly & Company? The Beverly & Company annual revenue was $17.9 million in 2026."
+        },
+        {
+          "title": "Beverly & Company Company Overview, Contact Details & Competitors | LeadIQ",
+          "url": "https://leadiq.com/c/beverly--company/6221fa770f6952540d9be80b",
+          "snippet": "What is Beverly & Company 's official website and social media links? Beverly & Company 's official website is beverlycompany.com and has social profiles on LinkedIn. How much revenue does Beverly & Company generate? As of July 2026, Beverly & Company 's annual revenue is estimated to be $250M - $500M. What is Beverly & Company's NAICS code?"
+        },
+        {
+          "title": "Beverly & Company — $142M, 23 deals in CA | Traded",
+          "url": "https://traded.co/company/beverly-company/",
+          "snippet": "When was the last time Beverly & Company closed a deal? Beverly & Company's most recent deal was on October 01, 2026. What are Beverly & Company's biggest deals? Beverly & Company's largest deals include a sale of $79,500,000.00 for 4126 Live Oak Avenue, and a lease covering 3,750 sqft for 9041 Trask Ave Garden Grove, CA 92844, USA."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Beverly & Company Revenue, Funding & Valuation",
+      "url": "https://prospeo.io/c/beverly-company-revenue",
+      "snippet": "Beverly & Company has revenue of $37,500,000, estimated valuation of $120,000,000. Find contacts and company information on Prospeo.",
+      "query": "\"Beverly & Company\" revenue",
+      "search_collected_at": "2026-10-23T10:01:44Z"
+    },
+    {
+      "title": "Beverly & Company Information - RocketReach",
+      "url": "https://rocketreach.co/beverly-company-profile_b45c8891fc6efbc0",
+      "snippet": "Beverly & Company is a Real Estate company located in Los Angeles, California with $17.9 million in revenue and 283 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Beverly & Company\" revenue",
+      "search_collected_at": "2026-10-23T10:01:44Z"
+    },
+    {
+      "title": "Beverly & Company — $142M, 23 deals in CA | Traded",
+      "url": "https://traded.co/company/beverly-company/",
+      "snippet": "Beverly & Company: 23 deals, $142M volume in CA. See closed CRE transactions, pricing, and the team on Traded.",
+      "query": "\"Beverly & Company\" revenue",
+      "search_collected_at": "2026-10-23T10:01:44Z"
+    },
+    {
+      "title": "Beverly & Company - Company Profile - Tracxn",
+      "url": "https://tracxn.com/d/companies/beverly-company/__JzmVyaMk6EgGc3gEansUT7cO4FNpC7ARuVm-fzXgOzw",
+      "snippet": "Beverly & Company is a brokerage firm located in Los Angeles offering support and services to empower agents to succeed in the real estate industry. With multiple offices in California, Beverly & Company has redefined the brokerage experience for both agents and clients.",
+      "query": "\"Beverly & Company\" revenue",
+      "search_collected_at": "2026-10-23T10:01:44Z"
+    },
+    {
+      "title": "Beverly & Company - LinkedIn",
+      "url": "https://www.linkedin.com/company/beverly-company",
+      "snippet": "Beverly & Company | 1,064 followers on LinkedIn. Beverly & Company is LA's fastest-growing 100% real estate brokerage. We pride ourselves on empowering agents and offer clients and unparalleled ...",
+      "query": "\"Beverly & Company\" revenue",
+      "search_collected_at": "2026-10-23T10:01:44Z"
+    },
+    {
+      "title": "Beverly & Company Company Overview, Contact Details & Competitors | LeadIQ",
+      "url": "https://leadiq.com/c/beverly--company/6221fa770f6952540d9be80b",
+      "snippet": "What is Beverly & Company 's official website and social media links? Beverly & Company 's official website is beverlycompany.com and has social profiles on LinkedIn. How much revenue does Beverly & Company generate? As of July 2026, Beverly & Company 's annual revenue is estimated to be $250M - $500M. What is Beverly & Company's NAICS code?",
+      "query": "\"Beverly & Company\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:01:49Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T10:01:49Z",
+  "company_status": "SUCCESS"
+}

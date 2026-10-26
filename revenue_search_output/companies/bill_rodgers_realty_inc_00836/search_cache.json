@@ -1,0 +1,98 @@
+{
+  "company_key": "bill rodgers realty, inc|https://ocalarealestatesales.com",
+  "company_name": "Bill Rodgers Realty, Inc",
+  "company_website": "https://ocalarealestatesales.com",
+  "created_at": "2026-10-23T12:45:24Z",
+  "searches": [
+    {
+      "query": "\"Bill Rodgers Realty, Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:45:30Z",
+      "page_title": "\"Bill Rodgers Realty, Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bill+Rodgers+Realty%2C+Inc%22+revenue",
+      "results": [
+        {
+          "title": "BILL RODGERS REALTY, INC.. OCALA, FL - BisProfiles",
+          "url": "https://bisprofiles.com/fl/bill-rodgers-realty-366911",
+          "snippet": "Bill Rodgers Realty, Inc., founded on July 1, 1970, stands as a trusted full-service real estate brokerage in the Ocala and Marion County area of Florida. With over fifty years under its belt, the firm enjoys a stellar reputation thanks to its commitment to pleasing clients-evident from their substantial repeat and referral clientele."
+        },
+        {
+          "title": "Bill Rodgers Realty, Inc. Office Profile | realty.com",
+          "url": "https://www.realty.com/office/231967/bill_rodgers_realty",
+          "snippet": "Bill Rodgers Realty, Inc. in Ocala, FL - Office profile including office information, real estate agents, office reviews, and office listings."
+        },
+        {
+          "title": "BILL RODGERS REALTY, INC. in Ocala, FL | Company Info & Reviews - Bizapedia",
+          "url": "https://www.bizapedia.com/fl/bill-rodgers-realty-inc.html",
+          "snippet": "Bill Rodgers Realty, Inc. is a Domestic Profit Corporation organized under the laws of the State of Florida. The business was filed on July 1, 1970 and is currently listed as Active with the Florida Department of State."
+        }
+      ]
+    },
+    {
+      "query": "\"Bill Rodgers Realty, Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:45:35Z",
+      "page_title": "\"Bill Rodgers Realty, Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bill+Rodgers+Realty%2C+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BILL RODGERS REALTY, INC.. OCALA, FL - BisProfiles",
+          "url": "https://bisprofiles.com/fl/bill-rodgers-realty-366911",
+          "snippet": "Bill Rodgers Realty, Inc., founded on July 1, 1970, stands as a trusted full-service real estate brokerage in the Ocala and Marion County area of Florida. With over fifty years under its belt, the firm enjoys a stellar reputation thanks to its commitment to pleasing clients-evident from their substantial repeat and referral clientele."
+        },
+        {
+          "title": "BILL RODGERS REALTY, INC. - Services & Company Info - Clutch",
+          "url": "https://clutch.co/profile/bill-rodgers-realty",
+          "snippet": "Contact Contact BILL RODGERS REALTY, INC. If you're not seeing exactly what you need here, send this company a custom message. You can talk about your project needs, price, and timeline to get started on your project."
+        },
+        {
+          "title": "Bill Rodgers Realty, Inc - Ocala Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/bill-rodgers-realty-inc/sjelzm6l/",
+          "snippet": "After investing in commercial properties in St. Thomas, U.S. Virgin Islands and Ocala they decided that they wanted to focus on a career in Commercial Real Estate. They have been Commercial Agents at Bill Rodgers Realty since 2003 and have facilitated over $10 million dollars in Real Estate transactions. They chose this firm because it is one of the oldest and most respected Brokerages ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BILL RODGERS REALTY, INC.. OCALA, FL - BisProfiles",
+      "url": "https://bisprofiles.com/fl/bill-rodgers-realty-366911",
+      "snippet": "Bill Rodgers Realty, Inc., founded on July 1, 1970, stands as a trusted full-service real estate brokerage in the Ocala and Marion County area of Florida. With over fifty years under its belt, the firm enjoys a stellar reputation thanks to its commitment to pleasing clients-evident from their substantial repeat and referral clientele.",
+      "query": "\"Bill Rodgers Realty, Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:45:30Z"
+    },
+    {
+      "title": "Bill Rodgers Realty, Inc. Office Profile | realty.com",
+      "url": "https://www.realty.com/office/231967/bill_rodgers_realty",
+      "snippet": "Bill Rodgers Realty, Inc. in Ocala, FL - Office profile including office information, real estate agents, office reviews, and office listings.",
+      "query": "\"Bill Rodgers Realty, Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:45:30Z"
+    },
+    {
+      "title": "BILL RODGERS REALTY, INC. in Ocala, FL | Company Info & Reviews - Bizapedia",
+      "url": "https://www.bizapedia.com/fl/bill-rodgers-realty-inc.html",
+      "snippet": "Bill Rodgers Realty, Inc. is a Domestic Profit Corporation organized under the laws of the State of Florida. The business was filed on July 1, 1970 and is currently listed as Active with the Florida Department of State.",
+      "query": "\"Bill Rodgers Realty, Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:45:30Z"
+    },
+    {
+      "title": "BILL RODGERS REALTY, INC. - Services & Company Info - Clutch",
+      "url": "https://clutch.co/profile/bill-rodgers-realty",
+      "snippet": "Contact Contact BILL RODGERS REALTY, INC. If you're not seeing exactly what you need here, send this company a custom message. You can talk about your project needs, price, and timeline to get started on your project.",
+      "query": "\"Bill Rodgers Realty, Inc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:45:35Z"
+    },
+    {
+      "title": "Bill Rodgers Realty, Inc - Ocala Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/bill-rodgers-realty-inc/sjelzm6l/",
+      "snippet": "After investing in commercial properties in St. Thomas, U.S. Virgin Islands and Ocala they decided that they wanted to focus on a career in Commercial Real Estate. They have been Commercial Agents at Bill Rodgers Realty since 2003 and have facilitated over $10 million dollars in Real Estate transactions. They chose this firm because it is one of the oldest and most respected Brokerages ...",
+      "query": "\"Bill Rodgers Realty, Inc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:45:35Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T12:45:35Z",
+  "company_status": "SUCCESS"
+}

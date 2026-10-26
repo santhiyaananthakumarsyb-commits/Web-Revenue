@@ -1,0 +1,44 @@
+{
+  "company_key": "bronstein properties, llc|https://bronsteinproperties.com",
+  "company_name": "Bronstein Properties, LLC",
+  "company_website": "https://bronsteinproperties.com",
+  "created_at": "2026-10-23T11:42:36Z",
+  "searches": [
+    {
+      "query": "\"Bronstein Properties, LLC\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:42:44Z",
+      "page_title": "\"Bronstein Properties, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bronstein+Properties%2C+LLC%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Bronstein Properties, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:42:50Z",
+      "page_title": "\"Bronstein Properties, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bronstein+Properties%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bronstein Properties, LLC - Forest Hills, NY - LoopNet",
+          "url": "https://www.loopnet.com/company/bronstein-properties-llc/ebc77hnl/",
+          "snippet": "Bronstein Properties, LLC are a third-generation real estate company headquartered in Forest Hills, Queens. Beginning with Albert Bronstein in the 1960s, for more than 60 years they have managed apartments throughout New York City and the surrounding area. They manage their properties for the long term and do what is needed to maintain the buildings to the highest standards. Each property has ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bronstein Properties, LLC - Forest Hills, NY - LoopNet",
+      "url": "https://www.loopnet.com/company/bronstein-properties-llc/ebc77hnl/",
+      "snippet": "Bronstein Properties, LLC are a third-generation real estate company headquartered in Forest Hills, Queens. Beginning with Albert Bronstein in the 1960s, for more than 60 years they have managed apartments throughout New York City and the surrounding area. They manage their properties for the long term and do what is needed to maintain the buildings to the highest standards. Each property has ...",
+      "query": "\"Bronstein Properties, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:42:50Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:42:50Z",
+  "company_status": "SUCCESS"
+}

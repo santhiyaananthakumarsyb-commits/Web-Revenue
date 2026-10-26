@@ -1,0 +1,44 @@
+{
+  "company_key": "berkshire hathaway homeservices michigan real esta|https://bhhsmichiganrealestate.com",
+  "company_name": "Berkshire Hathaway HomeServices Michigan Real Esta",
+  "company_website": "https://bhhsmichiganrealestate.com",
+  "created_at": "2026-10-23T09:56:26Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway HomeServices Michigan Real Esta\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:56:33Z",
+      "page_title": "\"Berkshire Hathaway HomeServices Michigan Real Esta\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+HomeServices+Michigan+Real+Esta%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Berkshire Hathaway HomeServices Michigan Real Esta\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:56:42Z",
+      "page_title": "\"Berkshire Hathaway HomeServices Michigan Real Esta\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+HomeServices+Michigan+Real+Esta%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Homeservices Michigan Real Esta",
+          "url": "https://www.realty.com/office/179970/berkshire_hathaway_homeservices_michigan_real_esta",
+          "snippet": "Berkshire Hathaway Homeservices Michigan Real Esta in Grand Rapids, MI - Office profile including office information, real estate agents, office reviews, and office listings."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Hathaway Homeservices Michigan Real Esta",
+      "url": "https://www.realty.com/office/179970/berkshire_hathaway_homeservices_michigan_real_esta",
+      "snippet": "Berkshire Hathaway Homeservices Michigan Real Esta in Grand Rapids, MI - Office profile including office information, real estate agents, office reviews, and office listings.",
+      "query": "\"Berkshire Hathaway HomeServices Michigan Real Esta\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:56:42Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T09:56:42Z",
+  "company_status": "SUCCESS"
+}

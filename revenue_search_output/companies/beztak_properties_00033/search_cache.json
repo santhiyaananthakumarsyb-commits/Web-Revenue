@@ -1,0 +1,57 @@
+{
+  "company_key": "beztak properties|https://beztak.com",
+  "company_name": "BEZTAK Properties",
+  "company_website": "https://beztak.com",
+  "created_at": "2026-10-23T09:51:22Z",
+  "searches": [
+    {
+      "query": "\"BEZTAK Properties\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:51:30Z",
+      "page_title": "\"BEZTAK Properties\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BEZTAK+Properties%22+revenue",
+      "results": [
+        {
+          "title": "Corporate Brochure by Beztak Properties - Issuu",
+          "url": "https://issuu.com/admoheights/docs/beztak_corp_brochure_all_1c89de505da58d",
+          "snippet": "Corporate Brochure Published onMar 19, 2024 Report content Beztak Properties Follow this publisher Issuu converts static files into: digital portfolios online yearbooks online catalogs digital ..."
+        }
+      ]
+    },
+    {
+      "query": "\"BEZTAK Properties\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:51:37Z",
+      "page_title": "\"BEZTAK Properties\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BEZTAK+Properties%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Beztak Properties Farmington Hills MI, 48334 - Manta.com",
+          "url": "https://www.manta.com/c/mm2j7w3/beztak-properties",
+          "snippet": "About Categorized under Commercial Land Subdividers and Developers. Our records show it was established in 1972 and incorporated in MI. Current estimates show this company has an annual revenue of 90195986 and employs a staff of approximately 306."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Corporate Brochure by Beztak Properties - Issuu",
+      "url": "https://issuu.com/admoheights/docs/beztak_corp_brochure_all_1c89de505da58d",
+      "snippet": "Corporate Brochure Published onMar 19, 2024 Report content Beztak Properties Follow this publisher Issuu converts static files into: digital portfolios online yearbooks online catalogs digital ...",
+      "query": "\"BEZTAK Properties\" revenue",
+      "search_collected_at": "2026-10-23T09:51:30Z"
+    },
+    {
+      "title": "Beztak Properties Farmington Hills MI, 48334 - Manta.com",
+      "url": "https://www.manta.com/c/mm2j7w3/beztak-properties",
+      "snippet": "About Categorized under Commercial Land Subdividers and Developers. Our records show it was established in 1972 and incorporated in MI. Current estimates show this company has an annual revenue of 90195986 and employs a staff of approximately 306.",
+      "query": "\"BEZTAK Properties\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:51:37Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T09:51:37Z",
+  "company_status": "SUCCESS"
+}

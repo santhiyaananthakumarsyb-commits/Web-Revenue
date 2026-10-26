@@ -1,0 +1,74 @@
+{
+  "company_key": "business rates hub limited t/a rva surveyors|https://ratingsab.co.uk",
+  "company_name": "Business Rates Hub Limited T/A RVA Surveyors",
+  "company_website": "https://ratingsab.co.uk",
+  "created_at": "2026-10-23T10:25:44Z",
+  "searches": [
+    {
+      "query": "\"Business Rates Hub Limited T/A RVA Surveyors\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:25:50Z",
+      "page_title": "\"Business Rates Hub Limited T/A RVA Surveyors\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Business+Rates+Hub+Limited+T%2FA+RVA+Surveyors%22+revenue",
+      "results": [
+        {
+          "title": "Business Rates Hub Limited t/a RVA Surveyors -v- GY Cars Limited",
+          "url": "https://opencourtdata.uk/civil/case/1182963758526875591",
+          "snippet": "View details for civil case CIV-6 (Business Rates Hub Limited t/a RVA Surveyors -v- GY Cars Limited) at Manchester Civil Justice Centre. Hearing scheduled for 28 August 2026."
+        },
+        {
+          "title": "Business Rates Hub Limited T/A RVA Surveyors - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/josh-leyland/6qt875sb",
+          "snippet": "Team Manager, Business Rates Hub Limited T/A RVA Surveyors Manchester, M34 3SH Send a Message Phone+44 161 877 6622 About Me Listings Property Types Industrial, Office, Retail Markets Manchester Josh Leyland"
+        },
+        {
+          "title": "business rates hub limited t/a rva surveyors - Civil Cases | Open Court ...",
+          "url": "https://opencourtdata.uk/civil/party/Business Rates Hub Limited t/a RVA Surveyors",
+          "snippet": "View civil court cases, hearings, and legal proceedings involving business rates hub limited t/a rva surveyors in UK county courts."
+        }
+      ]
+    },
+    {
+      "query": "\"Business Rates Hub Limited T/A RVA Surveyors\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:25:57Z",
+      "page_title": "\"Business Rates Hub Limited T/A RVA Surveyors\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Business+Rates+Hub+Limited+T%2FA+RVA+Surveyors%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "business rates hub limited t/a rva surveyors - Civil Cases | Open Court ...",
+          "url": "https://opencourtdata.uk/civil/party/Business Rates Hub Limited t/a RVA Surveyors",
+          "snippet": "View civil court cases, hearings, and legal proceedings involving business rates hub limited t/a rva surveyors in UK county courts."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Business Rates Hub Limited t/a RVA Surveyors -v- GY Cars Limited",
+      "url": "https://opencourtdata.uk/civil/case/1182963758526875591",
+      "snippet": "View details for civil case CIV-6 (Business Rates Hub Limited t/a RVA Surveyors -v- GY Cars Limited) at Manchester Civil Justice Centre. Hearing scheduled for 28 August 2026.",
+      "query": "\"Business Rates Hub Limited T/A RVA Surveyors\" revenue",
+      "search_collected_at": "2026-10-23T10:25:50Z"
+    },
+    {
+      "title": "Business Rates Hub Limited T/A RVA Surveyors - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/josh-leyland/6qt875sb",
+      "snippet": "Team Manager, Business Rates Hub Limited T/A RVA Surveyors Manchester, M34 3SH Send a Message Phone+44 161 877 6622 About Me Listings Property Types Industrial, Office, Retail Markets Manchester Josh Leyland",
+      "query": "\"Business Rates Hub Limited T/A RVA Surveyors\" revenue",
+      "search_collected_at": "2026-10-23T10:25:50Z"
+    },
+    {
+      "title": "business rates hub limited t/a rva surveyors - Civil Cases | Open Court ...",
+      "url": "https://opencourtdata.uk/civil/party/Business Rates Hub Limited t/a RVA Surveyors",
+      "snippet": "View civil court cases, hearings, and legal proceedings involving business rates hub limited t/a rva surveyors in UK county courts.",
+      "query": "\"Business Rates Hub Limited T/A RVA Surveyors\" revenue",
+      "search_collected_at": "2026-10-23T10:25:50Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T10:25:57Z",
+  "company_status": "SUCCESS"
+}

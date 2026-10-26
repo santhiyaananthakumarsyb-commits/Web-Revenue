@@ -1,0 +1,44 @@
+{
+  "company_key": "bolsa-magnolia limited partnership, a california l|https://bridgecreek.com",
+  "company_name": "Bolsa-Magnolia Limited Partnership, A California L",
+  "company_website": "https://bridgecreek.com",
+  "created_at": "2026-10-23T13:21:05Z",
+  "searches": [
+    {
+      "query": "\"Bolsa-Magnolia Limited Partnership, A California L\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:21:11Z",
+      "page_title": "\"Bolsa-Magnolia Limited Partnership, A California L\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bolsa-Magnolia+Limited+Partnership%2C+A+California+L%22+revenue",
+      "results": [
+        {
+          "title": "9200 Bolsa Ave, Westminster, CA 92683 | LoopNet",
+          "url": "https://www.loopnet.com/Listing/9200-Bolsa-Ave-Westminster-CA/4093978/",
+          "snippet": "The Retail Property at 9200 Bolsa Ave, Westminster, CA 92683 is no longer being advertised on LoopNet.com. Contact Bolsa-Magnolia Limited Partnership, A California L for information on availability."
+        }
+      ]
+    },
+    {
+      "query": "\"Bolsa-Magnolia Limited Partnership, A California L\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:21:19Z",
+      "page_title": "\"Bolsa-Magnolia Limited Partnership, A California L\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bolsa-Magnolia+Limited+Partnership%2C+A+California+L%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "9200 Bolsa Ave, Westminster, CA 92683 | LoopNet",
+      "url": "https://www.loopnet.com/Listing/9200-Bolsa-Ave-Westminster-CA/4093978/",
+      "snippet": "The Retail Property at 9200 Bolsa Ave, Westminster, CA 92683 is no longer being advertised on LoopNet.com. Contact Bolsa-Magnolia Limited Partnership, A California L for information on availability.",
+      "query": "\"Bolsa-Magnolia Limited Partnership, A California L\" revenue",
+      "search_collected_at": "2026-10-23T13:21:11Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T13:21:19Z",
+  "company_status": "SUCCESS"
+}

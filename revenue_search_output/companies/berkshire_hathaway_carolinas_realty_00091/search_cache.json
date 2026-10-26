@@ -1,0 +1,57 @@
+{
+  "company_key": "berkshire hathaway carolinas realty|https://bhhscarolinas.com",
+  "company_name": "Berkshire Hathaway Carolinas Realty",
+  "company_website": "https://bhhscarolinas.com",
+  "created_at": "2026-10-23T10:04:12Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Carolinas Realty\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:04:19Z",
+      "page_title": "\"Berkshire Hathaway Carolinas Realty\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Carolinas+Realty%22+revenue",
+      "results": [
+        {
+          "title": "Tawana Rice - Berkshire Hathaway Carolinas Realty",
+          "url": "https://www.zoominfo.com/c/tawana-rice---berkshire-hathaway-carolinas-realty/1228287491",
+          "snippet": "View Tawana Rice - Berkshire Hathaway Carolinas Realty (tawanarice.bhhscarolinas.com) location in North Carolina, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Carolinas Realty\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:04:26Z",
+      "page_title": "\"Berkshire Hathaway Carolinas Realty\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Carolinas+Realty%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Hathaway HomeServices Carolinas Companies - Facebook",
+          "url": "https://www.facebook.com/BHHSCarolinas/",
+          "snippet": "Every contribution makes a difference. Together, we can help provide meals to our neighbors in need! Lisa Bullins-Berkshire Hathaway Carolinas Realty and 4 ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Tawana Rice - Berkshire Hathaway Carolinas Realty",
+      "url": "https://www.zoominfo.com/c/tawana-rice---berkshire-hathaway-carolinas-realty/1228287491",
+      "snippet": "View Tawana Rice - Berkshire Hathaway Carolinas Realty (tawanarice.bhhscarolinas.com) location in North Carolina, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Berkshire Hathaway Carolinas Realty\" revenue",
+      "search_collected_at": "2026-10-23T10:04:19Z"
+    },
+    {
+      "title": "Berkshire Hathaway HomeServices Carolinas Companies - Facebook",
+      "url": "https://www.facebook.com/BHHSCarolinas/",
+      "snippet": "Every contribution makes a difference. Together, we can help provide meals to our neighbors in need! Lisa Bullins-Berkshire Hathaway Carolinas Realty and 4 ...",
+      "query": "\"Berkshire Hathaway Carolinas Realty\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:04:26Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:04:26Z",
+  "company_status": "SUCCESS"
+}

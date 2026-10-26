@@ -1,0 +1,67 @@
+{
+  "company_key": "buckhead america management, llc|https://buckheadamerica.com",
+  "company_name": "Buckhead America Management, LLC",
+  "company_website": "https://buckheadamerica.com",
+  "created_at": "2026-10-23T14:00:07Z",
+  "searches": [
+    {
+      "query": "\"Buckhead America Management, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:00:12Z",
+      "page_title": "\"Buckhead America Management, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buckhead+America+Management%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "BUCKHEAD AMERICA MANAGEMENT, LLC | Nonresidential Property Managers in ...",
+          "url": "https://naicslist.com/company-profile/buckhead-america-management-llc-smyrna-ga-30080",
+          "snippet": "Buckhead America Management, LLC is a Nonresidential Property Managers business in Smyrna, GA (30080). Operating for over 2 years with ~9 employees. Compare against 32 nearby competitors."
+        },
+        {
+          "title": "BUCKHEAD AMERICA MANAGEMENT, LLC - Georgia Company Directory",
+          "url": "https://www.georgiacompanyregistry.com/companies/buckhead-america-management-llc/",
+          "snippet": "BUCKHEAD AMERICA MANAGEMENT, LLC was registered on Apr 21 2009 as a domestic limited liability company type with the address 2875 SPRING HILL PKWY SE, Marietta, GA, 30080, USA."
+        }
+      ]
+    },
+    {
+      "query": "\"Buckhead America Management, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:00:19Z",
+      "page_title": "\"Buckhead America Management, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buckhead+America+Management%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BUCKHEAD AMERICA MANAGEMENT, LLC | Nonresidential Property Managers in ...",
+          "url": "https://naicslist.com/company-profile/buckhead-america-management-llc-smyrna-ga-30080",
+          "snippet": "Buckhead America Management, LLC is a Nonresidential Property Managers business in Smyrna, GA (30080). Operating for over 2 years with ~9 employees. Compare against 32 nearby competitors."
+        },
+        {
+          "title": "BUCKHEAD AMERICA MANAGEMENT, LLC - Georgia Company Directory",
+          "url": "https://www.georgiacompanyregistry.com/companies/buckhead-america-management-llc/",
+          "snippet": "BUCKHEAD AMERICA MANAGEMENT, LLC was registered on Apr 21 2009 as a domestic limited liability company type with the address 2875 SPRING HILL PKWY SE, Marietta, GA, 30080, USA."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BUCKHEAD AMERICA MANAGEMENT, LLC | Nonresidential Property Managers in ...",
+      "url": "https://naicslist.com/company-profile/buckhead-america-management-llc-smyrna-ga-30080",
+      "snippet": "Buckhead America Management, LLC is a Nonresidential Property Managers business in Smyrna, GA (30080). Operating for over 2 years with ~9 employees. Compare against 32 nearby competitors.",
+      "query": "\"Buckhead America Management, LLC\" revenue",
+      "search_collected_at": "2026-10-23T14:00:12Z"
+    },
+    {
+      "title": "BUCKHEAD AMERICA MANAGEMENT, LLC - Georgia Company Directory",
+      "url": "https://www.georgiacompanyregistry.com/companies/buckhead-america-management-llc/",
+      "snippet": "BUCKHEAD AMERICA MANAGEMENT, LLC was registered on Apr 21 2009 as a domestic limited liability company type with the address 2875 SPRING HILL PKWY SE, Marietta, GA, 30080, USA.",
+      "query": "\"Buckhead America Management, LLC\" revenue",
+      "search_collected_at": "2026-10-23T14:00:12Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T14:00:19Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,30 @@
+{
+  "company_key": "busboom - the landing at centreport|https://busboomgroup.com",
+  "company_name": "Busboom - The Landing at Centreport",
+  "company_website": "https://busboomgroup.com",
+  "created_at": "2026-10-23T10:26:59Z",
+  "searches": [
+    {
+      "query": "\"Busboom - The Landing at Centreport\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:27:06Z",
+      "page_title": "\"Busboom - The Landing at Centreport\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Busboom+-+The+Landing+at+Centreport%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Busboom - The Landing at Centreport\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:27:13Z",
+      "page_title": "\"Busboom - The Landing at Centreport\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Busboom+-+The+Landing+at+Centreport%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:27:13Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

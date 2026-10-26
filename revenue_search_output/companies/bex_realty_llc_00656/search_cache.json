@@ -1,0 +1,44 @@
+{
+  "company_key": "bex realty,llc|https://bexrealty.com",
+  "company_name": "BEX Realty,LLC",
+  "company_website": "https://bexrealty.com",
+  "created_at": "2026-10-23T12:06:10Z",
+  "searches": [
+    {
+      "query": "\"BEX Realty,LLC\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:06:18Z",
+      "page_title": "\"BEX Realty,LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BEX+Realty%2CLLC%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"BEX Realty,LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:06:25Z",
+      "page_title": "\"BEX Realty,LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BEX+Realty%2CLLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BEX Realty,LLC Real Estate Agency in Your Area | realtor.com®",
+          "url": "https://www.realtor.com/realestateagency/614f2bc42eae040012bf7be3",
+          "snippet": "Find real estate agency BEX Realty,LLC in your city on realtor.com®, your source for top rated real estate professionals."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BEX Realty,LLC Real Estate Agency in Your Area | realtor.com®",
+      "url": "https://www.realtor.com/realestateagency/614f2bc42eae040012bf7be3",
+      "snippet": "Find real estate agency BEX Realty,LLC in your city on realtor.com®, your source for top rated real estate professionals.",
+      "query": "\"BEX Realty,LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:06:25Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:06:25Z",
+  "company_status": "SUCCESS"
+}

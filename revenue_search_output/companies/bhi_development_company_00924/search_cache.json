@@ -1,0 +1,74 @@
+{
+  "company_key": "bhi development company|https://buildwoodland.com",
+  "company_name": "BHI Development Company",
+  "company_website": "https://buildwoodland.com",
+  "created_at": "2026-10-23T13:04:07Z",
+  "searches": [
+    {
+      "query": "\"BHI Development Company\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:04:12Z",
+      "page_title": "\"BHI Development Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHI+Development+Company%22+revenue",
+      "results": [
+        {
+          "title": "BHI Development Company - Omaha Commercial Listings & Brokers - LoopNet",
+          "url": "https://www.loopnet.com/company/bhi-development-company/crfzdgfl/",
+          "snippet": "BHI Development Company - Omaha, NE 11205 S 150th St Omaha, NE 68138 (402) 592-6942"
+        },
+        {
+          "title": "Mary Jayne Throener | BHI Development Company | Omaha, NE - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/mary-jayne-throener/sqk0yg6b",
+          "snippet": "Mary Jayne is proud to have grown up in Omaha. She started in Real Estate in 1993. With over 20 years of experience in Real Estate, Land Development, Marketing, and New Construction she considers herself lucky to be a part of this industry."
+        },
+        {
+          "title": "Mary Jayne Throener - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/mary jayne-throener/7913181/",
+          "snippet": "Mary Jayne Throener, Land Development Professional at BHI Development Company in Omaha, NE has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"BHI Development Company\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:04:20Z",
+      "page_title": "\"BHI Development Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHI+Development+Company%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BHI Development Company - Omaha Commercial Listings & Brokers - LoopNet",
+          "url": "https://www.loopnet.com/company/bhi-development-company/crfzdgfl/",
+          "snippet": "BHI Development Company - Omaha, NE 11205 S 150th St Omaha, NE 68138 (402) 592-6942"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BHI Development Company - Omaha Commercial Listings & Brokers - LoopNet",
+      "url": "https://www.loopnet.com/company/bhi-development-company/crfzdgfl/",
+      "snippet": "BHI Development Company - Omaha, NE 11205 S 150th St Omaha, NE 68138 (402) 592-6942",
+      "query": "\"BHI Development Company\" revenue",
+      "search_collected_at": "2026-10-23T13:04:12Z"
+    },
+    {
+      "title": "Mary Jayne Throener | BHI Development Company | Omaha, NE - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/mary-jayne-throener/sqk0yg6b",
+      "snippet": "Mary Jayne is proud to have grown up in Omaha. She started in Real Estate in 1993. With over 20 years of experience in Real Estate, Land Development, Marketing, and New Construction she considers herself lucky to be a part of this industry.",
+      "query": "\"BHI Development Company\" revenue",
+      "search_collected_at": "2026-10-23T13:04:12Z"
+    },
+    {
+      "title": "Mary Jayne Throener - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/mary jayne-throener/7913181/",
+      "snippet": "Mary Jayne Throener, Land Development Professional at BHI Development Company in Omaha, NE has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"BHI Development Company\" revenue",
+      "search_collected_at": "2026-10-23T13:04:12Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:04:20Z",
+  "company_status": "SUCCESS"
+}

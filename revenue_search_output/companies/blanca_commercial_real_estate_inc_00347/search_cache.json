@@ -1,0 +1,98 @@
+{
+  "company_key": "blanca commercial real estate, inc.|https://blancacre.com",
+  "company_name": "Blanca Commercial Real Estate, Inc.",
+  "company_website": "https://blancacre.com",
+  "created_at": "2026-10-23T10:59:11Z",
+  "searches": [
+    {
+      "query": "\"Blanca Commercial Real Estate, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:59:16Z",
+      "page_title": "\"Blanca Commercial Real Estate, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blanca+Commercial+Real+Estate%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Blanca Commercial Real Estate, Inc. | (305) 443-5051 - AllBiz",
+          "url": "https://www.allbiz.com/business/blanca-commercial-real-estate-inc-305-443-5051",
+          "snippet": "Teresa Blanca is the primary contact at Blanca Commercial Real Estate, Inc.. Blanca Commercial Real Estate, Inc. generates approximately USD 500,000 in revenue annually, and employs around 2 people at this location."
+        },
+        {
+          "title": "Blanca Commercial Real Estate, Inc. - Miami, FL - LoopNet",
+          "url": "https://www.loopnet.com/company/blanca-commercial-real-estate-inc/wk5c12hl/",
+          "snippet": "Blanca Commercial Real Estate is a leading independently owned commercial real estate services firm headquartered in Miami, Florida. Established in 2009 by its founder and CEO, Tere Blanca, the firm was created to bring a more personalized, client-focused approach to brokerage and advisory services in the region. Today, the organization provides a broad range of services, including landlord ..."
+        },
+        {
+          "title": "Blanca Commercial Real Estate Inc - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/0706834D:US",
+          "snippet": "Blanca Commercial Real Estate, Inc. was founded in 2010. The company's line of business includes renting, buying, selling and appraising real estate."
+        },
+        {
+          "title": "Blanca Commercial Real Estate, Inc. - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.blanca_commercial_real_estate_inc.92e3970e2f66e0009e4276a5b28eeb2c.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Blanca Commercial Real Estate, Inc. of Coral Gables, FL. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    },
+    {
+      "query": "\"Blanca Commercial Real Estate, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:59:23Z",
+      "page_title": "\"Blanca Commercial Real Estate, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blanca+Commercial+Real+Estate%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blanca Commercial Real Estate, Inc. | (305) 443-5051 - AllBiz",
+          "url": "https://www.allbiz.com/business/blanca-commercial-real-estate-inc-305-443-5051",
+          "snippet": "Teresa Blanca is the primary contact at Blanca Commercial Real Estate, Inc.. Blanca Commercial Real Estate, Inc. generates approximately USD 500,000 in revenue annually, and employs around 2 people at this location."
+        },
+        {
+          "title": "BLANCA COMMERCIAL REAL ESTATE, INC.. MIAMI, FL - BisProfiles",
+          "url": "https://bisprofiles.com/fl/blanca-commercial-real-estate-p09000018186",
+          "snippet": "BLANCA COMMERCIAL REAL ESTATE, INC. (1450 Brickell Ave, Suite 2400, Miami, FL, 33131, US, Florida): ⚡Events, Annual Report Dates. Teresa Blanca. Registered Agent is ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blanca Commercial Real Estate, Inc. | (305) 443-5051 - AllBiz",
+      "url": "https://www.allbiz.com/business/blanca-commercial-real-estate-inc-305-443-5051",
+      "snippet": "Teresa Blanca is the primary contact at Blanca Commercial Real Estate, Inc.. Blanca Commercial Real Estate, Inc. generates approximately USD 500,000 in revenue annually, and employs around 2 people at this location.",
+      "query": "\"Blanca Commercial Real Estate, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:59:16Z"
+    },
+    {
+      "title": "Blanca Commercial Real Estate, Inc. - Miami, FL - LoopNet",
+      "url": "https://www.loopnet.com/company/blanca-commercial-real-estate-inc/wk5c12hl/",
+      "snippet": "Blanca Commercial Real Estate is a leading independently owned commercial real estate services firm headquartered in Miami, Florida. Established in 2009 by its founder and CEO, Tere Blanca, the firm was created to bring a more personalized, client-focused approach to brokerage and advisory services in the region. Today, the organization provides a broad range of services, including landlord ...",
+      "query": "\"Blanca Commercial Real Estate, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:59:16Z"
+    },
+    {
+      "title": "Blanca Commercial Real Estate Inc - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/0706834D:US",
+      "snippet": "Blanca Commercial Real Estate, Inc. was founded in 2010. The company's line of business includes renting, buying, selling and appraising real estate.",
+      "query": "\"Blanca Commercial Real Estate, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:59:16Z"
+    },
+    {
+      "title": "Blanca Commercial Real Estate, Inc. - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.blanca_commercial_real_estate_inc.92e3970e2f66e0009e4276a5b28eeb2c.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Blanca Commercial Real Estate, Inc. of Coral Gables, FL. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Blanca Commercial Real Estate, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:59:16Z"
+    },
+    {
+      "title": "BLANCA COMMERCIAL REAL ESTATE, INC.. MIAMI, FL - BisProfiles",
+      "url": "https://bisprofiles.com/fl/blanca-commercial-real-estate-p09000018186",
+      "snippet": "BLANCA COMMERCIAL REAL ESTATE, INC. (1450 Brickell Ave, Suite 2400, Miami, FL, 33131, US, Florida): ⚡Events, Annual Report Dates. Teresa Blanca. Registered Agent is ...",
+      "query": "\"Blanca Commercial Real Estate, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:59:23Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T10:59:23Z",
+  "company_status": "SUCCESS"
+}

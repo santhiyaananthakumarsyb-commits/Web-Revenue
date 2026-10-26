@@ -1,0 +1,67 @@
+{
+  "company_key": "burke williams & sorensen llp|https://bwslaw.com",
+  "company_name": "Burke Williams & Sorensen LLP",
+  "company_website": "https://bwslaw.com",
+  "created_at": "2026-10-23T12:44:17Z",
+  "searches": [
+    {
+      "query": "\"Burke Williams & Sorensen LLP\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:44:23Z",
+      "page_title": "\"Burke Williams & Sorensen LLP\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burke+Williams+%26+Sorensen+LLP%22+revenue",
+      "results": [
+        {
+          "title": "Burke Williams & Sorensen LLP Company Profile: Financials, Valuation ...",
+          "url": "https://www.privco.com/company/burke-williams-and-sorensen-llp",
+          "snippet": "Burke Williams & Sorensen LLP is a privately-held law firm. Burke Williams & Sorensen LLP was founded in 1927. Burke Williams & Sorensen LLP headquarters are located in Los Angeles, California."
+        },
+        {
+          "title": "Burke Williams & Sorensen LLP | (951) 788-0100 - AllBiz",
+          "url": "https://www.allbiz.com/business/burke-williams-sorensen-llp_8Z-951-788-0100",
+          "snippet": "Julie Biggs is the primary contact at Burke Williams & Sorensen LLP. Burke Williams & Sorensen LLP generates approximately USD 10,000,000 - 25,000,000 in revenue annually, and employs around 10 people at this location."
+        }
+      ]
+    },
+    {
+      "query": "\"Burke Williams & Sorensen LLP\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:44:30Z",
+      "page_title": "\"Burke Williams & Sorensen LLP\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burke+Williams+%26+Sorensen+LLP%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Burke Williams & Sorensen LLP | (951) 788-0100 - AllBiz",
+          "url": "https://www.allbiz.com/business/burke-williams-sorensen-llp_8Z-951-788-0100",
+          "snippet": "Julie Biggs is the primary contact at Burke Williams & Sorensen LLP. Burke Williams & Sorensen LLP generates approximately USD 10,000,000 - 25,000,000 in revenue annually, and employs around 10 people at this location."
+        },
+        {
+          "title": "Burke Williams & Sorensen LLP Company Profile: Financials, Valuation ...",
+          "url": "https://www.privco.com/company/burke-williams-and-sorensen-llp",
+          "snippet": "Burke Williams & Sorensen LLP is a privately-held law firm. Burke Williams & Sorensen LLP was founded in 1927. Burke Williams & Sorensen LLP headquarters are located in Los Angeles, California."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Burke Williams & Sorensen LLP Company Profile: Financials, Valuation ...",
+      "url": "https://www.privco.com/company/burke-williams-and-sorensen-llp",
+      "snippet": "Burke Williams & Sorensen LLP is a privately-held law firm. Burke Williams & Sorensen LLP was founded in 1927. Burke Williams & Sorensen LLP headquarters are located in Los Angeles, California.",
+      "query": "\"Burke Williams & Sorensen LLP\" revenue",
+      "search_collected_at": "2026-10-23T12:44:23Z"
+    },
+    {
+      "title": "Burke Williams & Sorensen LLP | (951) 788-0100 - AllBiz",
+      "url": "https://www.allbiz.com/business/burke-williams-sorensen-llp_8Z-951-788-0100",
+      "snippet": "Julie Biggs is the primary contact at Burke Williams & Sorensen LLP. Burke Williams & Sorensen LLP generates approximately USD 10,000,000 - 25,000,000 in revenue annually, and employs around 10 people at this location.",
+      "query": "\"Burke Williams & Sorensen LLP\" revenue",
+      "search_collected_at": "2026-10-23T12:44:23Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:44:30Z",
+  "company_status": "SUCCESS"
+}

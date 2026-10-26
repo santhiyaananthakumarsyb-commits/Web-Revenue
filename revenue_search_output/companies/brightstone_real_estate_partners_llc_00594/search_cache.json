@@ -1,0 +1,96 @@
+{
+  "company_key": "brightstone real estate partners llc|https://brightstonere.com",
+  "company_name": "Brightstone Real Estate Partners LLC",
+  "company_website": "https://brightstonere.com",
+  "created_at": "2026-10-23T11:52:24Z",
+  "searches": [
+    {
+      "query": "\"Brightstone Real Estate Partners LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:52:30Z",
+      "page_title": "\"Brightstone Real Estate Partners LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brightstone+Real+Estate+Partners+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Brightstone Real Estate Partners LLC | AUM 13F",
+          "url": "https://aum13f.com/person/brightstone-real-estate-partners-llc",
+          "snippet": "Public filings of Brightstone Real Estate Partners LLC located in Montvale, NJ. Direct links to the EDGAR source material."
+        },
+        {
+          "title": "Brightstone Real Estate Partners LLC - buzzfile.com",
+          "url": "https://www.buzzfile.com/business/Brightstone-Real-Estate-Partners-LLC-845-352-1919",
+          "snippet": "Brightstone Real Estate Partners is in the Real Estate Brokers and Agents industry within the Real Estate sector and has been in business for approximately 11 years."
+        },
+        {
+          "title": "Brightstone Real Estate Partners LLC - Company Profile",
+          "url": "https://www.corporationwiki.com/p/2izr7e/brightstone-real-estate-partners-llc",
+          "snippet": "View company leaders and background information for Brightstone Real Estate Partners LLC. Search our database of over 100 million company and executive profiles."
+        }
+      ]
+    },
+    {
+      "query": "\"Brightstone Real Estate Partners LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:52:35Z",
+      "page_title": "\"Brightstone Real Estate Partners LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brightstone+Real+Estate+Partners+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brightstone Real Estate Partners LLC - buzzfile.com",
+          "url": "https://www.buzzfile.com/business/Brightstone-Real-Estate-Partners-LLC-845-352-1919",
+          "snippet": "Brightstone Real Estate Partners is located in Monsey, New York. This organization primarily operates in the Real Estate Brokers and Agents business / industry within the Real Estate sector. This organization has been operating for approximately 11 years. Brightstone Real Estate Partners is estimated to generate $516,797 in annual revenues, and employs approximately 3 people at this single ..."
+        },
+        {
+          "title": "Brightstone Real Estate Partners LLC | AUM 13F",
+          "url": "https://aum13f.com/person/brightstone-real-estate-partners-llc",
+          "snippet": "Public filings of Brightstone Real Estate Partners LLC located in Montvale, NJ. Direct links to the EDGAR source material."
+        },
+        {
+          "title": "Zev Munk | Brightstone Real Estate Partners LLC | Montvale, NJ",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/zev-munk/jxemfd4b",
+          "snippet": "Zev Munk - Vice President of Acquisitions and Development. View Zev Munk's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "Brightstone Real Estate Partners LLC - Company Profile",
+          "url": "https://www.corporationwiki.com/p/2izr7e/brightstone-real-estate-partners-llc",
+          "snippet": "View company leaders and background information for Brightstone Real Estate Partners LLC. Search our database of over 100 million company and executive profiles."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brightstone Real Estate Partners LLC | AUM 13F",
+      "url": "https://aum13f.com/person/brightstone-real-estate-partners-llc",
+      "snippet": "Public filings of Brightstone Real Estate Partners LLC located in Montvale, NJ. Direct links to the EDGAR source material.",
+      "query": "\"Brightstone Real Estate Partners LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:52:30Z"
+    },
+    {
+      "title": "Brightstone Real Estate Partners LLC - buzzfile.com",
+      "url": "https://www.buzzfile.com/business/Brightstone-Real-Estate-Partners-LLC-845-352-1919",
+      "snippet": "Brightstone Real Estate Partners is in the Real Estate Brokers and Agents industry within the Real Estate sector and has been in business for approximately 11 years.",
+      "query": "\"Brightstone Real Estate Partners LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:52:30Z"
+    },
+    {
+      "title": "Brightstone Real Estate Partners LLC - Company Profile",
+      "url": "https://www.corporationwiki.com/p/2izr7e/brightstone-real-estate-partners-llc",
+      "snippet": "View company leaders and background information for Brightstone Real Estate Partners LLC. Search our database of over 100 million company and executive profiles.",
+      "query": "\"Brightstone Real Estate Partners LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:52:30Z"
+    },
+    {
+      "title": "Zev Munk | Brightstone Real Estate Partners LLC | Montvale, NJ",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/zev-munk/jxemfd4b",
+      "snippet": "Zev Munk - Vice President of Acquisitions and Development. View Zev Munk's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Brightstone Real Estate Partners LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:52:35Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:52:35Z",
+  "company_status": "SUCCESS"
+}

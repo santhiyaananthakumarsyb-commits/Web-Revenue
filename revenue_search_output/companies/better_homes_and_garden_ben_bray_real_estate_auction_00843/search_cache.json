@@ -1,0 +1,67 @@
+{
+  "company_key": "better homes and garden ben bray real estate & auction|https://benbrayrealestate.com",
+  "company_name": "Better Homes and Garden Ben Bray Real Estate & Auction",
+  "company_website": "https://benbrayrealestate.com",
+  "created_at": "2026-10-23T12:46:57Z",
+  "searches": [
+    {
+      "query": "\"Better Homes and Garden Ben Bray Real Estate & Auction\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:47:03Z",
+      "page_title": "\"Better Homes and Garden Ben Bray Real Estate & Auction\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+and+Garden+Ben+Bray+Real+Estate+%26+Auction%22+revenue",
+      "results": [
+        {
+          "title": "Ben Bray - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/ben-bray/4899169/",
+          "snippet": "Ben Bray, Broker at Better Homes and Garden Ben Bray Real Estate & Auction in Lafayette, TN has commercial real estate listings for sale or rent on showcase.com."
+        },
+        {
+          "title": "Joe Barber - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/joe-barber/176205071/",
+          "snippet": "Joe Barber, Real Estate Agent at Better Homes and Garden Ben Bray Real Estate & Auction in Lafayette, TN has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"Better Homes and Garden Ben Bray Real Estate & Auction\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:47:09Z",
+      "page_title": "\"Better Homes and Garden Ben Bray Real Estate & Auction\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+and+Garden+Ben+Bray+Real+Estate+%26+Auction%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Ben Bray - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/ben-bray/4899169/",
+          "snippet": "Ben Bray, Broker at Better Homes and Garden Ben Bray Real Estate & Auction in Lafayette, TN has commercial real estate listings for sale or rent on showcase.com."
+        },
+        {
+          "title": "Joe Barber - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/joe-barber/176205071/",
+          "snippet": "Joe Barber, Real Estate Agent at Better Homes and Garden Ben Bray Real Estate & Auction in Lafayette, TN has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Ben Bray - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/ben-bray/4899169/",
+      "snippet": "Ben Bray, Broker at Better Homes and Garden Ben Bray Real Estate & Auction in Lafayette, TN has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"Better Homes and Garden Ben Bray Real Estate & Auction\" revenue",
+      "search_collected_at": "2026-10-23T12:47:03Z"
+    },
+    {
+      "title": "Joe Barber - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/joe-barber/176205071/",
+      "snippet": "Joe Barber, Real Estate Agent at Better Homes and Garden Ben Bray Real Estate & Auction in Lafayette, TN has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"Better Homes and Garden Ben Bray Real Estate & Auction\" revenue",
+      "search_collected_at": "2026-10-23T12:47:03Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:47:09Z",
+  "company_status": "SUCCESS"
+}

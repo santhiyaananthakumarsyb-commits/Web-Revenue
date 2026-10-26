@@ -1,0 +1,91 @@
+{
+  "company_key": "bracknell forest borough council|https://bracknell-forest.gov.uk",
+  "company_name": "Bracknell Forest Borough Council",
+  "company_website": "https://bracknell-forest.gov.uk",
+  "created_at": "2026-10-23T12:23:55Z",
+  "searches": [
+    {
+      "query": "\"Bracknell Forest Borough Council\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:24:01Z",
+      "page_title": "\"Bracknell Forest Borough Council\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bracknell+Forest+Borough+Council%22+revenue",
+      "results": [
+        {
+          "title": "Bracknell Forest Borough Council Overview & Revenue | ContactOut",
+          "url": "https://contactout.com/company/Bracknell-Forest-Borough-Council-18092",
+          "snippet": "Bracknell Forest Borough Council is a Government Administration company, headquartered in Bracknell, United Kingdom. See $389.2M revenue and verified contacts."
+        },
+        {
+          "title": "Bracknell Forest Borough Council",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bracknell_forest_borough_council.fe9d0ec06180dc334a52f593a8f51921.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRACKNELL FOREST BOROUGH COUNCIL of BRACKNELL. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "PDF Bracknell Bid Annual 25 Report 26",
+          "url": "https://bracknellbid.co.uk/wp-content/uploads/2026/03/Bracknell-BID-Annual-Report-2025-2026-V6-WEB.pdf",
+          "snippet": "If you have any queries or want more information about the BID and its projects please contact the Bracknell Delivery team by email enquiries@bracknellbid.co.uk Bracknell Forest Borough Council. Please quote your BID account Forest Council Revenue Services. Telephone 01344 352011 or email revenu or by phone 01344 949080"
+        },
+        {
+          "title": "Bracknell Forest Council - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bracknell_Forest_Council",
+          "snippet": "Bracknell Forest Council, also known as Bracknell Forest Borough Council, is the local authority for Bracknell Forest, a local government district with borough status in Berkshire, England."
+        }
+      ]
+    },
+    {
+      "query": "\"Bracknell Forest Borough Council\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:24:07Z",
+      "page_title": "\"Bracknell Forest Borough Council\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bracknell+Forest+Borough+Council%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bracknell Forest Borough Council Overview & Revenue | ContactOut",
+          "url": "https://contactout.com/company/Bracknell-Forest-Borough-Council-18092",
+          "snippet": "Bracknell Forest Borough Council is a Government Administration company, headquartered in Bracknell, United Kingdom. See $389.2M revenue and verified contacts."
+        },
+        {
+          "title": "Bracknell Forest Council - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bracknell_Forest_Council",
+          "snippet": "Bracknell Forest Council, also known as Bracknell Forest Borough Council, is the local authority for Bracknell Forest, a local government district with borough status in Berkshire, England."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bracknell Forest Borough Council Overview & Revenue | ContactOut",
+      "url": "https://contactout.com/company/Bracknell-Forest-Borough-Council-18092",
+      "snippet": "Bracknell Forest Borough Council is a Government Administration company, headquartered in Bracknell, United Kingdom. See $389.2M revenue and verified contacts.",
+      "query": "\"Bracknell Forest Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T12:24:01Z"
+    },
+    {
+      "title": "Bracknell Forest Borough Council",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bracknell_forest_borough_council.fe9d0ec06180dc334a52f593a8f51921.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BRACKNELL FOREST BOROUGH COUNCIL of BRACKNELL. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Bracknell Forest Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T12:24:01Z"
+    },
+    {
+      "title": "PDF Bracknell Bid Annual 25 Report 26",
+      "url": "https://bracknellbid.co.uk/wp-content/uploads/2026/03/Bracknell-BID-Annual-Report-2025-2026-V6-WEB.pdf",
+      "snippet": "If you have any queries or want more information about the BID and its projects please contact the Bracknell Delivery team by email enquiries@bracknellbid.co.uk Bracknell Forest Borough Council. Please quote your BID account Forest Council Revenue Services. Telephone 01344 352011 or email revenu or by phone 01344 949080",
+      "query": "\"Bracknell Forest Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T12:24:01Z"
+    },
+    {
+      "title": "Bracknell Forest Council - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bracknell_Forest_Council",
+      "snippet": "Bracknell Forest Council, also known as Bracknell Forest Borough Council, is the local authority for Bracknell Forest, a local government district with borough status in Berkshire, England.",
+      "query": "\"Bracknell Forest Borough Council\" revenue",
+      "search_collected_at": "2026-10-23T12:24:01Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T12:24:07Z",
+  "company_status": "SUCCESS"
+}

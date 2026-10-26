@@ -1,0 +1,86 @@
+{
+  "company_key": "browning & browning|https://browningandbrowning.com",
+  "company_name": "Browning & Browning",
+  "company_website": "https://browningandbrowning.com",
+  "created_at": "2026-10-23T13:22:58Z",
+  "searches": [
+    {
+      "query": "\"Browning & Browning\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:23:04Z",
+      "page_title": "\"Browning & Browning\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Browning+%26+Browning%22+revenue",
+      "results": [
+        {
+          "title": "Browning & Browning - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/browning--browning-llp/374951739",
+          "snippet": "View Browning & Browning (www.browningllp.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "About Browning & Browning LLP — Browning & Browning LLP",
+          "url": "https://www.browningllp.com/about-us",
+          "snippet": "About The Firm Browning & Browning LLP represents a broad range of creative individuals and public and private companies throughout the U.S. and the global entertainment industry. Our practice areas include the negotiation of agreements for our clients in connection with motion picture, television, new media, book, live stage, technology, and intellectual property projects. In addition, for ..."
+        },
+        {
+          "title": "Browning & Browning Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/B&B-360-670-2352",
+          "snippet": "Browning & Browning, Inc. (trade name B&B) is in the Freight Transportation Arrangement business. View competitors, revenue, employees, website and phone number."
+        },
+        {
+          "title": "Browning & Browning LLP",
+          "url": "https://www.browningllp.com/",
+          "snippet": "Browning & Browning LLP is a leading Beverly Hills based entertainment and corporate law firm which handles all manner of domestic and international entertainment and media transactions, including matters pertaining to digital content, Web 3.0, and branding."
+        }
+      ]
+    },
+    {
+      "query": "\"Browning & Browning\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:23:11Z",
+      "page_title": "\"Browning & Browning\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Browning+%26+Browning%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Browning & Browning - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/browning--browning-llp/374951739",
+          "snippet": "View Browning & Browning (www.browningllp.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Browning & Browning - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/browning--browning-llp/374951739",
+      "snippet": "View Browning & Browning (www.browningllp.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Browning & Browning\" revenue",
+      "search_collected_at": "2026-10-23T13:23:04Z"
+    },
+    {
+      "title": "About Browning & Browning LLP — Browning & Browning LLP",
+      "url": "https://www.browningllp.com/about-us",
+      "snippet": "About The Firm Browning & Browning LLP represents a broad range of creative individuals and public and private companies throughout the U.S. and the global entertainment industry. Our practice areas include the negotiation of agreements for our clients in connection with motion picture, television, new media, book, live stage, technology, and intellectual property projects. In addition, for ...",
+      "query": "\"Browning & Browning\" revenue",
+      "search_collected_at": "2026-10-23T13:23:04Z"
+    },
+    {
+      "title": "Browning & Browning Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.buzzfile.com/business/B&B-360-670-2352",
+      "snippet": "Browning & Browning, Inc. (trade name B&B) is in the Freight Transportation Arrangement business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Browning & Browning\" revenue",
+      "search_collected_at": "2026-10-23T13:23:04Z"
+    },
+    {
+      "title": "Browning & Browning LLP",
+      "url": "https://www.browningllp.com/",
+      "snippet": "Browning & Browning LLP is a leading Beverly Hills based entertainment and corporate law firm which handles all manner of domestic and international entertainment and media transactions, including matters pertaining to digital content, Web 3.0, and branding.",
+      "query": "\"Browning & Browning\" revenue",
+      "search_collected_at": "2026-10-23T13:23:04Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T13:23:11Z",
+  "company_status": "SUCCESS"
+}

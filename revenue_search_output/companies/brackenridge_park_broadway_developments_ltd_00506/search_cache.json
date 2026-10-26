@@ -1,0 +1,67 @@
+{
+  "company_key": "brackenridge park/broadway developments ltd|https://broadwaydevelopments.com",
+  "company_name": "Brackenridge Park/Broadway Developments Ltd",
+  "company_website": "https://broadwaydevelopments.com",
+  "created_at": "2026-10-23T11:33:31Z",
+  "searches": [
+    {
+      "query": "\"Brackenridge Park/Broadway Developments Ltd\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:33:37Z",
+      "page_title": "\"Brackenridge Park/Broadway Developments Ltd\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brackenridge+Park%2FBroadway+Developments+Ltd%22+revenue",
+      "results": [
+        {
+          "title": "Brackenridge Park/Broadway Developments Ltd - San Antonio, TX",
+          "url": "https://www.loopnet.com/company/brackenridge-park-broadway-developments-ltd/x7fbq0pl/",
+          "snippet": "Brackenridge Park/Broadway Developments, Ltd. is a Texas limited partnership formed in the early 2000s and remains active in state records. The company focuses on land subdivision and related real estate development work, while also providing civil engineering and residential construction services. The business operates under the Broadway Developments name and maintains an ongoing presence in ..."
+        },
+        {
+          "title": "George Mauze | Brackenridge Park/Broadway Developments Ltd | San ...",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/george-mauze/xzp9ssmb",
+          "snippet": "George W. Mauzé, II, President of Broadway Developments, was born and raised in San Antonio. After completing his B.A. at Texas A&M University in 1981 and his J.D. at South Texas College of Law in 1983 he returned to San Antonio where he has been involved in the practice of law and commercial real estate development."
+        }
+      ]
+    },
+    {
+      "query": "\"Brackenridge Park/Broadway Developments Ltd\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:33:44Z",
+      "page_title": "\"Brackenridge Park/Broadway Developments Ltd\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brackenridge+Park%2FBroadway+Developments+Ltd%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brackenridge Park/Broadway Developments Ltd - San Antonio, TX",
+          "url": "https://www.loopnet.com/company/brackenridge-park-broadway-developments-ltd/x7fbq0pl/",
+          "snippet": "Brackenridge Park/Broadway Developments, Ltd. is a Texas limited partnership formed in the early 2000s and remains active in state records. The company focuses on land subdivision and related real estate development work, while also providing civil engineering and residential construction services. The business operates under the Broadway Developments name and maintains an ongoing presence in ..."
+        },
+        {
+          "title": "George Mauze | Brackenridge Park/Broadway Developments Ltd | San ...",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/george-mauze/xzp9ssmb",
+          "snippet": "George W. Mauzé, II, President of Broadway Developments, was born and raised in San Antonio. After completing his B.A. at Texas A&M University in 1981 and his J.D. at South Texas College of Law in 1983 he returned to San Antonio where he has been involved in the practice of law and commercial real estate development."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brackenridge Park/Broadway Developments Ltd - San Antonio, TX",
+      "url": "https://www.loopnet.com/company/brackenridge-park-broadway-developments-ltd/x7fbq0pl/",
+      "snippet": "Brackenridge Park/Broadway Developments, Ltd. is a Texas limited partnership formed in the early 2000s and remains active in state records. The company focuses on land subdivision and related real estate development work, while also providing civil engineering and residential construction services. The business operates under the Broadway Developments name and maintains an ongoing presence in ...",
+      "query": "\"Brackenridge Park/Broadway Developments Ltd\" revenue",
+      "search_collected_at": "2026-10-23T11:33:37Z"
+    },
+    {
+      "title": "George Mauze | Brackenridge Park/Broadway Developments Ltd | San ...",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/george-mauze/xzp9ssmb",
+      "snippet": "George W. Mauzé, II, President of Broadway Developments, was born and raised in San Antonio. After completing his B.A. at Texas A&M University in 1981 and his J.D. at South Texas College of Law in 1983 he returned to San Antonio where he has been involved in the practice of law and commercial real estate development.",
+      "query": "\"Brackenridge Park/Broadway Developments Ltd\" revenue",
+      "search_collected_at": "2026-10-23T11:33:37Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:33:44Z",
+  "company_status": "SUCCESS"
+}

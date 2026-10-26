@@ -1,0 +1,62 @@
+{
+  "company_key": "bq group inc.|https://bqrealtygroup.com",
+  "company_name": "BQ Group Inc.",
+  "company_website": "https://bqrealtygroup.com",
+  "created_at": "2026-10-23T11:25:56Z",
+  "searches": [
+    {
+      "query": "\"BQ Group Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:26:03Z",
+      "page_title": "\"BQ Group Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BQ+Group+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BQ Group Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bq-group-inc-profile_b46b27a6fc5c970d",
+          "snippet": "BQ Group Inc. is a Real Estate company located in Milpitas, California with $9.6 million in revenue and 34 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bq Group Inc. - Employees, Contact info, Overview - Wiza",
+          "url": "https://wiza.co/d/bq-group-inc/72c9",
+          "snippet": "View info about Bq Group Inc. (bqrealtygroup.com). Bq Group Inc. is a company located in Santa Clara, California, United States. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to Bq Group Inc.."
+        }
+      ]
+    },
+    {
+      "query": "\"BQ Group Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:26:10Z",
+      "page_title": "\"BQ Group Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BQ+Group+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BQ Group Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bq-group-inc-profile_b46b27a6fc5c970d",
+          "snippet": "BQ Group Inc. Questions What is the annual revenue of BQ Group Inc.? The BQ Group Inc. annual revenue was $9.6 million in 2025."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BQ Group Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/bq-group-inc-profile_b46b27a6fc5c970d",
+      "snippet": "BQ Group Inc. is a Real Estate company located in Milpitas, California with $9.6 million in revenue and 34 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"BQ Group Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:26:03Z"
+    },
+    {
+      "title": "Bq Group Inc. - Employees, Contact info, Overview - Wiza",
+      "url": "https://wiza.co/d/bq-group-inc/72c9",
+      "snippet": "View info about Bq Group Inc. (bqrealtygroup.com). Bq Group Inc. is a company located in Santa Clara, California, United States. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to Bq Group Inc..",
+      "query": "\"BQ Group Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:26:03Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:26:10Z",
+  "company_status": "SUCCESS"
+}

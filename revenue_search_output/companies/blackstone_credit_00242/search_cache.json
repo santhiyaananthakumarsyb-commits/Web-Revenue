@@ -1,0 +1,93 @@
+{
+  "company_key": "blackstone credit|https://blackstonemortgagetrust.com",
+  "company_name": "Blackstone Credit",
+  "company_website": "https://blackstonemortgagetrust.com",
+  "created_at": "2026-10-23T10:36:42Z",
+  "searches": [
+    {
+      "query": "\"Blackstone Credit\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:36:48Z",
+      "page_title": "\"Blackstone Credit\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackstone+Credit%22+revenue",
+      "results": [
+        {
+          "title": "Blackstone Credit & Insurance - Global Alternative Asset Manager",
+          "url": "https://www.blackstone.com/our-businesses/credit-and-insurance-bxci/",
+          "snippet": "Blackstone is one of the largest credit asset managers in the world. We aim to provide investors with attractive risk-adjusted returns and borrowers with the capital they need to strengthen and grow their businesses."
+        },
+        {
+          "title": "Blackstone Credit - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/blackstone-credit/347113236",
+          "snippet": "View Blackstone Credit (www.bcred.com) location in New York, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    },
+    {
+      "query": "\"Blackstone Credit\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:36:53Z",
+      "page_title": "\"Blackstone Credit\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackstone+Credit%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blackstone Private Credit Fund - 10K - Annual Report - Fintel",
+          "url": "https://fintel.io/doc/sec-blackstone-private-credit-fund-1803498-10k-2024-march-15-19802-7953",
+          "snippet": "In addition to the depth and breadth of Blackstone Credit & Insurance's relationships, sponsor and advisor partners also seek to transact with Blackstone Credit & Insurance due to its value-add through the Value Creation Program by not only helping companies with operational support, but also enhancing revenue generation and cost savings ..."
+        },
+        {
+          "title": "bcred-20250425 - SEC.gov",
+          "url": "https://www.sec.gov/Archives/edgar/data/1803498/000180349825000032/bcred-20250425.htm",
+          "snippet": "All Blackstone Credit & Insurance portfolio companies for which Blackstone Credit & Insurance originates loans are eligible to receive services from the Value Creation Program."
+        },
+        {
+          "title": "Blackstone Private Credit Fund (BCRED): 2026 Overview + Strategy",
+          "url": "https://ctacquisitions.com/blackstone-private-credit-fund/",
+          "snippet": "Blackstone Credit calls this profile \"high-quality, sponsor-owned, upper-middle-market\" and runs a proprietary origination engine sourced through Blackstone's private-equity, real-estate, and infrastructure relationships."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blackstone Credit & Insurance - Global Alternative Asset Manager",
+      "url": "https://www.blackstone.com/our-businesses/credit-and-insurance-bxci/",
+      "snippet": "Blackstone is one of the largest credit asset managers in the world. We aim to provide investors with attractive risk-adjusted returns and borrowers with the capital they need to strengthen and grow their businesses.",
+      "query": "\"Blackstone Credit\" revenue",
+      "search_collected_at": "2026-10-23T10:36:48Z"
+    },
+    {
+      "title": "Blackstone Credit - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/blackstone-credit/347113236",
+      "snippet": "View Blackstone Credit (www.bcred.com) location in New York, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Blackstone Credit\" revenue",
+      "search_collected_at": "2026-10-23T10:36:48Z"
+    },
+    {
+      "title": "Blackstone Private Credit Fund - 10K - Annual Report - Fintel",
+      "url": "https://fintel.io/doc/sec-blackstone-private-credit-fund-1803498-10k-2024-march-15-19802-7953",
+      "snippet": "In addition to the depth and breadth of Blackstone Credit & Insurance's relationships, sponsor and advisor partners also seek to transact with Blackstone Credit & Insurance due to its value-add through the Value Creation Program by not only helping companies with operational support, but also enhancing revenue generation and cost savings ...",
+      "query": "\"Blackstone Credit\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:36:53Z"
+    },
+    {
+      "title": "bcred-20250425 - SEC.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/1803498/000180349825000032/bcred-20250425.htm",
+      "snippet": "All Blackstone Credit & Insurance portfolio companies for which Blackstone Credit & Insurance originates loans are eligible to receive services from the Value Creation Program.",
+      "query": "\"Blackstone Credit\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:36:53Z"
+    },
+    {
+      "title": "Blackstone Private Credit Fund (BCRED): 2026 Overview + Strategy",
+      "url": "https://ctacquisitions.com/blackstone-private-credit-fund/",
+      "snippet": "Blackstone Credit calls this profile \"high-quality, sponsor-owned, upper-middle-market\" and runs a proprietary origination engine sourced through Blackstone's private-equity, real-estate, and infrastructure relationships.",
+      "query": "\"Blackstone Credit\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:36:53Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T10:36:53Z",
+  "company_status": "SUCCESS"
+}

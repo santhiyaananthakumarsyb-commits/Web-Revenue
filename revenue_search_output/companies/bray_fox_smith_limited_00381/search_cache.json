@@ -1,0 +1,62 @@
+{
+  "company_key": "bray fox smith limited|https://brayfoxsmith.com",
+  "company_name": "Bray Fox Smith Limited",
+  "company_website": "https://brayfoxsmith.com",
+  "created_at": "2026-10-23T11:06:41Z",
+  "searches": [
+    {
+      "query": "\"Bray Fox Smith Limited\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:06:49Z",
+      "page_title": "\"Bray Fox Smith Limited\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bray+Fox+Smith+Limited%22+revenue",
+      "results": [
+        {
+          "title": "Matthew Smith | Bray Fox Smith Limited | London - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/matthew-smith/393k7tfb",
+          "snippet": "Matthew Smith - Graduate Surveyor. View Matthew Smith's professional profile and available commercial real estate listings on LoopNet.com"
+        }
+      ]
+    },
+    {
+      "query": "\"Bray Fox Smith Limited\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:06:54Z",
+      "page_title": "\"Bray Fox Smith Limited\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bray+Fox+Smith+Limited%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Matthew Smith | Bray Fox Smith Limited | London - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/matthew-smith/393k7tfb",
+          "snippet": "Matthew Smith Graduate Surveyor, Bray Fox Smith Limited London, W1W 7NB Send a Message Phone +44 20 7629 5456"
+        },
+        {
+          "title": "Bray Fox Smith Limited - London - LoopNet",
+          "url": "https://www.loopnet.com/company/bray-fox-smith-limited/3gv57sfl/4/",
+          "snippet": "Experience + Knowledge + Connections = Creative Solutions Bray Fox Smith is a London based commercial property consultancy focusing on Office Agency and Multi-Sector Investment and Development. Founded in 2009, they provide director level advice to landlords, occupiers and developers alike and are firmly established in the market as a genuine alternative to both large and local real estate ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Matthew Smith | Bray Fox Smith Limited | London - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/matthew-smith/393k7tfb",
+      "snippet": "Matthew Smith - Graduate Surveyor. View Matthew Smith's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Bray Fox Smith Limited\" revenue",
+      "search_collected_at": "2026-10-23T11:06:49Z"
+    },
+    {
+      "title": "Bray Fox Smith Limited - London - LoopNet",
+      "url": "https://www.loopnet.com/company/bray-fox-smith-limited/3gv57sfl/4/",
+      "snippet": "Experience + Knowledge + Connections = Creative Solutions Bray Fox Smith is a London based commercial property consultancy focusing on Office Agency and Multi-Sector Investment and Development. Founded in 2009, they provide director level advice to landlords, occupiers and developers alike and are firmly established in the market as a genuine alternative to both large and local real estate ...",
+      "query": "\"Bray Fox Smith Limited\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:06:54Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:06:54Z",
+  "company_status": "SUCCESS"
+}

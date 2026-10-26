@@ -1,0 +1,91 @@
+{
+  "company_key": "bonacio construction, inc.|https://bonacio.com",
+  "company_name": "Bonacio Construction, Inc.",
+  "company_website": "https://bonacio.com",
+  "created_at": "2026-10-23T12:22:28Z",
+  "searches": [
+    {
+      "query": "\"Bonacio Construction, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:22:35Z",
+      "page_title": "\"Bonacio Construction, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bonacio+Construction%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Bonacio Construction, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bonacio-construction-inc-profile_b5ec7789f42e73e7",
+          "snippet": "Bonacio Construction, Inc. is a Construction, Commercial & Residential Construction, and Commercial and Residential Design Build company located in Saratoga Springs, New York with $39.4 million in revenue and 67 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bonacio Construction, Inc. Company Profile: Financials, Valuation, and ...",
+          "url": "https://system.privco.com/company/bonacio-construction_private_stock_annual_report_financials",
+          "snippet": "Bonacio Construction, Inc. is a privately-held company that operates in the commercial & industrial engineering industry. Bonacio Construction, Inc. was founded in 1988. Bonacio Construction, Inc. headquarters are located in Saratoga Springs, New York."
+        },
+        {
+          "title": "Bonacio Construction, Inc. Company Profile | Saratoga Springs, NY ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bonacio_construction_inc.814f938cc2b8b00388eb11e2b888e3bb.html",
+          "snippet": "Bonacio Construction, Inc. Company Profile | Saratoga Springs, NY | Competitors, Financials & Contacts - Dun & Bradstreet D&B Business Directory HOME / BUSINESS DIRECTORY / REAL ESTATE AND RENTAL AND LEASING / REAL ESTATE / LESSORS OF REAL ESTATE / UNITED STATES / NEW YORK / SARATOGA SPRINGS / Bonacio Construction, Inc."
+        }
+      ]
+    },
+    {
+      "query": "\"Bonacio Construction, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:22:41Z",
+      "page_title": "\"Bonacio Construction, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bonacio+Construction%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bonacio Construction, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bonacio-construction-inc-profile_b5ec7789f42e73e7",
+          "snippet": "Bonacio Construction, Inc. is a Construction, Commercial & Residential Construction, and Commercial and Residential Design Build company located in Saratoga Springs, New York with $39.4 million in revenue and 67 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bonacio Construction, Inc. Company Profile: Financials, Valuation, and ...",
+          "url": "https://system.privco.com/company/bonacio-construction_private_stock_annual_report_financials",
+          "snippet": "Bonacio Construction, Inc. is a privately-held company that operates in the commercial & industrial engineering industry. Bonacio Construction, Inc. was founded in 1988. Bonacio Construction, Inc. headquarters are located in Saratoga Springs, New York."
+        },
+        {
+          "title": "Bonacio Construction Inc - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/0209158Z:US",
+          "snippet": "Bonacio Construction, Inc. operates as a general contractor and real estate development firm. The Company offers homes, commercial construction, remodeling, and renovation services."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bonacio Construction, Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/bonacio-construction-inc-profile_b5ec7789f42e73e7",
+      "snippet": "Bonacio Construction, Inc. is a Construction, Commercial & Residential Construction, and Commercial and Residential Design Build company located in Saratoga Springs, New York with $39.4 million in revenue and 67 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Bonacio Construction, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:22:35Z"
+    },
+    {
+      "title": "Bonacio Construction, Inc. Company Profile: Financials, Valuation, and ...",
+      "url": "https://system.privco.com/company/bonacio-construction_private_stock_annual_report_financials",
+      "snippet": "Bonacio Construction, Inc. is a privately-held company that operates in the commercial & industrial engineering industry. Bonacio Construction, Inc. was founded in 1988. Bonacio Construction, Inc. headquarters are located in Saratoga Springs, New York.",
+      "query": "\"Bonacio Construction, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:22:35Z"
+    },
+    {
+      "title": "Bonacio Construction, Inc. Company Profile | Saratoga Springs, NY ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bonacio_construction_inc.814f938cc2b8b00388eb11e2b888e3bb.html",
+      "snippet": "Bonacio Construction, Inc. Company Profile | Saratoga Springs, NY | Competitors, Financials & Contacts - Dun & Bradstreet D&B Business Directory HOME / BUSINESS DIRECTORY / REAL ESTATE AND RENTAL AND LEASING / REAL ESTATE / LESSORS OF REAL ESTATE / UNITED STATES / NEW YORK / SARATOGA SPRINGS / Bonacio Construction, Inc.",
+      "query": "\"Bonacio Construction, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:22:35Z"
+    },
+    {
+      "title": "Bonacio Construction Inc - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/0209158Z:US",
+      "snippet": "Bonacio Construction, Inc. operates as a general contractor and real estate development firm. The Company offers homes, commercial construction, remodeling, and renovation services.",
+      "query": "\"Bonacio Construction, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:22:41Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T12:22:41Z",
+  "company_status": "SUCCESS"
+}

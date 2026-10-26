@@ -1,0 +1,79 @@
+{
+  "company_key": "building maintenance service|https://bmsbuildingservice.com",
+  "company_name": "Building Maintenance Service",
+  "company_website": "https://bmsbuildingservice.com",
+  "created_at": "2026-10-23T11:59:27Z",
+  "searches": [
+    {
+      "query": "\"Building Maintenance Service\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:59:34Z",
+      "page_title": "\"Building Maintenance Service\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Building+Maintenance+Service%22+revenue",
+      "results": [
+        {
+          "title": "Building Maintenance Services Market Analysis 2026",
+          "url": "https://www.cognitivemarketresearch.com/building-maintenance-services-market-report",
+          "snippet": "In addition, due to boom in the real estate sector and government regulations for the safety of tenants enhance the expansion of the building maintenance service market. These developments empower businesses to offer better-tailored solutions and services, which, in turn, contribute to the growth of the building maintenance services industry."
+        },
+        {
+          "title": "Building Maintenance Service Market Analysis & Forecast 2035",
+          "url": "https://www.wiseguyreports.com/reports/building-maintenance-service-market",
+          "snippet": "Overall, the Global Building Maintenance Service Market revenue reflects an evolving landscape, responding to customer preferences and the growing need for sustained building care."
+        }
+      ]
+    },
+    {
+      "query": "\"Building Maintenance Service\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:59:40Z",
+      "page_title": "\"Building Maintenance Service\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Building+Maintenance+Service%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Building Maintenance Services Market Analysis 2026",
+          "url": "https://www.cognitivemarketresearch.com/building-maintenance-services-market-report",
+          "snippet": "In addition, due to boom in the real estate sector and government regulations for the safety of tenants enhance the expansion of the building maintenance service market. These developments empower businesses to offer better-tailored solutions and services, which, in turn, contribute to the growth of the building maintenance services industry."
+        },
+        {
+          "title": "Building Maintenance Service Industry 2026 - reportlinker.com",
+          "url": "https://www.reportlinker.com/market-report/Maintenance-And-Cleaning-Services/456712/Building-Maintenance-Service",
+          "snippet": "Get real time updates on the Building Maintenance Service Industry with the latest reports, critical insights and stats from official sources. Artificial Intelligence trained to extract insights from millions of reports."
+        },
+        {
+          "title": "Building Maintenance Service Market Analysis & Forecast 2035",
+          "url": "https://www.wiseguyreports.com/reports/building-maintenance-service-market",
+          "snippet": "The Building Maintenance Service Market Size was valued at 48.9 USD Billion in 2024. The Building Maintenance Service Market is expected to grow from 50.9 USD Billion in 2025 to 75.6 USD Billion by 2035. The Building Maintenance Service Market CAGR (growth rate) is expected to be around 4.0% during the forecast period (2026 - 2035)."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Building Maintenance Services Market Analysis 2026",
+      "url": "https://www.cognitivemarketresearch.com/building-maintenance-services-market-report",
+      "snippet": "In addition, due to boom in the real estate sector and government regulations for the safety of tenants enhance the expansion of the building maintenance service market. These developments empower businesses to offer better-tailored solutions and services, which, in turn, contribute to the growth of the building maintenance services industry.",
+      "query": "\"Building Maintenance Service\" revenue",
+      "search_collected_at": "2026-10-23T11:59:34Z"
+    },
+    {
+      "title": "Building Maintenance Service Market Analysis & Forecast 2035",
+      "url": "https://www.wiseguyreports.com/reports/building-maintenance-service-market",
+      "snippet": "Overall, the Global Building Maintenance Service Market revenue reflects an evolving landscape, responding to customer preferences and the growing need for sustained building care.",
+      "query": "\"Building Maintenance Service\" revenue",
+      "search_collected_at": "2026-10-23T11:59:34Z"
+    },
+    {
+      "title": "Building Maintenance Service Industry 2026 - reportlinker.com",
+      "url": "https://www.reportlinker.com/market-report/Maintenance-And-Cleaning-Services/456712/Building-Maintenance-Service",
+      "snippet": "Get real time updates on the Building Maintenance Service Industry with the latest reports, critical insights and stats from official sources. Artificial Intelligence trained to extract insights from millions of reports.",
+      "query": "\"Building Maintenance Service\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:59:40Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T11:59:40Z",
+  "company_status": "SUCCESS"
+}

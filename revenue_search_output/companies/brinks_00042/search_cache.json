@@ -1,0 +1,115 @@
+{
+  "company_key": "brinks|https://brinks.com",
+  "company_name": "Brinks",
+  "company_website": "https://brinks.com",
+  "created_at": "2026-10-23T09:53:24Z",
+  "searches": [
+    {
+      "query": "\"Brinks\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:53:29Z",
+      "page_title": "\"Brinks\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brinks%22+revenue",
+      "results": [
+        {
+          "title": "Brink's - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/the-brinks-co/5538488",
+          "snippet": "View Brink's (www.brinks.com) location in Virginia, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Brink's - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/brinks/1162131097",
+          "snippet": "View Brink's (us.brinks.com) location , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "(BCO) Brinks Co Revenue: 1993-2026 Annual Revenue | WallStreetZen",
+          "url": "https://www.wallstreetzen.com/stocks/us/nyse/bco/revenue",
+          "snippet": "What was Brinks Co's revenue in 2025? Brinks Co's annual revenue for the twelve months ending Dec 31, 2025 was $5.26 billion, a 4.97% increase year over year."
+        }
+      ]
+    },
+    {
+      "query": "\"Brinks\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:53:36Z",
+      "page_title": "\"Brinks\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brinks%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "(BCO) Brinks Co Revenue: 1993-2026 Annual Revenue | WallStreetZen",
+          "url": "https://www.wallstreetzen.com/stocks/us/nyse/bco/revenue",
+          "snippet": "What was Brinks Co's revenue in 2025? Brinks Co's annual revenue for the twelve months ending Dec 31, 2025 was $5.26 billion, a 4.97% increase year over year."
+        },
+        {
+          "title": "Brinks revenue 2025 | Statista",
+          "url": "https://www.statista.com/statistics/1515406/brinks-revenue/",
+          "snippet": "The revenue of Brinks with headquarters in the United States amounted to ************ U.S. dollars in 2025. The reported fiscal year ends on December 31.Compared to 2021, this marks an increase of ..."
+        },
+        {
+          "title": "Brinks Total Revenue (TTM) 2010-2026 | BCO",
+          "url": "https://atlantisdatasolutions.com/bco/revenue",
+          "snippet": "What is Total Revenue (TTM)? The table above shows the trailing twelve-month revenue for Brinks (BCO) over the last 15 years. TTM revenue sums the most recent four quarters of reported revenue, providing a rolling annual view that smooths out seasonal fluctuations. Data is sourced from SEC EDGAR filings and updated quarterly. View the full BCO summary page for all financial ratios, the balance ..."
+        },
+        {
+          "title": "Brinks (BCO) Annual Revenue - Current & Historical Data (Sep 2026)",
+          "url": "https://www.financecharts.com/stocks/BCO/income-statement/revenue-annual",
+          "snippet": "The annual revenue for Brinks (BCO) stock was $1.392B for the latest annual reporting period. That's up 7.06% from the previous year. The 3 year average growth rate is 5.04% and the 5 year cagr is 6.40%."
+        },
+        {
+          "title": "Brink's - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/brinks/1162131097",
+          "snippet": "View Brink's (us.brinks.com) location , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brink's - Overview, News & Similar companies | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/the-brinks-co/5538488",
+      "snippet": "View Brink's (www.brinks.com) location in Virginia, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Brinks\" revenue",
+      "search_collected_at": "2026-10-23T09:53:29Z"
+    },
+    {
+      "title": "Brink's - Overview, News & Similar companies | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/brinks/1162131097",
+      "snippet": "View Brink's (us.brinks.com) location , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Brinks\" revenue",
+      "search_collected_at": "2026-10-23T09:53:29Z"
+    },
+    {
+      "title": "(BCO) Brinks Co Revenue: 1993-2026 Annual Revenue | WallStreetZen",
+      "url": "https://www.wallstreetzen.com/stocks/us/nyse/bco/revenue",
+      "snippet": "What was Brinks Co's revenue in 2025? Brinks Co's annual revenue for the twelve months ending Dec 31, 2025 was $5.26 billion, a 4.97% increase year over year.",
+      "query": "\"Brinks\" revenue",
+      "search_collected_at": "2026-10-23T09:53:29Z"
+    },
+    {
+      "title": "Brinks revenue 2025 | Statista",
+      "url": "https://www.statista.com/statistics/1515406/brinks-revenue/",
+      "snippet": "The revenue of Brinks with headquarters in the United States amounted to ************ U.S. dollars in 2025. The reported fiscal year ends on December 31.Compared to 2021, this marks an increase of ...",
+      "query": "\"Brinks\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:53:36Z"
+    },
+    {
+      "title": "Brinks Total Revenue (TTM) 2010-2026 | BCO",
+      "url": "https://atlantisdatasolutions.com/bco/revenue",
+      "snippet": "What is Total Revenue (TTM)? The table above shows the trailing twelve-month revenue for Brinks (BCO) over the last 15 years. TTM revenue sums the most recent four quarters of reported revenue, providing a rolling annual view that smooths out seasonal fluctuations. Data is sourced from SEC EDGAR filings and updated quarterly. View the full BCO summary page for all financial ratios, the balance ...",
+      "query": "\"Brinks\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:53:36Z"
+    },
+    {
+      "title": "Brinks (BCO) Annual Revenue - Current & Historical Data (Sep 2026)",
+      "url": "https://www.financecharts.com/stocks/BCO/income-statement/revenue-annual",
+      "snippet": "The annual revenue for Brinks (BCO) stock was $1.392B for the latest annual reporting period. That's up 7.06% from the previous year. The 3 year average growth rate is 5.04% and the 5 year cagr is 6.40%.",
+      "query": "\"Brinks\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:53:36Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T09:53:36Z",
+  "company_status": "SUCCESS"
+}

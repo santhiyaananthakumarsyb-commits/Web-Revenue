@@ -1,0 +1,67 @@
+{
+  "company_key": "beoffice workspaces|https://beoffice.com",
+  "company_name": "BeOffice Workspaces",
+  "company_website": "https://beoffice.com",
+  "created_at": "2026-10-23T13:31:38Z",
+  "searches": [
+    {
+      "query": "\"BeOffice Workspaces\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:31:45Z",
+      "page_title": "\"BeOffice Workspaces\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BeOffice+Workspaces%22+revenue",
+      "results": [
+        {
+          "title": "BeOffice Workspaces - Chicago Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/beoffice-workspaces/rks5cx1l/",
+          "snippet": "See all BeOffice Workspaces current commercial real estate listings and brokers from the BeOffice Workspaces office at 444 N Michigan Ave, Chicago, IL 60601. Contact a BeOffice Workspaces broker for inquiries about any of their available listings for sale or lease."
+        },
+        {
+          "title": "BeOffice Workspaces: 444 N Michigan Ave, Chicago, IL - LoopNet.ca",
+          "url": "https://www.loopnet.ca/company/beoffice-workspaces/chicago-il/rks5cx1l/",
+          "snippet": "Located at 444 N Michigan Ave Suite 1200 - Contact BeOffice Workspaces Brokers for inquiries about any of their available listings."
+        }
+      ]
+    },
+    {
+      "query": "\"BeOffice Workspaces\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:31:51Z",
+      "page_title": "\"BeOffice Workspaces\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BeOffice+Workspaces%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BeOffice Workspaces - Chicago Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/beoffice-workspaces/rks5cx1l/",
+          "snippet": "See all BeOffice Workspaces current commercial real estate listings and brokers from the BeOffice Workspaces office at 444 N Michigan Ave, Chicago, IL 60601. Contact a BeOffice Workspaces broker for inquiries about any of their available listings for sale or lease."
+        },
+        {
+          "title": "BeOffice Workspaces: 444 N Michigan Ave, Chicago, IL - LoopNet.ca",
+          "url": "https://www.loopnet.ca/company/beoffice-workspaces/chicago-il/rks5cx1l/",
+          "snippet": "Located at 444 N Michigan Ave Suite 1200 - Contact BeOffice Workspaces Brokers for inquiries about any of their available listings."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BeOffice Workspaces - Chicago Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/beoffice-workspaces/rks5cx1l/",
+      "snippet": "See all BeOffice Workspaces current commercial real estate listings and brokers from the BeOffice Workspaces office at 444 N Michigan Ave, Chicago, IL 60601. Contact a BeOffice Workspaces broker for inquiries about any of their available listings for sale or lease.",
+      "query": "\"BeOffice Workspaces\" revenue",
+      "search_collected_at": "2026-10-23T13:31:45Z"
+    },
+    {
+      "title": "BeOffice Workspaces: 444 N Michigan Ave, Chicago, IL - LoopNet.ca",
+      "url": "https://www.loopnet.ca/company/beoffice-workspaces/chicago-il/rks5cx1l/",
+      "snippet": "Located at 444 N Michigan Ave Suite 1200 - Contact BeOffice Workspaces Brokers for inquiries about any of their available listings.",
+      "query": "\"BeOffice Workspaces\" revenue",
+      "search_collected_at": "2026-10-23T13:31:45Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:31:51Z",
+  "company_status": "SUCCESS"
+}

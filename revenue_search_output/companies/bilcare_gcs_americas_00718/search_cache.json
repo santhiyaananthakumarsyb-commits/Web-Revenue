@@ -1,0 +1,44 @@
+{
+  "company_key": "bilcare gcs americas|https://bilcaregcs.com",
+  "company_name": "Bilcare GCS Americas",
+  "company_website": "https://bilcaregcs.com",
+  "created_at": "2026-10-23T12:19:28Z",
+  "searches": [
+    {
+      "query": "\"Bilcare GCS Americas\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:19:35Z",
+      "page_title": "\"Bilcare GCS Americas\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bilcare+GCS+Americas%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Bilcare GCS Americas\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:19:42Z",
+      "page_title": "\"Bilcare GCS Americas\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bilcare+GCS+Americas%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bilcare GCS expands US facility - Pharmaceutical Business review",
+          "url": "https://www.pharmaceutical-business-review.com/news/034a1bilcare_gcs_expands_us_fac/",
+          "snippet": "Vincent Maria, Bilcare GCS Americas president, said: \"The increase in storage capacity is the latest in a series of global upgrades designed to demonstrate to customers that Bilcare is a company focused on providing high quality service and cutting edge technology for its customers to ensure on time project completion.\""
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bilcare GCS expands US facility - Pharmaceutical Business review",
+      "url": "https://www.pharmaceutical-business-review.com/news/034a1bilcare_gcs_expands_us_fac/",
+      "snippet": "Vincent Maria, Bilcare GCS Americas president, said: \"The increase in storage capacity is the latest in a series of global upgrades designed to demonstrate to customers that Bilcare is a company focused on providing high quality service and cutting edge technology for its customers to ensure on time project completion.\"",
+      "query": "\"Bilcare GCS Americas\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:19:42Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:19:42Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,50 @@
+{
+  "company_key": "branding business|https://brandingbusiness.com",
+  "company_name": "Branding Business",
+  "company_website": "https://brandingbusiness.com",
+  "created_at": "2026-10-23T13:50:27Z",
+  "searches": [
+    {
+      "query": "\"Branding Business\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:50:33Z",
+      "page_title": "\"Branding Business\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Branding+Business%22+revenue",
+      "results": [
+        {
+          "title": "Branding Business - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/branding-business/358891117",
+          "snippet": "View Branding Business (www.brandingbusiness.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    },
+    {
+      "query": "\"Branding Business\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:50:40Z",
+      "page_title": "\"Branding Business\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Branding+Business%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Branding Business - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/branding-business/358891117",
+          "snippet": "View Branding Business (www.brandingbusiness.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Branding Business - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/branding-business/358891117",
+      "snippet": "View Branding Business (www.brandingbusiness.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Branding Business\" revenue",
+      "search_collected_at": "2026-10-23T13:50:33Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T13:50:40Z",
+  "company_status": "SUCCESS"
+}

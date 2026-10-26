@@ -1,0 +1,62 @@
+{
+  "company_key": "burkentine and sons builders, inc.|https://burkentine.com",
+  "company_name": "Burkentine and Sons Builders, Inc.",
+  "company_website": "https://burkentine.com",
+  "created_at": "2026-10-23T11:28:30Z",
+  "searches": [
+    {
+      "query": "\"Burkentine and Sons Builders, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:28:38Z",
+      "page_title": "\"Burkentine and Sons Builders, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burkentine+and+Sons+Builders%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Burkentine and Sons Builders, Inc. - Hanover, PA - LoopNet",
+          "url": "https://www.loopnet.com/company/burkentine-and-sons-builders-inc/wxhbb5jl/",
+          "snippet": "Since 1989, Burkentine Builders, Inc. has endeavored to create meaningful spaces, built with quality and craftsmanship and best in class service. Paul and Rajean Burkentine founded Burkentine Builders in 1989. They recognized the need for a trusted contractor and defined their success by the satisfaction of their customers. Today, the Burkentine Enterprise has grown into multiple companies ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Burkentine and Sons Builders, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:28:44Z",
+      "page_title": "\"Burkentine and Sons Builders, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burkentine+and+Sons+Builders%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Burkentine and Sons Builders, Inc. - Hanover, PA - LoopNet",
+          "url": "https://www.loopnet.com/company/burkentine-and-sons-builders-inc/wxhbb5jl/",
+          "snippet": "Since 1989, Burkentine Builders, Inc. has endeavored to create meaningful spaces, built with quality and craftsmanship and best in class service. Paul and Rajean Burkentine founded Burkentine Builders in 1989. They recognized the need for a trusted contractor and defined their success by the satisfaction of their customers. Today, the Burkentine Enterprise has grown into multiple companies ..."
+        },
+        {
+          "title": "Burkentine and Sons Builders, Inc. | Hanover, PA - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/bryce-burkentine/fnxjlevb",
+          "snippet": "Bryce Burkentine - Owner. View Bryce Burkentine's professional profile and available commercial real estate listings on LoopNet.com"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Burkentine and Sons Builders, Inc. - Hanover, PA - LoopNet",
+      "url": "https://www.loopnet.com/company/burkentine-and-sons-builders-inc/wxhbb5jl/",
+      "snippet": "Since 1989, Burkentine Builders, Inc. has endeavored to create meaningful spaces, built with quality and craftsmanship and best in class service. Paul and Rajean Burkentine founded Burkentine Builders in 1989. They recognized the need for a trusted contractor and defined their success by the satisfaction of their customers. Today, the Burkentine Enterprise has grown into multiple companies ...",
+      "query": "\"Burkentine and Sons Builders, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:28:38Z"
+    },
+    {
+      "title": "Burkentine and Sons Builders, Inc. | Hanover, PA - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/bryce-burkentine/fnxjlevb",
+      "snippet": "Bryce Burkentine - Owner. View Bryce Burkentine's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Burkentine and Sons Builders, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:28:44Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:28:44Z",
+  "company_status": "SUCCESS"
+}

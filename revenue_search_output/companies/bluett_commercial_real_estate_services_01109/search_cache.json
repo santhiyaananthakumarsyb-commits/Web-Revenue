@@ -1,0 +1,62 @@
+{
+  "company_key": "bluett commercial real estate services|https://bluettassociates.com",
+  "company_name": "Bluett Commercial Real Estate Services",
+  "company_website": "https://bluettassociates.com",
+  "created_at": "2026-10-23T13:44:42Z",
+  "searches": [
+    {
+      "query": "\"Bluett Commercial Real Estate Services\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:44:49Z",
+      "page_title": "\"Bluett Commercial Real Estate Services\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bluett+Commercial+Real+Estate+Services%22+revenue",
+      "results": [
+        {
+          "title": "Bluett Commercial Real Estate Services - Sacramento, CA",
+          "url": "https://www.loopnet.com/company/bluett-commercial-real-estate-services/7dpjezwl/",
+          "snippet": "See all Bluett Commercial Real Estate Services current commercial real estate listings and brokers from the Bluett Commercial Real Estate Services office at 401 Watt Ave, Sacramento, CA 95864. Contact a Bluett Commercial Real Estate Services broker for inquiries about any of their available listings for sale or lease."
+        },
+        {
+          "title": "bluettjuno.com - Bluett Juno Receivership, Asse... - Bluett Juno",
+          "url": "https://sur.ly/i/bluettjuno.com/",
+          "snippet": "bluettjuno.com. Bluett Commercial Real Estate Services include Receivership, Asset Management, Brokerage, Construction Management, Advisory Servic..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bluett Commercial Real Estate Services\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:44:57Z",
+      "page_title": "\"Bluett Commercial Real Estate Services\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bluett+Commercial+Real+Estate+Services%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bluett Commercial Real Estate Services - Sacramento, CA",
+          "url": "https://www.loopnet.com/company/bluett-commercial-real-estate-services/7dpjezwl/",
+          "snippet": "See all Bluett Commercial Real Estate Services current commercial real estate listings and brokers from the Bluett Commercial Real Estate Services office at 401 Watt Ave, Sacramento, CA 95864. Contact a Bluett Commercial Real Estate Services broker for inquiries about any of their available listings for sale or lease."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bluett Commercial Real Estate Services - Sacramento, CA",
+      "url": "https://www.loopnet.com/company/bluett-commercial-real-estate-services/7dpjezwl/",
+      "snippet": "See all Bluett Commercial Real Estate Services current commercial real estate listings and brokers from the Bluett Commercial Real Estate Services office at 401 Watt Ave, Sacramento, CA 95864. Contact a Bluett Commercial Real Estate Services broker for inquiries about any of their available listings for sale or lease.",
+      "query": "\"Bluett Commercial Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T13:44:49Z"
+    },
+    {
+      "title": "bluettjuno.com - Bluett Juno Receivership, Asse... - Bluett Juno",
+      "url": "https://sur.ly/i/bluettjuno.com/",
+      "snippet": "bluettjuno.com. Bluett Commercial Real Estate Services include Receivership, Asset Management, Brokerage, Construction Management, Advisory Servic...",
+      "query": "\"Bluett Commercial Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T13:44:49Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:44:57Z",
+  "company_status": "SUCCESS"
+}

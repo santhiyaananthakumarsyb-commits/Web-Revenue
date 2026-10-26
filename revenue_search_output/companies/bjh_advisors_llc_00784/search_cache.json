@@ -1,0 +1,96 @@
+{
+  "company_key": "bjh advisors llc|https://bjhadvisors.com",
+  "company_name": "BJH Advisors LLC",
+  "company_website": "https://bjhadvisors.com",
+  "created_at": "2026-10-23T12:33:43Z",
+  "searches": [
+    {
+      "query": "\"BJH Advisors LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:33:49Z",
+      "page_title": "\"BJH Advisors LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BJH+Advisors+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Bjh Advisors Llc",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bjh_advisors_llc.4e9fc0c377f4b5e5ecacf73bf2bb1c80.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BJH ADVISORS LLC of Brooklyn, New York. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "BJH Advisors LLC Company Profile: Financials, Valuation, and Growth",
+          "url": "https://www.privco.com/company/bjh-advisors",
+          "snippet": "BJH Advisors LLC is a privately-held company that operates in the professional services industry. BJH Advisors LLC headquarters are located in Brooklyn, New York."
+        },
+        {
+          "title": "BJH Advisors",
+          "url": "https://www.bjhadvisors.com/",
+          "snippet": "BJH Advisors LLC (BJH) is a real estate advisory, economic development, urban planning, and public policy firm with expertise in financial and market analytics, tax policy, community development, infrastructure and land-use planning, urban revitalization, project management, public private partnerships, incentives, and public funding strategies. Our principals and staff are a diverse team of ..."
+        }
+      ]
+    },
+    {
+      "query": "\"BJH Advisors LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:33:54Z",
+      "page_title": "\"BJH Advisors LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BJH+Advisors+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BJH Advisors LLC Details - govtribe.com",
+          "url": "https://govtribe.com/vendors/bjh-advisors-llc-7xwa6",
+          "snippet": "Metrics Founded 2010 Employees Range 11-50 Number of Employees 20 Estimated Annual Revenue $1M-$10M EIN Number Not Available Fiscal Year Ends Not Available Parent Company Not Available Funding Raised Not Available Market Cap Not Available Crunchbase Handle Not Available"
+        },
+        {
+          "title": "BJH Advisors LLC Company Profile: Financials, Valuation, and Growth",
+          "url": "https://www.privco.com/company/bjh-advisors",
+          "snippet": "BJH Advisors LLC is a privately-held company that operates in the professional services industry. BJH Advisors LLC headquarters are located in Brooklyn, New York."
+        },
+        {
+          "title": "BJH Advisors",
+          "url": "https://www.bjhadvisors.com/",
+          "snippet": "BJH Advisors LLC (BJH) is a real estate advisory, economic development, urban planning, and public policy firm with expertise in financial and market analytics, tax policy, community development, infrastructure and land-use planning, urban revitalization, project management, public private partnerships, incentives, and public funding strategies. Our principals and staff are a diverse team of ..."
+        },
+        {
+          "title": "Bjh Advisors Llc",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bjh_advisors_llc.4e9fc0c377f4b5e5ecacf73bf2bb1c80.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BJH ADVISORS LLC of Brooklyn, New York. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bjh Advisors Llc",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bjh_advisors_llc.4e9fc0c377f4b5e5ecacf73bf2bb1c80.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BJH ADVISORS LLC of Brooklyn, New York. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"BJH Advisors LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:33:49Z"
+    },
+    {
+      "title": "BJH Advisors LLC Company Profile: Financials, Valuation, and Growth",
+      "url": "https://www.privco.com/company/bjh-advisors",
+      "snippet": "BJH Advisors LLC is a privately-held company that operates in the professional services industry. BJH Advisors LLC headquarters are located in Brooklyn, New York.",
+      "query": "\"BJH Advisors LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:33:49Z"
+    },
+    {
+      "title": "BJH Advisors",
+      "url": "https://www.bjhadvisors.com/",
+      "snippet": "BJH Advisors LLC (BJH) is a real estate advisory, economic development, urban planning, and public policy firm with expertise in financial and market analytics, tax policy, community development, infrastructure and land-use planning, urban revitalization, project management, public private partnerships, incentives, and public funding strategies. Our principals and staff are a diverse team of ...",
+      "query": "\"BJH Advisors LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:33:49Z"
+    },
+    {
+      "title": "BJH Advisors LLC Details - govtribe.com",
+      "url": "https://govtribe.com/vendors/bjh-advisors-llc-7xwa6",
+      "snippet": "Metrics Founded 2010 Employees Range 11-50 Number of Employees 20 Estimated Annual Revenue $1M-$10M EIN Number Not Available Fiscal Year Ends Not Available Parent Company Not Available Funding Raised Not Available Market Cap Not Available Crunchbase Handle Not Available",
+      "query": "\"BJH Advisors LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:33:54Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T12:33:54Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,30 @@
+{
+  "company_key": "bricklight - 129-131 park st|https://bricklightproperties.com",
+  "company_name": "Bricklight - 129-131 Park St",
+  "company_website": "https://bricklightproperties.com",
+  "created_at": "2026-10-23T11:32:17Z",
+  "searches": [
+    {
+      "query": "\"Bricklight - 129-131 Park St\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:32:23Z",
+      "page_title": "\"Bricklight - 129-131 Park St\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bricklight+-+129-131+Park+St%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Bricklight - 129-131 Park St\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:32:30Z",
+      "page_title": "\"Bricklight - 129-131 Park St\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bricklight+-+129-131+Park+St%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:32:30Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

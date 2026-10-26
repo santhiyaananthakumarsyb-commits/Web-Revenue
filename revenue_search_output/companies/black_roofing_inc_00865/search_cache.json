@@ -1,0 +1,96 @@
+{
+  "company_key": "black roofing inc|https://blackroofing.com",
+  "company_name": "Black Roofing Inc",
+  "company_website": "https://blackroofing.com",
+  "created_at": "2026-10-23T12:51:46Z",
+  "searches": [
+    {
+      "query": "\"Black Roofing Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:51:51Z",
+      "page_title": "\"Black Roofing Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Black+Roofing+Inc%22+revenue",
+      "results": [
+        {
+          "title": "Black Roofing Inc Revenue, Funding & Valuation",
+          "url": "https://prospeo.io/c/black-roofing-inc-revenue",
+          "snippet": "Black Roofing Inc has revenue of $27,400,000, estimated valuation of $87,500,000. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "Black Roofing Inc Information - RocketReach",
+          "url": "https://rocketreach.co/black-roofing-inc-profile_b585416cf65b909f",
+          "snippet": "Black Roofing Inc is a Construction, Commercial & Residential Construction, and Roofing company located in Boulder, Colorado with $14.3 million in revenue and 42 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Black Roofing Inc - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/5058629Z:US",
+          "snippet": "Company profile page for Black Roofing Inc including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Black Roofing & Waterproofing Company Overview, Contact Details ...",
+          "url": "https://leadiq.com/c/black-roofing--waterproofing/5a1da9482300005a009d74ea",
+          "snippet": "Media & News Black Roofing Inc receives award 2nd Place in Division I. Black Roofing & Waterproofing earned 2nd Place in Division I for the wind-damaged roof replacement at Folsom Field - an intricate project requiring careful coordination, safety planning, and a high-performance roofing assembly designed to withstand extreme wind and hail ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Black Roofing Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:51:57Z",
+      "page_title": "\"Black Roofing Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Black+Roofing+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Black Roofing Inc Revenue, Funding & Valuation",
+          "url": "https://prospeo.io/c/black-roofing-inc-revenue",
+          "snippet": "Black Roofing Inc has revenue of $27,400,000, estimated valuation of $87,500,000. Find contacts and company information on Prospeo."
+        },
+        {
+          "title": "Black Roofing Inc Information - RocketReach",
+          "url": "https://rocketreach.co/black-roofing-inc-profile_b585416cf65b909f",
+          "snippet": "Black Roofing Inc is a Construction, Commercial & Residential Construction, and Roofing company located in Boulder, Colorado with $14.3 million in revenue and 42 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Black Roofing Inc - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/5058629Z:US",
+          "snippet": "Company profile page for Black Roofing Inc including stock price, company news, executives, board members, and contact information"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Black Roofing Inc Revenue, Funding & Valuation",
+      "url": "https://prospeo.io/c/black-roofing-inc-revenue",
+      "snippet": "Black Roofing Inc has revenue of $27,400,000, estimated valuation of $87,500,000. Find contacts and company information on Prospeo.",
+      "query": "\"Black Roofing Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:51:51Z"
+    },
+    {
+      "title": "Black Roofing Inc Information - RocketReach",
+      "url": "https://rocketreach.co/black-roofing-inc-profile_b585416cf65b909f",
+      "snippet": "Black Roofing Inc is a Construction, Commercial & Residential Construction, and Roofing company located in Boulder, Colorado with $14.3 million in revenue and 42 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Black Roofing Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:51:51Z"
+    },
+    {
+      "title": "Black Roofing Inc - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/5058629Z:US",
+      "snippet": "Company profile page for Black Roofing Inc including stock price, company news, executives, board members, and contact information",
+      "query": "\"Black Roofing Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:51:51Z"
+    },
+    {
+      "title": "Black Roofing & Waterproofing Company Overview, Contact Details ...",
+      "url": "https://leadiq.com/c/black-roofing--waterproofing/5a1da9482300005a009d74ea",
+      "snippet": "Media & News Black Roofing Inc receives award 2nd Place in Division I. Black Roofing & Waterproofing earned 2nd Place in Division I for the wind-damaged roof replacement at Folsom Field - an intricate project requiring careful coordination, safety planning, and a high-performance roofing assembly designed to withstand extreme wind and hail ...",
+      "query": "\"Black Roofing Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:51:51Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T12:51:57Z",
+  "company_status": "SUCCESS"
+}

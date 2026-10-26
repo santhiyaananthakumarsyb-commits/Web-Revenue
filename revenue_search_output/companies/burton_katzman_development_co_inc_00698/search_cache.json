@@ -1,0 +1,67 @@
+{
+  "company_key": "burton-katzman development co inc|https://burton-katzman.com",
+  "company_name": "Burton-Katzman Development Co Inc",
+  "company_website": "https://burton-katzman.com",
+  "created_at": "2026-10-23T12:15:10Z",
+  "searches": [
+    {
+      "query": "\"Burton-Katzman Development Co Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:15:17Z",
+      "page_title": "\"Burton-Katzman Development Co Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burton-Katzman+Development+Co+Inc%22+revenue",
+      "results": [
+        {
+          "title": "Burton-Katzman Development Co Inc - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/0204317D:US",
+          "snippet": "Burton-Katzman Development Company Inc functions as a real estate business. The Company specializes in the development of residential, retail, office, and industrial properties. Burton-Katzman ..."
+        },
+        {
+          "title": "Burton-Katzman Development Co Inc - Bingham Farms, MI 48025",
+          "url": "https://www.yellowpages.com/bingham-farms-mi/mip/burton-katzman-development-co-inc-455836312",
+          "snippet": "Get reviews, hours, directions, coupons and more for Burton-Katzman Development Co Inc. Search for other Real Estate Management on The Real Yellow Pages®."
+        }
+      ]
+    },
+    {
+      "query": "\"Burton-Katzman Development Co Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:15:23Z",
+      "page_title": "\"Burton-Katzman Development Co Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burton-Katzman+Development+Co+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Burton-Katzman Development Co Inc - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/0204317D:US",
+          "snippet": "Burton-Katzman Development Company Inc functions as a real estate business. The Company specializes in the development of residential, retail, office, and industrial properties. Burton-Katzman ..."
+        },
+        {
+          "title": "Burton-Katzman Development Co Inc - Bingham Farms, MI 48025",
+          "url": "https://www.yellowpages.com/bingham-farms-mi/mip/burton-katzman-development-co-inc-455836312",
+          "snippet": "Get reviews, hours, directions, coupons and more for Burton-Katzman Development Co Inc. Search for other Real Estate Management on The Real Yellow Pages®."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Burton-Katzman Development Co Inc - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/0204317D:US",
+      "snippet": "Burton-Katzman Development Company Inc functions as a real estate business. The Company specializes in the development of residential, retail, office, and industrial properties. Burton-Katzman ...",
+      "query": "\"Burton-Katzman Development Co Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:15:17Z"
+    },
+    {
+      "title": "Burton-Katzman Development Co Inc - Bingham Farms, MI 48025",
+      "url": "https://www.yellowpages.com/bingham-farms-mi/mip/burton-katzman-development-co-inc-455836312",
+      "snippet": "Get reviews, hours, directions, coupons and more for Burton-Katzman Development Co Inc. Search for other Real Estate Management on The Real Yellow Pages®.",
+      "query": "\"Burton-Katzman Development Co Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:15:17Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:15:23Z",
+  "company_status": "SUCCESS"
+}

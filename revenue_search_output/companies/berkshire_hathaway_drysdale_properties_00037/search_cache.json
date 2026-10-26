@@ -1,0 +1,62 @@
+{
+  "company_key": "berkshire hathaway drysdale properties|https://bhhsdrysdale.com",
+  "company_name": "Berkshire Hathaway Drysdale Properties",
+  "company_website": "https://bhhsdrysdale.com",
+  "created_at": "2026-10-23T09:52:19Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Drysdale Properties\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:52:25Z",
+      "page_title": "\"Berkshire Hathaway Drysdale Properties\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Drysdale+Properties%22+revenue",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Drysdale Properties | San Rafael, CA - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/gretchen-pearson/vxzzx0fb",
+          "snippet": "Gretchen has 30+ years in the real estate services including property management. She is the President and CEO of Pearson Property Management, Inc. which manages over 1800 units throughout the Bay Area, Sacramento and Central Valley. Additionally, she is President and CEO of Berkshire Hathaway HomeServices Drysdale Properties with 45 full service real estate offices throughout Northern ..."
+        },
+        {
+          "title": "Berkshire Hathaway Drysdale Properties - Real Estate Agent in ... - Zillow",
+          "url": "https://www.zillow.com/profile/BHHS Drysdale",
+          "snippet": "Berkshire Hathaway HomeServices Drysdale Properties is dedicated to providing the highest level of quality real estate services throughout Northern California and Nevada. These services include residential real estate sales of existing homes, new construction, and condos. We have specialists available for transferring buyers, corporate relocation, third party relocation, acreage, commercial ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Drysdale Properties\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:52:31Z",
+      "page_title": "\"Berkshire Hathaway Drysdale Properties\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Drysdale+Properties%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Drysdale Properties - Real Estate Agent in ... - Zillow",
+          "url": "https://www.zillow.com/profile/BHHS Drysdale",
+          "snippet": "Berkshire Hathaway HomeServices Drysdale Properties is dedicated to providing the highest level of quality real estate services throughout Northern California and Nevada. These services include residential real estate sales of existing homes, new construction, and condos. We have specialists available for transferring buyers, corporate relocation, third party relocation, acreage, commercial ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Hathaway Drysdale Properties | San Rafael, CA - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/gretchen-pearson/vxzzx0fb",
+      "snippet": "Gretchen has 30+ years in the real estate services including property management. She is the President and CEO of Pearson Property Management, Inc. which manages over 1800 units throughout the Bay Area, Sacramento and Central Valley. Additionally, she is President and CEO of Berkshire Hathaway HomeServices Drysdale Properties with 45 full service real estate offices throughout Northern ...",
+      "query": "\"Berkshire Hathaway Drysdale Properties\" revenue",
+      "search_collected_at": "2026-10-23T09:52:25Z"
+    },
+    {
+      "title": "Berkshire Hathaway Drysdale Properties - Real Estate Agent in ... - Zillow",
+      "url": "https://www.zillow.com/profile/BHHS Drysdale",
+      "snippet": "Berkshire Hathaway HomeServices Drysdale Properties is dedicated to providing the highest level of quality real estate services throughout Northern California and Nevada. These services include residential real estate sales of existing homes, new construction, and condos. We have specialists available for transferring buyers, corporate relocation, third party relocation, acreage, commercial ...",
+      "query": "\"Berkshire Hathaway Drysdale Properties\" revenue",
+      "search_collected_at": "2026-10-23T09:52:25Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T09:52:31Z",
+  "company_status": "SUCCESS"
+}

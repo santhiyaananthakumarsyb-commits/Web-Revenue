@@ -1,0 +1,127 @@
+{
+  "company_key": "boston capital corporation|https://bostoncapital.com",
+  "company_name": "Boston Capital Corporation",
+  "company_website": "https://bostoncapital.com",
+  "created_at": "2026-10-23T10:31:37Z",
+  "searches": [
+    {
+      "query": "\"Boston Capital Corporation\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:31:44Z",
+      "page_title": "\"Boston Capital Corporation\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boston+Capital+Corporation%22+revenue",
+      "results": [
+        {
+          "title": "Boston Capital — Company Profile | The Company Check",
+          "url": "https://www.thecompanycheck.com/company/b/boston-capital/3ey2slzbovlzkldkg",
+          "snippet": "Boston Capital Corporation is involved in the affordable housing sector through financing and investment solutions. Since its founding in 1974, the company has been a pioneer in this industry, contributing to the development of federal tax credit programs and innovative funding options."
+        },
+        {
+          "title": "PDF U. S. Boston Capital Corporation",
+          "url": "https://files.brokercheck.finra.org/firm/firm_5251.pdf",
+          "snippet": "U. S. BOSTON CAPITAL CORPORATION Doing business as U. S. BOSTON CAPITAL CORPORATION CRD# 5251 SEC# 8-15885 Main Office Location LINCOLN NORTH LINCOLN, MA 01773"
+        },
+        {
+          "title": "Boston Capital Corp - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/944963Z:US",
+          "snippet": "Boston Capital Corporation is a real estate investment and advisory firm. The Company has real estate financing and investment firms, with multifamily housing and commercial holdings throughout ..."
+        },
+        {
+          "title": "Boston Capital Corporation - Plano, TX - Company Profile",
+          "url": "https://www.dandb.com/businessdirectory/bostoncapitalcorporation-plano-tx-9701708.html",
+          "snippet": "View up to date company information for Boston Capital Corporation in the Plano, TX Credibility Review business directory. Search companies at DandB.com."
+        },
+        {
+          "title": "About | Boston Capital",
+          "url": "https://bostoncapital.com/about/",
+          "snippet": "Boston Capital Corporation was a PIONEER in the affordable housing industry. Since our founding in 1974, we have navigated the GROWTH and EVOLUTION of this all important asset class. Today, through the power of Boston Capital Finance we provide construction-to-permanent financing on properties in the low-income housing tax credit sector. Our national lending footprint and seasoned underwriting ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Boston Capital Corporation\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:31:49Z",
+      "page_title": "\"Boston Capital Corporation\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boston+Capital+Corporation%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Boston Capital Corp - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/944963Z:US",
+          "snippet": "Boston Capital Corporation is a real estate investment and advisory firm. The Company has real estate financing and investment firms, with multifamily housing and commercial holdings throughout ..."
+        },
+        {
+          "title": "About | Boston Capital",
+          "url": "https://bostoncapital.com/about/",
+          "snippet": "Boston Capital Corporation was a PIONEER in the affordable housing industry. Since our founding in 1974, we have navigated the GROWTH and EVOLUTION of this all important asset class. Today, through the power of Boston Capital Finance we provide construction-to-permanent financing on properties in the low-income housing tax credit sector. Our national lending footprint and seasoned underwriting ..."
+        },
+        {
+          "title": "U. S. BOSTON CAPITAL CORPORATION - BrokerCheck",
+          "url": "https://brokercheck.finra.org/firm/5251",
+          "snippet": "A brokerage firm, also called a broker-dealer, is in the business of buying and selling securities - stocks, bonds, mutual funds, and certain other investment products - on behalf of its customer (as broker), for its own bank (dealer), or both. Individuals who work for broker-dealers - the sales personnel are commonly referred to as brokers."
+        },
+        {
+          "title": "Boston Capital Corporation : Boston Capital Company Profile",
+          "url": "https://sipadcg.org/boston-capital-corporation-boston-capital-company-profile/",
+          "snippet": "Boston Capital Corporation Company Profile In 1969, our founders launched U.S. Boston Capital Corporation, an independent, privately-owned wealth management firm serving high-net-worth individuals, families and small organizations. Horaires d'ouverture, contacts et avis pour Boston Capital Corporation à One Boston Pl, Boston, MA."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Boston Capital — Company Profile | The Company Check",
+      "url": "https://www.thecompanycheck.com/company/b/boston-capital/3ey2slzbovlzkldkg",
+      "snippet": "Boston Capital Corporation is involved in the affordable housing sector through financing and investment solutions. Since its founding in 1974, the company has been a pioneer in this industry, contributing to the development of federal tax credit programs and innovative funding options.",
+      "query": "\"Boston Capital Corporation\" revenue",
+      "search_collected_at": "2026-10-23T10:31:44Z"
+    },
+    {
+      "title": "PDF U. S. Boston Capital Corporation",
+      "url": "https://files.brokercheck.finra.org/firm/firm_5251.pdf",
+      "snippet": "U. S. BOSTON CAPITAL CORPORATION Doing business as U. S. BOSTON CAPITAL CORPORATION CRD# 5251 SEC# 8-15885 Main Office Location LINCOLN NORTH LINCOLN, MA 01773",
+      "query": "\"Boston Capital Corporation\" revenue",
+      "search_collected_at": "2026-10-23T10:31:44Z"
+    },
+    {
+      "title": "Boston Capital Corp - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/944963Z:US",
+      "snippet": "Boston Capital Corporation is a real estate investment and advisory firm. The Company has real estate financing and investment firms, with multifamily housing and commercial holdings throughout ...",
+      "query": "\"Boston Capital Corporation\" revenue",
+      "search_collected_at": "2026-10-23T10:31:44Z"
+    },
+    {
+      "title": "Boston Capital Corporation - Plano, TX - Company Profile",
+      "url": "https://www.dandb.com/businessdirectory/bostoncapitalcorporation-plano-tx-9701708.html",
+      "snippet": "View up to date company information for Boston Capital Corporation in the Plano, TX Credibility Review business directory. Search companies at DandB.com.",
+      "query": "\"Boston Capital Corporation\" revenue",
+      "search_collected_at": "2026-10-23T10:31:44Z"
+    },
+    {
+      "title": "About | Boston Capital",
+      "url": "https://bostoncapital.com/about/",
+      "snippet": "Boston Capital Corporation was a PIONEER in the affordable housing industry. Since our founding in 1974, we have navigated the GROWTH and EVOLUTION of this all important asset class. Today, through the power of Boston Capital Finance we provide construction-to-permanent financing on properties in the low-income housing tax credit sector. Our national lending footprint and seasoned underwriting ...",
+      "query": "\"Boston Capital Corporation\" revenue",
+      "search_collected_at": "2026-10-23T10:31:44Z"
+    },
+    {
+      "title": "U. S. BOSTON CAPITAL CORPORATION - BrokerCheck",
+      "url": "https://brokercheck.finra.org/firm/5251",
+      "snippet": "A brokerage firm, also called a broker-dealer, is in the business of buying and selling securities - stocks, bonds, mutual funds, and certain other investment products - on behalf of its customer (as broker), for its own bank (dealer), or both. Individuals who work for broker-dealers - the sales personnel are commonly referred to as brokers.",
+      "query": "\"Boston Capital Corporation\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:31:49Z"
+    },
+    {
+      "title": "Boston Capital Corporation : Boston Capital Company Profile",
+      "url": "https://sipadcg.org/boston-capital-corporation-boston-capital-company-profile/",
+      "snippet": "Boston Capital Corporation Company Profile In 1969, our founders launched U.S. Boston Capital Corporation, an independent, privately-owned wealth management firm serving high-net-worth individuals, families and small organizations. Horaires d'ouverture, contacts et avis pour Boston Capital Corporation à One Boston Pl, Boston, MA.",
+      "query": "\"Boston Capital Corporation\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:31:49Z"
+    }
+  ],
+  "result_count": 7,
+  "updated_at": "2026-10-23T10:31:49Z",
+  "company_status": "SUCCESS"
+}

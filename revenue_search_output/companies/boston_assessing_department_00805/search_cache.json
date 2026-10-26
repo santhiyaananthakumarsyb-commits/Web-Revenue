@@ -1,0 +1,69 @@
+{
+  "company_key": "boston assessing department|https://boston.gov",
+  "company_name": "Boston Assessing Department",
+  "company_website": "https://boston.gov",
+  "created_at": "2026-10-23T12:38:24Z",
+  "searches": [
+    {
+      "query": "\"Boston Assessing Department\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:38:31Z",
+      "page_title": "\"Boston Assessing Department\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boston+Assessing+Department%22+revenue",
+      "results": [
+        {
+          "title": "Online Filing Form (s) System - Boston",
+          "url": "https://assessppof.cityofboston.gov/bostononline38d/",
+          "snippet": "Welcome to the City of Boston Online Filing Form (s) System If you have any questions or concerns, please contact the City of Boston Assessing Department by email at 38D@boston.gov or by telephone at (617) 635-1168. For this website, we recommend using Mozilla Firefox or Google Chrome."
+        }
+      ]
+    },
+    {
+      "query": "\"Boston Assessing Department\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:38:37Z",
+      "page_title": "\"Boston Assessing Department\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boston+Assessing+Department%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "PDF Fiscal Year 2019 • Assessing Department - Boston.gov",
+          "url": "https://www.boston.gov/sites/default/files/embed/f/facts_figures_2019.pdf",
+          "snippet": "The City of Boston Assessing Department's annual Property Tax Facts & Figures report presents an overview of property taxes in Boston using charts and tables to illustrate historical trends. The property tax data in this report allows a taxpayer to compare Fiscal Year 2019 assessments and tax rates with those in prior years and with those in other municipalities. Background information on the ..."
+        },
+        {
+          "title": "Boston Property Assessments - How Valuations Work",
+          "url": "https://us.citylaws.org/ma/boston/boston-property-assessments-how-valuations-work",
+          "snippet": "How valuations are calculated The City of Boston uses standard appraisal approaches to estimate market value, guided by municipal assessing rules and state law. The City of Boston Assessing Department publishes local procedures, data and maps for valuation and tax commitments City of Boston Assessing Department [1]."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Online Filing Form (s) System - Boston",
+      "url": "https://assessppof.cityofboston.gov/bostononline38d/",
+      "snippet": "Welcome to the City of Boston Online Filing Form (s) System If you have any questions or concerns, please contact the City of Boston Assessing Department by email at 38D@boston.gov or by telephone at (617) 635-1168. For this website, we recommend using Mozilla Firefox or Google Chrome.",
+      "query": "\"Boston Assessing Department\" revenue",
+      "search_collected_at": "2026-10-23T12:38:31Z"
+    },
+    {
+      "title": "PDF Fiscal Year 2019 • Assessing Department - Boston.gov",
+      "url": "https://www.boston.gov/sites/default/files/embed/f/facts_figures_2019.pdf",
+      "snippet": "The City of Boston Assessing Department's annual Property Tax Facts & Figures report presents an overview of property taxes in Boston using charts and tables to illustrate historical trends. The property tax data in this report allows a taxpayer to compare Fiscal Year 2019 assessments and tax rates with those in prior years and with those in other municipalities. Background information on the ...",
+      "query": "\"Boston Assessing Department\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:38:37Z"
+    },
+    {
+      "title": "Boston Property Assessments - How Valuations Work",
+      "url": "https://us.citylaws.org/ma/boston/boston-property-assessments-how-valuations-work",
+      "snippet": "How valuations are calculated The City of Boston uses standard appraisal approaches to estimate market value, guided by municipal assessing rules and state law. The City of Boston Assessing Department publishes local procedures, data and maps for valuation and tax commitments City of Boston Assessing Department [1].",
+      "query": "\"Boston Assessing Department\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:38:37Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T12:38:37Z",
+  "company_status": "SUCCESS"
+}

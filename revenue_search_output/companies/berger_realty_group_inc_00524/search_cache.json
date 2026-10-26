@@ -1,0 +1,93 @@
+{
+  "company_key": "berger realty group, inc.|https://bergerrealtygroup.com",
+  "company_name": "Berger Realty Group, Inc.",
+  "company_website": "https://bergerrealtygroup.com",
+  "created_at": "2026-10-23T11:37:33Z",
+  "searches": [
+    {
+      "query": "\"Berger Realty Group, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:37:38Z",
+      "page_title": "\"Berger Realty Group, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berger+Realty+Group%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Berger Realty Group, Inc. - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/bergerrealtygroupinc.-southfield-mi-26646296.html",
+          "snippet": "Berger Realty Group, Inc. is located at 29201 Telg Rd Ste 510 in Southfield and has been in the business of Real Estate Brokers And Agents since 2007."
+        },
+        {
+          "title": "Berger Realty Group Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/Apple-Valley-Apartments-586-752-4166",
+          "snippet": "Berger Realty Group, Inc. (trade name Apple Valley Apartments) is in the Apartment Building Operators business. View competitors, revenue, employees, website and phone number."
+        }
+      ]
+    },
+    {
+      "query": "\"Berger Realty Group, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:37:43Z",
+      "page_title": "\"Berger Realty Group, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berger+Realty+Group%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Liz Berger - Real Estate Agent in Coral Springs, FL - Zillow",
+          "url": "https://www.zillow.com/profile/lizberger",
+          "snippet": "Visit Liz Berger's profile on Zillow to find ratings and reviews. Find great Coral Springs, FL real estate professionals on Zillow like Liz Berger of Berger Realty Group, Inc."
+        },
+        {
+          "title": "Michael Berger - President, Berger Realty Group, Inc. | LinkedIn",
+          "url": "https://www.linkedin.com/in/michael-berger-66b16b1a",
+          "snippet": "President, Berger Realty Group, Inc. · Michael Berger has headed efforts in new acquisitions, refinancing, leasing, legal matters, property management and marketing for both Berger Realty Group ..."
+        },
+        {
+          "title": "BERGER REALTY GROUP, INC. Employer Identification Number EIN",
+          "url": "http://www.w9ein.com/FEIN/company_overview.php/EIN/382735341/CompanyName/BERGER+REALTY+GROUP,+INC.",
+          "snippet": "Employer Identification Number 38-2735341 BERGER REALTY GROUP, INC. is a USA domiciled entity or foreign entity operating in the USA. The EIN ihas been issued by the IRS"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berger Realty Group, Inc. - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/bergerrealtygroupinc.-southfield-mi-26646296.html",
+      "snippet": "Berger Realty Group, Inc. is located at 29201 Telg Rd Ste 510 in Southfield and has been in the business of Real Estate Brokers And Agents since 2007.",
+      "query": "\"Berger Realty Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:37:38Z"
+    },
+    {
+      "title": "Berger Realty Group Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.buzzfile.com/business/Apple-Valley-Apartments-586-752-4166",
+      "snippet": "Berger Realty Group, Inc. (trade name Apple Valley Apartments) is in the Apartment Building Operators business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Berger Realty Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:37:38Z"
+    },
+    {
+      "title": "Liz Berger - Real Estate Agent in Coral Springs, FL - Zillow",
+      "url": "https://www.zillow.com/profile/lizberger",
+      "snippet": "Visit Liz Berger's profile on Zillow to find ratings and reviews. Find great Coral Springs, FL real estate professionals on Zillow like Liz Berger of Berger Realty Group, Inc.",
+      "query": "\"Berger Realty Group, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:37:43Z"
+    },
+    {
+      "title": "Michael Berger - President, Berger Realty Group, Inc. | LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-berger-66b16b1a",
+      "snippet": "President, Berger Realty Group, Inc. · Michael Berger has headed efforts in new acquisitions, refinancing, leasing, legal matters, property management and marketing for both Berger Realty Group ...",
+      "query": "\"Berger Realty Group, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:37:43Z"
+    },
+    {
+      "title": "BERGER REALTY GROUP, INC. Employer Identification Number EIN",
+      "url": "http://www.w9ein.com/FEIN/company_overview.php/EIN/382735341/CompanyName/BERGER+REALTY+GROUP,+INC.",
+      "snippet": "Employer Identification Number 38-2735341 BERGER REALTY GROUP, INC. is a USA domiciled entity or foreign entity operating in the USA. The EIN ihas been issued by the IRS",
+      "query": "\"Berger Realty Group, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:37:43Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T11:37:43Z",
+  "company_status": "SUCCESS"
+}

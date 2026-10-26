@@ -1,0 +1,84 @@
+{
+  "company_key": "bldg management co., inc.|https://bldg.com",
+  "company_name": "BLDG Management Co., Inc.",
+  "company_website": "https://bldg.com",
+  "created_at": "2026-10-23T11:11:34Z",
+  "searches": [
+    {
+      "query": "\"BLDG Management Co., Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:11:40Z",
+      "page_title": "\"BLDG Management Co., Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BLDG+Management+Co.%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BLDG Management Co., Inc. Company Overview, Contact Details ...",
+          "url": "https://leadiq.com/c/bldg-management-co-inc/5b16aa33410000f500cff418",
+          "snippet": "Frequently Asked Questions What is BLDG Management Co., Inc. 's official website and social media links? BLDG Management Co., Inc. 's official website is bldg.com and has social profiles on LinkedIn. How much revenue does BLDG Management Co., Inc. generate? As of July 2026, BLDG Management Co., Inc. 's annual revenue is estimated to be $100M ..."
+        },
+        {
+          "title": "BLDG Management Co., Inc. Overview & Revenue | ContactOut",
+          "url": "https://contactout.com/company/bldg-management-co-inc-2816",
+          "snippet": "BLDG Management Co., Inc. is a Real Estate company, headquartered in NEW YORK CITY, United States. See $4.8M revenue and verified contacts."
+        },
+        {
+          "title": "Bldg Management Co. Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/Bldg-Management-212-624-4300",
+          "snippet": "Bldg Management Co., Inc. (trade name Bldg Management) is in the Commercial and Industrial Building Operation business. View competitors, revenue, employees, website and phone number."
+        }
+      ]
+    },
+    {
+      "query": "\"BLDG Management Co., Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:11:46Z",
+      "page_title": "\"BLDG Management Co., Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BLDG+Management+Co.%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BLDG Management Co., Inc. Company Overview, Contact Details ...",
+          "url": "https://leadiq.com/c/bldg-management-co-inc/5b16aa33410000f500cff418",
+          "snippet": "Frequently Asked Questions What is BLDG Management Co., Inc. 's official website and social media links? BLDG Management Co., Inc. 's official website is bldg.com and has social profiles on LinkedIn. How much revenue does BLDG Management Co., Inc. generate? As of July 2026, BLDG Management Co., Inc. 's annual revenue is estimated to be $100M ..."
+        },
+        {
+          "title": "BLDG Management Co., Inc. Overview & Revenue | ContactOut",
+          "url": "https://contactout.com/company/bldg-management-co-inc-2816",
+          "snippet": "BLDG Management Co., Inc. is a Real Estate company, headquartered in NEW YORK CITY, United States. See $4.8M revenue and verified contacts."
+        },
+        {
+          "title": "Bldg Management Co. Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/Bldg-Management-212-624-4300",
+          "snippet": "Bldg Management Co., Inc. (trade name Bldg Management) is in the Commercial and Industrial Building Operation business. View competitors, revenue, employees, website and phone number."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BLDG Management Co., Inc. Company Overview, Contact Details ...",
+      "url": "https://leadiq.com/c/bldg-management-co-inc/5b16aa33410000f500cff418",
+      "snippet": "Frequently Asked Questions What is BLDG Management Co., Inc. 's official website and social media links? BLDG Management Co., Inc. 's official website is bldg.com and has social profiles on LinkedIn. How much revenue does BLDG Management Co., Inc. generate? As of July 2026, BLDG Management Co., Inc. 's annual revenue is estimated to be $100M ...",
+      "query": "\"BLDG Management Co., Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:11:40Z"
+    },
+    {
+      "title": "BLDG Management Co., Inc. Overview & Revenue | ContactOut",
+      "url": "https://contactout.com/company/bldg-management-co-inc-2816",
+      "snippet": "BLDG Management Co., Inc. is a Real Estate company, headquartered in NEW YORK CITY, United States. See $4.8M revenue and verified contacts.",
+      "query": "\"BLDG Management Co., Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:11:40Z"
+    },
+    {
+      "title": "Bldg Management Co. Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.buzzfile.com/business/Bldg-Management-212-624-4300",
+      "snippet": "Bldg Management Co., Inc. (trade name Bldg Management) is in the Commercial and Industrial Building Operation business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"BLDG Management Co., Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:11:40Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T11:11:46Z",
+  "company_status": "SUCCESS"
+}

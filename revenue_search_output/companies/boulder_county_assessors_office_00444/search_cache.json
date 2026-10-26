@@ -1,0 +1,57 @@
+{
+  "company_key": "boulder county assessors office|https://bouldercountyassessor.org",
+  "company_name": "Boulder County Assessors Office",
+  "company_website": "https://bouldercountyassessor.org",
+  "created_at": "2026-10-23T11:20:14Z",
+  "searches": [
+    {
+      "query": "\"Boulder County Assessors Office\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:20:22Z",
+      "page_title": "\"Boulder County Assessors Office\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boulder+County+Assessors+Office%22+revenue",
+      "results": [
+        {
+          "title": "BPP Declarations - Boulder County",
+          "url": "https://bouldercounty.gov/property-and-land/assessor/business-personal-property/asset-lists/",
+          "snippet": "These forms must be returned to the Boulder County Assessors Office, or the County within which the assets are located as of Jan. 1. Please do not mail them to the State of Colorado."
+        }
+      ]
+    },
+    {
+      "query": "\"Boulder County Assessors Office\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:20:29Z",
+      "page_title": "\"Boulder County Assessors Office\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boulder+County+Assessors+Office%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Jim mary - Manager appraisal Team at Boulder County Assessors Office ...",
+          "url": "https://www.linkedin.com/in/jim-mary-7a4318145",
+          "snippet": "Manager appraisal Team at Boulder County Assessors Office · Experience: Boulder County Assessors Office · Location: Arvada · 1 connection on LinkedIn. View Jim mary's profile on LinkedIn, a ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BPP Declarations - Boulder County",
+      "url": "https://bouldercounty.gov/property-and-land/assessor/business-personal-property/asset-lists/",
+      "snippet": "These forms must be returned to the Boulder County Assessors Office, or the County within which the assets are located as of Jan. 1. Please do not mail them to the State of Colorado.",
+      "query": "\"Boulder County Assessors Office\" revenue",
+      "search_collected_at": "2026-10-23T11:20:22Z"
+    },
+    {
+      "title": "Jim mary - Manager appraisal Team at Boulder County Assessors Office ...",
+      "url": "https://www.linkedin.com/in/jim-mary-7a4318145",
+      "snippet": "Manager appraisal Team at Boulder County Assessors Office · Experience: Boulder County Assessors Office · Location: Arvada · 1 connection on LinkedIn. View Jim mary's profile on LinkedIn, a ...",
+      "query": "\"Boulder County Assessors Office\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:20:29Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:20:29Z",
+  "company_status": "SUCCESS"
+}

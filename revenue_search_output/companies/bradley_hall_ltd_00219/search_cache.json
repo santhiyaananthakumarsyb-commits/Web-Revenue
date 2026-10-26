@@ -1,0 +1,30 @@
+{
+  "company_key": "bradley hall ltd|https://bradleyhall.co.uk",
+  "company_name": "Bradley Hall Ltd",
+  "company_website": "https://bradleyhall.co.uk",
+  "created_at": "2026-10-23T10:31:49Z",
+  "searches": [
+    {
+      "query": "\"Bradley Hall Ltd\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:31:56Z",
+      "page_title": "\"Bradley Hall Ltd\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bradley+Hall+Ltd%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Bradley Hall Ltd\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:32:02Z",
+      "page_title": "\"Bradley Hall Ltd\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bradley+Hall+Ltd%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:32:02Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

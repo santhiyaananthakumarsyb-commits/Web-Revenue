@@ -1,0 +1,79 @@
+{
+  "company_key": "bogin munns & munns|https://boginmunns.com",
+  "company_name": "Bogin Munns & Munns",
+  "company_website": "https://boginmunns.com",
+  "created_at": "2026-10-23T12:55:07Z",
+  "searches": [
+    {
+      "query": "\"Bogin Munns & Munns\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:55:13Z",
+      "page_title": "\"Bogin Munns & Munns\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bogin+Munns+%26+Munns%22+revenue",
+      "results": [
+        {
+          "title": "Bogin Munns & Munns - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bogin-munns--munns-pa/5144879",
+          "snippet": "View Bogin Munns & Munns (www.boginmunns.com) location in Florida, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Annual Report on Bogin Munns & Munns P.a.'s Revenue, Growth, SWOT ...",
+          "url": "https://incfact.com/company/boginmunnsmunnspa-orlando-fl/",
+          "snippet": "Revenue, Growth, Competitors, Trends in the Company Report on Bogin Munns & Munns P.a.."
+        }
+      ]
+    },
+    {
+      "query": "\"Bogin Munns & Munns\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:55:19Z",
+      "page_title": "\"Bogin Munns & Munns\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bogin+Munns+%26+Munns%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Annual Report on Bogin Munns & Munns P.a.'s Revenue, Growth, SWOT ...",
+          "url": "https://incfact.com/company/boginmunnsmunnspa-orlando-fl/",
+          "snippet": "(Annual sales and employees) Bogin Munns & Munns P.a.'s annual revenues are $10 - $100 million (see exact revenue data) Bogin Munns & Munns P.a.'s annual revenues are $10 - $100 million (see exact revenue data) What industry is the company in? Bogin Munns & Munns P.a. is classified as operating in the Law Firms industry, NAICS Code 54111."
+        },
+        {
+          "title": "Bogin Munns & Munns - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bogin-munns--munns-pa/5144879",
+          "snippet": "View Bogin Munns & Munns (www.boginmunns.com) location in Florida, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Bogin Munns & Munns PA - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/0430681D:US",
+          "snippet": "Company profile page for Bogin Munns & Munns PA including stock price, company news, executives, board members, and contact information"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bogin Munns & Munns - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/bogin-munns--munns-pa/5144879",
+      "snippet": "View Bogin Munns & Munns (www.boginmunns.com) location in Florida, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Bogin Munns & Munns\" revenue",
+      "search_collected_at": "2026-10-23T12:55:13Z"
+    },
+    {
+      "title": "Annual Report on Bogin Munns & Munns P.a.'s Revenue, Growth, SWOT ...",
+      "url": "https://incfact.com/company/boginmunnsmunnspa-orlando-fl/",
+      "snippet": "Revenue, Growth, Competitors, Trends in the Company Report on Bogin Munns & Munns P.a..",
+      "query": "\"Bogin Munns & Munns\" revenue",
+      "search_collected_at": "2026-10-23T12:55:13Z"
+    },
+    {
+      "title": "Bogin Munns & Munns PA - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/0430681D:US",
+      "snippet": "Company profile page for Bogin Munns & Munns PA including stock price, company news, executives, board members, and contact information",
+      "query": "\"Bogin Munns & Munns\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:55:19Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T12:55:19Z",
+  "company_status": "SUCCESS"
+}

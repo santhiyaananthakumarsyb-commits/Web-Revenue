@@ -1,0 +1,50 @@
+{
+  "company_key": "build to suit, inc.|https://buildtosuitinc.com",
+  "company_name": "Build to Suit, Inc.",
+  "company_website": "https://buildtosuitinc.com",
+  "created_at": "2026-10-23T10:51:17Z",
+  "searches": [
+    {
+      "query": "\"Build to Suit, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:51:27Z",
+      "page_title": "\"Build to Suit, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Build+to+Suit%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Build to Suit | Build to Suit",
+          "url": "https://buildtosuitinc.com/",
+          "snippet": "Build to Suit, Inc. (BTS) is a General Contractor that provides a design-build approach to construction that speeds up the delivery of projects, ensures quality and minimizes costs."
+        }
+      ]
+    },
+    {
+      "query": "\"Build to Suit, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:51:34Z",
+      "page_title": "\"Build to Suit, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Build+to+Suit%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Build to Suit | Build to Suit",
+          "url": "https://buildtosuitinc.com/",
+          "snippet": "Build to Suit, Inc. (BTS) is a General Contractor that provides a design-build approach to construction that speeds up the delivery of projects, ensures quality and minimizes costs."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Build to Suit | Build to Suit",
+      "url": "https://buildtosuitinc.com/",
+      "snippet": "Build to Suit, Inc. (BTS) is a General Contractor that provides a design-build approach to construction that speeds up the delivery of projects, ensures quality and minimizes costs.",
+      "query": "\"Build to Suit, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:51:27Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:51:34Z",
+  "company_status": "SUCCESS"
+}

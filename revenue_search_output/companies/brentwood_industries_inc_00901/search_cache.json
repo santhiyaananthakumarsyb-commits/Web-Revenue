@@ -1,0 +1,84 @@
+{
+  "company_key": "brentwood industries, inc.|https://brentwoodindustries.com",
+  "company_name": "Brentwood Industries, Inc.",
+  "company_website": "https://brentwoodindustries.com",
+  "created_at": "2026-10-23T12:59:14Z",
+  "searches": [
+    {
+      "query": "\"Brentwood Industries, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:59:20Z",
+      "page_title": "\"Brentwood Industries, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brentwood+Industries%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Brentwood Industries, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/brentwood-industries-inc-profile_b5cfc80ef42e0a65",
+          "snippet": "Brentwood Industries, Inc. is a Manufacturing, Plastics Manufacturing, and Plastic, Packaging & Containers company located in Reading, Pennsylvania with $100 million in revenue and 754 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Brentwood Industries, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/brentwood-industries-inc-profile_b5ca331af42e0b88",
+          "snippet": "Brentwood Industries, Inc. is a Plastic, Packaging & Containers, and Manufacturing company located in Reading, Pennsylvania with $100 million in revenue and 5 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Brentwood Industries, Inc. - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/brentwoodindustriesinc.-reading-pa-13623509.html",
+          "snippet": "Brentwood Industries, Inc. was founded in 1975, and is located at 500 Spring Ridge Dr in Reading. Additional information is available at www.brentwoodindustries.com or by contacting Peter Rye at (610) 374-5109."
+        }
+      ]
+    },
+    {
+      "query": "\"Brentwood Industries, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:59:26Z",
+      "page_title": "\"Brentwood Industries, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brentwood+Industries%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brentwood Industries, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/brentwood-industries-inc-profile_b5cfc80ef42e0a65",
+          "snippet": "Brentwood Industries, Inc. is a Manufacturing, Plastics Manufacturing, and Plastic, Packaging & Containers company located in Reading, Pennsylvania with $100 million in revenue and 754 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Brentwood Industries, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/brentwood-industries-inc-profile_b5ca331af42e0b88",
+          "snippet": "Brentwood Industries, Inc. is a Plastic, Packaging & Containers, and Manufacturing company located in Reading, Pennsylvania with $100 million in revenue and 5 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Brentwood Industries, Inc. - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/brentwoodindustriesinc.-reading-pa-13623509.html",
+          "snippet": "Visit the Brentwood Industries, Inc. business profile in Reading , PA . Explore the D&B Business Directory at DandB.com."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brentwood Industries, Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/brentwood-industries-inc-profile_b5cfc80ef42e0a65",
+      "snippet": "Brentwood Industries, Inc. is a Manufacturing, Plastics Manufacturing, and Plastic, Packaging & Containers company located in Reading, Pennsylvania with $100 million in revenue and 754 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Brentwood Industries, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:59:20Z"
+    },
+    {
+      "title": "Brentwood Industries, Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/brentwood-industries-inc-profile_b5ca331af42e0b88",
+      "snippet": "Brentwood Industries, Inc. is a Plastic, Packaging & Containers, and Manufacturing company located in Reading, Pennsylvania with $100 million in revenue and 5 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Brentwood Industries, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:59:20Z"
+    },
+    {
+      "title": "Brentwood Industries, Inc. - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/brentwoodindustriesinc.-reading-pa-13623509.html",
+      "snippet": "Brentwood Industries, Inc. was founded in 1975, and is located at 500 Spring Ridge Dr in Reading. Additional information is available at www.brentwoodindustries.com or by contacting Peter Rye at (610) 374-5109.",
+      "query": "\"Brentwood Industries, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:59:20Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T12:59:26Z",
+  "company_status": "SUCCESS"
+}

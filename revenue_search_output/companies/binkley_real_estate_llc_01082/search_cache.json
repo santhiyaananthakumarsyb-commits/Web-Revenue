@@ -1,0 +1,50 @@
+{
+  "company_key": "binkley real estate llc|https://binkleyre.com",
+  "company_name": "Binkley Real Estate LLC",
+  "company_website": "https://binkleyre.com",
+  "created_at": "2026-10-23T13:38:47Z",
+  "searches": [
+    {
+      "query": "\"Binkley Real Estate LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:38:53Z",
+      "page_title": "\"Binkley Real Estate LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Binkley+Real+Estate+LLC%22+revenue",
+      "results": [
+        {
+          "title": "BINKLEY REAL ESTATE LLC - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/binkleyrealestatellc-fortwayne-in-3764663.html",
+          "snippet": "Business Info Founded 2009 Incorporated IN Annual Revenue $120,000.00 Employee Count 2 Industries Real Estate Brokers And Agents Contacts TYLER T BINKLEY"
+        }
+      ]
+    },
+    {
+      "query": "\"Binkley Real Estate LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:39:00Z",
+      "page_title": "\"Binkley Real Estate LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Binkley+Real+Estate+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BINKLEY REAL ESTATE LLC - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/binkleyrealestatellc-fortwayne-in-3764663.html",
+          "snippet": "Business Info Founded 2009 Incorporated IN Annual Revenue $120,000.00 Employee Count 2 Industries Real Estate Brokers And Agents Contacts TYLER T BINKLEY"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BINKLEY REAL ESTATE LLC - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/binkleyrealestatellc-fortwayne-in-3764663.html",
+      "snippet": "Business Info Founded 2009 Incorporated IN Annual Revenue $120,000.00 Employee Count 2 Industries Real Estate Brokers And Agents Contacts TYLER T BINKLEY",
+      "query": "\"Binkley Real Estate LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:38:53Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T13:39:00Z",
+  "company_status": "SUCCESS"
+}

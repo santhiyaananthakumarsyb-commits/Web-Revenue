@@ -1,0 +1,103 @@
+{
+  "company_key": "boulder county business report|https://bcbr.com",
+  "company_name": "Boulder County Business Report",
+  "company_website": "https://bcbr.com",
+  "created_at": "2026-10-23T13:06:48Z",
+  "searches": [
+    {
+      "query": "\"Boulder County Business Report\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:06:54Z",
+      "page_title": "\"Boulder County Business Report\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boulder+County+Business+Report%22+revenue",
+      "results": [
+        {
+          "title": "Boulder County Business Report 2026 Company Profile: Valuation ...",
+          "url": "https://pitchbook.com/profiles/company/100348-39",
+          "snippet": "Boulder County Business Report General Information Description Publisher of business newspapers. The company provides a source of information on all of the state's businesses from energy to tourism to agriculture, medicine, the arts, manufacturing and banking."
+        },
+        {
+          "title": "Boulder County Business Report Boulder CO, 80301 - Manta.com",
+          "url": "https://www.manta.com/c/mm31kqp/boulder-county-business-report",
+          "snippet": "Get information, directions, products, services, phone numbers, and reviews on Boulder County Business Report in Boulder, undefined Discover more Miscellaneous Publishing companies in Boulder on Manta.com"
+        },
+        {
+          "title": "Boulder County Business Report Company Profile -Sales, Contacts ...",
+          "url": "https://www.buzzfile.com/business/Boulder-County-Business-Report-303-440-4950",
+          "snippet": "Boulder County Business Report is in the Periodicals, Publishing Only industry within the Printing, Publishing and Allied Industries sector and has been in business for approximately 14 years."
+        },
+        {
+          "title": "Boulder County Business Report - Magazine Advertising Costs",
+          "url": "https://www.gaebler.com/Boulder+County+Business+Report-magazine-advertising-costs++33033",
+          "snippet": "Boulder County Business Report - Magazine Advertising Costs Wondering how much it costs to advertise in Boulder County Business Report? Boulder County Business Report is a twice a month magazine. The magazine has an approximate audience of 7,000 readers. Published in Boulder, Colorado, this magazine is a well-known trade publication."
+        }
+      ]
+    },
+    {
+      "query": "\"Boulder County Business Report\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:07:00Z",
+      "page_title": "\"Boulder County Business Report\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boulder+County+Business+Report%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Boulder County Business Report Boulder CO, 80301 - Manta.com",
+          "url": "https://www.manta.com/c/mm31kqp/boulder-county-business-report",
+          "snippet": "Categorized under Periodicals, Publishing Only. Our records show it was established in 2011 and incorporated in Colorado. Current estimates show this company has an annual revenue of 1029381 and employs a staff of approximately 15."
+        },
+        {
+          "title": "Boulder County Business Report 2026 Company Profile: Valuation ...",
+          "url": "https://pitchbook.com/profiles/company/100348-39",
+          "snippet": "Boulder County Business Report General Information Description Publisher of business newspapers. The company provides a source of information on all of the state's businesses from energy to tourism to agriculture, medicine, the arts, manufacturing and banking."
+        },
+        {
+          "title": "Boulder County business report : Boulder County's business journal",
+          "url": "https://searchworks.stanford.edu/view/in00000533630",
+          "snippet": "Includes frequent special publications, some issued collectively with other regional business reports, supplements, and companion publications."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Boulder County Business Report 2026 Company Profile: Valuation ...",
+      "url": "https://pitchbook.com/profiles/company/100348-39",
+      "snippet": "Boulder County Business Report General Information Description Publisher of business newspapers. The company provides a source of information on all of the state's businesses from energy to tourism to agriculture, medicine, the arts, manufacturing and banking.",
+      "query": "\"Boulder County Business Report\" revenue",
+      "search_collected_at": "2026-10-23T13:06:54Z"
+    },
+    {
+      "title": "Boulder County Business Report Boulder CO, 80301 - Manta.com",
+      "url": "https://www.manta.com/c/mm31kqp/boulder-county-business-report",
+      "snippet": "Get information, directions, products, services, phone numbers, and reviews on Boulder County Business Report in Boulder, undefined Discover more Miscellaneous Publishing companies in Boulder on Manta.com",
+      "query": "\"Boulder County Business Report\" revenue",
+      "search_collected_at": "2026-10-23T13:06:54Z"
+    },
+    {
+      "title": "Boulder County Business Report Company Profile -Sales, Contacts ...",
+      "url": "https://www.buzzfile.com/business/Boulder-County-Business-Report-303-440-4950",
+      "snippet": "Boulder County Business Report is in the Periodicals, Publishing Only industry within the Printing, Publishing and Allied Industries sector and has been in business for approximately 14 years.",
+      "query": "\"Boulder County Business Report\" revenue",
+      "search_collected_at": "2026-10-23T13:06:54Z"
+    },
+    {
+      "title": "Boulder County Business Report - Magazine Advertising Costs",
+      "url": "https://www.gaebler.com/Boulder+County+Business+Report-magazine-advertising-costs++33033",
+      "snippet": "Boulder County Business Report - Magazine Advertising Costs Wondering how much it costs to advertise in Boulder County Business Report? Boulder County Business Report is a twice a month magazine. The magazine has an approximate audience of 7,000 readers. Published in Boulder, Colorado, this magazine is a well-known trade publication.",
+      "query": "\"Boulder County Business Report\" revenue",
+      "search_collected_at": "2026-10-23T13:06:54Z"
+    },
+    {
+      "title": "Boulder County business report : Boulder County's business journal",
+      "url": "https://searchworks.stanford.edu/view/in00000533630",
+      "snippet": "Includes frequent special publications, some issued collectively with other regional business reports, supplements, and companion publications.",
+      "query": "\"Boulder County Business Report\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:07:00Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T13:07:00Z",
+  "company_status": "SUCCESS"
+}

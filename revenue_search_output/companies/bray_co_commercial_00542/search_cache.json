@@ -1,0 +1,67 @@
+{
+  "company_key": "bray & co. commercial|https://braycommercial.com",
+  "company_name": "Bray & Co. Commercial",
+  "company_website": "https://braycommercial.com",
+  "created_at": "2026-10-23T11:41:20Z",
+  "searches": [
+    {
+      "query": "\"Bray & Co. Commercial\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:41:25Z",
+      "page_title": "\"Bray & Co. Commercial\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bray+%26+Co.+Commercial%22+revenue",
+      "results": [
+        {
+          "title": "Bray & Co. Commercial - Grand Junction, CO - LoopNet",
+          "url": "https://www.loopnet.com/company/bray-co-commercial/vjtp2wdl/2/",
+          "snippet": "Bray Commercial has built its success on the Western Slope of Colorado for over 75 years, offering a wealth of experience and knowledge. With a constant presence in the business community and marketplace, the company maintains an extensive database of clients and properties at its fingertips. Bray Commercial is not just a team - it is a family. Led by CEO Robert Bray, the dedicated ..."
+        },
+        {
+          "title": "Brian Bray - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/brian-bray/4971740/",
+          "snippet": "Brian Bray, Managing Broker at Bray & Co. Commercial in Grand Junction, CO has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"Bray & Co. Commercial\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:41:31Z",
+      "page_title": "\"Bray & Co. Commercial\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bray+%26+Co.+Commercial%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bray & Co. Commercial - Grand Junction, CO - LoopNet",
+          "url": "https://www.loopnet.com/company/bray-co-commercial/vjtp2wdl/2/",
+          "snippet": "Bray Commercial has built its success on the Western Slope of Colorado for over 75 years, offering a wealth of experience and knowledge. With a constant presence in the business community and marketplace, the company maintains an extensive database of clients and properties at its fingertips. Bray Commercial is not just a team - it is a family. Led by CEO Robert Bray, the dedicated ..."
+        },
+        {
+          "title": "Brian Bray - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/brian-bray/4971740/",
+          "snippet": "Brian Bray, Managing Broker at Bray & Co. Commercial in Grand Junction, CO has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bray & Co. Commercial - Grand Junction, CO - LoopNet",
+      "url": "https://www.loopnet.com/company/bray-co-commercial/vjtp2wdl/2/",
+      "snippet": "Bray Commercial has built its success on the Western Slope of Colorado for over 75 years, offering a wealth of experience and knowledge. With a constant presence in the business community and marketplace, the company maintains an extensive database of clients and properties at its fingertips. Bray Commercial is not just a team - it is a family. Led by CEO Robert Bray, the dedicated ...",
+      "query": "\"Bray & Co. Commercial\" revenue",
+      "search_collected_at": "2026-10-23T11:41:25Z"
+    },
+    {
+      "title": "Brian Bray - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/brian-bray/4971740/",
+      "snippet": "Brian Bray, Managing Broker at Bray & Co. Commercial in Grand Junction, CO has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"Bray & Co. Commercial\" revenue",
+      "search_collected_at": "2026-10-23T11:41:25Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:41:31Z",
+  "company_status": "SUCCESS"
+}

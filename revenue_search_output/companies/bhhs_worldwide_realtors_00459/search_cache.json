@@ -1,0 +1,79 @@
+{
+  "company_key": "bhhs worldwide, realtors|https://bhhsworldwiderealtors.com",
+  "company_name": "BHHS Worldwide, REALTORS",
+  "company_website": "https://bhhsworldwiderealtors.com",
+  "created_at": "2026-10-23T11:23:32Z",
+  "searches": [
+    {
+      "query": "\"BHHS Worldwide, REALTORS\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:23:38Z",
+      "page_title": "\"BHHS Worldwide, REALTORS\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHHS+Worldwide%2C+REALTORS%22+revenue",
+      "results": [
+        {
+          "title": "BHHS Worldwide, REALTORS® Real Estate Brokerage - HAR.com",
+          "url": "https://www.har.com/berkshire-hathaway-h5-worldwid/broker_PWWR01",
+          "snippet": "BHHS Worldwide, REALTORS®, is a Texas real estate firm, located at 1727 Keller Parkway, Keller, TX 76248. BHHS Worldwide, REALTORS® provides a wide range of real estate services. Consumers continue to find value in having a real estate professional help them through the home buying and selling process."
+        },
+        {
+          "title": "BHHS Worldwide, REALTORS - Keller Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/bhhs-worldwide-realtors/2lbr34cl/",
+          "snippet": "Berkshire Hathaway HomeServices Worldwide, REALTORS is an independently owned and operated, full service real estate brokerage based in Keller, TX."
+        },
+        {
+          "title": "Bhhs Worldwide, Realtors Office Profile | realty.com",
+          "url": "https://www.realty.com/office/94623/bhhs_worldwide,_realtors",
+          "snippet": "Bhhs Worldwide, Realtors in , - Office profile including office information, real estate agents, office reviews, and office listings."
+        }
+      ]
+    },
+    {
+      "query": "\"BHHS Worldwide, REALTORS\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:23:43Z",
+      "page_title": "\"BHHS Worldwide, REALTORS\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHHS+Worldwide%2C+REALTORS%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BHHS Worldwide, REALTORS® Real Estate Brokerage - HAR.com",
+          "url": "https://www.har.com/berkshire-hathaway-h5-worldwid/broker_PWWR01",
+          "snippet": "BHHS Worldwide, REALTORS®, is a Texas real estate firm, located at 1727 Keller Parkway, Keller, TX 76248. BHHS Worldwide, REALTORS® provides a wide range of real estate services. Consumers continue to find value in having a real estate professional help them through the home buying and selling process."
+        },
+        {
+          "title": "Bhhs Worldwide, Realtors Office Profile | realty.com",
+          "url": "https://www.realty.com/office/94623/bhhs_worldwide,_realtors",
+          "snippet": "Bhhs Worldwide, Realtors in , - Office profile including office information, real estate agents, office reviews, and office listings."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BHHS Worldwide, REALTORS® Real Estate Brokerage - HAR.com",
+      "url": "https://www.har.com/berkshire-hathaway-h5-worldwid/broker_PWWR01",
+      "snippet": "BHHS Worldwide, REALTORS®, is a Texas real estate firm, located at 1727 Keller Parkway, Keller, TX 76248. BHHS Worldwide, REALTORS® provides a wide range of real estate services. Consumers continue to find value in having a real estate professional help them through the home buying and selling process.",
+      "query": "\"BHHS Worldwide, REALTORS\" revenue",
+      "search_collected_at": "2026-10-23T11:23:38Z"
+    },
+    {
+      "title": "BHHS Worldwide, REALTORS - Keller Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/bhhs-worldwide-realtors/2lbr34cl/",
+      "snippet": "Berkshire Hathaway HomeServices Worldwide, REALTORS is an independently owned and operated, full service real estate brokerage based in Keller, TX.",
+      "query": "\"BHHS Worldwide, REALTORS\" revenue",
+      "search_collected_at": "2026-10-23T11:23:38Z"
+    },
+    {
+      "title": "Bhhs Worldwide, Realtors Office Profile | realty.com",
+      "url": "https://www.realty.com/office/94623/bhhs_worldwide,_realtors",
+      "snippet": "Bhhs Worldwide, Realtors in , - Office profile including office information, real estate agents, office reviews, and office listings.",
+      "query": "\"BHHS Worldwide, REALTORS\" revenue",
+      "search_collected_at": "2026-10-23T11:23:38Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T11:23:43Z",
+  "company_status": "SUCCESS"
+}

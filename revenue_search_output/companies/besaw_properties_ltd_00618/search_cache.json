@@ -1,0 +1,113 @@
+{
+  "company_key": "besaw properties, ltd.|https://besawrealty.com",
+  "company_name": "Besaw Properties, Ltd.",
+  "company_website": "https://besawrealty.com",
+  "created_at": "2026-10-23T11:57:42Z",
+  "searches": [
+    {
+      "query": "\"Besaw Properties, Ltd.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:57:50Z",
+      "page_title": "\"Besaw Properties, Ltd.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Besaw+Properties%2C+Ltd.%22+revenue",
+      "results": [
+        {
+          "title": "About Us - Besaw Properties LTD",
+          "url": "https://besawrealty.com/about-us/",
+          "snippet": "Welcome to Besaw Properties, LTD. We are a team that serves with integrity. A Commercial Broker with over 30+ years in the industry, we take pride in being a partner to our clients. We listen, and we listen hard, we collaborate, and we provide you with a diverse spectrum of options to consider. Your business objectives are the first and overriding priority. We have a passion for what we do and ..."
+        },
+        {
+          "title": "Tim Besaw - Besaw Properties, Ltd. | LinkedIn",
+          "url": "https://www.linkedin.com/in/tim-besaw-11892017",
+          "snippet": "Besaw Properties, Ltd. · Commercial Real Estate Broker focusing in the Brown County market. Specializing in land, development, leasing, and sales of commercial buildings.."
+        },
+        {
+          "title": "Besaw Properties, Ltd. - Green Bay, WI - LoopNet",
+          "url": "https://www.loopnet.com/company/besaw-properties-ltd/vt1nt4dl/",
+          "snippet": "Besaw Properties, Ltd. - Green Bay, WI 1150 Springhurst Dr Green Bay, WI 54304 (920) 338-8080"
+        },
+        {
+          "title": "Besaw Properties, Ltd. - LinkedIn",
+          "url": "https://www.linkedin.com/company/besaw-properties-ltd",
+          "snippet": "Besaw Properties, Ltd. | 16 followers on LinkedIn. Integrity, Passion, and Results. Three pillars of quality that you are guaranteed at Besaw Properties Ltd. Experts in their field with industry ..."
+        },
+        {
+          "title": "Tim Besaw | Besaw Properties, Ltd. | Green Bay, WI - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/tim-besaw/78f1swwb",
+          "snippet": "With over 30 years in the real-estate industry, Tim specializes in retail, office, and industrial properties across the Green Bay and surrounding markets."
+        }
+      ]
+    },
+    {
+      "query": "\"Besaw Properties, Ltd.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:57:56Z",
+      "page_title": "\"Besaw Properties, Ltd.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Besaw+Properties%2C+Ltd.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Besaw Properties, Ltd. - LinkedIn",
+          "url": "https://www.linkedin.com/company/besaw-properties-ltd",
+          "snippet": "Besaw Properties, Ltd. | 16 followers on LinkedIn. Integrity, Passion, and Results. Three pillars of quality that you are guaranteed at Besaw Properties Ltd. Experts in their field with industry ..."
+        },
+        {
+          "title": "Tim Besaw | Besaw Properties, Ltd. | Green Bay, WI - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/tim-besaw/78f1swwb",
+          "snippet": "With over 30 years in the real-estate industry, Tim specializes in retail, office, and industrial properties across the Green Bay and surrounding markets."
+        },
+        {
+          "title": "Besaw Properties, Ltd. - Green Bay, WI - LoopNet",
+          "url": "https://www.loopnet.com/company/besaw-properties-ltd/vt1nt4dl/",
+          "snippet": "Welcome to Besaw & Associates Realty! With over 30 years in the Commercial Brokerage industry we continue to leverage our knowledge towards achieving your goals. With the expansion into the Residential market, we are now quickly disrupting the buying experience by exceeding expectiations with our proven system."
+        },
+        {
+          "title": "Tim Besaw - Besaw Properties, Ltd. | LinkedIn",
+          "url": "https://www.linkedin.com/in/tim-besaw-11892017",
+          "snippet": "Besaw Properties, Ltd. · Commercial Real Estate Broker focusing in the Brown County market. Specializing in land, development, leasing, and sales of commercial buildings.."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "About Us - Besaw Properties LTD",
+      "url": "https://besawrealty.com/about-us/",
+      "snippet": "Welcome to Besaw Properties, LTD. We are a team that serves with integrity. A Commercial Broker with over 30+ years in the industry, we take pride in being a partner to our clients. We listen, and we listen hard, we collaborate, and we provide you with a diverse spectrum of options to consider. Your business objectives are the first and overriding priority. We have a passion for what we do and ...",
+      "query": "\"Besaw Properties, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:57:50Z"
+    },
+    {
+      "title": "Tim Besaw - Besaw Properties, Ltd. | LinkedIn",
+      "url": "https://www.linkedin.com/in/tim-besaw-11892017",
+      "snippet": "Besaw Properties, Ltd. · Commercial Real Estate Broker focusing in the Brown County market. Specializing in land, development, leasing, and sales of commercial buildings..",
+      "query": "\"Besaw Properties, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:57:50Z"
+    },
+    {
+      "title": "Besaw Properties, Ltd. - Green Bay, WI - LoopNet",
+      "url": "https://www.loopnet.com/company/besaw-properties-ltd/vt1nt4dl/",
+      "snippet": "Besaw Properties, Ltd. - Green Bay, WI 1150 Springhurst Dr Green Bay, WI 54304 (920) 338-8080",
+      "query": "\"Besaw Properties, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:57:50Z"
+    },
+    {
+      "title": "Besaw Properties, Ltd. - LinkedIn",
+      "url": "https://www.linkedin.com/company/besaw-properties-ltd",
+      "snippet": "Besaw Properties, Ltd. | 16 followers on LinkedIn. Integrity, Passion, and Results. Three pillars of quality that you are guaranteed at Besaw Properties Ltd. Experts in their field with industry ...",
+      "query": "\"Besaw Properties, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:57:50Z"
+    },
+    {
+      "title": "Tim Besaw | Besaw Properties, Ltd. | Green Bay, WI - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/tim-besaw/78f1swwb",
+      "snippet": "With over 30 years in the real-estate industry, Tim specializes in retail, office, and industrial properties across the Green Bay and surrounding markets.",
+      "query": "\"Besaw Properties, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:57:50Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T11:57:56Z",
+  "company_status": "SUCCESS"
+}

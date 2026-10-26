@@ -1,0 +1,30 @@
+{
+  "company_key": "boardwalk realty - south street|https://boardwalkapartments.com",
+  "company_name": "Boardwalk Realty - South Street",
+  "company_website": "https://boardwalkapartments.com",
+  "created_at": "2026-10-23T11:19:48Z",
+  "searches": [
+    {
+      "query": "\"Boardwalk Realty - South Street\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:19:56Z",
+      "page_title": "\"Boardwalk Realty - South Street\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boardwalk+Realty+-+South+Street%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Boardwalk Realty - South Street\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:20:03Z",
+      "page_title": "\"Boardwalk Realty - South Street\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boardwalk+Realty+-+South+Street%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:20:03Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

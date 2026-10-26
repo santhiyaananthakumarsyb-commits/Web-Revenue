@@ -1,0 +1,103 @@
+{
+  "company_key": "bright realty llc|https://brightrealty.com",
+  "company_name": "Bright Realty LLC",
+  "company_website": "https://brightrealty.com",
+  "created_at": "2026-10-23T10:19:27Z",
+  "searches": [
+    {
+      "query": "\"Bright Realty LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:19:33Z",
+      "page_title": "\"Bright Realty LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bright+Realty+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Bright Realty LLC - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/1824832D:US",
+          "snippet": "Company profile page for Bright Realty LLC including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Bright Realty LLC Chula Vista, CA - filing information",
+          "url": "https://www.bizprofile.net/ca/chula-vista/bright-realty-llc",
+          "snippet": "Bright Realty LLC is a Chula Vista, CA based company incorporated on March 19, 2025. Filing details extracted from the California Secretary of State's Registry as of 3/25/2026."
+        },
+        {
+          "title": "BRIGHT REALTY LLC in Clifton, NJ | Company Info & Reviews",
+          "url": "https://www.bizapedia.com/nj/bright-realty-llc.html",
+          "snippet": "Bright Realty LLC is a Domestic Limited-Liability Company organized under the laws of the State of New Jersey. The business was filed on January 13, 2014 and is currently listed as Termination or Dissolution with the New Jersey Division of Revenue. The official file number for this entity is 0400627313. Mailing correspondence may be sent to 65 Kingsland Ave Ste 2 Clifton, NJ 07014. The ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bright Realty LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:19:39Z",
+      "page_title": "\"Bright Realty LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bright+Realty+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bright Realty LLC - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/1824832D:US",
+          "snippet": "Bright Realty, LLC operates as a real estate company. The Company offers property brokerage services specializes in residential investment properties for local and international owners. Bright ..."
+        },
+        {
+          "title": "Bright Realty LLC Chula Vista, CA - filing information",
+          "url": "https://www.bizprofile.net/ca/chula-vista/bright-realty-llc",
+          "snippet": "Bright Realty LLC is a Chula Vista, CA based company incorporated on March 19, 2025. Filing details extracted from the California Secretary of State's Registry as of 3/25/2026."
+        },
+        {
+          "title": "Bright Realty LLC - Lewisville Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/bright-realty-llc/z8hgq1wl/",
+          "snippet": "Founded in the 1950s by the late H.R. \"Bum\" Bright, former Dallas Cowboys owner and businessman, Bright Realty is the full-service commercial and residential real estate arm of parent company Bright Industries. Led by a family legacy of integrity and dedication, the Bright Realty team acts as developer, owner, and operator of its residential and commercial developments. Best known for the ..."
+        },
+        {
+          "title": "Parker Bright, Bright Realty LLC: Profile and Biography",
+          "url": "https://www.bloomberg.com/profile/person/25595738",
+          "snippet": "Parker Bright is Chief Executive Officer at Bright Realty LLC. See Parker Bright's compensation, career history, education, & memberships."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bright Realty LLC - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/1824832D:US",
+      "snippet": "Company profile page for Bright Realty LLC including stock price, company news, executives, board members, and contact information",
+      "query": "\"Bright Realty LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:19:33Z"
+    },
+    {
+      "title": "Bright Realty LLC Chula Vista, CA - filing information",
+      "url": "https://www.bizprofile.net/ca/chula-vista/bright-realty-llc",
+      "snippet": "Bright Realty LLC is a Chula Vista, CA based company incorporated on March 19, 2025. Filing details extracted from the California Secretary of State's Registry as of 3/25/2026.",
+      "query": "\"Bright Realty LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:19:33Z"
+    },
+    {
+      "title": "BRIGHT REALTY LLC in Clifton, NJ | Company Info & Reviews",
+      "url": "https://www.bizapedia.com/nj/bright-realty-llc.html",
+      "snippet": "Bright Realty LLC is a Domestic Limited-Liability Company organized under the laws of the State of New Jersey. The business was filed on January 13, 2014 and is currently listed as Termination or Dissolution with the New Jersey Division of Revenue. The official file number for this entity is 0400627313. Mailing correspondence may be sent to 65 Kingsland Ave Ste 2 Clifton, NJ 07014. The ...",
+      "query": "\"Bright Realty LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:19:33Z"
+    },
+    {
+      "title": "Bright Realty LLC - Lewisville Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/bright-realty-llc/z8hgq1wl/",
+      "snippet": "Founded in the 1950s by the late H.R. \"Bum\" Bright, former Dallas Cowboys owner and businessman, Bright Realty is the full-service commercial and residential real estate arm of parent company Bright Industries. Led by a family legacy of integrity and dedication, the Bright Realty team acts as developer, owner, and operator of its residential and commercial developments. Best known for the ...",
+      "query": "\"Bright Realty LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:19:39Z"
+    },
+    {
+      "title": "Parker Bright, Bright Realty LLC: Profile and Biography",
+      "url": "https://www.bloomberg.com/profile/person/25595738",
+      "snippet": "Parker Bright is Chief Executive Officer at Bright Realty LLC. See Parker Bright's compensation, career history, education, & memberships.",
+      "query": "\"Bright Realty LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:19:39Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T10:19:39Z",
+  "company_status": "SUCCESS"
+}

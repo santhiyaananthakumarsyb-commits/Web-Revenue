@@ -1,0 +1,101 @@
+{
+  "company_key": "birge & held asset management|https://birgeandheld.com",
+  "company_name": "Birge & Held Asset Management",
+  "company_website": "https://birgeandheld.com",
+  "created_at": "2026-10-23T09:54:14Z",
+  "searches": [
+    {
+      "query": "\"Birge & Held Asset Management\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:54:21Z",
+      "page_title": "\"Birge & Held Asset Management\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Birge+%26+Held+Asset+Management%22+revenue",
+      "results": [
+        {
+          "title": "Birge & Held Asset Management Revenue, Growth & Competitor Profile",
+          "url": "https://incfact.com/company/birgeheldassetmanagementll-carmel-in/",
+          "snippet": "Birge & Held Asset Management is classified as operating in the Lessors of Real Estate industry, NAICS Code 5311. Birge & Held Asset Management Annual Revenue and Growth Rate"
+        },
+        {
+          "title": "Annual Report on Birge & Held Asset Management's Revenue, Growth, SWOT ...",
+          "url": "https://incfact.com/company/birgeheldassetmanagement-indianapolis-in/",
+          "snippet": "Revenue, Growth, Competitors, Trends in the Company Report on Birge & Held Asset Management."
+        },
+        {
+          "title": "Birge & Held Asset Management LLC Company Profile: Financials ...",
+          "url": "https://www.privco.com/company/birge-held-asset",
+          "snippet": "Birge & Held Asset Management LLC is a privately-held company that operates in the real estate industry. Birge & Held Asset Management LLC headquarters are located in Indianapolis, Indiana."
+        },
+        {
+          "title": "Birge & Held Asset Management Company Profile -Sales, Contacts ...",
+          "url": "https://www.buzzfile.com/business/Aurum-317-419-6205",
+          "snippet": "Birge & Held Asset Management, LLC (trade name Aurum) is in the Real Estate Managers business. View competitors, revenue, employees, website and phone number."
+        }
+      ]
+    },
+    {
+      "query": "\"Birge & Held Asset Management\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:54:27Z",
+      "page_title": "\"Birge & Held Asset Management\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Birge+%26+Held+Asset+Management%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Annual Revenue, Growth & Competitor Analysis Report for Birge & Held ...",
+          "url": "https://incfact.com/company/birgeheldassetmanagementll-carmel-in/",
+          "snippet": "Birge & Held Asset Management is classified as operating in the Lessors of Real Estate industry, NAICS Code 5311. Birge & Held Asset Management Annual Revenue and Growth Rate ... Note: Birge & Held Asset Management's revenues are gauged from an analysis of company filings. Birge & Held Asset Management's Income Statement (based on Industry ..."
+        },
+        {
+          "title": "Annual Report on Birge & Held Asset Management's Revenue, Growth, SWOT ...",
+          "url": "https://incfact.com/company/birgeheldassetmanagement-indianapolis-in/",
+          "snippet": "Birge & Held Asset Management's annual revenues are $100 - $500 million (see exact revenue data) Birge & Held Asset Management's annual revenues are $100 - $500 million (see exact revenue data) What industry is the company in? Birge & Held Asset Management is classified as operating in the Apartment Rental industry, NAICS Code 53111."
+        },
+        {
+          "title": "Birge & Held Asset Management Company Profile -Sales, Contacts ...",
+          "url": "https://www.buzzfile.com/business/Aurum-317-419-6205",
+          "snippet": "Birge & Held Asset Management is estimated to generate $16.0 million in annual revenues, and employs approximately 135 people at this single location. This is a women owned and operated business."
+        },
+        {
+          "title": "Birge & Held Asset Management LLC Company Profile: Financials ...",
+          "url": "https://www.privco.com/company/birge-held-asset",
+          "snippet": "Birge & Held Asset Management LLC is a privately-held company that operates in the real estate industry. Birge & Held Asset Management LLC headquarters are located in Indianapolis, Indiana."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Birge & Held Asset Management Revenue, Growth & Competitor Profile",
+      "url": "https://incfact.com/company/birgeheldassetmanagementll-carmel-in/",
+      "snippet": "Birge & Held Asset Management is classified as operating in the Lessors of Real Estate industry, NAICS Code 5311. Birge & Held Asset Management Annual Revenue and Growth Rate",
+      "query": "\"Birge & Held Asset Management\" revenue",
+      "search_collected_at": "2026-10-23T09:54:21Z"
+    },
+    {
+      "title": "Annual Report on Birge & Held Asset Management's Revenue, Growth, SWOT ...",
+      "url": "https://incfact.com/company/birgeheldassetmanagement-indianapolis-in/",
+      "snippet": "Revenue, Growth, Competitors, Trends in the Company Report on Birge & Held Asset Management.",
+      "query": "\"Birge & Held Asset Management\" revenue",
+      "search_collected_at": "2026-10-23T09:54:21Z"
+    },
+    {
+      "title": "Birge & Held Asset Management LLC Company Profile: Financials ...",
+      "url": "https://www.privco.com/company/birge-held-asset",
+      "snippet": "Birge & Held Asset Management LLC is a privately-held company that operates in the real estate industry. Birge & Held Asset Management LLC headquarters are located in Indianapolis, Indiana.",
+      "query": "\"Birge & Held Asset Management\" revenue",
+      "search_collected_at": "2026-10-23T09:54:21Z"
+    },
+    {
+      "title": "Birge & Held Asset Management Company Profile -Sales, Contacts ...",
+      "url": "https://www.buzzfile.com/business/Aurum-317-419-6205",
+      "snippet": "Birge & Held Asset Management, LLC (trade name Aurum) is in the Real Estate Managers business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Birge & Held Asset Management\" revenue",
+      "search_collected_at": "2026-10-23T09:54:21Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T09:54:27Z",
+  "company_status": "SUCCESS"
+}

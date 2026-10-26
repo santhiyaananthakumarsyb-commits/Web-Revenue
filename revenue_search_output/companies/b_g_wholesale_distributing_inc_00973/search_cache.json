@@ -1,0 +1,30 @@
+{
+  "company_key": "b & g wholesale distributing, inc.|https://bngdist.com",
+  "company_name": "B & G Wholesale Distributing, Inc.",
+  "company_website": "https://bngdist.com",
+  "created_at": "2026-10-23T13:14:44Z",
+  "searches": [
+    {
+      "query": "\"B & G Wholesale Distributing, Inc.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:14:52Z",
+      "page_title": "\"B & G Wholesale Distributing, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B+%26+G+Wholesale+Distributing%2C+Inc.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"B & G Wholesale Distributing, Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:14:59Z",
+      "page_title": "\"B & G Wholesale Distributing, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B+%26+G+Wholesale+Distributing%2C+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T13:14:59Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

@@ -1,0 +1,178 @@
+{
+  "company_key": "bob oreilly|https://exprealty.com",
+  "company_name": "Bob OReilly",
+  "company_website": "https://exprealty.com",
+  "created_at": "2026-10-23T14:05:46Z",
+  "searches": [
+    {
+      "query": "\"Bob OReilly\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:05:52Z",
+      "page_title": "\"Bob OReilly\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bob+OReilly%22+revenue",
+      "results": [
+        {
+          "title": "Bob OReilly (@oreillybob) • Instagram photos and videos",
+          "url": "https://www.instagram.com/oreillybob/",
+          "snippet": "331 Followers, 587 Following, 180 Posts - Bob OReilly (@oreillybob) on Instagram: \"\""
+        },
+        {
+          "title": "Bob OReilly - Self-employed | LinkedIn",
+          "url": "https://www.linkedin.com/in/bob-oreilly-b93b5680",
+          "snippet": "Experience: Self-employed · Location: United States · 31 connections on LinkedIn. View Bob OReilly's profile on LinkedIn, a professional community of 1 billion members."
+        },
+        {
+          "title": "100+ \"Bob Oreilly\" profiles | LinkedIn",
+          "url": "https://www.linkedin.com/pub/dir/Bob/OReilly",
+          "snippet": "View the profiles of professionals named \"Bob Oreilly\" on LinkedIn. There are 100+ professionals named \"Bob Oreilly\", who use LinkedIn to exchange information, ideas, and opportunities."
+        },
+        {
+          "title": "Bob OReilly (@oreillyusa) • Instagram photos and videos",
+          "url": "https://www.instagram.com/oreillyusa/",
+          "snippet": "72 Followers, 40 Following, 7 Posts - See Instagram photos and videos from Bob OReilly (@oreillyusa)"
+        },
+        {
+          "title": "Bob Oreilly - Lawyer - Google | ZoomInfo",
+          "url": "https://www.zoominfo.com/p/Bob-Oreilly/-1870800819",
+          "snippet": "View Bob Oreilly's verified business profile as Lawyer at Google. Find contact's direct phone number, email address, work history, and more."
+        },
+        {
+          "title": "Bob Oreilly - YouTube",
+          "url": "https://www.youtube.com/@aussibob5",
+          "snippet": "Share your videos with friends, family, and the world"
+        },
+        {
+          "title": "bob oreilly - owner at bobs painting | LinkedIn",
+          "url": "https://au.linkedin.com/in/bob-oreilly-4202b127",
+          "snippet": "owner at bobs painting · Experience: bobs painting · Location: Greater Perth Area. View bob oreilly's profile on LinkedIn, a professional community of 1 billion members."
+        },
+        {
+          "title": "Bob OReilly (boboreilly) - Profile | Pinterest",
+          "url": "https://www.pinterest.com/boboreilly/",
+          "snippet": "See what Bob OReilly (boboreilly) has discovered on Pinterest, the world's biggest collection of ideas."
+        }
+      ]
+    },
+    {
+      "query": "\"Bob OReilly\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:05:59Z",
+      "page_title": "\"Bob OReilly\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bob+OReilly%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bob OReilly (@oreillybob) • Instagram photos and videos",
+          "url": "https://www.instagram.com/oreillybob/",
+          "snippet": "331 Followers, 587 Following, 180 Posts - Bob OReilly (@oreillybob) on Instagram: \"\""
+        },
+        {
+          "title": "Bob Oreilly - Lawyer - Google | ZoomInfo",
+          "url": "https://www.zoominfo.com/p/Bob-Oreilly/-1870800819",
+          "snippet": "View Bob Oreilly's verified business profile as Lawyer at Google. Find contact's direct phone number, email address, work history, and more."
+        },
+        {
+          "title": "Bob Oreilly - -- | LinkedIn",
+          "url": "https://www.linkedin.com/in/bob-oreilly-072a26219",
+          "snippet": "-- · Experience: Hasbro · Location: 24701. View Bob Oreilly's profile on LinkedIn, a professional community of 1 billion members."
+        },
+        {
+          "title": "Bob OReilly - owner at Done Well Plumbing | LinkedIn",
+          "url": "https://www.linkedin.com/in/bob-oreilly-08046345",
+          "snippet": "View Bob OReilly's profile on LinkedIn, a professional community of 1 billion members."
+        },
+        {
+          "title": "Bob Oreilly Profiles - Facebook",
+          "url": "https://www.facebook.com/public/Bob Oreilly/",
+          "snippet": "View the profiles of people named Bob Oreilly. Join Facebook to connect with Bob Oreilly and others you may know. Facebook gives people the power to..."
+        },
+        {
+          "title": "bob oreilly - owner at bobs painting | LinkedIn",
+          "url": "https://au.linkedin.com/in/bob-oreilly-4202b127",
+          "snippet": "owner at bobs painting · Experience: bobs painting · Location: Greater Perth Area. View bob oreilly's profile on LinkedIn, a professional community of 1 billion members."
+        },
+        {
+          "title": "Bob Oreilly (@boboreilly50) / Posts / X",
+          "url": "https://x.com/boboreilly50",
+          "snippet": "I haven't done any media interviews to this point because I want to keep the attention on the work. I don't work for myself anymore, I work for you. But it is important to relay to you what we're doing, and the media can be a tool for that. That's why we chose a long-form interview with Maria Bartiromo for our first interview. I hope you saw it. If you missed it, here are some of the ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bob OReilly (@oreillybob) • Instagram photos and videos",
+      "url": "https://www.instagram.com/oreillybob/",
+      "snippet": "331 Followers, 587 Following, 180 Posts - Bob OReilly (@oreillybob) on Instagram: \"\"",
+      "query": "\"Bob OReilly\" revenue",
+      "search_collected_at": "2026-10-23T14:05:52Z"
+    },
+    {
+      "title": "Bob OReilly - Self-employed | LinkedIn",
+      "url": "https://www.linkedin.com/in/bob-oreilly-b93b5680",
+      "snippet": "Experience: Self-employed · Location: United States · 31 connections on LinkedIn. View Bob OReilly's profile on LinkedIn, a professional community of 1 billion members.",
+      "query": "\"Bob OReilly\" revenue",
+      "search_collected_at": "2026-10-23T14:05:52Z"
+    },
+    {
+      "title": "100+ \"Bob Oreilly\" profiles | LinkedIn",
+      "url": "https://www.linkedin.com/pub/dir/Bob/OReilly",
+      "snippet": "View the profiles of professionals named \"Bob Oreilly\" on LinkedIn. There are 100+ professionals named \"Bob Oreilly\", who use LinkedIn to exchange information, ideas, and opportunities.",
+      "query": "\"Bob OReilly\" revenue",
+      "search_collected_at": "2026-10-23T14:05:52Z"
+    },
+    {
+      "title": "Bob OReilly (@oreillyusa) • Instagram photos and videos",
+      "url": "https://www.instagram.com/oreillyusa/",
+      "snippet": "72 Followers, 40 Following, 7 Posts - See Instagram photos and videos from Bob OReilly (@oreillyusa)",
+      "query": "\"Bob OReilly\" revenue",
+      "search_collected_at": "2026-10-23T14:05:52Z"
+    },
+    {
+      "title": "Bob Oreilly - Lawyer - Google | ZoomInfo",
+      "url": "https://www.zoominfo.com/p/Bob-Oreilly/-1870800819",
+      "snippet": "View Bob Oreilly's verified business profile as Lawyer at Google. Find contact's direct phone number, email address, work history, and more.",
+      "query": "\"Bob OReilly\" revenue",
+      "search_collected_at": "2026-10-23T14:05:52Z"
+    },
+    {
+      "title": "Bob Oreilly - YouTube",
+      "url": "https://www.youtube.com/@aussibob5",
+      "snippet": "Share your videos with friends, family, and the world",
+      "query": "\"Bob OReilly\" revenue",
+      "search_collected_at": "2026-10-23T14:05:52Z"
+    },
+    {
+      "title": "bob oreilly - owner at bobs painting | LinkedIn",
+      "url": "https://au.linkedin.com/in/bob-oreilly-4202b127",
+      "snippet": "owner at bobs painting · Experience: bobs painting · Location: Greater Perth Area. View bob oreilly's profile on LinkedIn, a professional community of 1 billion members.",
+      "query": "\"Bob OReilly\" revenue",
+      "search_collected_at": "2026-10-23T14:05:52Z"
+    },
+    {
+      "title": "Bob OReilly (boboreilly) - Profile | Pinterest",
+      "url": "https://www.pinterest.com/boboreilly/",
+      "snippet": "See what Bob OReilly (boboreilly) has discovered on Pinterest, the world's biggest collection of ideas.",
+      "query": "\"Bob OReilly\" revenue",
+      "search_collected_at": "2026-10-23T14:05:52Z"
+    },
+    {
+      "title": "Bob Oreilly - -- | LinkedIn",
+      "url": "https://www.linkedin.com/in/bob-oreilly-072a26219",
+      "snippet": "-- · Experience: Hasbro · Location: 24701. View Bob Oreilly's profile on LinkedIn, a professional community of 1 billion members.",
+      "query": "\"Bob OReilly\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T14:05:59Z"
+    },
+    {
+      "title": "Bob OReilly - owner at Done Well Plumbing | LinkedIn",
+      "url": "https://www.linkedin.com/in/bob-oreilly-08046345",
+      "snippet": "View Bob OReilly's profile on LinkedIn, a professional community of 1 billion members.",
+      "query": "\"Bob OReilly\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T14:05:59Z"
+    }
+  ],
+  "result_count": 10,
+  "updated_at": "2026-10-23T14:05:59Z",
+  "company_status": "SUCCESS"
+}

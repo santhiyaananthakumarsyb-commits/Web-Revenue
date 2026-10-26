@@ -1,0 +1,30 @@
+{
+  "company_key": "boston architectural college, design studies real estate|https://the-bac.edu",
+  "company_name": "Boston Architectural College, Design Studies Real Estate",
+  "company_website": "https://the-bac.edu",
+  "created_at": "2026-10-23T11:03:50Z",
+  "searches": [
+    {
+      "query": "\"Boston Architectural College, Design Studies Real Estate\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:03:57Z",
+      "page_title": "\"Boston Architectural College, Design Studies Real Estate\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boston+Architectural+College%2C+Design+Studies+Real+Estate%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Boston Architectural College, Design Studies Real Estate\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:04:04Z",
+      "page_title": "\"Boston Architectural College, Design Studies Real Estate\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boston+Architectural+College%2C+Design+Studies+Real+Estate%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:04:04Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

@@ -1,0 +1,74 @@
+{
+  "company_key": "blau & berg co.|https://blauberg.com",
+  "company_name": "Blau & Berg Co.",
+  "company_website": "https://blauberg.com",
+  "created_at": "2026-10-23T10:56:12Z",
+  "searches": [
+    {
+      "query": "\"Blau & Berg Co.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:56:17Z",
+      "page_title": "\"Blau & Berg Co.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blau+%26+Berg+Co.%22+revenue",
+      "results": [
+        {
+          "title": "The Blau & Berg Co. | Real Estate NJ",
+          "url": "https://re-nj.com/the-blau-berg-co/",
+          "snippet": "Areas of expertise in real estate: Site selection, acquisitions, dispositions, leasing, tenant representation, portfolio sales, asset repositioning and property & construction consulting Blau & Berg represents a wide variety of clients, from investors to manufacturers to logistic operators, and ..."
+        },
+        {
+          "title": "With decades of history, a close-knit team has guided Blau & Berg's ...",
+          "url": "https://re-nj.com/with-decades-of-history-a-close-knit-team-has-guided-blau-bergs-continued-growth/",
+          "snippet": "The Blau & Berg Co. was sold in 1985 to American Can Co., which later became Primerica Corp. But by 1990, Crimmins and fellow broker Charles Kavanagh acquired Blau & Berg as part of a divestiture by its parent company. The firm exists today with deep ties in the industrial sector and in port-centric areas like Newark, Jersey City and Secaucus."
+        }
+      ]
+    },
+    {
+      "query": "\"Blau & Berg Co.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:56:23Z",
+      "page_title": "\"Blau & Berg Co.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blau+%26+Berg+Co.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "The Blau & Berg Co. | Real Estate NJ",
+          "url": "https://re-nj.com/the-blau-berg-co/",
+          "snippet": "Areas of expertise in real estate: Site selection, acquisitions, dispositions, leasing, tenant representation, portfolio sales, asset repositioning and property & construction consulting Blau & Berg represents a wide variety of clients, from investors to manufacturers to logistic operators, and ..."
+        },
+        {
+          "title": "The Blau & Berg Co. | Real Estate NJ",
+          "url": "https://re-nj.com/the-blau-berg-co-2024/",
+          "snippet": "Areas of expertise in real estate: The Blau & Berg Co. is an independent, full-service commercial real estate brokerage firm. Investors, owners, buyers, landlords and tenants, to name a few. We provide our clients with a complete range of commercial real estate services, including site selection ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "The Blau & Berg Co. | Real Estate NJ",
+      "url": "https://re-nj.com/the-blau-berg-co/",
+      "snippet": "Areas of expertise in real estate: Site selection, acquisitions, dispositions, leasing, tenant representation, portfolio sales, asset repositioning and property & construction consulting Blau & Berg represents a wide variety of clients, from investors to manufacturers to logistic operators, and ...",
+      "query": "\"Blau & Berg Co.\" revenue",
+      "search_collected_at": "2026-10-23T10:56:17Z"
+    },
+    {
+      "title": "With decades of history, a close-knit team has guided Blau & Berg's ...",
+      "url": "https://re-nj.com/with-decades-of-history-a-close-knit-team-has-guided-blau-bergs-continued-growth/",
+      "snippet": "The Blau & Berg Co. was sold in 1985 to American Can Co., which later became Primerica Corp. But by 1990, Crimmins and fellow broker Charles Kavanagh acquired Blau & Berg as part of a divestiture by its parent company. The firm exists today with deep ties in the industrial sector and in port-centric areas like Newark, Jersey City and Secaucus.",
+      "query": "\"Blau & Berg Co.\" revenue",
+      "search_collected_at": "2026-10-23T10:56:17Z"
+    },
+    {
+      "title": "The Blau & Berg Co. | Real Estate NJ",
+      "url": "https://re-nj.com/the-blau-berg-co-2024/",
+      "snippet": "Areas of expertise in real estate: The Blau & Berg Co. is an independent, full-service commercial real estate brokerage firm. Investors, owners, buyers, landlords and tenants, to name a few. We provide our clients with a complete range of commercial real estate services, including site selection ...",
+      "query": "\"Blau & Berg Co.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:56:23Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T10:56:23Z",
+  "company_status": "SUCCESS"
+}

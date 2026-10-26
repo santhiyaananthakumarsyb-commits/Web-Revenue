@@ -1,0 +1,62 @@
+{
+  "company_key": "breg services, llc|https://bearreg.com",
+  "company_name": "BREG Services, LLC",
+  "company_website": "https://bearreg.com",
+  "created_at": "2026-10-23T10:46:54Z",
+  "searches": [
+    {
+      "query": "\"BREG Services, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:47:00Z",
+      "page_title": "\"BREG Services, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BREG+Services%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "WI DFI Corporations - Annual Report Lookup",
+          "url": "https://apps.dfi.wi.gov/apps/corpar/entityDetails.aspx?id=B092416",
+          "snippet": "Entity Information Name: BREG SERVICES, LLC ID: B092416 Date Organized: 12/10/2018 Status: ORG- Organized Registered Agent: STEPHEN R MILLS Registered Agent Address: 4015 80TH ST KENOSHA, WI 53142-4936"
+        },
+        {
+          "title": "BREG SERVICES, LLC in Kenosha, WI | Company Info & Reviews - Bizapedia",
+          "url": "https://www.bizapedia.com/wi/breg-services-llc.html",
+          "snippet": "Breg Services, LLC is a Domestic Limited-Liability Company organized under the laws of the State of Wisconsin. The business was filed on December 10, 2018 and is currently listed as Organized with the Wisconsin Department of Financial Institutions. The official file number for this entity is B092416. The principal office address is located at 4015 80th St Kenosha, WI 53142-4936. The Registered ..."
+        }
+      ]
+    },
+    {
+      "query": "\"BREG Services, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:47:07Z",
+      "page_title": "\"BREG Services, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BREG+Services%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BREG SERVICES, LLC in Kenosha, WI | Company Info & Reviews - Bizapedia",
+          "url": "https://www.bizapedia.com/wi/breg-services-llc.html",
+          "snippet": "Breg Services, LLC is a Domestic Limited-Liability Company organized under the laws of the State of Wisconsin. The business was filed on December 10, 2018 and is currently listed as Organized with the Wisconsin Department of Financial Institutions. The official file number for this entity is B092416. The principal office address is located at 4015 80th St Kenosha, WI 53142-4936. The Registered ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "WI DFI Corporations - Annual Report Lookup",
+      "url": "https://apps.dfi.wi.gov/apps/corpar/entityDetails.aspx?id=B092416",
+      "snippet": "Entity Information Name: BREG SERVICES, LLC ID: B092416 Date Organized: 12/10/2018 Status: ORG- Organized Registered Agent: STEPHEN R MILLS Registered Agent Address: 4015 80TH ST KENOSHA, WI 53142-4936",
+      "query": "\"BREG Services, LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:47:00Z"
+    },
+    {
+      "title": "BREG SERVICES, LLC in Kenosha, WI | Company Info & Reviews - Bizapedia",
+      "url": "https://www.bizapedia.com/wi/breg-services-llc.html",
+      "snippet": "Breg Services, LLC is a Domestic Limited-Liability Company organized under the laws of the State of Wisconsin. The business was filed on December 10, 2018 and is currently listed as Organized with the Wisconsin Department of Financial Institutions. The official file number for this entity is B092416. The principal office address is located at 4015 80th St Kenosha, WI 53142-4936. The Registered ...",
+      "query": "\"BREG Services, LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:47:00Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:47:07Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,79 @@
+{
+  "company_key": "better homes usa|https://vricommercial.com",
+  "company_name": "Better Homes USA",
+  "company_website": "https://vricommercial.com",
+  "created_at": "2026-10-23T13:06:36Z",
+  "searches": [
+    {
+      "query": "\"Better Homes USA\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:06:42Z",
+      "page_title": "\"Better Homes USA\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+USA%22+revenue",
+      "results": [
+        {
+          "title": "Better Homes USA - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/better-homes-usa-ltd/556241114",
+          "snippet": "View Better Homes USA (www.betterhomesusa.net) location in Ohio, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "better homes usa - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/better-homes-usa",
+          "snippet": "Better Homes USA is a real estate brokerage offering property listings and home buying and selling services."
+        },
+        {
+          "title": "Zachary Underwood - Broker Owner - Better Homes USA | ZoomInfo",
+          "url": "https://www.zoominfo.com/p/Zachary-Underwood/-960416719",
+          "snippet": "View Zachary Underwood's business profile as Broker Owner at Better Homes USA. Find contact's direct phone number, email address, work history, and more."
+        }
+      ]
+    },
+    {
+      "query": "\"Better Homes USA\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:06:48Z",
+      "page_title": "\"Better Homes USA\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+USA%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Better Homes USA - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/better-homes-usa-ltd/556241114",
+          "snippet": "View Better Homes USA (www.betterhomesusa.net) location in Ohio, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "better homes usa - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/better-homes-usa",
+          "snippet": "Better Homes USA is a real estate brokerage offering property listings and home buying and selling services."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Better Homes USA - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/better-homes-usa-ltd/556241114",
+      "snippet": "View Better Homes USA (www.betterhomesusa.net) location in Ohio, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Better Homes USA\" revenue",
+      "search_collected_at": "2026-10-23T13:06:42Z"
+    },
+    {
+      "title": "better homes usa - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/better-homes-usa",
+      "snippet": "Better Homes USA is a real estate brokerage offering property listings and home buying and selling services.",
+      "query": "\"Better Homes USA\" revenue",
+      "search_collected_at": "2026-10-23T13:06:42Z"
+    },
+    {
+      "title": "Zachary Underwood - Broker Owner - Better Homes USA | ZoomInfo",
+      "url": "https://www.zoominfo.com/p/Zachary-Underwood/-960416719",
+      "snippet": "View Zachary Underwood's business profile as Broker Owner at Better Homes USA. Find contact's direct phone number, email address, work history, and more.",
+      "query": "\"Better Homes USA\" revenue",
+      "search_collected_at": "2026-10-23T13:06:42Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:06:48Z",
+  "company_status": "SUCCESS"
+}

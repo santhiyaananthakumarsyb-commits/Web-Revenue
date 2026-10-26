@@ -1,0 +1,125 @@
+{
+  "company_key": "bluegrass sothebys international realty|https://sothebysrealty.com",
+  "company_name": "Bluegrass Sothebys International Realty",
+  "company_website": "https://sothebysrealty.com",
+  "created_at": "2026-10-23T10:07:46Z",
+  "searches": [
+    {
+      "query": "\"Bluegrass Sothebys International Realty\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:07:51Z",
+      "page_title": "\"Bluegrass Sothebys International Realty\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bluegrass+Sothebys+International+Realty%22+revenue",
+      "results": [
+        {
+          "title": "Lexington KY Brokerage - Sotheby's International Realty",
+          "url": "https://www.sothebysrealty.com/eng/office/180-b-1345-4000626/bluegrass-sothebys-international-realty/associates",
+          "snippet": "Bluegrass Sothebys International Realty is dedicated to customer service and as a result enjoys a solid customer base with many moderately priced sales anchored by high priced properties a mix that enables our company to offer excellent service to each and every client."
+        },
+        {
+          "title": "Steve Klein - Vice President at Bluegrass Sotheby's ... - ZoomInfo",
+          "url": "https://www.zoominfo.com/p/Steve-Klein/1441186695",
+          "snippet": "Bluegrass Sothebys International Realty opened its doors on the principles of integrity, honesty and quality of experience. Our highly qualified associates are some of Lexingtons finest. They are leaders in all forms of real estate transactions and h... Explore additional business information Discover more about Bluegrass Sotheby's ..."
+        },
+        {
+          "title": "Bill Ransdell - Realtor @ Bluegrass Sothebys International Realty | BA ...",
+          "url": "https://www.linkedin.com/in/bill-ransdell-5bb29118",
+          "snippet": "Realtor @ Bluegrass Sothebys International Realty | BA in Finance · Experienced Background in Leadership, Operations and Strategic Business Developement. A demonstrated history of working in the ..."
+        },
+        {
+          "title": "Paige Good - sales associate at Bluegrass Sothebys International Realty ...",
+          "url": "https://www.linkedin.com/in/paige-good-4b110924",
+          "snippet": "sales associate at Bluegrass Sothebys International Realty · Experience: Bluegrass Sothebys International Realty · Location: Lexington · 6 connections on LinkedIn. View Paige Good's profile ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bluegrass Sothebys International Realty\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:07:58Z",
+      "page_title": "\"Bluegrass Sothebys International Realty\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bluegrass+Sothebys+International+Realty%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Lexington KY Brokerage - Sotheby's International Realty",
+          "url": "https://www.sothebysrealty.com/eng/office/180-b-1345-4000626/bluegrass-sothebys-international-realty/associates",
+          "snippet": "Bluegrass Sothebys International Realty is dedicated to customer service and as a result enjoys a solid customer base with many moderately priced sales anchored by high priced properties a mix that enables our company to offer excellent service to each and every client."
+        },
+        {
+          "title": "Bill Ransdell - Realtor @ Bluegrass Sothebys International Realty | BA ...",
+          "url": "https://www.linkedin.com/in/bill-ransdell-5bb29118",
+          "snippet": "Realtor @ Bluegrass Sothebys International Realty | BA in Finance · Experienced Background in Leadership, Operations and Strategic Business Developement. A demonstrated history of working in the ..."
+        },
+        {
+          "title": "Paige Good - sales associate at Bluegrass Sothebys International Realty ...",
+          "url": "https://www.linkedin.com/in/paige-good-4b110924",
+          "snippet": "sales associate at Bluegrass Sothebys International Realty · Experience: Bluegrass Sothebys International Realty · Location: Lexington · 6 connections on LinkedIn. View Paige Good's profile ..."
+        },
+        {
+          "title": "Steve Klein - Vice President at Bluegrass Sotheby's ... - ZoomInfo",
+          "url": "https://www.zoominfo.com/p/Steve-Klein/1441186695",
+          "snippet": "Bluegrass Sothebys International Realty opened its doors on the principles of integrity, honesty and quality of experience. Our highly qualified associates are some of Lexingtons finest. They are leaders in all forms of real estate transactions and h... Explore additional business information Discover more about Bluegrass Sotheby's ..."
+        },
+        {
+          "title": "Bluegrass Sothebys International Realty - Lexington, KY 40502",
+          "url": "https://www.yellowpages.com/lexington-ky/mip/bluegrass-sothebys-international-realty-452206716",
+          "snippet": "Get reviews, hours, directions, coupons and more for Bluegrass Sothebys International Realty. Search for other Auctions on The Real Yellow Pages®."
+        },
+        {
+          "title": "agent at Bluegrass Sothebys International Realty - LinkedIn",
+          "url": "https://www.linkedin.com/in/lea-warner-3b030521",
+          "snippet": "agent at Bluegrass Sothebys International Realty · Experience: Bluegrass Sothebys International Realty · Location: Lexington · 4 connections on LinkedIn. View Lea Warner's profile on LinkedIn ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Lexington KY Brokerage - Sotheby's International Realty",
+      "url": "https://www.sothebysrealty.com/eng/office/180-b-1345-4000626/bluegrass-sothebys-international-realty/associates",
+      "snippet": "Bluegrass Sothebys International Realty is dedicated to customer service and as a result enjoys a solid customer base with many moderately priced sales anchored by high priced properties a mix that enables our company to offer excellent service to each and every client.",
+      "query": "\"Bluegrass Sothebys International Realty\" revenue",
+      "search_collected_at": "2026-10-23T10:07:51Z"
+    },
+    {
+      "title": "Steve Klein - Vice President at Bluegrass Sotheby's ... - ZoomInfo",
+      "url": "https://www.zoominfo.com/p/Steve-Klein/1441186695",
+      "snippet": "Bluegrass Sothebys International Realty opened its doors on the principles of integrity, honesty and quality of experience. Our highly qualified associates are some of Lexingtons finest. They are leaders in all forms of real estate transactions and h... Explore additional business information Discover more about Bluegrass Sotheby's ...",
+      "query": "\"Bluegrass Sothebys International Realty\" revenue",
+      "search_collected_at": "2026-10-23T10:07:51Z"
+    },
+    {
+      "title": "Bill Ransdell - Realtor @ Bluegrass Sothebys International Realty | BA ...",
+      "url": "https://www.linkedin.com/in/bill-ransdell-5bb29118",
+      "snippet": "Realtor @ Bluegrass Sothebys International Realty | BA in Finance · Experienced Background in Leadership, Operations and Strategic Business Developement. A demonstrated history of working in the ...",
+      "query": "\"Bluegrass Sothebys International Realty\" revenue",
+      "search_collected_at": "2026-10-23T10:07:51Z"
+    },
+    {
+      "title": "Paige Good - sales associate at Bluegrass Sothebys International Realty ...",
+      "url": "https://www.linkedin.com/in/paige-good-4b110924",
+      "snippet": "sales associate at Bluegrass Sothebys International Realty · Experience: Bluegrass Sothebys International Realty · Location: Lexington · 6 connections on LinkedIn. View Paige Good's profile ...",
+      "query": "\"Bluegrass Sothebys International Realty\" revenue",
+      "search_collected_at": "2026-10-23T10:07:51Z"
+    },
+    {
+      "title": "Bluegrass Sothebys International Realty - Lexington, KY 40502",
+      "url": "https://www.yellowpages.com/lexington-ky/mip/bluegrass-sothebys-international-realty-452206716",
+      "snippet": "Get reviews, hours, directions, coupons and more for Bluegrass Sothebys International Realty. Search for other Auctions on The Real Yellow Pages®.",
+      "query": "\"Bluegrass Sothebys International Realty\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:07:58Z"
+    },
+    {
+      "title": "agent at Bluegrass Sothebys International Realty - LinkedIn",
+      "url": "https://www.linkedin.com/in/lea-warner-3b030521",
+      "snippet": "agent at Bluegrass Sothebys International Realty · Experience: Bluegrass Sothebys International Realty · Location: Lexington · 4 connections on LinkedIn. View Lea Warner's profile on LinkedIn ...",
+      "query": "\"Bluegrass Sothebys International Realty\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:07:58Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T10:07:58Z",
+  "company_status": "SUCCESS"
+}

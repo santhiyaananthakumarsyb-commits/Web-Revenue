@@ -1,0 +1,50 @@
+{
+  "company_key": "brown-carrera realty llc|https://browncarrera.com",
+  "company_name": "Brown-Carrera Realty LLC",
+  "company_website": "https://browncarrera.com",
+  "created_at": "2026-10-23T13:57:45Z",
+  "searches": [
+    {
+      "query": "\"Brown-Carrera Realty LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:57:53Z",
+      "page_title": "\"Brown-Carrera Realty LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brown-Carrera+Realty+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Brown-Carrera Realty: Real Estate & Property Management | Home",
+          "url": "https://www.browncarrera.com/",
+          "snippet": "Whether you're in the market as a buyer, seller, renter, or investor, Brown-Carrera Realty LLC is your ultimate destination for all your real estate and property management needs."
+        }
+      ]
+    },
+    {
+      "query": "\"Brown-Carrera Realty LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:58:00Z",
+      "page_title": "\"Brown-Carrera Realty LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brown-Carrera+Realty+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brown-Carrera Realty: Real Estate & Property Management | Home",
+          "url": "https://www.browncarrera.com/",
+          "snippet": "Whether you're in the market as a buyer, seller, renter, or investor, Brown-Carrera Realty LLC is your ultimate destination for all your real estate and property management needs."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brown-Carrera Realty: Real Estate & Property Management | Home",
+      "url": "https://www.browncarrera.com/",
+      "snippet": "Whether you're in the market as a buyer, seller, renter, or investor, Brown-Carrera Realty LLC is your ultimate destination for all your real estate and property management needs.",
+      "query": "\"Brown-Carrera Realty LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:57:53Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T13:58:00Z",
+  "company_status": "SUCCESS"
+}

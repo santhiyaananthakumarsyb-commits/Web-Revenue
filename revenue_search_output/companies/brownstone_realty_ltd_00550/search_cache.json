@@ -1,0 +1,50 @@
+{
+  "company_key": "brownstone realty, ltd.|https://brownstonerealtydenver.com",
+  "company_name": "Brownstone Realty, Ltd.",
+  "company_website": "https://brownstonerealtydenver.com",
+  "created_at": "2026-10-23T11:43:05Z",
+  "searches": [
+    {
+      "query": "\"Brownstone Realty, Ltd.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:43:14Z",
+      "page_title": "\"Brownstone Realty, Ltd.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brownstone+Realty%2C+Ltd.%22+revenue",
+      "results": [
+        {
+          "title": "Brownstone Realty, LTD. - Apartment Brokerage, Rentals, and Property ...",
+          "url": "https://rentsdenver.com/",
+          "snippet": "About Us 25 years of property management, apartment rentals and sales in the Capitol Hill and Denver area. We are committed to serving your residential needs. Brownstone staff are here to personally answer any questions via phone, email or in the office. Our maintenance team responds quickly and is available to assist 24 hours a day. At Brownstone you will receive a superior experience ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Brownstone Realty, Ltd.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:43:23Z",
+      "page_title": "\"Brownstone Realty, Ltd.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brownstone+Realty%2C+Ltd.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brownstone Realty, LTD. - Apartment Brokerage, Rentals, and Property ...",
+          "url": "https://rentsdenver.com/",
+          "snippet": "About Us 25 years of property management, apartment rentals and sales in the Capitol Hill and Denver area. We are committed to serving your residential needs. Brownstone staff are here to personally answer any questions via phone, email or in the office. Our maintenance team responds quickly and is available to assist 24 hours a day. At Brownstone you will receive a superior experience ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brownstone Realty, LTD. - Apartment Brokerage, Rentals, and Property ...",
+      "url": "https://rentsdenver.com/",
+      "snippet": "About Us 25 years of property management, apartment rentals and sales in the Capitol Hill and Denver area. We are committed to serving your residential needs. Brownstone staff are here to personally answer any questions via phone, email or in the office. Our maintenance team responds quickly and is available to assist 24 hours a day. At Brownstone you will receive a superior experience ...",
+      "query": "\"Brownstone Realty, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:43:14Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:43:23Z",
+  "company_status": "SUCCESS"
+}

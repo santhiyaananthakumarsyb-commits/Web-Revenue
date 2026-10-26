@@ -1,0 +1,91 @@
+{
+  "company_key": "berkshire hathaway gross & jansen realtors|https://bhhsgrossjansen.com",
+  "company_name": "Berkshire Hathaway Gross & Jansen Realtors",
+  "company_website": "https://bhhsgrossjansen.com",
+  "created_at": "2026-10-23T11:14:39Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Gross & Jansen Realtors\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:14:44Z",
+      "page_title": "\"Berkshire Hathaway Gross & Jansen Realtors\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Gross+%26+Jansen+Realtors%22+revenue",
+      "results": [
+        {
+          "title": "Alison Callow - Real Estate Agent in Vernon, NJ - Reviews | Zillow",
+          "url": "https://www.zillow.com/profile/Alison Callow",
+          "snippet": "Visit Alison Callow's profile on Zillow to find ratings and reviews. Find great Vernon, NJ real estate professionals on Zillow like Alison Callow of Berkshire Hathaway Gross & Jansen Realtors"
+        },
+        {
+          "title": "Berkshire Hathaway Gross & Jansen REALTORS - Cybo",
+          "url": "https://www.cybo.com/US-biz/berkshire-hathaway-gross-jansen",
+          "snippet": "About Berkshire Hathaway Gross & Jansen REALTORS is dedicated to providing clients with the knowledge and information necessary to make their own decisions, without feeling pressured. Realtor Jenn believes in treating clients with respect and kindness, and finds fulfillment in happy clients at the end of a transaction."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Gross & Jansen Realtors\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:14:50Z",
+      "page_title": "\"Berkshire Hathaway Gross & Jansen Realtors\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Gross+%26+Jansen+Realtors%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Gross & Jansen REALTORS - Cybo",
+          "url": "https://www.cybo.com/US-biz/berkshire-hathaway-gross-jansen",
+          "snippet": "Business facts Estimated annual revenue~$342.0K Estimated employees~2 In business since2016 (est.) Estimate based on strong signals"
+        },
+        {
+          "title": "Alison Callow - Real Estate Agent in Vernon, NJ - Reviews | Zillow",
+          "url": "https://www.zillow.com/profile/Alison Callow",
+          "snippet": "Visit Alison Callow's profile on Zillow to find ratings and reviews. Find great Vernon, NJ real estate professionals on Zillow like Alison Callow of Berkshire Hathaway Gross & Jansen Realtors"
+        },
+        {
+          "title": "Hans H Gross, GRI Broker - Berkshire Hathaway gross & jansen realtors ...",
+          "url": "https://www.linkedin.com/in/hans-h-gross-gri-broker-b40030a",
+          "snippet": "graduate of the real estate institute, with a GRI designation Broker · Experience: Berkshire Hathaway gross &amp; jansen realtors · Education: bad ueberkingen germany · Location: Vernon · 500 ..."
+        },
+        {
+          "title": "Berkshire Hathaway Gross & Jansen Realtors - Vernon, NJ",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-gross-jansen-realtors/9kswvq7l/",
+          "snippet": "Berkshire Hathaway Gross & Jansen Realtors is a full service brokerage located in Vernon, NJ."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Alison Callow - Real Estate Agent in Vernon, NJ - Reviews | Zillow",
+      "url": "https://www.zillow.com/profile/Alison Callow",
+      "snippet": "Visit Alison Callow's profile on Zillow to find ratings and reviews. Find great Vernon, NJ real estate professionals on Zillow like Alison Callow of Berkshire Hathaway Gross & Jansen Realtors",
+      "query": "\"Berkshire Hathaway Gross & Jansen Realtors\" revenue",
+      "search_collected_at": "2026-10-23T11:14:44Z"
+    },
+    {
+      "title": "Berkshire Hathaway Gross & Jansen REALTORS - Cybo",
+      "url": "https://www.cybo.com/US-biz/berkshire-hathaway-gross-jansen",
+      "snippet": "About Berkshire Hathaway Gross & Jansen REALTORS is dedicated to providing clients with the knowledge and information necessary to make their own decisions, without feeling pressured. Realtor Jenn believes in treating clients with respect and kindness, and finds fulfillment in happy clients at the end of a transaction.",
+      "query": "\"Berkshire Hathaway Gross & Jansen Realtors\" revenue",
+      "search_collected_at": "2026-10-23T11:14:44Z"
+    },
+    {
+      "title": "Hans H Gross, GRI Broker - Berkshire Hathaway gross & jansen realtors ...",
+      "url": "https://www.linkedin.com/in/hans-h-gross-gri-broker-b40030a",
+      "snippet": "graduate of the real estate institute, with a GRI designation Broker · Experience: Berkshire Hathaway gross &amp; jansen realtors · Education: bad ueberkingen germany · Location: Vernon · 500 ...",
+      "query": "\"Berkshire Hathaway Gross & Jansen Realtors\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:14:50Z"
+    },
+    {
+      "title": "Berkshire Hathaway Gross & Jansen Realtors - Vernon, NJ",
+      "url": "https://www.loopnet.com/company/berkshire-hathaway-gross-jansen-realtors/9kswvq7l/",
+      "snippet": "Berkshire Hathaway Gross & Jansen Realtors is a full service brokerage located in Vernon, NJ.",
+      "query": "\"Berkshire Hathaway Gross & Jansen Realtors\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:14:50Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:14:50Z",
+  "company_status": "SUCCESS"
+}

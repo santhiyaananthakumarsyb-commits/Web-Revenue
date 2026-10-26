@@ -1,0 +1,44 @@
+{
+  "company_key": "boston college, carroll school of management|https://bc.edu",
+  "company_name": "Boston College, Carroll School of Management",
+  "company_website": "https://bc.edu",
+  "created_at": "2026-10-23T10:01:24Z",
+  "searches": [
+    {
+      "query": "\"Boston College, Carroll School of Management\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:01:32Z",
+      "page_title": "\"Boston College, Carroll School of Management\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boston+College%2C+Carroll+School+of+Management%22+revenue",
+      "results": [
+        {
+          "title": "Boston College, Carroll School of Management - Datanyze",
+          "url": "https://www.datanyze.com/companies/boston-college-carroll-school-of-management/1342064963",
+          "snippet": "Boston College, Carroll School of Management Profile and History Boston College, Carroll School of Management is a company that operates in the Colleges & Universities industry. It employs 20to49 people and has 5Mto10M of revenue. The company is headquartered in Chestnut Hill, Massachusetts."
+        }
+      ]
+    },
+    {
+      "query": "\"Boston College, Carroll School of Management\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:01:38Z",
+      "page_title": "\"Boston College, Carroll School of Management\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boston+College%2C+Carroll+School+of+Management%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Boston College, Carroll School of Management - Datanyze",
+      "url": "https://www.datanyze.com/companies/boston-college-carroll-school-of-management/1342064963",
+      "snippet": "Boston College, Carroll School of Management Profile and History Boston College, Carroll School of Management is a company that operates in the Colleges & Universities industry. It employs 20to49 people and has 5Mto10M of revenue. The company is headquartered in Chestnut Hill, Massachusetts.",
+      "query": "\"Boston College, Carroll School of Management\" revenue",
+      "search_collected_at": "2026-10-23T10:01:32Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:01:38Z",
+  "company_status": "SUCCESS"
+}

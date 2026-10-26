@@ -1,0 +1,91 @@
+{
+  "company_key": "berenson associates, inc.|https://berensononline.com",
+  "company_name": "Berenson Associates, Inc.",
+  "company_website": "https://berensononline.com",
+  "created_at": "2026-10-23T13:32:02Z",
+  "searches": [
+    {
+      "query": "\"Berenson Associates, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:32:08Z",
+      "page_title": "\"Berenson Associates, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berenson+Associates%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Berenson Associates, Inc. - $19.3 M Revenue | Kona Equity",
+          "url": "https://www.konaequity.com/company/berenson-associates,-inc.-4018968811/",
+          "snippet": "Berenson Associates, Inc. has an estimated annual revenue of $19.3 M, 74 employees, headquartered in Boston, MA, founded in 2012. Explore Berenson Associates, Inc. revenue history, growth rate, competitors, and more in the Real Estate Agency industry."
+        },
+        {
+          "title": "Berenson Associates, Inc. | BBB Business Profile",
+          "url": "https://www.bbb.org/us/ma/boston/profile/real-estate-development/berenson-associates-inc-0021-244044",
+          "snippet": "Berenson Associates, Inc. Phone: (617) 248-4200. — Not BBB Accredited. Real EMA Development in Boston, MA. See BBB rating, reviews, complaints, and more."
+        }
+      ]
+    },
+    {
+      "query": "\"Berenson Associates, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:32:14Z",
+      "page_title": "\"Berenson Associates, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berenson+Associates%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berenson Associates, Inc. - $19.3 M Revenue | Kona Equity",
+          "url": "https://www.konaequity.com/company/berenson-associates,-inc.-4018968811/",
+          "snippet": "Berenson Associates, Inc. has an estimated annual revenue of $19.3 M, 74 employees, headquartered in Boston, MA, founded in 2012. Explore Berenson Associates, Inc. revenue history, growth rate, competitors, and more in the Real Estate Agency industry."
+        },
+        {
+          "title": "BERENSON ASSOCIATES, INC. :: Massachusetts (US) - OpenCorporates",
+          "url": "https://opencorporates.com/companies/us_ma/000838434",
+          "snippet": "Free and open company data on Massachusetts (US) company BERENSON ASSOCIATES, INC. (company number 000838434), 841 WORCESTER ST, #326, NATICK, MA, 01760"
+        },
+        {
+          "title": "Berenson Associates, Inc. | BBB Business Profile",
+          "url": "https://www.bbb.org/us/ma/boston/profile/real-estate-development/berenson-associates-inc-0021-244044",
+          "snippet": "Berenson Associates, Inc. Phone: (617) 248-4200. — Not BBB Accredited. Real EMA Development in Boston, MA. See BBB rating, reviews, complaints, and more."
+        },
+        {
+          "title": "BERENSON ASSOCIATES, INC. in Boston, MA - Bizapedia",
+          "url": "https://www.bizapedia.com/ma/berenson-associates-inc.html",
+          "snippet": "Discover Company Info on BERENSON ASSOCIATES, INC. in Boston, MA, such as Contacts, Addresses, Reviews, and Registered Agent."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berenson Associates, Inc. - $19.3 M Revenue | Kona Equity",
+      "url": "https://www.konaequity.com/company/berenson-associates,-inc.-4018968811/",
+      "snippet": "Berenson Associates, Inc. has an estimated annual revenue of $19.3 M, 74 employees, headquartered in Boston, MA, founded in 2012. Explore Berenson Associates, Inc. revenue history, growth rate, competitors, and more in the Real Estate Agency industry.",
+      "query": "\"Berenson Associates, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:32:08Z"
+    },
+    {
+      "title": "Berenson Associates, Inc. | BBB Business Profile",
+      "url": "https://www.bbb.org/us/ma/boston/profile/real-estate-development/berenson-associates-inc-0021-244044",
+      "snippet": "Berenson Associates, Inc. Phone: (617) 248-4200. — Not BBB Accredited. Real EMA Development in Boston, MA. See BBB rating, reviews, complaints, and more.",
+      "query": "\"Berenson Associates, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:32:08Z"
+    },
+    {
+      "title": "BERENSON ASSOCIATES, INC. :: Massachusetts (US) - OpenCorporates",
+      "url": "https://opencorporates.com/companies/us_ma/000838434",
+      "snippet": "Free and open company data on Massachusetts (US) company BERENSON ASSOCIATES, INC. (company number 000838434), 841 WORCESTER ST, #326, NATICK, MA, 01760",
+      "query": "\"Berenson Associates, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:32:14Z"
+    },
+    {
+      "title": "BERENSON ASSOCIATES, INC. in Boston, MA - Bizapedia",
+      "url": "https://www.bizapedia.com/ma/berenson-associates-inc.html",
+      "snippet": "Discover Company Info on BERENSON ASSOCIATES, INC. in Boston, MA, such as Contacts, Addresses, Reviews, and Registered Agent.",
+      "query": "\"Berenson Associates, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:32:14Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T13:32:14Z",
+  "company_status": "SUCCESS"
+}

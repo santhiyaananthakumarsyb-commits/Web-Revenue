@@ -1,0 +1,137 @@
+{
+  "company_key": "b&l properties|https://rentblproperties.com",
+  "company_name": "B&L Properties",
+  "company_website": "https://rentblproperties.com",
+  "created_at": "2026-10-23T13:28:57Z",
+  "searches": [
+    {
+      "query": "\"B&L Properties\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:29:03Z",
+      "page_title": "\"B&L Properties\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B%26L+Properties%22+revenue",
+      "results": [
+        {
+          "title": "B&L Properties - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bl-properties-llc/1153955458",
+          "snippet": "View B&L Properties (www.blpropertiesllc.com) location in Pennsylvania, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "B&L Properties LLC Information - RocketReach",
+          "url": "https://rocketreach.co/bl-properties-llc-profile_b44020dbfdcecceb",
+          "snippet": "B&L Properties LLC is a Real Estate company located in Bangor, Maine with $5 million in revenue and 0 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "B&L PROPERTIES LIMITED - Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/04897223",
+          "snippet": "B&L PROPERTIES LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "B&L Properties - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/b-l-properties-b2ed",
+          "snippet": "B&L Properties provides off-campus student housing and related rental options for students attending universities in Pennsylvania. The company owns and manages apartments and houses near campuses, offering rental units tailored to student needs. B&L Properties also operates additional residential and commercial rental properties, along with storage units available for lease. Its services ..."
+        },
+        {
+          "title": "B&L Properties",
+          "url": "http://www.blpropertiesllc.com/",
+          "snippet": "B&L Properties The best off campus student housing in town Indiana PA Student Housing"
+        },
+        {
+          "title": "B&L Properties LLC - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/0726678D:US",
+          "snippet": "Company profile page for B&L Properties LLC including stock price, company news, executives, board members, and contact information"
+        }
+      ]
+    },
+    {
+      "query": "\"B&L Properties\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:29:08Z",
+      "page_title": "\"B&L Properties\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B%26L+Properties%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "B&L Properties - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bl-properties-llc/1153955458",
+          "snippet": "View B&L Properties (www.blpropertiesllc.com) location in Pennsylvania, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "B&L PROPERTIES LIMITED - Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/04897223",
+          "snippet": "B&L PROPERTIES LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "B&L Properties - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/b-l-properties-b2ed",
+          "snippet": "B&L Properties provides off-campus student housing and related rental options for students attending universities in Pennsylvania. The company owns and manages apartments and houses near campuses, offering rental units tailored to student needs."
+        },
+        {
+          "title": "B&L Properties LLC Information - RocketReach",
+          "url": "https://rocketreach.co/bl-properties-llc-profile_b44020dbfdcecceb",
+          "snippet": "B&L Properties LLC is a Real Estate company located in Bangor, Maine with $5 million in revenue and 0 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "B&L Properties Old Town ME, 04468 - Manta.com",
+          "url": "https://www.manta.com/c/mm8jk37/b-l-properties-llc",
+          "snippet": "Categorized under Time Share Sales, Leasing and Rentals. Our records show it was established in 2005 and incorporated in Maine. Current estimates show this company has an annual revenue of 255429 and employs a staff of approximately 2."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "B&L Properties - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/bl-properties-llc/1153955458",
+      "snippet": "View B&L Properties (www.blpropertiesllc.com) location in Pennsylvania, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"B&L Properties\" revenue",
+      "search_collected_at": "2026-10-23T13:29:03Z"
+    },
+    {
+      "title": "B&L Properties LLC Information - RocketReach",
+      "url": "https://rocketreach.co/bl-properties-llc-profile_b44020dbfdcecceb",
+      "snippet": "B&L Properties LLC is a Real Estate company located in Bangor, Maine with $5 million in revenue and 0 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"B&L Properties\" revenue",
+      "search_collected_at": "2026-10-23T13:29:03Z"
+    },
+    {
+      "title": "B&L PROPERTIES LIMITED - Companies House",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/04897223",
+      "snippet": "B&L PROPERTIES LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
+      "query": "\"B&L Properties\" revenue",
+      "search_collected_at": "2026-10-23T13:29:03Z"
+    },
+    {
+      "title": "B&L Properties - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/b-l-properties-b2ed",
+      "snippet": "B&L Properties provides off-campus student housing and related rental options for students attending universities in Pennsylvania. The company owns and manages apartments and houses near campuses, offering rental units tailored to student needs. B&L Properties also operates additional residential and commercial rental properties, along with storage units available for lease. Its services ...",
+      "query": "\"B&L Properties\" revenue",
+      "search_collected_at": "2026-10-23T13:29:03Z"
+    },
+    {
+      "title": "B&L Properties",
+      "url": "http://www.blpropertiesllc.com/",
+      "snippet": "B&L Properties The best off campus student housing in town Indiana PA Student Housing",
+      "query": "\"B&L Properties\" revenue",
+      "search_collected_at": "2026-10-23T13:29:03Z"
+    },
+    {
+      "title": "B&L Properties LLC - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/0726678D:US",
+      "snippet": "Company profile page for B&L Properties LLC including stock price, company news, executives, board members, and contact information",
+      "query": "\"B&L Properties\" revenue",
+      "search_collected_at": "2026-10-23T13:29:03Z"
+    },
+    {
+      "title": "B&L Properties Old Town ME, 04468 - Manta.com",
+      "url": "https://www.manta.com/c/mm8jk37/b-l-properties-llc",
+      "snippet": "Categorized under Time Share Sales, Leasing and Rentals. Our records show it was established in 2005 and incorporated in Maine. Current estimates show this company has an annual revenue of 255429 and employs a staff of approximately 2.",
+      "query": "\"B&L Properties\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:29:08Z"
+    }
+  ],
+  "result_count": 7,
+  "updated_at": "2026-10-23T13:29:08Z",
+  "company_status": "SUCCESS"
+}

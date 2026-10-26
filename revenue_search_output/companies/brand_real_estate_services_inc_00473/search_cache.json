@@ -1,0 +1,62 @@
+{
+  "company_key": "brand real estate services, inc.|https://brandproperties.com",
+  "company_name": "Brand Real Estate Services, Inc.",
+  "company_website": "https://brandproperties.com",
+  "created_at": "2026-10-23T11:26:25Z",
+  "searches": [
+    {
+      "query": "\"Brand Real Estate Services, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:26:32Z",
+      "page_title": "\"Brand Real Estate Services, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brand+Real+Estate+Services%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Brand Real Estate Services, Inc. - Duluth, GA - LoopNet",
+          "url": "https://www.loopnet.com/company/brand-real-estate-services-inc/l0fv3jfl/",
+          "snippet": "Brand Real Estate Services, Inc. is headquartered in the metro-Atlanta suburb of Duluth, Georgia. BRES provides landlord leasing, tenant representation, property management, asset management, investment sales, development, and construction services for its many clients delivering institutional quality with a boutique feel."
+        }
+      ]
+    },
+    {
+      "query": "\"Brand Real Estate Services, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:26:37Z",
+      "page_title": "\"Brand Real Estate Services, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brand+Real+Estate+Services%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brand Real Estate Services, Inc. - Duluth, GA - LoopNet",
+          "url": "https://www.loopnet.com/company/brand-real-estate-services-inc/l0fv3jfl/",
+          "snippet": "Brand Real Estate Services, Inc. is headquartered in the metro-Atlanta suburb of Duluth, Georgia. BRES provides landlord leasing, tenant representation, property management, asset management, investment sales, development, and construction services for its many clients delivering institutional quality with a boutique feel. The company was originally founded in 1959 to perform real estate ..."
+        },
+        {
+          "title": "BRAND REAL ESTATE SERVICES, INC. in Duluth, GA | Company Info - Bizapedia",
+          "url": "https://www.bizapedia.com/ga/brand-real-estate-services-inc.html",
+          "snippet": "Discover Company Info on BRAND REAL ESTATE SERVICES, INC. in Duluth, GA, such as Contacts, Addresses, Reviews, and Registered Agent."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brand Real Estate Services, Inc. - Duluth, GA - LoopNet",
+      "url": "https://www.loopnet.com/company/brand-real-estate-services-inc/l0fv3jfl/",
+      "snippet": "Brand Real Estate Services, Inc. is headquartered in the metro-Atlanta suburb of Duluth, Georgia. BRES provides landlord leasing, tenant representation, property management, asset management, investment sales, development, and construction services for its many clients delivering institutional quality with a boutique feel.",
+      "query": "\"Brand Real Estate Services, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:26:32Z"
+    },
+    {
+      "title": "BRAND REAL ESTATE SERVICES, INC. in Duluth, GA | Company Info - Bizapedia",
+      "url": "https://www.bizapedia.com/ga/brand-real-estate-services-inc.html",
+      "snippet": "Discover Company Info on BRAND REAL ESTATE SERVICES, INC. in Duluth, GA, such as Contacts, Addresses, Reviews, and Registered Agent.",
+      "query": "\"Brand Real Estate Services, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:26:37Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:26:37Z",
+  "company_status": "SUCCESS"
+}

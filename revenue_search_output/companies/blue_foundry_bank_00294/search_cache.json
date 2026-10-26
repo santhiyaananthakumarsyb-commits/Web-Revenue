@@ -1,0 +1,130 @@
+{
+  "company_key": "blue foundry bank|https://bluefoundrybank.com",
+  "company_name": "Blue Foundry Bank",
+  "company_website": "https://bluefoundrybank.com",
+  "created_at": "2026-10-23T10:47:43Z",
+  "searches": [
+    {
+      "query": "\"Blue Foundry Bank\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:47:50Z",
+      "page_title": "\"Blue Foundry Bank\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Foundry+Bank%22+revenue",
+      "results": [
+        {
+          "title": "Blue Foundry Bank - Overview - Funding, Revenue & Growth - 2026",
+          "url": "https://compworth.com/company/blue-foundry-bank",
+          "snippet": "Revenue, valuation, and funding figures for Blue Foundry Bank are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods."
+        },
+        {
+          "title": "Blue Foundry Bank - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/blue-foundry-bank/482543590",
+          "snippet": "View Blue Foundry Bank (www.bluefoundrybank.com) location in New Jersey, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Blue Foundry Bank Information - RocketReach",
+          "url": "https://rocketreach.co/blue-foundry-bank-profile_b45078cafc7985e2",
+          "snippet": "Blue Foundry Bank is a Banking company located in Rutherford, New Jersey with $40.7 million in revenue and 200 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Blue Foundry Bank Financial Reports - iBanknet",
+          "url": "https://www.ibanknet.com/scripts/callreports/getbank.aspx?ibnid=usa_797775",
+          "snippet": "Blue Foundry Bank Financial Reports - Balance Sheet, Income Statement, Capital Ratios"
+        },
+        {
+          "title": "Blue Foundry Bancorp - AnnualReports.com",
+          "url": "https://www.annualreports.com/Company/blue-foundry-bancorp",
+          "snippet": "Blue Foundry Bancorp is the holding company for Blue Foundry Bank, a place where things are made, purpose is formed, and ideas are crafted. Headquartered in Rutherford NJ, with presence in Bergen, Essex, Hudson, Morris, Passaic and Somerset counties, Blue Foundry Bank is a full-service, innovative bank serving the doers, movers, and shakers in their communities. They offer individuals and … More"
+        },
+        {
+          "title": "Blue Foundry Bank: Revenue, Competitors, Alternatives",
+          "url": "https://growjo.com/company/Blue_Foundry_Bank",
+          "snippet": "Blue Foundry Bank top competitors are Cornerstone Bank NJ, The First National Bank of Elmer and Financial Resources FCU and they have annual revenue of $44.3M and 205 employees."
+        }
+      ]
+    },
+    {
+      "query": "\"Blue Foundry Bank\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:47:56Z",
+      "page_title": "\"Blue Foundry Bank\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Foundry+Bank%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blue Foundry Bank - Overview - Funding, Revenue & Growth - 2026",
+          "url": "https://compworth.com/company/blue-foundry-bank",
+          "snippet": "Revenue, valuation, and funding figures for Blue Foundry Bank are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods."
+        },
+        {
+          "title": "Blue Foundry Bank - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/blue-foundry-bank/482543590",
+          "snippet": "View Blue Foundry Bank (www.bluefoundrybank.com) location in New Jersey, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Blue Foundry Bancorp - AnnualReports.com",
+          "url": "https://www.annualreports.com/Company/blue-foundry-bancorp",
+          "snippet": "Blue Foundry Bancorp is the holding company for Blue Foundry Bank, a place where things are made, purpose is formed, and ideas are crafted. Headquartered in Rutherford NJ, with presence in Bergen, Essex, Hudson, Morris, Passaic and Somerset counties, Blue Foundry Bank is a full-service, innovative bank serving the doers, movers, and shakers in ..."
+        },
+        {
+          "title": "Blue Foundry Bank Information - RocketReach",
+          "url": "https://rocketreach.co/blue-foundry-bank-profile_b45078cafc7985e2",
+          "snippet": "Blue Foundry Bank is a Banking company located in Rutherford, New Jersey with $40.7 million in revenue and 200 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Blue Foundry Bank: Revenue, Competitors, Alternatives",
+          "url": "https://growjo.com/company/Blue_Foundry_Bank",
+          "snippet": "Blue Foundry Bank top competitors are Cornerstone Bank NJ, The First National Bank of Elmer and Financial Resources FCU and they have annual revenue of $44.3M and 205 employees."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blue Foundry Bank - Overview - Funding, Revenue & Growth - 2026",
+      "url": "https://compworth.com/company/blue-foundry-bank",
+      "snippet": "Revenue, valuation, and funding figures for Blue Foundry Bank are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+      "query": "\"Blue Foundry Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:47:50Z"
+    },
+    {
+      "title": "Blue Foundry Bank - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/blue-foundry-bank/482543590",
+      "snippet": "View Blue Foundry Bank (www.bluefoundrybank.com) location in New Jersey, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Blue Foundry Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:47:50Z"
+    },
+    {
+      "title": "Blue Foundry Bank Information - RocketReach",
+      "url": "https://rocketreach.co/blue-foundry-bank-profile_b45078cafc7985e2",
+      "snippet": "Blue Foundry Bank is a Banking company located in Rutherford, New Jersey with $40.7 million in revenue and 200 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Blue Foundry Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:47:50Z"
+    },
+    {
+      "title": "Blue Foundry Bank Financial Reports - iBanknet",
+      "url": "https://www.ibanknet.com/scripts/callreports/getbank.aspx?ibnid=usa_797775",
+      "snippet": "Blue Foundry Bank Financial Reports - Balance Sheet, Income Statement, Capital Ratios",
+      "query": "\"Blue Foundry Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:47:50Z"
+    },
+    {
+      "title": "Blue Foundry Bancorp - AnnualReports.com",
+      "url": "https://www.annualreports.com/Company/blue-foundry-bancorp",
+      "snippet": "Blue Foundry Bancorp is the holding company for Blue Foundry Bank, a place where things are made, purpose is formed, and ideas are crafted. Headquartered in Rutherford NJ, with presence in Bergen, Essex, Hudson, Morris, Passaic and Somerset counties, Blue Foundry Bank is a full-service, innovative bank serving the doers, movers, and shakers in their communities. They offer individuals and … More",
+      "query": "\"Blue Foundry Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:47:50Z"
+    },
+    {
+      "title": "Blue Foundry Bank: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Blue_Foundry_Bank",
+      "snippet": "Blue Foundry Bank top competitors are Cornerstone Bank NJ, The First National Bank of Elmer and Financial Resources FCU and they have annual revenue of $44.3M and 205 employees.",
+      "query": "\"Blue Foundry Bank\" revenue",
+      "search_collected_at": "2026-10-23T10:47:50Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T10:47:56Z",
+  "company_status": "SUCCESS"
+}

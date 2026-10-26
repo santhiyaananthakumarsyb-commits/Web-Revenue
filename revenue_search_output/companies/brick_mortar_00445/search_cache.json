@@ -1,0 +1,74 @@
+{
+  "company_key": "brick & mortar|https://brickandmortar.com",
+  "company_name": "Brick & Mortar",
+  "company_website": "https://brickandmortar.com",
+  "created_at": "2026-10-23T11:20:29Z",
+  "searches": [
+    {
+      "query": "\"Brick & Mortar\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:20:34Z",
+      "page_title": "\"Brick & Mortar\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brick+%26+Mortar%22+revenue",
+      "results": [
+        {
+          "title": "Brick & Mortar - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/brick--mortar/356340883",
+          "snippet": "View Brick & Mortar (www.brickandmortar.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Brick & Mortar Business Insights Power BI Report - GitHub",
+          "url": "https://github.com/AmishBaskaran/brick-and-mortar-insights-powerbi",
+          "snippet": "The Brick & Mortar Business Insights Power BI Report offers comprehensive analytics and insights tailored for brick-and-mortar businesses. It provides key insights into revenue, sales quantity, profit analysis, and performance metrics through interactive dashboards."
+        }
+      ]
+    },
+    {
+      "query": "\"Brick & Mortar\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:20:41Z",
+      "page_title": "\"Brick & Mortar\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brick+%26+Mortar%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brick & Mortar Ventures Information - RocketReach",
+          "url": "https://rocketreach.co/brick-mortar-ventures-profile_b5d10d40f42e4255",
+          "snippet": "Brick & Mortar Ventures Questions What is the annual revenue of Brick & Mortar Ventures? The Brick & Mortar Ventures annual revenue was $5.2 million in 2026."
+        },
+        {
+          "title": "Brick & Mortar Business Insights Power BI Report - GitHub",
+          "url": "https://github.com/AmishBaskaran/brick-and-mortar-insights-powerbi",
+          "snippet": "The Brick & Mortar Business Insights Power BI Report offers comprehensive analytics and insights tailored for brick-and-mortar businesses. It provides key insights into revenue, sales quantity, profit analysis, and performance metrics through interactive dashboards."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brick & Mortar - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/brick--mortar/356340883",
+      "snippet": "View Brick & Mortar (www.brickandmortar.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Brick & Mortar\" revenue",
+      "search_collected_at": "2026-10-23T11:20:34Z"
+    },
+    {
+      "title": "Brick & Mortar Business Insights Power BI Report - GitHub",
+      "url": "https://github.com/AmishBaskaran/brick-and-mortar-insights-powerbi",
+      "snippet": "The Brick & Mortar Business Insights Power BI Report offers comprehensive analytics and insights tailored for brick-and-mortar businesses. It provides key insights into revenue, sales quantity, profit analysis, and performance metrics through interactive dashboards.",
+      "query": "\"Brick & Mortar\" revenue",
+      "search_collected_at": "2026-10-23T11:20:34Z"
+    },
+    {
+      "title": "Brick & Mortar Ventures Information - RocketReach",
+      "url": "https://rocketreach.co/brick-mortar-ventures-profile_b5d10d40f42e4255",
+      "snippet": "Brick & Mortar Ventures Questions What is the annual revenue of Brick & Mortar Ventures? The Brick & Mortar Ventures annual revenue was $5.2 million in 2026.",
+      "query": "\"Brick & Mortar\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:20:41Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T11:20:41Z",
+  "company_status": "SUCCESS"
+}

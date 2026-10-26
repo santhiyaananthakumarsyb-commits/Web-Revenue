@@ -1,0 +1,79 @@
+{
+  "company_key": "brubaker culton real estate and development|https://brubakerculton.com",
+  "company_name": "Brubaker Culton Real Estate and Development",
+  "company_website": "https://brubakerculton.com",
+  "created_at": "2026-10-23T12:12:48Z",
+  "searches": [
+    {
+      "query": "\"Brubaker Culton Real Estate and Development\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:12:57Z",
+      "page_title": "\"Brubaker Culton Real Estate and Development\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brubaker+Culton+Real+Estate+and+Development%22+revenue",
+      "results": [
+        {
+          "title": "Brubaker Culton Real Estate and Development | Hemet, San Jacinto ...",
+          "url": "http://www.brubakerculton.com/",
+          "snippet": "Brubaker-Culton Real Estate and Development Headquarters 990 W. Florida Ave. Hemet, CA 92543 Hours: Brubaker-Culton is open: Monday - Friday 8:00 AM - 5:00 PM Pacific Time Saturdays by Appointment Only"
+        },
+        {
+          "title": "Brubaker Culton Real Estate and Development - Hemet, CA",
+          "url": "https://www.loopnet.com/company/brubaker-culton-real-estate-and-development/srre354l/",
+          "snippet": "Brubaker-Culton Real Estate and Development has been serving the communities of Western Riverside County since 1946. We are a company where tradition meets the future; where you get the hometown service you expect plus world-wide marketing. Brubaker-Culton has the experience and resources to guarantee you the advertising and promotion you deserve to get you what you want - the highest price ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Brubaker Culton Real Estate and Development\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:13:02Z",
+      "page_title": "\"Brubaker Culton Real Estate and Development\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brubaker+Culton+Real+Estate+and+Development%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brubaker Culton Real Estate and Development - Hemet, CA",
+          "url": "https://www.loopnet.com/company/brubaker-culton-real-estate-and-development/srre354l/",
+          "snippet": "Brubaker-Culton Real Estate and Development has been serving the communities of Western Riverside County since 1946. We are a company where tradition meets the future; where you get the hometown service you expect plus world-wide marketing. Brubaker-Culton has the experience and resources to guarantee you the advertising and promotion you deserve to get you what you want - the highest price ..."
+        },
+        {
+          "title": "Brubaker Culton Real Estate and Development | Hemet, San Jacinto ...",
+          "url": "http://www.brubakerculton.com/",
+          "snippet": "Brubaker-Culton Real Estate and Development has been serving the communities of Western Riverside County since 1946. We are a company where tradition meets the future; where you get the hometown service you expect plus world-wide marketing! Brubaker-Culton has the experience and resources to guarantee you the advertising and promotion you deserve to get you what you want - the highest price ..."
+        },
+        {
+          "title": "Brubaker Culton Real Estate and Development | Hemet, CA - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/david-treadwell/cr1lbxgb",
+          "snippet": "David Treadwell Realtor, Brubaker Culton Real Estate and Development Hemet, CA 92543 Send a Message Mobile (951) 288-9075"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brubaker Culton Real Estate and Development | Hemet, San Jacinto ...",
+      "url": "http://www.brubakerculton.com/",
+      "snippet": "Brubaker-Culton Real Estate and Development Headquarters 990 W. Florida Ave. Hemet, CA 92543 Hours: Brubaker-Culton is open: Monday - Friday 8:00 AM - 5:00 PM Pacific Time Saturdays by Appointment Only",
+      "query": "\"Brubaker Culton Real Estate and Development\" revenue",
+      "search_collected_at": "2026-10-23T12:12:57Z"
+    },
+    {
+      "title": "Brubaker Culton Real Estate and Development - Hemet, CA",
+      "url": "https://www.loopnet.com/company/brubaker-culton-real-estate-and-development/srre354l/",
+      "snippet": "Brubaker-Culton Real Estate and Development has been serving the communities of Western Riverside County since 1946. We are a company where tradition meets the future; where you get the hometown service you expect plus world-wide marketing. Brubaker-Culton has the experience and resources to guarantee you the advertising and promotion you deserve to get you what you want - the highest price ...",
+      "query": "\"Brubaker Culton Real Estate and Development\" revenue",
+      "search_collected_at": "2026-10-23T12:12:57Z"
+    },
+    {
+      "title": "Brubaker Culton Real Estate and Development | Hemet, CA - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/david-treadwell/cr1lbxgb",
+      "snippet": "David Treadwell Realtor, Brubaker Culton Real Estate and Development Hemet, CA 92543 Send a Message Mobile (951) 288-9075",
+      "query": "\"Brubaker Culton Real Estate and Development\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:13:02Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T12:13:02Z",
+  "company_status": "SUCCESS"
+}

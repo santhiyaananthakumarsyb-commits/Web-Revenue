@@ -1,0 +1,30 @@
+{
+  "company_key": "berkley hall, llc|https://bhcllc.net",
+  "company_name": "Berkley Hall, LLC",
+  "company_website": "https://bhcllc.net",
+  "created_at": "2026-10-23T12:06:25Z",
+  "searches": [
+    {
+      "query": "\"Berkley Hall, LLC\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:06:33Z",
+      "page_title": "\"Berkley Hall, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkley+Hall%2C+LLC%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Berkley Hall, LLC\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:06:41Z",
+      "page_title": "\"Berkley Hall, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkley+Hall%2C+LLC%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T12:06:41Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

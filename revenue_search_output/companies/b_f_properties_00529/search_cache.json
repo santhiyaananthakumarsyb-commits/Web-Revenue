@@ -1,0 +1,103 @@
+{
+  "company_key": "b&f properties|https://bfproperty.com",
+  "company_name": "B&F Properties",
+  "company_website": "https://bfproperty.com",
+  "created_at": "2026-10-23T11:38:36Z",
+  "searches": [
+    {
+      "query": "\"B&F Properties\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:38:42Z",
+      "page_title": "\"B&F Properties\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B%26F+Properties%22+revenue",
+      "results": [
+        {
+          "title": "B&F Properties - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bf-properties/20698479",
+          "snippet": "View B&F Properties (www.luxury-apartments-lancaster-pa.com) location in Pennsylvania, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "B&F Properties Company Profile | Management and Employees List - Datanyze",
+          "url": "https://www.datanyze.com/companies/b-f-properties/20698479",
+          "snippet": "B&F Properties Profile and History B&F Properties is a company that operates in the Real Estate industry. It employs 10to19 people and has 1Mto5M of revenue. The company is headquartered in Lancaster, Pennsylvania."
+        },
+        {
+          "title": "B&F Properties Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/b-f-partners-overview",
+          "snippet": "Discover essential details about B&F Properties, including address, contact, and journey of our company's evolution."
+        },
+        {
+          "title": "B&F PROPERTIES INC | D&B Business Directory - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles/bf-properties-inc.c4fdc8e2b5cf0718dd78b3338486f931",
+          "snippet": "Explore the company profile for B&F PROPERTIES INC, including overview, industry, competitors, and key business details from the D&B Business Directory."
+        }
+      ]
+    },
+    {
+      "query": "\"B&F Properties\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:38:48Z",
+      "page_title": "\"B&F Properties\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B%26F+Properties%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "B&F Properties - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/bf-properties/20698479",
+          "snippet": "View B&F Properties (www.luxury-apartments-lancaster-pa.com) location in Pennsylvania, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "B&F Properties - Growth Outlook - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/b-f-properties/growth_outlook",
+          "snippet": "B&F Properties is a real estate company that provides apartment rental services."
+        },
+        {
+          "title": "B&F Properties Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/b-f-partners-overview",
+          "snippet": "Discover essential details about B&F Properties, including address, contact, and journey of our company's evolution."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "B&F Properties - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/bf-properties/20698479",
+      "snippet": "View B&F Properties (www.luxury-apartments-lancaster-pa.com) location in Pennsylvania, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"B&F Properties\" revenue",
+      "search_collected_at": "2026-10-23T11:38:42Z"
+    },
+    {
+      "title": "B&F Properties Company Profile | Management and Employees List - Datanyze",
+      "url": "https://www.datanyze.com/companies/b-f-properties/20698479",
+      "snippet": "B&F Properties Profile and History B&F Properties is a company that operates in the Real Estate industry. It employs 10to19 people and has 1Mto5M of revenue. The company is headquartered in Lancaster, Pennsylvania.",
+      "query": "\"B&F Properties\" revenue",
+      "search_collected_at": "2026-10-23T11:38:42Z"
+    },
+    {
+      "title": "B&F Properties Overview - Salary.com",
+      "url": "https://www.salary.com/research/company/b-f-partners-overview",
+      "snippet": "Discover essential details about B&F Properties, including address, contact, and journey of our company's evolution.",
+      "query": "\"B&F Properties\" revenue",
+      "search_collected_at": "2026-10-23T11:38:42Z"
+    },
+    {
+      "title": "B&F PROPERTIES INC | D&B Business Directory - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles/bf-properties-inc.c4fdc8e2b5cf0718dd78b3338486f931",
+      "snippet": "Explore the company profile for B&F PROPERTIES INC, including overview, industry, competitors, and key business details from the D&B Business Directory.",
+      "query": "\"B&F Properties\" revenue",
+      "search_collected_at": "2026-10-23T11:38:42Z"
+    },
+    {
+      "title": "B&F Properties - Growth Outlook - Crunchbase",
+      "url": "https://www.crunchbase.com/organization/b-f-properties/growth_outlook",
+      "snippet": "B&F Properties is a real estate company that provides apartment rental services.",
+      "query": "\"B&F Properties\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:38:48Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T11:38:48Z",
+  "company_status": "SUCCESS"
+}

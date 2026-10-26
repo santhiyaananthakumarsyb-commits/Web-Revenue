@@ -1,0 +1,79 @@
+{
+  "company_key": "burke real estate group, inc.|https://burkegroup.net",
+  "company_name": "Burke Real Estate Group, Inc.",
+  "company_website": "https://burkegroup.net",
+  "created_at": "2026-10-23T11:43:49Z",
+  "searches": [
+    {
+      "query": "\"Burke Real Estate Group, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:43:55Z",
+      "page_title": "\"Burke Real Estate Group, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burke+Real+Estate+Group%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BURKE REAL ESTATE GROUP, INC. - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/burkerealestategroupinc.-costamesa-ca-18764080.html",
+          "snippet": "Since 1983, Burke Real Estate Group, Inc. has been providing Real Estate Managers from Costa Mesa. Burke Real Estate Group, Inc. is incorporated in California. Burke Real Estate Group, Inc. has estimated annual revenues of $1,400,000.00 and also employs an estimated 15 employees."
+        },
+        {
+          "title": "BURKE REAL ESTATE GROUP, INC. - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.burke_real_estate_group_inc.44eb82ce33ac3599509f440e75ed3510.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BURKE REAL ESTATE GROUP, INC. of Round Rock, Texas. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    },
+    {
+      "query": "\"Burke Real Estate Group, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:44:02Z",
+      "page_title": "\"Burke Real Estate Group, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burke+Real+Estate+Group%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BURKE REAL ESTATE GROUP, INC. - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/burkerealestategroupinc.-costamesa-ca-18764080.html",
+          "snippet": "Since 1983, Burke Real Estate Group, Inc. has been providing Real Estate Managers from Costa Mesa. Burke Real Estate Group, Inc. is incorporated in California. Burke Real Estate Group, Inc. has estimated annual revenues of $1,400,000.00 and also employs an estimated 15 employees."
+        },
+        {
+          "title": "BURKE REAL ESTATE GROUP, INC. - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.burke_real_estate_group_inc.44eb82ce33ac3599509f440e75ed3510.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BURKE REAL ESTATE GROUP, INC. of Round Rock, Texas. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Burke Real Estate Group Inc/CA - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/1911189D:US",
+          "snippet": "Burke Real Estate Group, Inc. of California operates as a real estate developer. The Company provides senior housing development, real estate brokerage, property, and investment management services."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BURKE REAL ESTATE GROUP, INC. - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/burkerealestategroupinc.-costamesa-ca-18764080.html",
+      "snippet": "Since 1983, Burke Real Estate Group, Inc. has been providing Real Estate Managers from Costa Mesa. Burke Real Estate Group, Inc. is incorporated in California. Burke Real Estate Group, Inc. has estimated annual revenues of $1,400,000.00 and also employs an estimated 15 employees.",
+      "query": "\"Burke Real Estate Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:43:55Z"
+    },
+    {
+      "title": "BURKE REAL ESTATE GROUP, INC. - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.burke_real_estate_group_inc.44eb82ce33ac3599509f440e75ed3510.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BURKE REAL ESTATE GROUP, INC. of Round Rock, Texas. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Burke Real Estate Group, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:43:55Z"
+    },
+    {
+      "title": "Burke Real Estate Group Inc/CA - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/1911189D:US",
+      "snippet": "Burke Real Estate Group, Inc. of California operates as a real estate developer. The Company provides senior housing development, real estate brokerage, property, and investment management services.",
+      "query": "\"Burke Real Estate Group, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:44:02Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T11:44:02Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,57 @@
+{
+  "company_key": "buck consultants, llc|https://buck.com",
+  "company_name": "Buck Consultants, LLC",
+  "company_website": "https://buck.com",
+  "created_at": "2026-10-23T11:54:30Z",
+  "searches": [
+    {
+      "query": "\"Buck Consultants, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:54:38Z",
+      "page_title": "\"Buck Consultants, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buck+Consultants%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Buck Consultants, LLC | (913) 631-6265 | Shawnee, Kansas - AllBiz",
+          "url": "https://www.allbiz.com/business/buck-consultants-llc_1240-913-631-6265",
+          "snippet": "Kathryn Taylor is the primary contact at Buck Consultants, LLC. Buck Consultants, LLC generates approximately USD 2,300,000 in revenue annually, and employs around 25 people at this location."
+        }
+      ]
+    },
+    {
+      "query": "\"Buck Consultants, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:54:45Z",
+      "page_title": "\"Buck Consultants, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buck+Consultants%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Buck Consultants, LLC Benefits & Perks | PayScale",
+          "url": "https://www.payscale.com/research/US/Employer=Buck_Consultants,_LLC/Benefits",
+          "snippet": "Buck Consultants, LLC employee benefits and perks data. Find information about retirement plans, insurance benefits, paid time off, reviews, and more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Buck Consultants, LLC | (913) 631-6265 | Shawnee, Kansas - AllBiz",
+      "url": "https://www.allbiz.com/business/buck-consultants-llc_1240-913-631-6265",
+      "snippet": "Kathryn Taylor is the primary contact at Buck Consultants, LLC. Buck Consultants, LLC generates approximately USD 2,300,000 in revenue annually, and employs around 25 people at this location.",
+      "query": "\"Buck Consultants, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:54:38Z"
+    },
+    {
+      "title": "Buck Consultants, LLC Benefits & Perks | PayScale",
+      "url": "https://www.payscale.com/research/US/Employer=Buck_Consultants,_LLC/Benefits",
+      "snippet": "Buck Consultants, LLC employee benefits and perks data. Find information about retirement plans, insurance benefits, paid time off, reviews, and more.",
+      "query": "\"Buck Consultants, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:54:45Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:54:45Z",
+  "company_status": "SUCCESS"
+}

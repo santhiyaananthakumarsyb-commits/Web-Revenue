@@ -1,0 +1,74 @@
+{
+  "company_key": "bush real estate group inc|https://bushrealestategroup.com",
+  "company_name": "Bush Real Estate Group Inc",
+  "company_website": "https://bushrealestategroup.com",
+  "created_at": "2026-10-23T12:28:03Z",
+  "searches": [
+    {
+      "query": "\"Bush Real Estate Group Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:28:09Z",
+      "page_title": "\"Bush Real Estate Group Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bush+Real+Estate+Group+Inc%22+revenue",
+      "results": [
+        {
+          "title": "BUSH REAL ESTATE GROUP INC Chesapeake VA, 23320 - Company Profile - Cortera",
+          "url": "https://start.cortera.com/company/research/m1l0qyk6m/bush-real-estate-group-inc/",
+          "snippet": "Free Business profile for BUSH REAL ESTATE GROUP INC at 1206 Copper Stone Cir, Chesapeake, VA, 23320-8261, US. BUSH REAL ESTATE GROUP INC specializes in: Real Estate Agents and Managers."
+        },
+        {
+          "title": "Bush Real Estate Group Inc. Office Profile | realty.com",
+          "url": "https://www.realty.com/office/717540/bush_real_estate_group_inc.",
+          "snippet": "Bush Real Estate Group Inc. in Chesapeake, VA - Office profile including office information, real estate agents, office reviews, and office listings."
+        }
+      ]
+    },
+    {
+      "query": "\"Bush Real Estate Group Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:28:15Z",
+      "page_title": "\"Bush Real Estate Group Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bush+Real+Estate+Group+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BUSH REAL ESTATE GROUP INC Chesapeake VA, 23320 - Company Profile - Cortera",
+          "url": "https://start.cortera.com/company/research/m1l0qyk6m/bush-real-estate-group-inc/",
+          "snippet": "Free Business profile for BUSH REAL ESTATE GROUP INC at 1206 Copper Stone Cir, Chesapeake, VA, 23320-8261, US. BUSH REAL ESTATE GROUP INC specializes in: Real Estate Agents and Managers."
+        },
+        {
+          "title": "Bush Real Estate Group Inc - Newnan, GA 30263",
+          "url": "https://www.yellowpages.com/newnan-ga/mip/bush-real-estate-group-inc-566636843",
+          "snippet": "More Info General Info Bush Real Estate Group offers property buying and selling services. Established in 1978, it is a full-service real estate brokerage company. The group offers online mortgage calculators. Bush Real Estate Group s properties feature four- and five-bedroom units. The company manages a staff of more than 130 employees. It offers marketing, financial and legal services. Bush ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BUSH REAL ESTATE GROUP INC Chesapeake VA, 23320 - Company Profile - Cortera",
+      "url": "https://start.cortera.com/company/research/m1l0qyk6m/bush-real-estate-group-inc/",
+      "snippet": "Free Business profile for BUSH REAL ESTATE GROUP INC at 1206 Copper Stone Cir, Chesapeake, VA, 23320-8261, US. BUSH REAL ESTATE GROUP INC specializes in: Real Estate Agents and Managers.",
+      "query": "\"Bush Real Estate Group Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:28:09Z"
+    },
+    {
+      "title": "Bush Real Estate Group Inc. Office Profile | realty.com",
+      "url": "https://www.realty.com/office/717540/bush_real_estate_group_inc.",
+      "snippet": "Bush Real Estate Group Inc. in Chesapeake, VA - Office profile including office information, real estate agents, office reviews, and office listings.",
+      "query": "\"Bush Real Estate Group Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:28:09Z"
+    },
+    {
+      "title": "Bush Real Estate Group Inc - Newnan, GA 30263",
+      "url": "https://www.yellowpages.com/newnan-ga/mip/bush-real-estate-group-inc-566636843",
+      "snippet": "More Info General Info Bush Real Estate Group offers property buying and selling services. Established in 1978, it is a full-service real estate brokerage company. The group offers online mortgage calculators. Bush Real Estate Group s properties feature four- and five-bedroom units. The company manages a staff of more than 130 employees. It offers marketing, financial and legal services. Bush ...",
+      "query": "\"Bush Real Estate Group Inc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:28:15Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T12:28:15Z",
+  "company_status": "SUCCESS"
+}

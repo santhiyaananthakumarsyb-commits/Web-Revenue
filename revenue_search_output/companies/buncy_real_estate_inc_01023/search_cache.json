@@ -1,0 +1,101 @@
+{
+  "company_key": "buncy real estate, inc|https://buncyrealestate.com",
+  "company_name": "Buncy Real Estate, Inc",
+  "company_website": "https://buncyrealestate.com",
+  "created_at": "2026-10-23T13:25:38Z",
+  "searches": [
+    {
+      "query": "\"Buncy Real Estate, Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:43Z",
+      "page_title": "\"Buncy Real Estate, Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buncy+Real+Estate%2C+Inc%22+revenue",
+      "results": [
+        {
+          "title": "Raymond P. Buncy - Buncy Real Estate, Inc., Delevan, New York",
+          "url": "https://allpeople.com/raymond+p+buncy_buncy-real-estate-inc_1a-us",
+          "snippet": "Found 1 colleague at Buncy Real Estate, Inc.. There are 9 other people named Raymond P. Buncy on AllPeople. Find more info on AllPeople about Raymond P. Buncy and Buncy Real Estate, Inc., as well as people who work for similar businesses nearby, colleagues for other branches, and more people with a similar name."
+        },
+        {
+          "title": "Buncy Real Estate, Inc. · 364 Lakeview Blvd., Delevan, New York 14042-9427",
+          "url": "https://opengovny.com/corporation/2008860",
+          "snippet": "Buncy Real Estate, Inc. (DOS# 2008860) is a business entity registered with State of New York, Department of State (NYSDOS). The business filing date is March 12, 1996."
+        },
+        {
+          "title": "BUNCY REAL ESTATE, INC. in Delevan, NY | Company Info & Reviews - Bizapedia",
+          "url": "https://www.bizapedia.com/ny/buncy-real-estate-inc.html",
+          "snippet": "Buncy Real Estate, Inc. is a Domestic Business Corporation organized under the laws of the State of New York. The business was filed on March 12, 1996 and is currently listed as Entity Not Found in Sos Active Entities List with the New York Department of State. The official file number for this entity is 2008860. The principal office address is located at 364 Lakeview Blvd Delevan, NY 14042 ..."
+        },
+        {
+          "title": "Raymond P. Buncy: Positions, Relations and Network - MarketScreener",
+          "url": "https://www.marketscreener.com/insider/RAYMOND-P-BUNCY-A29Q2T/",
+          "snippet": "Chief Executive Officer at Buncy Real Estate, Inc., Discover Raymond P. Buncy's known position history, network and 0 relationships. Find out about his known public assets."
+        }
+      ]
+    },
+    {
+      "query": "\"Buncy Real Estate, Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:49Z",
+      "page_title": "\"Buncy Real Estate, Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buncy+Real+Estate%2C+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Buncy Real Estate, Inc. · 364 Lakeview Blvd., Delevan, New ... - OpenGovNY",
+          "url": "https://opengovny.com/corporation/2008860",
+          "snippet": "Buncy Real Estate, Inc. (DOS# 2008860) is a business entity registered with State of New York, Department of State (NYSDOS). The business filing date is March 12, 1996."
+        },
+        {
+          "title": "Raymond P. Buncy - Buncy Real Estate, Inc., Delevan, New York - AllPeople",
+          "url": "https://allpeople.com/raymond+p+buncy_buncy-real-estate-inc_1a-us",
+          "snippet": "Found 1 colleague at Buncy Real Estate, Inc.. There are 9 other people named Raymond P. Buncy on AllPeople. Find more info on AllPeople about Raymond P. Buncy and Buncy Real Estate, Inc., as well as people who work for similar businesses nearby, colleagues for other branches, and more people with a similar name."
+        },
+        {
+          "title": "BUNCY REAL ESTATE, INC. in Delevan, NY | Company Info & Reviews - Bizapedia",
+          "url": "https://www.bizapedia.com/ny/buncy-real-estate-inc.html",
+          "snippet": "Buncy Real Estate, Inc. is a Domestic Business Corporation organized under the laws of the State of New York. The business was filed on March 12, 1996 and is currently listed as Entity Not Found in Sos Active Entities List with the New York Department of State. The official file number for this entity is 2008860. The principal office address is located at 364 Lakeview Blvd Delevan, NY 14042 ..."
+        },
+        {
+          "title": "Raymond P. Buncy: Positions, Relations and Network - MarketScreener",
+          "url": "https://www.marketscreener.com/insider/RAYMOND-P-BUNCY-A29Q2T/",
+          "snippet": "Chief Executive Officer at Buncy Real Estate, Inc., Discover Raymond P. Buncy's known position history, network and 0 relationships. Find out about his known public assets."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Raymond P. Buncy - Buncy Real Estate, Inc., Delevan, New York",
+      "url": "https://allpeople.com/raymond+p+buncy_buncy-real-estate-inc_1a-us",
+      "snippet": "Found 1 colleague at Buncy Real Estate, Inc.. There are 9 other people named Raymond P. Buncy on AllPeople. Find more info on AllPeople about Raymond P. Buncy and Buncy Real Estate, Inc., as well as people who work for similar businesses nearby, colleagues for other branches, and more people with a similar name.",
+      "query": "\"Buncy Real Estate, Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:25:43Z"
+    },
+    {
+      "title": "Buncy Real Estate, Inc. · 364 Lakeview Blvd., Delevan, New York 14042-9427",
+      "url": "https://opengovny.com/corporation/2008860",
+      "snippet": "Buncy Real Estate, Inc. (DOS# 2008860) is a business entity registered with State of New York, Department of State (NYSDOS). The business filing date is March 12, 1996.",
+      "query": "\"Buncy Real Estate, Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:25:43Z"
+    },
+    {
+      "title": "BUNCY REAL ESTATE, INC. in Delevan, NY | Company Info & Reviews - Bizapedia",
+      "url": "https://www.bizapedia.com/ny/buncy-real-estate-inc.html",
+      "snippet": "Buncy Real Estate, Inc. is a Domestic Business Corporation organized under the laws of the State of New York. The business was filed on March 12, 1996 and is currently listed as Entity Not Found in Sos Active Entities List with the New York Department of State. The official file number for this entity is 2008860. The principal office address is located at 364 Lakeview Blvd Delevan, NY 14042 ...",
+      "query": "\"Buncy Real Estate, Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:25:43Z"
+    },
+    {
+      "title": "Raymond P. Buncy: Positions, Relations and Network - MarketScreener",
+      "url": "https://www.marketscreener.com/insider/RAYMOND-P-BUNCY-A29Q2T/",
+      "snippet": "Chief Executive Officer at Buncy Real Estate, Inc., Discover Raymond P. Buncy's known position history, network and 0 relationships. Find out about his known public assets.",
+      "query": "\"Buncy Real Estate, Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:25:43Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T13:25:49Z",
+  "company_status": "SUCCESS"
+}

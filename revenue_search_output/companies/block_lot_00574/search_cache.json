@@ -1,0 +1,96 @@
+{
+  "company_key": "block+lot|https://balrealestate.com",
+  "company_name": "Block+Lot",
+  "company_website": "https://balrealestate.com",
+  "created_at": "2026-10-23T11:48:09Z",
+  "searches": [
+    {
+      "query": "\"Block+Lot\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:48:14Z",
+      "page_title": "\"Block+Lot\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Block%2BLot%22+revenue",
+      "results": [
+        {
+          "title": "Block+Lot - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/blocklot/363501781",
+          "snippet": "View Block+Lot (www.balrealestate.com) location in Kentucky, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Block+Lot - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/block-lot",
+          "snippet": "Block+Lot is a real estate company that offers property development, management, brokerage, and other services."
+        },
+        {
+          "title": "Block+Lot - News & Analysis - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/block-lot/news_and_analysis",
+          "snippet": "Block+Lot is a real estate company that offers property development, management, brokerage, and other services."
+        },
+        {
+          "title": "Block+Lot - Lexington Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/block-lot/tgf1wx8l/5/",
+          "snippet": "Born in the spring of 2013, Block+Lot was the creation of three proud Lexingtonians. From Downtown to the Suburban markets, they are devoted to meeting the commercial real estate needs of the city and region that they love. Block+Lot's founders set out to create a well-rounded firm whose mission is to provide premium commercial real estate services through a unique combination of experience ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Block+Lot\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:48:20Z",
+      "page_title": "\"Block+Lot\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Block%2BLot%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Block+Lot - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/blocklot/363501781",
+          "snippet": "View Block+Lot (www.balrealestate.com) location in Kentucky, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Block+Lot - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/block-lot",
+          "snippet": "Block+Lot is a real estate company that offers property development, management, brokerage, and other services."
+        },
+        {
+          "title": "Block+Lot - News & Analysis - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/block-lot/news_and_analysis",
+          "snippet": "Block+Lot is a real estate company that offers property development, management, brokerage, and other services."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Block+Lot - Overview, News & Similar companies | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/blocklot/363501781",
+      "snippet": "View Block+Lot (www.balrealestate.com) location in Kentucky, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Block+Lot\" revenue",
+      "search_collected_at": "2026-10-23T11:48:14Z"
+    },
+    {
+      "title": "Block+Lot - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/block-lot",
+      "snippet": "Block+Lot is a real estate company that offers property development, management, brokerage, and other services.",
+      "query": "\"Block+Lot\" revenue",
+      "search_collected_at": "2026-10-23T11:48:14Z"
+    },
+    {
+      "title": "Block+Lot - News & Analysis - Crunchbase",
+      "url": "https://www.crunchbase.com/organization/block-lot/news_and_analysis",
+      "snippet": "Block+Lot is a real estate company that offers property development, management, brokerage, and other services.",
+      "query": "\"Block+Lot\" revenue",
+      "search_collected_at": "2026-10-23T11:48:14Z"
+    },
+    {
+      "title": "Block+Lot - Lexington Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/block-lot/tgf1wx8l/5/",
+      "snippet": "Born in the spring of 2013, Block+Lot was the creation of three proud Lexingtonians. From Downtown to the Suburban markets, they are devoted to meeting the commercial real estate needs of the city and region that they love. Block+Lot's founders set out to create a well-rounded firm whose mission is to provide premium commercial real estate services through a unique combination of experience ...",
+      "query": "\"Block+Lot\" revenue",
+      "search_collected_at": "2026-10-23T11:48:14Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:48:20Z",
+  "company_status": "SUCCESS"
+}

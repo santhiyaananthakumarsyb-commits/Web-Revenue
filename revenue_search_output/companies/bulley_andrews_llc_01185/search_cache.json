@@ -1,0 +1,91 @@
+{
+  "company_key": "bulley & andrews, llc|https://bulley.com",
+  "company_name": "Bulley & Andrews, LLC",
+  "company_website": "https://bulley.com",
+  "created_at": "2026-10-23T14:01:08Z",
+  "searches": [
+    {
+      "query": "\"Bulley & Andrews, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:01:15Z",
+      "page_title": "\"Bulley & Andrews, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bulley+%26+Andrews%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Bulley & Andrews, LLC Company Profile | Chicago, Illinois | Competitors ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bulley__andrews_llc.783cf0157f10946627fd5b63354ac92a.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Bulley & Andrews, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Bulley & Andrews, LLC",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bulley__andrews_llc.53a84918c3ba874b622c15a812099aa6.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Bulley & Andrews, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Bulley & Andrews, LLC - Buzzfile",
+          "url": "https://www.buzzfile.com/business/Bulley.And.Andrews,-LLC-773-235-2433",
+          "snippet": "Bulley & Andrews is in the Commercial and Office Building, New Construction industry within the Construction - General Contractors & Operative Builders sector and has been in business for approximately 135 years."
+        }
+      ]
+    },
+    {
+      "query": "\"Bulley & Andrews, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:01:21Z",
+      "page_title": "\"Bulley & Andrews, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bulley+%26+Andrews%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bulley & Andrews, LLC - Companies - IndexBox Platform",
+          "url": "https://app.indexbox.io/companies/profile/1833397/",
+          "snippet": "Revenue Bulley & Andrews, LLC LinkedIn page Bulley & Andrews, LLC YouTube page Bulley & Andrews, LLC Instagram page Request for Quote Company is likely to buy Cement Doors Electric Wiring HVAC Units Insulation Materials Lighting Fixtures Paint Plumbing Fixtures Steel Beams Windows Company is likely to sell Concrete Mixers Construction Equipment (e.g., Bulldozers) Construction Nails Cranes ..."
+        },
+        {
+          "title": "Bulley & Andrews, LLC Company Profile | Chicago, Illinois | Competitors ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bulley__andrews_llc.783cf0157f10946627fd5b63354ac92a.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Bulley & Andrews, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Bulley & Andrews, LLC",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bulley__andrews_llc.53a84918c3ba874b622c15a812099aa6.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Bulley & Andrews, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bulley & Andrews, LLC Company Profile | Chicago, Illinois | Competitors ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bulley__andrews_llc.783cf0157f10946627fd5b63354ac92a.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Bulley & Andrews, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Bulley & Andrews, LLC\" revenue",
+      "search_collected_at": "2026-10-23T14:01:15Z"
+    },
+    {
+      "title": "Bulley & Andrews, LLC",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bulley__andrews_llc.53a84918c3ba874b622c15a812099aa6.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Bulley & Andrews, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Bulley & Andrews, LLC\" revenue",
+      "search_collected_at": "2026-10-23T14:01:15Z"
+    },
+    {
+      "title": "Bulley & Andrews, LLC - Buzzfile",
+      "url": "https://www.buzzfile.com/business/Bulley.And.Andrews,-LLC-773-235-2433",
+      "snippet": "Bulley & Andrews is in the Commercial and Office Building, New Construction industry within the Construction - General Contractors & Operative Builders sector and has been in business for approximately 135 years.",
+      "query": "\"Bulley & Andrews, LLC\" revenue",
+      "search_collected_at": "2026-10-23T14:01:15Z"
+    },
+    {
+      "title": "Bulley & Andrews, LLC - Companies - IndexBox Platform",
+      "url": "https://app.indexbox.io/companies/profile/1833397/",
+      "snippet": "Revenue Bulley & Andrews, LLC LinkedIn page Bulley & Andrews, LLC YouTube page Bulley & Andrews, LLC Instagram page Request for Quote Company is likely to buy Cement Doors Electric Wiring HVAC Units Insulation Materials Lighting Fixtures Paint Plumbing Fixtures Steel Beams Windows Company is likely to sell Concrete Mixers Construction Equipment (e.g., Bulldozers) Construction Nails Cranes ...",
+      "query": "\"Bulley & Andrews, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T14:01:21Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T14:01:21Z",
+  "company_status": "SUCCESS"
+}

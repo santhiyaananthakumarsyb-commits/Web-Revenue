@@ -1,0 +1,120 @@
+{
+  "company_key": "broadvail capital  partners, llc|https://broadvail.com",
+  "company_name": "Broadvail Capital  Partners, LLC",
+  "company_website": "https://broadvail.com",
+  "created_at": "2026-10-23T13:22:18Z",
+  "searches": [
+    {
+      "query": "\"Broadvail Capital  Partners, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:22:25Z",
+      "page_title": "\"Broadvail Capital Partners, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broadvail+Capital++Partners%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "BROADVAIL CAPITAL PARTNERS, LLC - Investment Adviser Firm",
+          "url": "https://adviserinfo.sec.gov/firm/summary/199514",
+          "snippet": "A brokerage firm, also called a broker-dealer, is in the business of buying and selling securities - stocks, bonds, mutual funds, and certain other investment products - on behalf of its customer (as broker), for its own bank (dealer), or both. Individuals who work for broker-dealers - the sales personnel are commonly referred to as brokers."
+        },
+        {
+          "title": "Broadvail Capital Partners LLC - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/1242041D:US",
+          "snippet": "Broadvail Capital Partners, LLC operates as a private equity firm. The Company invests in commercial real estate sector, as well as offers investment advisory services."
+        },
+        {
+          "title": "Broadvail Capital Partners, LLC: $1.4B AUM | ADV.News",
+          "url": "https://adv.news/firm/199514",
+          "snippet": "BROADVAIL CAPITAL PARTNERS, LLC is a SEC-registered investment adviser (CRD #199514), headquartered in Houston, TX, Analysis sourced from public SEC Form ADV filings.."
+        },
+        {
+          "title": "BroadVail Capital Partners, LLC — Private equity in Houston, United ...",
+          "url": "https://investordatabase.org/i/broadvail-capital-partners-llc/",
+          "snippet": "BroadVail Capital Partners is a private equity firm that provides growth capital to management teams to build institutional real estate investment platforms. It focuses on commercial real estate across the United States."
+        },
+        {
+          "title": "PDF Form Adv - Sec",
+          "url": "https://reports.adviserinfo.sec.gov/reports/ADV/199514/PDF/199514.pdf",
+          "snippet": "Primary Business Name: BROADVAIL CAPITAL PARTNERS, LLC CRD Number: 199514 Annual Amendment - All Sections Rev. 10/2021 3/31/2026 5:33:23 PM WARNING: Complete this form truthfully. False statements or omissions may result in denial of your application, revocation of your registration, or criminal prosecution."
+        }
+      ]
+    },
+    {
+      "query": "\"Broadvail Capital  Partners, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:22:30Z",
+      "page_title": "\"Broadvail Capital Partners, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broadvail+Capital++Partners%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BROADVAIL CAPITAL PARTNERS, LLC - Investment Adviser Firm",
+          "url": "https://adviserinfo.sec.gov/firm/summary/199514",
+          "snippet": "A brokerage firm, also called a broker-dealer, is in the business of buying and selling securities - stocks, bonds, mutual funds, and certain other investment products - on behalf of its customer (as broker), for its own bank (dealer), or both. Individuals who work for broker-dealers - the sales personnel are commonly referred to as brokers."
+        },
+        {
+          "title": "Broadvail Capital Partners, LLC: $1.4B AUM | ADV.News",
+          "url": "https://adv.news/firm/199514",
+          "snippet": "BROADVAIL CAPITAL PARTNERS, LLC is a SEC-registered investment adviser (CRD #199514), headquartered in Houston, TX, Analysis sourced from public SEC Form ADV filings.."
+        },
+        {
+          "title": "Broadvail Capital Partners LLC - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/1242041D:US",
+          "snippet": "Broadvail Capital Partners, LLC operates as a private equity firm. The Company invests in commercial real estate sector, as well as offers investment advisory services."
+        },
+        {
+          "title": "BROADVAIL CAPITAL PARTNERS, LLC | Form ADV - Radient",
+          "url": "https://radientanalytics.com/firm/adv/broadvail-capital-partners-llc-199514",
+          "snippet": "Firm Details for BROADVAIL CAPITAL PARTNERS, LLC, Location: Texas, AUM = None, Last Form ADV Filed : 31-March-2026, Officers: ZORICH, ROBERT, L, BROADVAIL MANAGEMENT ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BROADVAIL CAPITAL PARTNERS, LLC - Investment Adviser Firm",
+      "url": "https://adviserinfo.sec.gov/firm/summary/199514",
+      "snippet": "A brokerage firm, also called a broker-dealer, is in the business of buying and selling securities - stocks, bonds, mutual funds, and certain other investment products - on behalf of its customer (as broker), for its own bank (dealer), or both. Individuals who work for broker-dealers - the sales personnel are commonly referred to as brokers.",
+      "query": "\"Broadvail Capital  Partners, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:22:25Z"
+    },
+    {
+      "title": "Broadvail Capital Partners LLC - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/1242041D:US",
+      "snippet": "Broadvail Capital Partners, LLC operates as a private equity firm. The Company invests in commercial real estate sector, as well as offers investment advisory services.",
+      "query": "\"Broadvail Capital  Partners, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:22:25Z"
+    },
+    {
+      "title": "Broadvail Capital Partners, LLC: $1.4B AUM | ADV.News",
+      "url": "https://adv.news/firm/199514",
+      "snippet": "BROADVAIL CAPITAL PARTNERS, LLC is a SEC-registered investment adviser (CRD #199514), headquartered in Houston, TX, Analysis sourced from public SEC Form ADV filings..",
+      "query": "\"Broadvail Capital  Partners, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:22:25Z"
+    },
+    {
+      "title": "BroadVail Capital Partners, LLC — Private equity in Houston, United ...",
+      "url": "https://investordatabase.org/i/broadvail-capital-partners-llc/",
+      "snippet": "BroadVail Capital Partners is a private equity firm that provides growth capital to management teams to build institutional real estate investment platforms. It focuses on commercial real estate across the United States.",
+      "query": "\"Broadvail Capital  Partners, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:22:25Z"
+    },
+    {
+      "title": "PDF Form Adv - Sec",
+      "url": "https://reports.adviserinfo.sec.gov/reports/ADV/199514/PDF/199514.pdf",
+      "snippet": "Primary Business Name: BROADVAIL CAPITAL PARTNERS, LLC CRD Number: 199514 Annual Amendment - All Sections Rev. 10/2021 3/31/2026 5:33:23 PM WARNING: Complete this form truthfully. False statements or omissions may result in denial of your application, revocation of your registration, or criminal prosecution.",
+      "query": "\"Broadvail Capital  Partners, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:22:25Z"
+    },
+    {
+      "title": "BROADVAIL CAPITAL PARTNERS, LLC | Form ADV - Radient",
+      "url": "https://radientanalytics.com/firm/adv/broadvail-capital-partners-llc-199514",
+      "snippet": "Firm Details for BROADVAIL CAPITAL PARTNERS, LLC, Location: Texas, AUM = None, Last Form ADV Filed : 31-March-2026, Officers: ZORICH, ROBERT, L, BROADVAIL MANAGEMENT ...",
+      "query": "\"Broadvail Capital  Partners, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:22:30Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T13:22:30Z",
+  "company_status": "SUCCESS"
+}

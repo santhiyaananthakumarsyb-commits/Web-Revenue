@@ -1,0 +1,50 @@
+{
+  "company_key": "bond wolfe agency|https://bondwolfe.com",
+  "company_name": "Bond Wolfe Agency",
+  "company_website": "https://bondwolfe.com",
+  "created_at": "2026-10-23T12:08:49Z",
+  "searches": [
+    {
+      "query": "\"Bond Wolfe Agency\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:08:56Z",
+      "page_title": "\"Bond Wolfe Agency\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bond+Wolfe+Agency%22+revenue",
+      "results": [
+        {
+          "title": "Bond Wolfe Agency - Birmingham Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/bond-wolfe-agency/54fxl0pl/",
+          "snippet": "Bond Wolfe was established in 1983 and its founding partners continue to be actively involved and remain committed to growing the business. Our core activity has always been focused around the Black Country and surrounding areas, where we are undoubtedly recognised as the major commercial property advisors, specialising in sales, lettings, acquisitions, investments, development sites, as well ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bond Wolfe Agency\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:09:03Z",
+      "page_title": "\"Bond Wolfe Agency\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bond+Wolfe+Agency%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bond Wolfe Agency - Birmingham Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/bond-wolfe-agency/54fxl0pl/",
+          "snippet": "Bond Wolfe was established in 1983 and its founding partners continue to be actively involved and remain committed to growing the business. Our core activity has always been focused around the Black Country and surrounding areas, where we are undoubtedly recognised as the major commercial property advisors, specialising in sales, lettings, acquisitions, investments, development sites, as well ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bond Wolfe Agency - Birmingham Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/bond-wolfe-agency/54fxl0pl/",
+      "snippet": "Bond Wolfe was established in 1983 and its founding partners continue to be actively involved and remain committed to growing the business. Our core activity has always been focused around the Black Country and surrounding areas, where we are undoubtedly recognised as the major commercial property advisors, specialising in sales, lettings, acquisitions, investments, development sites, as well ...",
+      "query": "\"Bond Wolfe Agency\" revenue",
+      "search_collected_at": "2026-10-23T12:08:56Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:09:03Z",
+  "company_status": "SUCCESS"
+}

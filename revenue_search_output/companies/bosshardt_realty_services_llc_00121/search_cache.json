@@ -1,0 +1,50 @@
+{
+  "company_key": "bosshardt realty services llc|https://bosshardtrealty.com",
+  "company_name": "Bosshardt Realty Services LLC",
+  "company_website": "https://bosshardtrealty.com",
+  "created_at": "2026-10-23T10:10:43Z",
+  "searches": [
+    {
+      "query": "\"Bosshardt Realty Services LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:10:50Z",
+      "page_title": "\"Bosshardt Realty Services LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bosshardt+Realty+Services+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Bosshardt Realty Services LLC Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/bosshardt-realty-services-llc-overview",
+          "snippet": "Discover essential details about Bosshardt Realty Services LLC, including address, contact, and journey of our company's evolution."
+        }
+      ]
+    },
+    {
+      "query": "\"Bosshardt Realty Services LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:10:57Z",
+      "page_title": "\"Bosshardt Realty Services LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bosshardt+Realty+Services+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bosshardt Realty Services LLC Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/bosshardt-realty-services-llc-overview",
+          "snippet": "Discover essential details about Bosshardt Realty Services LLC, including address, contact, and journey of our company's evolution."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bosshardt Realty Services LLC Overview - Salary.com",
+      "url": "https://www.salary.com/research/company/bosshardt-realty-services-llc-overview",
+      "snippet": "Discover essential details about Bosshardt Realty Services LLC, including address, contact, and journey of our company's evolution.",
+      "query": "\"Bosshardt Realty Services LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:10:50Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:10:57Z",
+  "company_status": "SUCCESS"
+}

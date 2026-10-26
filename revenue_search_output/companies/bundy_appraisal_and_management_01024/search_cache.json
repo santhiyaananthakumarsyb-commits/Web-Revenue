@@ -1,0 +1,50 @@
+{
+  "company_key": "bundy appraisal and management|https://bundyinc.com",
+  "company_name": "Bundy Appraisal and Management",
+  "company_website": "https://bundyinc.com",
+  "created_at": "2026-10-23T13:25:49Z",
+  "searches": [
+    {
+      "query": "\"Bundy Appraisal and Management\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:58Z",
+      "page_title": "\"Bundy Appraisal and Management\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bundy+Appraisal+and+Management%22+revenue",
+      "results": [
+        {
+          "title": "Bundy Appraisal and Management - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/bundy-appraisal-and-management",
+          "snippet": "Bundy Appraisal and Management provides property management, community association management, real estate appraising and residential and commercial sales. Property management is also the management of personal property, equipment, tooling, and physical capital assets that are acquired and used to build, repair, and maintain end item deliverables."
+        }
+      ]
+    },
+    {
+      "query": "\"Bundy Appraisal and Management\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:26:05Z",
+      "page_title": "\"Bundy Appraisal and Management\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bundy+Appraisal+and+Management%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bundy Appraisal and Management - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/bundy-appraisal-and-management",
+          "snippet": "Bundy Appraisal and Management is a real estate property management, community association management, and appraisal firm."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bundy Appraisal and Management - Crunchbase",
+      "url": "https://www.crunchbase.com/organization/bundy-appraisal-and-management",
+      "snippet": "Bundy Appraisal and Management provides property management, community association management, real estate appraising and residential and commercial sales. Property management is also the management of personal property, equipment, tooling, and physical capital assets that are acquired and used to build, repair, and maintain end item deliverables.",
+      "query": "\"Bundy Appraisal and Management\" revenue",
+      "search_collected_at": "2026-10-23T13:25:58Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T13:26:05Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,56 @@
+{
+  "company_key": "brookfield property group|https://brookfieldpropertypartners.com",
+  "company_name": "Brookfield Property Group",
+  "company_website": "https://brookfieldpropertypartners.com",
+  "created_at": "2026-10-23T10:10:18Z",
+  "searches": [
+    {
+      "query": "\"Brookfield Property Group\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:10:24Z",
+      "page_title": "\"Brookfield Property Group\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brookfield+Property+Group%22+revenue",
+      "results": [
+        {
+          "title": "PDF 2025 - Q3 BN Interim Report-2025-11-14-17-52",
+          "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/BN-IR-Master/Quarterly-Reports/2025/q3-bn-interim-report-2025.pdf",
+          "snippet": "Our \"Operating Businesses\" include Brookfield Renewable Partners L.P., Brookfield Infrastructure Partners L.P. and Brookfield Business Partners L.P., which are separate issuers included within our Renewable Power and Transition, Infrastructure and Private Equity segments, respectively, and issuers in the Brookfield Property Group, which are ..."
+        },
+        {
+          "title": "2025 Brookfield Corporation Annual Report | Brookfield",
+          "url": "https://www.brookfield.com/2025-brookfield-corporation-annual-report",
+          "snippet": "Our \"Operating Businesses\" include Brookfield Renewable Partners L.P., Brookfield Infrastructure Partners L.P. and Brookfield Business Partners L.P., which are separate issuers included within our Renewable Power and Transition, Infrastructure and Private Equity segments, respectively, and an issuer in the Brookfield Property Group, which ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Brookfield Property Group\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:10:32Z",
+      "page_title": "\"Brookfield Property Group\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brookfield+Property+Group%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "PDF 2025 - Q3 BN Interim Report-2025-11-14-17-52",
+      "url": "https://bn.brookfield.com/sites/brookfield-bn-v2/files/BN-IR-Master/Quarterly-Reports/2025/q3-bn-interim-report-2025.pdf",
+      "snippet": "Our \"Operating Businesses\" include Brookfield Renewable Partners L.P., Brookfield Infrastructure Partners L.P. and Brookfield Business Partners L.P., which are separate issuers included within our Renewable Power and Transition, Infrastructure and Private Equity segments, respectively, and issuers in the Brookfield Property Group, which are ...",
+      "query": "\"Brookfield Property Group\" revenue",
+      "search_collected_at": "2026-10-23T10:10:24Z"
+    },
+    {
+      "title": "2025 Brookfield Corporation Annual Report | Brookfield",
+      "url": "https://www.brookfield.com/2025-brookfield-corporation-annual-report",
+      "snippet": "Our \"Operating Businesses\" include Brookfield Renewable Partners L.P., Brookfield Infrastructure Partners L.P. and Brookfield Business Partners L.P., which are separate issuers included within our Renewable Power and Transition, Infrastructure and Private Equity segments, respectively, and an issuer in the Brookfield Property Group, which ...",
+      "query": "\"Brookfield Property Group\" revenue",
+      "search_collected_at": "2026-10-23T10:10:24Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:10:32Z",
+  "company_status": "SUCCESS"
+}

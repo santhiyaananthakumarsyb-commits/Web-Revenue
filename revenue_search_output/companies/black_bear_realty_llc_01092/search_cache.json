@@ -1,0 +1,67 @@
+{
+  "company_key": "black bear realty llc|https://blackbearrealty.biz",
+  "company_name": "Black Bear Realty LLC",
+  "company_website": "https://blackbearrealty.biz",
+  "created_at": "2026-10-23T13:41:02Z",
+  "searches": [
+    {
+      "query": "\"Black Bear Realty LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:41:08Z",
+      "page_title": "\"Black Bear Realty LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Black+Bear+Realty+LLC%22+revenue",
+      "results": [
+        {
+          "title": "BLACK BEAR REALTY LLC Company Profile | Cape Elizabeth, ME ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.black_bear_realty_llc.309324bad916b226267097a5411ebdf9.html",
+          "snippet": "BLACK BEAR REALTY LLC Company Profile | Cape Elizabeth, ME | Competitors, Financials & Contacts - Dun & Bradstreet D&B Business Directory HOME / BUSINESS DIRECTORY / PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES / ARCHITECTURAL, ENGINEERING, AND RELATED SERVICES / UNITED STATES / MAINE / CAPE ELIZABETH / BLACK BEAR REALTY LLC"
+        },
+        {
+          "title": "Black Bear Realty LLC | AUM 13F",
+          "url": "https://aum13f.com/fund/black-bear-realty-llc",
+          "snippet": "Public filings of Black Bear Realty LLC. Direct links to the EDGAR source material."
+        }
+      ]
+    },
+    {
+      "query": "\"Black Bear Realty LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:41:13Z",
+      "page_title": "\"Black Bear Realty LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Black+Bear+Realty+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Black Bear Realty LLC | AUM 13F",
+          "url": "https://aum13f.com/fund/black-bear-realty-llc",
+          "snippet": "Public filings of Black Bear Realty LLC. Direct links to the EDGAR source material."
+        },
+        {
+          "title": "BLACK BEAR REALTY LLC Company Profile | Cape Elizabeth, ME ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.black_bear_realty_llc.309324bad916b226267097a5411ebdf9.html",
+          "snippet": "BLACK BEAR REALTY LLC Company Profile | Cape Elizabeth, ME | Competitors, Financials & Contacts - Dun & Bradstreet D&B Business Directory HOME / BUSINESS DIRECTORY / PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES / ARCHITECTURAL, ENGINEERING, AND RELATED SERVICES / UNITED STATES / MAINE / CAPE ELIZABETH / BLACK BEAR REALTY LLC"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BLACK BEAR REALTY LLC Company Profile | Cape Elizabeth, ME ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.black_bear_realty_llc.309324bad916b226267097a5411ebdf9.html",
+      "snippet": "BLACK BEAR REALTY LLC Company Profile | Cape Elizabeth, ME | Competitors, Financials & Contacts - Dun & Bradstreet D&B Business Directory HOME / BUSINESS DIRECTORY / PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES / ARCHITECTURAL, ENGINEERING, AND RELATED SERVICES / UNITED STATES / MAINE / CAPE ELIZABETH / BLACK BEAR REALTY LLC",
+      "query": "\"Black Bear Realty LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:41:08Z"
+    },
+    {
+      "title": "Black Bear Realty LLC | AUM 13F",
+      "url": "https://aum13f.com/fund/black-bear-realty-llc",
+      "snippet": "Public filings of Black Bear Realty LLC. Direct links to the EDGAR source material.",
+      "query": "\"Black Bear Realty LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:41:08Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:41:13Z",
+  "company_status": "SUCCESS"
+}

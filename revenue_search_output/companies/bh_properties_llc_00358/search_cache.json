@@ -1,0 +1,62 @@
+{
+  "company_key": "bh properties, llc|https://bhproperties.com",
+  "company_name": "BH Properties, LLC",
+  "company_website": "https://bhproperties.com",
+  "created_at": "2026-10-23T11:01:35Z",
+  "searches": [
+    {
+      "query": "\"BH Properties, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:01:41Z",
+      "page_title": "\"BH Properties, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BH+Properties%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "BH PROPERTIES, LLC Company Profile | Omaha, Nebraska | Competitors ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bh_properties_llc.b27accaf4bec667f625372bdbdf2a842.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BH PROPERTIES, LLC of Omaha, Nebraska. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "BH Properties, LLC - Los Angeles, CA - LoopNet",
+          "url": "https://www.loopnet.com/company/bh-properties-llc/bmy3lv9l/",
+          "snippet": "BH Properties is a privately held real estate investment firm founded in 1994 by Steve Gozini, who serves as Chairman and CEO. The company headquarters is in Los Angeles, and it has regional offices in Riverside, San Francisco, Seattle, Phoenix, Dallas, Houston and Austin. The firm buys, operates and repositions value-add commercial real estate. It looks for properties with high vacancy ..."
+        }
+      ]
+    },
+    {
+      "query": "\"BH Properties, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:01:49Z",
+      "page_title": "\"BH Properties, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BH+Properties%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BH Properties, LLC - Los Angeles Commercial Listings & Brokers - LoopNet",
+          "url": "https://www.loopnet.com/company/bh-properties-llc/bmy3lv9l/",
+          "snippet": "BH Properties is a privately held real estate investment firm founded in 1994 by Steve Gozini, who serves as Chairman and CEO. The company headquarters is in Los Angeles, and it has regional offices in Riverside, San Francisco, Seattle, Phoenix, Dallas, Houston and Austin. The firm buys, operates and repositions value-add commercial real estate. It looks for properties with high vacancy ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BH PROPERTIES, LLC Company Profile | Omaha, Nebraska | Competitors ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bh_properties_llc.b27accaf4bec667f625372bdbdf2a842.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BH PROPERTIES, LLC of Omaha, Nebraska. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"BH Properties, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:01:41Z"
+    },
+    {
+      "title": "BH Properties, LLC - Los Angeles, CA - LoopNet",
+      "url": "https://www.loopnet.com/company/bh-properties-llc/bmy3lv9l/",
+      "snippet": "BH Properties is a privately held real estate investment firm founded in 1994 by Steve Gozini, who serves as Chairman and CEO. The company headquarters is in Los Angeles, and it has regional offices in Riverside, San Francisco, Seattle, Phoenix, Dallas, Houston and Austin. The firm buys, operates and repositions value-add commercial real estate. It looks for properties with high vacancy ...",
+      "query": "\"BH Properties, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:01:41Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:01:49Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,137 @@
+{
+  "company_key": "blue crane|https://bluecrane.us",
+  "company_name": "Blue Crane",
+  "company_website": "https://bluecrane.us",
+  "created_at": "2026-10-23T13:42:25Z",
+  "searches": [
+    {
+      "query": "\"Blue Crane\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:42:32Z",
+      "page_title": "\"Blue Crane\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Crane%22+revenue",
+      "results": [
+        {
+          "title": "Blue Crane Information - RocketReach",
+          "url": "https://rocketreach.co/blue-crane-profile_b436b55fc1fd7603",
+          "snippet": "Blue Crane is a Real Estate, Hospitality General, and Hospitality company_reader located in Bentonville, Arkansas with $5.4 million in revenue and 28 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Blue Crane - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/blue-crane-bv/556238473",
+          "snippet": "View Blue Crane (www.bluecraneorganic.com) location in Utrecht, Netherlands , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Blue Crane Company Overview | Salary.com",
+          "url": "https://www.salary.com/research/company/blue-crane-overview",
+          "snippet": "Explore Blue Crane jobs and company insights on Salary.com. Learn about career opportunities and key details about the company."
+        },
+        {
+          "title": "Blue Crane - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/blue-crane",
+          "snippet": "Blue Crane is a property development company that acquires, develops, and manages commercial properties."
+        },
+        {
+          "title": "Blue Crane Company Overview, Contact Details & Competitors | LeadIQ",
+          "url": "https://leadiq.com/c/blue-crane/638f757219e0e0895b1ce35c",
+          "snippet": "Blue Crane is a real estate development services firm based in Bentonville, Arkansas, serving communities across Northwest Arkansas. It handles the full property lifecycle—acquisition, development, and ongoing management—with a focus on creating community-oriented destinations."
+        },
+        {
+          "title": "Blue Crane Imports LLC: Contact Details and Business Profile",
+          "url": "https://rocketreach.co/blue-crane-imports-llc-profile_b5bf1fabf9b057eb",
+          "snippet": "Blue Crane Imports LLC is a Beverage Manufacturing, Gas Stations, Convenience & Liquor Stores, and South African Wine company_reader located in Chicago, Illinois with $4 million in revenue and 2 employees. Find top employees, contact details and business statistics at RocketReach."
+        }
+      ]
+    },
+    {
+      "query": "\"Blue Crane\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:42:38Z",
+      "page_title": "\"Blue Crane\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Crane%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blue Crane Information - RocketReach",
+          "url": "https://rocketreach.co/blue-crane-profile_b436b55fc1fd7603",
+          "snippet": "Blue Crane Questions What is the annual revenue of Blue Crane? The Blue Crane annual revenue was $5.4 million in 2024."
+        },
+        {
+          "title": "Blue Crane Company Overview | Salary.com",
+          "url": "https://www.salary.com/research/company/blue-crane-overview",
+          "snippet": "Explore Blue Crane jobs and company insights on Salary.com. Learn about career opportunities and key details about the company."
+        },
+        {
+          "title": "Blue Crane - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "https://www.zoominfo.com/c/blue-crane-bv/556238473",
+          "snippet": "View Blue Crane (www.bluecraneorganic.com) location in Utrecht, Netherlands , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Blue Crane - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/blue-crane",
+          "snippet": "Blue Crane is a property development company that acquires, develops, and manages commercial properties."
+        },
+        {
+          "title": "Blue Crane Environmental Revenue, Funding & Valuation",
+          "url": "https://prospeo.io/c/blue-crane-environmental-revenue",
+          "snippet": "Blue Crane Environmental generates an estimated annual revenue of $769,995. This revenue figure reflects the company's market position and business performance in its industry."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blue Crane Information - RocketReach",
+      "url": "https://rocketreach.co/blue-crane-profile_b436b55fc1fd7603",
+      "snippet": "Blue Crane is a Real Estate, Hospitality General, and Hospitality company_reader located in Bentonville, Arkansas with $5.4 million in revenue and 28 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Blue Crane\" revenue",
+      "search_collected_at": "2026-10-23T13:42:32Z"
+    },
+    {
+      "title": "Blue Crane - Overview, News & Similar companies | ZoomInfo.com",
+      "url": "https://www.zoominfo.com/c/blue-crane-bv/556238473",
+      "snippet": "View Blue Crane (www.bluecraneorganic.com) location in Utrecht, Netherlands , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Blue Crane\" revenue",
+      "search_collected_at": "2026-10-23T13:42:32Z"
+    },
+    {
+      "title": "Blue Crane Company Overview | Salary.com",
+      "url": "https://www.salary.com/research/company/blue-crane-overview",
+      "snippet": "Explore Blue Crane jobs and company insights on Salary.com. Learn about career opportunities and key details about the company.",
+      "query": "\"Blue Crane\" revenue",
+      "search_collected_at": "2026-10-23T13:42:32Z"
+    },
+    {
+      "title": "Blue Crane - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/blue-crane",
+      "snippet": "Blue Crane is a property development company that acquires, develops, and manages commercial properties.",
+      "query": "\"Blue Crane\" revenue",
+      "search_collected_at": "2026-10-23T13:42:32Z"
+    },
+    {
+      "title": "Blue Crane Company Overview, Contact Details & Competitors | LeadIQ",
+      "url": "https://leadiq.com/c/blue-crane/638f757219e0e0895b1ce35c",
+      "snippet": "Blue Crane is a real estate development services firm based in Bentonville, Arkansas, serving communities across Northwest Arkansas. It handles the full property lifecycle—acquisition, development, and ongoing management—with a focus on creating community-oriented destinations.",
+      "query": "\"Blue Crane\" revenue",
+      "search_collected_at": "2026-10-23T13:42:32Z"
+    },
+    {
+      "title": "Blue Crane Imports LLC: Contact Details and Business Profile",
+      "url": "https://rocketreach.co/blue-crane-imports-llc-profile_b5bf1fabf9b057eb",
+      "snippet": "Blue Crane Imports LLC is a Beverage Manufacturing, Gas Stations, Convenience & Liquor Stores, and South African Wine company_reader located in Chicago, Illinois with $4 million in revenue and 2 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Blue Crane\" revenue",
+      "search_collected_at": "2026-10-23T13:42:32Z"
+    },
+    {
+      "title": "Blue Crane Environmental Revenue, Funding & Valuation",
+      "url": "https://prospeo.io/c/blue-crane-environmental-revenue",
+      "snippet": "Blue Crane Environmental generates an estimated annual revenue of $769,995. This revenue figure reflects the company's market position and business performance in its industry.",
+      "query": "\"Blue Crane\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:42:38Z"
+    }
+  ],
+  "result_count": 7,
+  "updated_at": "2026-10-23T13:42:38Z",
+  "company_status": "SUCCESS"
+}

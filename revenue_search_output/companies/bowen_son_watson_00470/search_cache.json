@@ -1,0 +1,103 @@
+{
+  "company_key": "bowen son & watson|https://bowensonandwatson.co.uk",
+  "company_name": "Bowen Son & Watson",
+  "company_website": "https://bowensonandwatson.co.uk",
+  "created_at": "2026-10-23T11:25:45Z",
+  "searches": [
+    {
+      "query": "\"Bowen Son & Watson\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:25:52Z",
+      "page_title": "\"Bowen Son & Watson\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bowen+Son+%26+Watson%22+revenue",
+      "results": [
+        {
+          "title": "Bowen Son & Watson | Oswestry | D. R. Jones - BizSeek",
+          "url": "https://www.bizseek.co.uk/bowen-son-watson_35-01691-652367",
+          "snippet": "D. R. Jones is the primary contact at Bowen Son & Watson. Bowen Son & Watson generates approximately 0 - 250,000 in revenue annually."
+        },
+        {
+          "title": "Bowen Son & Watson Company Profile - Powrbot list of companies",
+          "url": "https://powrbot.com/companies/profile/bowen-son-watson/",
+          "snippet": "Company information for Bowen Son & Watson , including website, description, revenue, employees, headquarters, founders and more."
+        },
+        {
+          "title": "Bowen Son & Watson Company Profile | WREXHAM, United Kingdom ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bowen_son__watson.2db222224496d0b79a58fb2f84bb1ad5.html",
+          "snippet": "Bowen Son & Watson Company Profile | WREXHAM, United Kingdom | Competitors, Financials & Contacts - Dun & Bradstreet"
+        },
+        {
+          "title": "Bowen - LinkedIn",
+          "url": "https://www.linkedin.com/company/bowen-son-&-watson",
+          "snippet": "The Bowen Son & Watson Survey Department offers the full RICS Survey suite as well as bespoke inspections and reports."
+        }
+      ]
+    },
+    {
+      "query": "\"Bowen Son & Watson\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:25:56Z",
+      "page_title": "\"Bowen Son & Watson\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bowen+Son+%26+Watson%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bowen Son & Watson | Oswestry | D. R. Jones - BizSeek",
+          "url": "https://www.bizseek.co.uk/bowen-son-watson_35-01691-652367",
+          "snippet": "D. R. Jones is the primary contact at Bowen Son & Watson. Bowen Son & Watson generates approximately 0 - 250,000 in revenue annually."
+        },
+        {
+          "title": "Bowen Son & Watson Company Profile - Powrbot list of companies",
+          "url": "https://powrbot.com/companies/profile/bowen-son-watson/",
+          "snippet": "Company information for Bowen Son & Watson , including website, description, revenue, employees, headquarters, founders and more."
+        },
+        {
+          "title": "Bowen - Facebook",
+          "url": "https://www.facebook.com/BowenEstateAgents/",
+          "snippet": "Bowen Son & Watson, with offices in Ellesmere, Oswestry, Wrexham, Llangollen and Chirk, will now simply be known as Bowen, a name synonymous with property sales and lettings across the region. Bowen began trading as Messers Whitfield & Son, opening its first office in Oswestry."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bowen Son & Watson | Oswestry | D. R. Jones - BizSeek",
+      "url": "https://www.bizseek.co.uk/bowen-son-watson_35-01691-652367",
+      "snippet": "D. R. Jones is the primary contact at Bowen Son & Watson. Bowen Son & Watson generates approximately 0 - 250,000 in revenue annually.",
+      "query": "\"Bowen Son & Watson\" revenue",
+      "search_collected_at": "2026-10-23T11:25:52Z"
+    },
+    {
+      "title": "Bowen Son & Watson Company Profile - Powrbot list of companies",
+      "url": "https://powrbot.com/companies/profile/bowen-son-watson/",
+      "snippet": "Company information for Bowen Son & Watson , including website, description, revenue, employees, headquarters, founders and more.",
+      "query": "\"Bowen Son & Watson\" revenue",
+      "search_collected_at": "2026-10-23T11:25:52Z"
+    },
+    {
+      "title": "Bowen Son & Watson Company Profile | WREXHAM, United Kingdom ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bowen_son__watson.2db222224496d0b79a58fb2f84bb1ad5.html",
+      "snippet": "Bowen Son & Watson Company Profile | WREXHAM, United Kingdom | Competitors, Financials & Contacts - Dun & Bradstreet",
+      "query": "\"Bowen Son & Watson\" revenue",
+      "search_collected_at": "2026-10-23T11:25:52Z"
+    },
+    {
+      "title": "Bowen - LinkedIn",
+      "url": "https://www.linkedin.com/company/bowen-son-&-watson",
+      "snippet": "The Bowen Son & Watson Survey Department offers the full RICS Survey suite as well as bespoke inspections and reports.",
+      "query": "\"Bowen Son & Watson\" revenue",
+      "search_collected_at": "2026-10-23T11:25:52Z"
+    },
+    {
+      "title": "Bowen - Facebook",
+      "url": "https://www.facebook.com/BowenEstateAgents/",
+      "snippet": "Bowen Son & Watson, with offices in Ellesmere, Oswestry, Wrexham, Llangollen and Chirk, will now simply be known as Bowen, a name synonymous with property sales and lettings across the region. Bowen began trading as Messers Whitfield & Son, opening its first office in Oswestry.",
+      "query": "\"Bowen Son & Watson\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:25:56Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T11:25:56Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,13 @@
+{
+  "finished_at_utc": "2026-10-23T08:47:01+00:00",
+  "input_file": "C:\\Users\\Admin\\Desktop\\try3\\companies_tier1.csv",
+  "output_dir": "C:\\Users\\Admin\\Desktop\\try3\\revenue_search_output",
+  "companies_in_input_limit": 10,
+  "processed_company_count": 5,
+  "attempted_this_run": 5,
+  "candidate_companies_logged": 5,
+  "target_candidates": 1000,
+  "max_companies": 10,
+  "stop_reason": "INPUT_EXHAUSTED",
+  "note": "Candidates are not verified revenue records. Review company identity, revenue definition, amount, currency, reporting period, and source before marking VERIFIED. DuckDuckGo markup and access policies can change."
+}

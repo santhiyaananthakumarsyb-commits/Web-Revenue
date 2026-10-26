@@ -1,0 +1,67 @@
+{
+  "company_key": "bouklis - 31-23 47th st|https://bouklisgroup.com",
+  "company_name": "Bouklis - 31-23 47th St",
+  "company_website": "https://bouklisgroup.com",
+  "created_at": "2026-10-23T13:47:55Z",
+  "searches": [
+    {
+      "query": "\"Bouklis - 31-23 47th St\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:48:01Z",
+      "page_title": "\"Bouklis - 31-23 47th St\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bouklis+-+31-23+47th+St%22+revenue",
+      "results": [
+        {
+          "title": "Bouklis - 31-23 47th St: 3701 24th Ave, Astoria, NY - LoopNet.ca",
+          "url": "https://www.loopnet.ca/fr-CA/enterprise/bouklis-31-23-47th-st/astoria-ny/ccfns4el/",
+          "snippet": "Situé à 3701 24th Ave - Contactez les Bouklis - 31-23 47th St courtiers pour des demandes de renseignements sur l'une de leurs inscriptions disponibles."
+        },
+        {
+          "title": "Frank Bouklis - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/frank-bouklis/6838359/",
+          "snippet": "Frank Bouklis, Broker at Bouklis - 31-23 47th St in Astoria, NY has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"Bouklis - 31-23 47th St\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:48:05Z",
+      "page_title": "\"Bouklis - 31-23 47th St\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bouklis+-+31-23+47th+St%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bouklis - 31-23 47th St: 3701 24th Ave, Astoria, NY - LoopNet.ca",
+          "url": "https://www.loopnet.ca/fr-CA/enterprise/bouklis-31-23-47th-st/astoria-ny/ccfns4el/",
+          "snippet": "Situé à 3701 24th Ave - Contactez les Bouklis - 31-23 47th St courtiers pour des demandes de renseignements sur l'une de leurs inscriptions disponibles."
+        },
+        {
+          "title": "Frank Bouklis - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/frank-bouklis/6838359/",
+          "snippet": "Frank Bouklis, Broker at Bouklis - 31-23 47th St in Astoria, NY has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bouklis - 31-23 47th St: 3701 24th Ave, Astoria, NY - LoopNet.ca",
+      "url": "https://www.loopnet.ca/fr-CA/enterprise/bouklis-31-23-47th-st/astoria-ny/ccfns4el/",
+      "snippet": "Situé à 3701 24th Ave - Contactez les Bouklis - 31-23 47th St courtiers pour des demandes de renseignements sur l'une de leurs inscriptions disponibles.",
+      "query": "\"Bouklis - 31-23 47th St\" revenue",
+      "search_collected_at": "2026-10-23T13:48:01Z"
+    },
+    {
+      "title": "Frank Bouklis - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/frank-bouklis/6838359/",
+      "snippet": "Frank Bouklis, Broker at Bouklis - 31-23 47th St in Astoria, NY has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"Bouklis - 31-23 47th St\" revenue",
+      "search_collected_at": "2026-10-23T13:48:01Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T13:48:05Z",
+  "company_status": "SUCCESS"
+}

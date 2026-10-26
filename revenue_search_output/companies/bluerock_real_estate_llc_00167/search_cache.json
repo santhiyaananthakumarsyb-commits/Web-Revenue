@@ -1,0 +1,67 @@
+{
+  "company_key": "bluerock real estate, llc|https://bluerock.com",
+  "company_name": "Bluerock Real Estate, LLC",
+  "company_website": "https://bluerock.com",
+  "created_at": "2026-10-23T10:20:31Z",
+  "searches": [
+    {
+      "query": "\"Bluerock Real Estate, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:20:38Z",
+      "page_title": "\"Bluerock Real Estate, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bluerock+Real+Estate%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Bluerock Real Estate: Revenue, Competitors, Alternatives",
+          "url": "https://growjo.com/company/Bluerock_Real_Estate",
+          "snippet": "Bluerock Real Estate, LLC is a national real estate investment firm headquartered in Manhattan with regional offices in Southfield, Michigan, Boise, Idaho and Newport Beach, California."
+        },
+        {
+          "title": "Company - Bluerock",
+          "url": "https://bluerock.com/company/",
+          "snippet": "Neither the Attorney-General of the State of New York nor any other State regulators have passed on or endorsed the merits of any offering described herein. Any representation to the contrary is unlawful. Securities offered through Bluerock Capital Markets, LLC | Member | Affiliated with Bluerock Real Estate, LLC"
+        }
+      ]
+    },
+    {
+      "query": "\"Bluerock Real Estate, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:20:44Z",
+      "page_title": "\"Bluerock Real Estate, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bluerock+Real+Estate%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bluerock Real Estate: Revenue, Competitors, Alternatives",
+          "url": "https://growjo.com/company/Bluerock_Real_Estate",
+          "snippet": "Bluerock Real Estate, LLC is a national real estate investment firm headquartered in Manhattan with regional offices in Southfield, Michigan, Boise, Idaho and Newport Beach, California."
+        },
+        {
+          "title": "Company - Bluerock",
+          "url": "https://bluerock.com/company/",
+          "snippet": "Neither the Attorney-General of the State of New York nor any other State regulators have passed on or endorsed the merits of any offering described herein. Any representation to the contrary is unlawful. Securities offered through Bluerock Capital Markets, LLC | Member | Affiliated with Bluerock Real Estate, LLC"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bluerock Real Estate: Revenue, Competitors, Alternatives",
+      "url": "https://growjo.com/company/Bluerock_Real_Estate",
+      "snippet": "Bluerock Real Estate, LLC is a national real estate investment firm headquartered in Manhattan with regional offices in Southfield, Michigan, Boise, Idaho and Newport Beach, California.",
+      "query": "\"Bluerock Real Estate, LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:20:38Z"
+    },
+    {
+      "title": "Company - Bluerock",
+      "url": "https://bluerock.com/company/",
+      "snippet": "Neither the Attorney-General of the State of New York nor any other State regulators have passed on or endorsed the merits of any offering described herein. Any representation to the contrary is unlawful. Securities offered through Bluerock Capital Markets, LLC | Member | Affiliated with Bluerock Real Estate, LLC",
+      "query": "\"Bluerock Real Estate, LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:20:38Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:20:44Z",
+  "company_status": "SUCCESS"
+}

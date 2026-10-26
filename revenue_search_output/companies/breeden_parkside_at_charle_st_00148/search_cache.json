@@ -1,0 +1,30 @@
+{
+  "company_key": "breeden - parkside at charle st|https://thebreedencompany.com",
+  "company_name": "Breeden - Parkside at Charle St",
+  "company_website": "https://thebreedencompany.com",
+  "created_at": "2026-10-23T10:16:23Z",
+  "searches": [
+    {
+      "query": "\"Breeden - Parkside at Charle St\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:16:30Z",
+      "page_title": "\"Breeden - Parkside at Charle St\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Breeden+-+Parkside+at+Charle+St%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Breeden - Parkside at Charle St\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:16:37Z",
+      "page_title": "\"Breeden - Parkside at Charle St\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Breeden+-+Parkside+at+Charle+St%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:16:37Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

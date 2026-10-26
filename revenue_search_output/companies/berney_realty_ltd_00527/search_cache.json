@@ -1,0 +1,86 @@
+{
+  "company_key": "berney realty, ltd.|https://berneyrealty.com",
+  "company_name": "Berney Realty, Ltd.",
+  "company_website": "https://berneyrealty.com",
+  "created_at": "2026-10-23T11:38:12Z",
+  "searches": [
+    {
+      "query": "\"Berney Realty, Ltd.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:38:20Z",
+      "page_title": "\"Berney Realty, Ltd.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berney+Realty%2C+Ltd.%22+revenue",
+      "results": [
+        {
+          "title": "Fallon NV Real Estate & Homes for Sale | Berney Realty",
+          "url": "https://www.berneyrealty.com/",
+          "snippet": "Homes and Real Estate for Sale in Fallon, Nevada Berney Realty, Ltd. helps buyers and sellers in Fallon and throughout Churchill County, Nevada. Explore homes, land, commercial properties, farms, and ranches. Connect with broker/owner Cari Norcutt and our local real estate team. Buy a home in Fallon | Sell your property | Get to know Fallon We also serve Kingston, Austin, Round Mountain, and ..."
+        },
+        {
+          "title": "Berney Realty, Ltd. Agents",
+          "url": "https://www.berneyrealty.com/our-agents/agentprofile-3195",
+          "snippet": "Berney Realty, Ltd has been serving Fallon and the surrounding areas for over 50 years and continues to give the best service possible. Berney Realty, Ltd. has a wide variety of knowledgeable and friendly agents that will assist you in the purchase of the home of your dreams or in the sale of your existing home."
+        },
+        {
+          "title": "Berney Realty, Ltd. | Fallon NV - Facebook",
+          "url": "https://www.facebook.com/BerneyRealty/",
+          "snippet": "Berney Realty, Ltd., Fallon. 1,350 followers · 124 talking about this · 34 were here. Berney Realty, Ltd has been serving Fallon and the surrounding areas for over 55 years and continues to give the..."
+        }
+      ]
+    },
+    {
+      "query": "\"Berney Realty, Ltd.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:38:25Z",
+      "page_title": "\"Berney Realty, Ltd.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berney+Realty%2C+Ltd.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berney Realty, Ltd. - Fallon Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/berney-realty-ltd/m6ycnpll/",
+          "snippet": "See all Berney Realty, Ltd. current commercial real estate listings and brokers from the Berney Realty, Ltd. office at 1870 W Williams Ave, Fallon, NV 89406. Contact a Berney Realty, Ltd. broker for inquiries about any of their available listings for sale or lease."
+        },
+        {
+          "title": "Berney Realty, Ltd. | Fallon NV - Facebook",
+          "url": "https://www.facebook.com/BerneyRealty/",
+          "snippet": "Berney Realty, Ltd., Fallon. 1,350 followers · 124 talking about this · 34 were here. Berney Realty, Ltd has been serving Fallon and the surrounding areas for over 55 years and continues to give the..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Fallon NV Real Estate & Homes for Sale | Berney Realty",
+      "url": "https://www.berneyrealty.com/",
+      "snippet": "Homes and Real Estate for Sale in Fallon, Nevada Berney Realty, Ltd. helps buyers and sellers in Fallon and throughout Churchill County, Nevada. Explore homes, land, commercial properties, farms, and ranches. Connect with broker/owner Cari Norcutt and our local real estate team. Buy a home in Fallon | Sell your property | Get to know Fallon We also serve Kingston, Austin, Round Mountain, and ...",
+      "query": "\"Berney Realty, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:38:20Z"
+    },
+    {
+      "title": "Berney Realty, Ltd. Agents",
+      "url": "https://www.berneyrealty.com/our-agents/agentprofile-3195",
+      "snippet": "Berney Realty, Ltd has been serving Fallon and the surrounding areas for over 50 years and continues to give the best service possible. Berney Realty, Ltd. has a wide variety of knowledgeable and friendly agents that will assist you in the purchase of the home of your dreams or in the sale of your existing home.",
+      "query": "\"Berney Realty, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:38:20Z"
+    },
+    {
+      "title": "Berney Realty, Ltd. | Fallon NV - Facebook",
+      "url": "https://www.facebook.com/BerneyRealty/",
+      "snippet": "Berney Realty, Ltd., Fallon. 1,350 followers · 124 talking about this · 34 were here. Berney Realty, Ltd has been serving Fallon and the surrounding areas for over 55 years and continues to give the...",
+      "query": "\"Berney Realty, Ltd.\" revenue",
+      "search_collected_at": "2026-10-23T11:38:20Z"
+    },
+    {
+      "title": "Berney Realty, Ltd. - Fallon Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/berney-realty-ltd/m6ycnpll/",
+      "snippet": "See all Berney Realty, Ltd. current commercial real estate listings and brokers from the Berney Realty, Ltd. office at 1870 W Williams Ave, Fallon, NV 89406. Contact a Berney Realty, Ltd. broker for inquiries about any of their available listings for sale or lease.",
+      "query": "\"Berney Realty, Ltd.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:38:25Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:38:25Z",
+  "company_status": "SUCCESS"
+}

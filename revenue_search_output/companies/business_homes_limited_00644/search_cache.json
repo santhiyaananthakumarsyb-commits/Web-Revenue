@@ -1,0 +1,44 @@
+{
+  "company_key": "business homes limited|https://businesshomes.co.uk",
+  "company_name": "Business Homes Limited",
+  "company_website": "https://businesshomes.co.uk",
+  "created_at": "2026-10-23T12:03:23Z",
+  "searches": [
+    {
+      "query": "\"Business Homes Limited\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:03:30Z",
+      "page_title": "\"Business Homes Limited\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Business+Homes+Limited%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Business Homes Limited\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:03:37Z",
+      "page_title": "\"Business Homes Limited\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Business+Homes+Limited%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "RURAL BUSINESS HOMES LIMITED - Profile & Financials",
+          "url": "https://companytrack.com/company/03227115/rural-business-homes-limited",
+          "snippet": "Full company profile for RURAL BUSINESS HOMES LIMITED (03227115), a dissolved company based in Wakefield, United Kingdom. Incorporated 19 Jul 1996. Development and selling of real estate. View financials, directors, shareholders, and filings. Business Summary"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "RURAL BUSINESS HOMES LIMITED - Profile & Financials",
+      "url": "https://companytrack.com/company/03227115/rural-business-homes-limited",
+      "snippet": "Full company profile for RURAL BUSINESS HOMES LIMITED (03227115), a dissolved company based in Wakefield, United Kingdom. Incorporated 19 Jul 1996. Development and selling of real estate. View financials, directors, shareholders, and filings. Business Summary",
+      "query": "\"Business Homes Limited\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:03:37Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:03:37Z",
+  "company_status": "SUCCESS"
+}

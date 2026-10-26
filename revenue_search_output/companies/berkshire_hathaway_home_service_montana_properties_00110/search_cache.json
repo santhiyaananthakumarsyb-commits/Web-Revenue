@@ -1,0 +1,50 @@
+{
+  "company_key": "berkshire hathaway home service montana properties|https://bhhsmt.com",
+  "company_name": "Berkshire Hathaway Home Service Montana Properties",
+  "company_website": "https://bhhsmt.com",
+  "created_at": "2026-10-23T10:08:09Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Home Service Montana Properties\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:08:18Z",
+      "page_title": "\"Berkshire Hathaway Home Service Montana Properties\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Home+Service+Montana+Properties%22+revenue",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Home Service Montana Properties - Butte, MT",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-home-service-montana-properties/0ttxj50l/",
+          "snippet": "Berkshire Hathaway HomeServices Montana Properties is a full-service brokerage committed to delivering exceptional service, building rich and trusted relationships and improving all that we touch. When you work with one of their agents, you can expect high-quality service throughout your real estate journey. They value relationships over transactions and their agents will be with you every ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Home Service Montana Properties\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:08:28Z",
+      "page_title": "\"Berkshire Hathaway Home Service Montana Properties\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Home+Service+Montana+Properties%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Home Service Montana Properties - Butte, MT",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-home-service-montana-properties/0ttxj50l/",
+          "snippet": "Berkshire Hathaway HomeServices Montana Properties is a full-service brokerage committed to delivering exceptional service, building rich and trusted relationships and improving all that we touch. When you work with one of their agents, you can expect high-quality service throughout your real estate journey. They value relationships over transactions and their agents will be with you every ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Hathaway Home Service Montana Properties - Butte, MT",
+      "url": "https://www.loopnet.com/company/berkshire-hathaway-home-service-montana-properties/0ttxj50l/",
+      "snippet": "Berkshire Hathaway HomeServices Montana Properties is a full-service brokerage committed to delivering exceptional service, building rich and trusted relationships and improving all that we touch. When you work with one of their agents, you can expect high-quality service throughout your real estate journey. They value relationships over transactions and their agents will be with you every ...",
+      "query": "\"Berkshire Hathaway Home Service Montana Properties\" revenue",
+      "search_collected_at": "2026-10-23T10:08:18Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:08:28Z",
+  "company_status": "SUCCESS"
+}

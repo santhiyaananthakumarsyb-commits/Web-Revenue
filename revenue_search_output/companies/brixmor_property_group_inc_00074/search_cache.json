@@ -1,0 +1,156 @@
+{
+  "company_key": "brixmor property group inc.|https://brixmor.com",
+  "company_name": "Brixmor Property Group Inc.",
+  "company_website": "https://brixmor.com",
+  "created_at": "2026-10-23T10:00:32Z",
+  "searches": [
+    {
+      "query": "\"Brixmor Property Group Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:00:38Z",
+      "page_title": "\"Brixmor Property Group Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brixmor+Property+Group+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Financial Results :: Brixmor Property Group Inc. (BRX)",
+          "url": "https://investors.brixmor.com/financial-information/financial-results",
+          "snippet": "Fiscal Year Ended Dec 31, 2024 Earnings Release HTML PDF"
+        },
+        {
+          "title": "Brixmor Property Group (BRX) Revenue 2012-2026 - Stock Analysis",
+          "url": "https://stockanalysis.com/stocks/brx/revenue/",
+          "snippet": "Current and historical revenue information for Brixmor Property Group Inc. (BRX) stock, including a chart and comparison to related stocks."
+        },
+        {
+          "title": "Brixmor Property Group Inc. (BRX)",
+          "url": "https://investors.brixmor.com/",
+          "snippet": "Brixmor (NYSE: BRX) owns and operates a high-quality, national portfolio of open-air shopping centers. Its 346 retail centers comprise approximately 62 million square feet of prime retail space in established trade areas. The Company strives to…"
+        },
+        {
+          "title": "BRX | Brixmor Property Group Inc. Financial Statements - WSJ",
+          "url": "https://www.wsj.com/market-data/quotes/BRX/financials",
+          "snippet": "Brixmor Property Group Inc. balance sheet, income statement, cash flow, earnings & estimates, ratio and margins. View BRX financial statements in full."
+        },
+        {
+          "title": "Brixmor Property Group Inc. (BRX) - Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/BRX/financials/",
+          "snippet": "Get the detailed quarterly/annual income statement for Brixmor Property Group Inc. (BRX). Find out the revenue, expenses and profit or loss over the last fiscal year."
+        }
+      ]
+    },
+    {
+      "query": "\"Brixmor Property Group Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:00:45Z",
+      "page_title": "\"Brixmor Property Group Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brixmor+Property+Group+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brixmor Property Group (BRX) Revenue 2012-2026 - Stock Analysis",
+          "url": "https://stockanalysis.com/stocks/brx/revenue/",
+          "snippet": "Current and historical revenue information for Brixmor Property Group Inc. (BRX) stock, including a chart and comparison to related stocks."
+        },
+        {
+          "title": "Financial Results :: Brixmor Property Group Inc. (BRX)",
+          "url": "https://investors.brixmor.com/financial-information/financial-results",
+          "snippet": "Fiscal Year Ended Dec 31, 2025 Earnings Release HTML PDF"
+        },
+        {
+          "title": "BRX Revenue Report Q4 2025 | Brixmor Property Group Inc.",
+          "url": "https://www.thinkvalue.co/BRX/revenue",
+          "snippet": "In the last 12-months ending Dec Q4 2025, Brixmor Property Group Inc. BRX made revenue of $1.4B, up by 6.7% YoY. Quarterly revenue of $353.8M, up by 7.7% YoY. BRX has a 3-Year CAGR: 4.0%. Analyze 12 years of revenue history."
+        },
+        {
+          "title": "Brixmor Property Group Inc. (BRX) Earnings Estimates, Revenue Estimates ...",
+          "url": "https://seekingalpha.com/symbol/BRX/earnings/estimates",
+          "snippet": "Brixmor Property Group Inc. (BRX) earnings estimates: forecast for revenue and EPS, high & low, YoY growth, forward PE and number of analysts."
+        },
+        {
+          "title": "Financials Brixmor Property Group Inc. - MarketScreener.com",
+          "url": "https://www.marketscreener.com/quote/stock/BRIXMOR-PROPERTY-GROUP-IN-14742738/finances/",
+          "snippet": "Brixmor Property Group Inc.: Forcasts, revenue, earnings, analysts expectations, ratios for Brixmor Property Group Inc. Stock | BRX | US11120U1051"
+        },
+        {
+          "title": "BRIXMOR PROPERTY GROUP INC. (BRX) Revenue 2025: $1.4B, up 6.7%",
+          "url": "https://www.stocktitan.net/financials/BRX/revenue/",
+          "snippet": "BRIXMOR PROPERTY GROUP INC. (BRX) reported $1.4B in revenue for fiscal year 2025, up 6.7% from the year before. The trailing 12 months come to $1.4B in revenue. Every fiscal year and quarter on record, each column linked to the filing it came from."
+        },
+        {
+          "title": "BRX | Brixmor Property Group Inc. Financial Statements - WSJ",
+          "url": "https://www.wsj.com/market-data/quotes/BRX/financials",
+          "snippet": "Brixmor Property Group Inc. balance sheet, income statement, cash flow, earnings & estimates, ratio and margins. View BRX financial statements in full."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Financial Results :: Brixmor Property Group Inc. (BRX)",
+      "url": "https://investors.brixmor.com/financial-information/financial-results",
+      "snippet": "Fiscal Year Ended Dec 31, 2024 Earnings Release HTML PDF",
+      "query": "\"Brixmor Property Group Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:00:38Z"
+    },
+    {
+      "title": "Brixmor Property Group (BRX) Revenue 2012-2026 - Stock Analysis",
+      "url": "https://stockanalysis.com/stocks/brx/revenue/",
+      "snippet": "Current and historical revenue information for Brixmor Property Group Inc. (BRX) stock, including a chart and comparison to related stocks.",
+      "query": "\"Brixmor Property Group Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:00:38Z"
+    },
+    {
+      "title": "Brixmor Property Group Inc. (BRX)",
+      "url": "https://investors.brixmor.com/",
+      "snippet": "Brixmor (NYSE: BRX) owns and operates a high-quality, national portfolio of open-air shopping centers. Its 346 retail centers comprise approximately 62 million square feet of prime retail space in established trade areas. The Company strives to…",
+      "query": "\"Brixmor Property Group Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:00:38Z"
+    },
+    {
+      "title": "BRX | Brixmor Property Group Inc. Financial Statements - WSJ",
+      "url": "https://www.wsj.com/market-data/quotes/BRX/financials",
+      "snippet": "Brixmor Property Group Inc. balance sheet, income statement, cash flow, earnings & estimates, ratio and margins. View BRX financial statements in full.",
+      "query": "\"Brixmor Property Group Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:00:38Z"
+    },
+    {
+      "title": "Brixmor Property Group Inc. (BRX) - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BRX/financials/",
+      "snippet": "Get the detailed quarterly/annual income statement for Brixmor Property Group Inc. (BRX). Find out the revenue, expenses and profit or loss over the last fiscal year.",
+      "query": "\"Brixmor Property Group Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:00:38Z"
+    },
+    {
+      "title": "BRX Revenue Report Q4 2025 | Brixmor Property Group Inc.",
+      "url": "https://www.thinkvalue.co/BRX/revenue",
+      "snippet": "In the last 12-months ending Dec Q4 2025, Brixmor Property Group Inc. BRX made revenue of $1.4B, up by 6.7% YoY. Quarterly revenue of $353.8M, up by 7.7% YoY. BRX has a 3-Year CAGR: 4.0%. Analyze 12 years of revenue history.",
+      "query": "\"Brixmor Property Group Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:00:45Z"
+    },
+    {
+      "title": "Brixmor Property Group Inc. (BRX) Earnings Estimates, Revenue Estimates ...",
+      "url": "https://seekingalpha.com/symbol/BRX/earnings/estimates",
+      "snippet": "Brixmor Property Group Inc. (BRX) earnings estimates: forecast for revenue and EPS, high & low, YoY growth, forward PE and number of analysts.",
+      "query": "\"Brixmor Property Group Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:00:45Z"
+    },
+    {
+      "title": "Financials Brixmor Property Group Inc. - MarketScreener.com",
+      "url": "https://www.marketscreener.com/quote/stock/BRIXMOR-PROPERTY-GROUP-IN-14742738/finances/",
+      "snippet": "Brixmor Property Group Inc.: Forcasts, revenue, earnings, analysts expectations, ratios for Brixmor Property Group Inc. Stock | BRX | US11120U1051",
+      "query": "\"Brixmor Property Group Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:00:45Z"
+    },
+    {
+      "title": "BRIXMOR PROPERTY GROUP INC. (BRX) Revenue 2025: $1.4B, up 6.7%",
+      "url": "https://www.stocktitan.net/financials/BRX/revenue/",
+      "snippet": "BRIXMOR PROPERTY GROUP INC. (BRX) reported $1.4B in revenue for fiscal year 2025, up 6.7% from the year before. The trailing 12 months come to $1.4B in revenue. Every fiscal year and quarter on record, each column linked to the filing it came from.",
+      "query": "\"Brixmor Property Group Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:00:45Z"
+    }
+  ],
+  "result_count": 9,
+  "updated_at": "2026-10-23T10:00:45Z",
+  "company_status": "SUCCESS"
+}

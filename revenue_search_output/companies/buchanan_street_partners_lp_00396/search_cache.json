@@ -1,0 +1,50 @@
+{
+  "company_key": "buchanan street partners, lp|https://buchananstreet.com",
+  "company_name": "Buchanan Street Partners, LP",
+  "company_website": "https://buchananstreet.com",
+  "created_at": "2026-10-23T11:09:47Z",
+  "searches": [
+    {
+      "query": "\"Buchanan Street Partners, LP\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:09:55Z",
+      "page_title": "\"Buchanan Street Partners, LP\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buchanan+Street+Partners%2C+LP%22+revenue",
+      "results": [
+        {
+          "title": "Buchanan Street Partners, LP - Newport Beach, CA",
+          "url": "https://www.loopnet.com/company/buchanan-street-partners-lp/7pfrx6wl/",
+          "snippet": "Founded in 1999, Buchanan Street Partners is a privately held real estate investment management firm headquartered in Newport Beach, California. The company specializes in value-oriented investments across commercial, multifamily, and self-storage properties, as well as originating real estate debt through its affiliate, Buchanan Mortgage Holdings. Buchanan manages commingled funds ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Buchanan Street Partners, LP\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:10:02Z",
+      "page_title": "\"Buchanan Street Partners, LP\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buchanan+Street+Partners%2C+LP%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Buchanan Street Partners, LP - Newport Beach, CA",
+          "url": "https://www.loopnet.com/company/buchanan-street-partners-lp/7pfrx6wl/",
+          "snippet": "Founded in 1999, Buchanan Street Partners is a privately held real estate investment management firm headquartered in Newport Beach, California. The company specializes in value-oriented investments across commercial, multifamily, and self-storage properties, as well as originating real estate debt through its affiliate, Buchanan Mortgage Holdings. Buchanan manages commingled funds ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Buchanan Street Partners, LP - Newport Beach, CA",
+      "url": "https://www.loopnet.com/company/buchanan-street-partners-lp/7pfrx6wl/",
+      "snippet": "Founded in 1999, Buchanan Street Partners is a privately held real estate investment management firm headquartered in Newport Beach, California. The company specializes in value-oriented investments across commercial, multifamily, and self-storage properties, as well as originating real estate debt through its affiliate, Buchanan Mortgage Holdings. Buchanan manages commingled funds ...",
+      "query": "\"Buchanan Street Partners, LP\" revenue",
+      "search_collected_at": "2026-10-23T11:09:55Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:10:02Z",
+  "company_status": "SUCCESS"
+}

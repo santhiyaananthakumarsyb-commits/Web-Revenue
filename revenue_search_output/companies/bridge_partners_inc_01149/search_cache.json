@@ -1,0 +1,69 @@
+{
+  "company_key": "bridge partners inc|https://bridgepartnersinc.com",
+  "company_name": "Bridge Partners Inc",
+  "company_website": "https://bridgepartnersinc.com",
+  "created_at": "2026-10-23T13:53:21Z",
+  "searches": [
+    {
+      "query": "\"Bridge Partners Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:53:28Z",
+      "page_title": "\"Bridge Partners Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bridge+Partners+Inc%22+revenue",
+      "results": [
+        {
+          "title": "Bridge Partners Inc. 2026 Company Profile - representatives, employees ...",
+          "url": "https://cookiedeal.io/en/company-search/2208712023/Bridge-Partners-Inc.",
+          "snippet": "View Bridge Partners Inc.'s 2026 company profile, including representatives, employees, revenue, financial statements, corporate registry certificate, business registration number, and related companies on Cookiedeal."
+        },
+        {
+          "title": "Research Bridge Partners Inc - Nonprofit Explorer - ProPublica",
+          "url": "https://projects.propublica.org/nonprofits/organizations/814822818",
+          "snippet": "Since 2013, the IRS has released data culled from millions of nonprofit tax filings. Use this database to find organizations and see details like their executive compensation, revenue and expenses, as well as download tax filings going back as far as 2001."
+        }
+      ]
+    },
+    {
+      "query": "\"Bridge Partners Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:53:36Z",
+      "page_title": "\"Bridge Partners Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bridge+Partners+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bridge Partners Inc - Cleveland, OH - Real Estate in Cleveland ... - Manta",
+          "url": "https://www.manta.com/c/mtm52yt/bridge-partners-inc",
+          "snippet": "Categorized under Real Estate. Our records show it was established in 2008 and incorporated in Ohio. Current estimates show this company has an annual revenue of 300000 and employs a staff of approximately 2."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bridge Partners Inc. 2026 Company Profile - representatives, employees ...",
+      "url": "https://cookiedeal.io/en/company-search/2208712023/Bridge-Partners-Inc.",
+      "snippet": "View Bridge Partners Inc.'s 2026 company profile, including representatives, employees, revenue, financial statements, corporate registry certificate, business registration number, and related companies on Cookiedeal.",
+      "query": "\"Bridge Partners Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:53:28Z"
+    },
+    {
+      "title": "Research Bridge Partners Inc - Nonprofit Explorer - ProPublica",
+      "url": "https://projects.propublica.org/nonprofits/organizations/814822818",
+      "snippet": "Since 2013, the IRS has released data culled from millions of nonprofit tax filings. Use this database to find organizations and see details like their executive compensation, revenue and expenses, as well as download tax filings going back as far as 2001.",
+      "query": "\"Bridge Partners Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:53:28Z"
+    },
+    {
+      "title": "Bridge Partners Inc - Cleveland, OH - Real Estate in Cleveland ... - Manta",
+      "url": "https://www.manta.com/c/mtm52yt/bridge-partners-inc",
+      "snippet": "Categorized under Real Estate. Our records show it was established in 2008 and incorporated in Ohio. Current estimates show this company has an annual revenue of 300000 and employs a staff of approximately 2.",
+      "query": "\"Bridge Partners Inc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:53:36Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:53:36Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,44 @@
+{
+  "company_key": "briante realty group llc|https://brianterealtygroup.com",
+  "company_name": "Briante Realty Group LLC",
+  "company_website": "https://brianterealtygroup.com",
+  "created_at": "2026-10-23T12:10:22Z",
+  "searches": [
+    {
+      "query": "\"Briante Realty Group LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:10:30Z",
+      "page_title": "\"Briante Realty Group LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Briante+Realty+Group+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Angela Briante - CARMEL, NY Real Estate Agent | realtor.com®",
+          "url": "https://www.realtor.com/realestateagents/56b328030fa417010074c5ab",
+          "snippet": "Angela Briante is the Principal Broker/Owner of Briante Realty Group LLC. Angela has over twenty years' experience in the real estate industry and has been successfully running her own ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Briante Realty Group LLC\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:10:37Z",
+      "page_title": "\"Briante Realty Group LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Briante+Realty+Group+LLC%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Angela Briante - CARMEL, NY Real Estate Agent | realtor.com®",
+      "url": "https://www.realtor.com/realestateagents/56b328030fa417010074c5ab",
+      "snippet": "Angela Briante is the Principal Broker/Owner of Briante Realty Group LLC. Angela has over twenty years' experience in the real estate industry and has been successfully running her own ...",
+      "query": "\"Briante Realty Group LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:10:30Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:10:37Z",
+  "company_status": "SUCCESS"
+}

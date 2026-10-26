@@ -1,0 +1,50 @@
+{
+  "company_key": "better homes and garden real estate | fern leaf group|https://fernleafrealestate.com",
+  "company_name": "Better Homes and Garden Real Estate | Fern Leaf Group",
+  "company_website": "https://fernleafrealestate.com",
+  "created_at": "2026-10-23T14:05:59Z",
+  "searches": [
+    {
+      "query": "\"Better Homes and Garden Real Estate | Fern Leaf Group\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:06:07Z",
+      "page_title": "\"Better Homes and Garden Real Estate | Fern Leaf Group\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+and+Garden+Real+Estate+%7C+Fern+Leaf+Group%22+revenue",
+      "results": [
+        {
+          "title": "Cindy Hart - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/cindy-hart/5941222/",
+          "snippet": "Cindy Hart, Broker Owner at Better Homes and Garden Real Estate | Fern Leaf Group in Paducah, KY has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"Better Homes and Garden Real Estate | Fern Leaf Group\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T14:06:15Z",
+      "page_title": "\"Better Homes and Garden Real Estate | Fern Leaf Group\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+and+Garden+Real+Estate+%7C+Fern+Leaf+Group%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Cindy Hart - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/cindy-hart/5941222/",
+          "snippet": "Cindy Hart, Broker Owner at Better Homes and Garden Real Estate | Fern Leaf Group in Paducah, KY has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Cindy Hart - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/cindy-hart/5941222/",
+      "snippet": "Cindy Hart, Broker Owner at Better Homes and Garden Real Estate | Fern Leaf Group in Paducah, KY has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"Better Homes and Garden Real Estate | Fern Leaf Group\" revenue",
+      "search_collected_at": "2026-10-23T14:06:07Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T14:06:15Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,67 @@
+{
+  "company_key": "big block realty premier|https://bigblockrealty.com",
+  "company_name": "Big Block Realty Premier",
+  "company_website": "https://bigblockrealty.com",
+  "created_at": "2026-10-23T09:53:12Z",
+  "searches": [
+    {
+      "query": "\"Big Block Realty Premier\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:53:18Z",
+      "page_title": "\"Big Block Realty Premier\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Big+Block+Realty+Premier%22+revenue",
+      "results": [
+        {
+          "title": "Tony Fletcher - Big Block Realty Premier | LinkedIn",
+          "url": "https://www.linkedin.com/in/flutie3333",
+          "snippet": "I fix brokerages that look strong on paper and leak production underneath. Roster bloat… · Experience: Big Block Realty Premier · Education: Springfield High School · Location: Irvine · 500 ..."
+        },
+        {
+          "title": "Ivette Gonzaga - Realtor with Big Block Realty Premier | LinkedIn",
+          "url": "https://www.linkedin.com/in/ivette-gonzaga-24a57a34",
+          "snippet": "Realtor with Big Block Realty Premier · Experienced Real Estate Agent and Productivity Coach with a demonstrated history of working in the real estate industry. Skilled in Sellers, Buyers, Short ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Big Block Realty Premier\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:53:24Z",
+      "page_title": "\"Big Block Realty Premier\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Big+Block+Realty+Premier%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Tony Fletcher - Big Block Realty Premier | LinkedIn",
+          "url": "https://www.linkedin.com/in/flutie3333",
+          "snippet": "I fix brokerages that look strong on paper and leak production underneath. Roster bloat… · Experience: Big Block Realty Premier · Education: Springfield High School · Location: Irvine · 500 ..."
+        },
+        {
+          "title": "Ivette Gonzaga - Realtor with Big Block Realty Premier | LinkedIn",
+          "url": "https://www.linkedin.com/in/ivette-gonzaga-24a57a34",
+          "snippet": "Realtor with Big Block Realty Premier · Experienced Real Estate Agent and Productivity Coach with a demonstrated history of working in the real estate industry. Skilled in Sellers, Buyers, Short ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Tony Fletcher - Big Block Realty Premier | LinkedIn",
+      "url": "https://www.linkedin.com/in/flutie3333",
+      "snippet": "I fix brokerages that look strong on paper and leak production underneath. Roster bloat… · Experience: Big Block Realty Premier · Education: Springfield High School · Location: Irvine · 500 ...",
+      "query": "\"Big Block Realty Premier\" revenue",
+      "search_collected_at": "2026-10-23T09:53:18Z"
+    },
+    {
+      "title": "Ivette Gonzaga - Realtor with Big Block Realty Premier | LinkedIn",
+      "url": "https://www.linkedin.com/in/ivette-gonzaga-24a57a34",
+      "snippet": "Realtor with Big Block Realty Premier · Experienced Real Estate Agent and Productivity Coach with a demonstrated history of working in the real estate industry. Skilled in Sellers, Buyers, Short ...",
+      "query": "\"Big Block Realty Premier\" revenue",
+      "search_collected_at": "2026-10-23T09:53:18Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T09:53:24Z",
+  "company_status": "SUCCESS"
+}

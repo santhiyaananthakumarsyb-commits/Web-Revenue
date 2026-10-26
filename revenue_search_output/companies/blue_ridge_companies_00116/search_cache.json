@@ -1,0 +1,130 @@
+{
+  "company_key": "blue ridge companies|https://blueridgecompanies.com",
+  "company_name": "Blue Ridge Companies",
+  "company_website": "https://blueridgecompanies.com",
+  "created_at": "2026-10-23T10:09:37Z",
+  "searches": [
+    {
+      "query": "\"Blue Ridge Companies\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:09:42Z",
+      "page_title": "\"Blue Ridge Companies\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Ridge+Companies%22+revenue",
+      "results": [
+        {
+          "title": "Blue Ridge Companies - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/blue-ridge-companies-inc/6751580",
+          "snippet": "View Blue Ridge Companies (www.blueridgecompanies.com) location in North Carolina, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Blue Ridge Companies: Revenue, Worth, Valuation & Competitors 2026",
+          "url": "https://compworth.com/company/blue-ridge-companies",
+          "snippet": "Blue Ridge Companies's workforce is 8% larger than the previous measurement. From its High Point headquarters, Blue Ridge Companies competes in Real Estate. Productivity metrics show $165K revenue per employee across the 197-person workforce. Founded 29 years ago, Blue Ridge Companies is an established player in its market."
+        },
+        {
+          "title": "Blue Ridge Companies Information - RocketReach",
+          "url": "https://rocketreach.co/blue-ridge-companies-profile_b5cd27f4f42e0b31",
+          "snippet": "Blue Ridge Companies is a Real Estate company located in High Point, North Carolina with $100.1 million in revenue and 148 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Blue Ridge Companies Revenue, Growth & Competitor Profile",
+          "url": "https://incfact.com/company/blueridge-highpoint-nc/",
+          "snippet": "Blue Ridge Companies is classified as operating in the New Single-Family Housing Construction industry, NAICS Code 236115. Blue Ridge Companies Annual Revenue and Growth Rate"
+        },
+        {
+          "title": "Blue Ridge Companies: Revenue, Competitors, Alternatives - Growjo",
+          "url": "https://growjo.com/company/Blue_Ridge_Companies",
+          "snippet": "Blue Ridge Companies top competitors are Jim Allen Group, Realty World - First Coast Realty and Property Advisor and they have annual revenue of $32.5M and 197 employees."
+        }
+      ]
+    },
+    {
+      "query": "\"Blue Ridge Companies\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:09:49Z",
+      "page_title": "\"Blue Ridge Companies\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Ridge+Companies%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blue Ridge Companies: Revenue, Worth, Valuation & Competitors 2026",
+          "url": "https://compworth.com/company/blue-ridge-companies",
+          "snippet": "Revenue, valuation, and funding figures for Blue Ridge Companies are estimates based on publicly available information, industry analysis, regulatory filings, and proprietary data aggregation methods."
+        },
+        {
+          "title": "Blue Ridge Companies - Overview, News & Similar companies - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/blue-ridge-companies-inc/6751580",
+          "snippet": "View Blue Ridge Companies (www.blueridgecompanies.com) location in North Carolina, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Annual Report on Blue Ridge Companies's Revenue, Growth, SWOT Analysis ...",
+          "url": "https://incfact.com/company/blueridge-highpoint-nc/",
+          "snippet": "Blue Ridge Companies's Annual Report & Profile shows critical firmographic facts: What is the company's size? (Annual sales and employees) Blue Ridge Companies's annual revenues are $100 - $500 million (see exact revenue data) What industry is the company in? Blue Ridge Companies is classified as operating in the New Single-Family Housing Construction industry, NAICS Code 236115. Blue Ridge ..."
+        },
+        {
+          "title": "Blue Ridge Companies: Revenue, Competitors, Alternatives - Growjo",
+          "url": "https://growjo.com/company/Blue_Ridge_Companies",
+          "snippet": "Blue Ridge Companies top competitors are Jim Allen Group, Realty World - First Coast Realty and Property Advisor and they have annual revenue of $32.5M and 197 employees."
+        },
+        {
+          "title": "Blue Ridge Companies Information - RocketReach",
+          "url": "https://rocketreach.co/blue-ridge-companies-profile_b5cd27f4f42e0b31",
+          "snippet": "Blue Ridge Companies Questions What is the annual revenue of Blue Ridge Companies? The Blue Ridge Companies annual revenue was $100.1 million in 2026."
+        },
+        {
+          "title": "Blue Ridge Companies - Company Profile & Staff Directory | ContactOut",
+          "url": "https://contactout.com/company/Blue-Ridge-Companies-29106",
+          "snippet": "What is Blue Ridge Companies's annual revenue? Blue Ridge Companies generates an estimated $10M-$50M annually, based on industry analysis and publicly available market data."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blue Ridge Companies - Overview, News & Similar companies - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/blue-ridge-companies-inc/6751580",
+      "snippet": "View Blue Ridge Companies (www.blueridgecompanies.com) location in North Carolina, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Blue Ridge Companies\" revenue",
+      "search_collected_at": "2026-10-23T10:09:42Z"
+    },
+    {
+      "title": "Blue Ridge Companies: Revenue, Worth, Valuation & Competitors 2026",
+      "url": "https://compworth.com/company/blue-ridge-companies",
+      "snippet": "Blue Ridge Companies's workforce is 8% larger than the previous measurement. From its High Point headquarters, Blue Ridge Companies competes in Real Estate. Productivity metrics show $165K revenue per employee across the 197-person workforce. Founded 29 years ago, Blue Ridge Companies is an established player in its market.",
+      "query": "\"Blue Ridge Companies\" revenue",
+      "search_collected_at": "2026-10-23T10:09:42Z"
+    },
+    {
+      "title": "Blue Ridge Companies Information - RocketReach",
+      "url": "https://rocketreach.co/blue-ridge-companies-profile_b5cd27f4f42e0b31",
+      "snippet": "Blue Ridge Companies is a Real Estate company located in High Point, North Carolina with $100.1 million in revenue and 148 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Blue Ridge Companies\" revenue",
+      "search_collected_at": "2026-10-23T10:09:42Z"
+    },
+    {
+      "title": "Blue Ridge Companies Revenue, Growth & Competitor Profile",
+      "url": "https://incfact.com/company/blueridge-highpoint-nc/",
+      "snippet": "Blue Ridge Companies is classified as operating in the New Single-Family Housing Construction industry, NAICS Code 236115. Blue Ridge Companies Annual Revenue and Growth Rate",
+      "query": "\"Blue Ridge Companies\" revenue",
+      "search_collected_at": "2026-10-23T10:09:42Z"
+    },
+    {
+      "title": "Blue Ridge Companies: Revenue, Competitors, Alternatives - Growjo",
+      "url": "https://growjo.com/company/Blue_Ridge_Companies",
+      "snippet": "Blue Ridge Companies top competitors are Jim Allen Group, Realty World - First Coast Realty and Property Advisor and they have annual revenue of $32.5M and 197 employees.",
+      "query": "\"Blue Ridge Companies\" revenue",
+      "search_collected_at": "2026-10-23T10:09:42Z"
+    },
+    {
+      "title": "Blue Ridge Companies - Company Profile & Staff Directory | ContactOut",
+      "url": "https://contactout.com/company/Blue-Ridge-Companies-29106",
+      "snippet": "What is Blue Ridge Companies's annual revenue? Blue Ridge Companies generates an estimated $10M-$50M annually, based on industry analysis and publicly available market data.",
+      "query": "\"Blue Ridge Companies\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:09:49Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T10:09:49Z",
+  "company_status": "SUCCESS"
+}

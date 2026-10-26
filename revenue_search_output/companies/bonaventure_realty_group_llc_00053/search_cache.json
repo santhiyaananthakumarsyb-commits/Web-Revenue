@@ -1,0 +1,67 @@
+{
+  "company_key": "bonaventure realty group, llc|https://bonaventure.com",
+  "company_name": "Bonaventure Realty Group, LLC",
+  "company_website": "https://bonaventure.com",
+  "created_at": "2026-10-23T09:55:48Z",
+  "searches": [
+    {
+      "query": "\"Bonaventure Realty Group, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:55:55Z",
+      "page_title": "\"Bonaventure Realty Group, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bonaventure+Realty+Group%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Bonaventure Realty Group, LLC - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/bonaventurerealtygroupllc-arlington-va-23991414.html",
+          "snippet": "Check business data for Bonaventure Realty Group, LLC in Arlington , VA . Access business profiles with the D&B Business Directory at DandB.com."
+        },
+        {
+          "title": "PDF Bonaventure Realty Generates $1 Million With Entrata Core",
+          "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Bonaventure_Realty_Group_Onl8vob.pdf",
+          "snippet": "Bonaventure Realty Generates $1 Million With Entrata Core LEHI, UTAH - Bonaventure Realty Group, LLC, the 6,000-unit apartment management company based in Arlington, Va., is driving new revenue by leveraging the no-license-fee, open API data platform that is Entrata Core."
+        }
+      ]
+    },
+    {
+      "query": "\"Bonaventure Realty Group, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:56:00Z",
+      "page_title": "\"Bonaventure Realty Group, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bonaventure+Realty+Group%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bonaventure Realty Group, LLC - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/bonaventurerealtygroupllc-arlington-va-23991414.html",
+          "snippet": "Check business data for Bonaventure Realty Group, LLC in Arlington , VA . Access business profiles with the D&B Business Directory at DandB.com."
+        },
+        {
+          "title": "PDF Bonaventure Realty Generates $1 Million With Entrata Core",
+          "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Bonaventure_Realty_Group_Onl8vob.pdf",
+          "snippet": "Bonaventure Realty Generates $1 Million With Entrata Core LEHI, UTAH - Bonaventure Realty Group, LLC, the 6,000-unit apartment management company based in Arlington, Va., is driving new revenue by leveraging the no-license-fee, open API data platform that is Entrata Core."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bonaventure Realty Group, LLC - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/bonaventurerealtygroupllc-arlington-va-23991414.html",
+      "snippet": "Check business data for Bonaventure Realty Group, LLC in Arlington , VA . Access business profiles with the D&B Business Directory at DandB.com.",
+      "query": "\"Bonaventure Realty Group, LLC\" revenue",
+      "search_collected_at": "2026-10-23T09:55:55Z"
+    },
+    {
+      "title": "PDF Bonaventure Realty Generates $1 Million With Entrata Core",
+      "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Bonaventure_Realty_Group_Onl8vob.pdf",
+      "snippet": "Bonaventure Realty Generates $1 Million With Entrata Core LEHI, UTAH - Bonaventure Realty Group, LLC, the 6,000-unit apartment management company based in Arlington, Va., is driving new revenue by leveraging the no-license-fee, open API data platform that is Entrata Core.",
+      "query": "\"Bonaventure Realty Group, LLC\" revenue",
+      "search_collected_at": "2026-10-23T09:55:55Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T09:56:00Z",
+  "company_status": "SUCCESS"
+}

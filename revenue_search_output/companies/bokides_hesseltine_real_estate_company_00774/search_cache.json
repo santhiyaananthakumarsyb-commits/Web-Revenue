@@ -1,0 +1,62 @@
+{
+  "company_key": "bokides-hesseltine real estate company|https://bhrec.net",
+  "company_name": "Bokides-Hesseltine Real Estate Company",
+  "company_website": "https://bhrec.net",
+  "created_at": "2026-10-23T12:31:28Z",
+  "searches": [
+    {
+      "query": "\"Bokides-Hesseltine Real Estate Company\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:31:35Z",
+      "page_title": "\"Bokides-Hesseltine Real Estate Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bokides-Hesseltine+Real+Estate+Company%22+revenue",
+      "results": [
+        {
+          "title": "Bokides-Hesseltine Real Estate Company",
+          "url": "https://bhrec.net/agricultural-listings/",
+          "snippet": "Explore agricultural properties with Bokides-Hesseltine Real Estate Company, offering comprehensive listings and expert real estate services."
+        }
+      ]
+    },
+    {
+      "query": "\"Bokides-Hesseltine Real Estate Company\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:31:42Z",
+      "page_title": "\"Bokides-Hesseltine Real Estate Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bokides-Hesseltine+Real+Estate+Company%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bokides Hesseltine Real Estate Company - Real Estate Agency in Lodi, CA",
+          "url": "https://bhrec.net/",
+          "snippet": "As the premier Lodi, CA real estate agency, Bokides-Hesseltine Real Estate Company wants you to experience a seamless transition to your new home. Our office would love to speak with you and get started!"
+        },
+        {
+          "title": "Bokides-Hesseltine Real Estate Company",
+          "url": "https://bhrec.net/agricultural-listings/",
+          "snippet": "Explore agricultural properties with Bokides-Hesseltine Real Estate Company, offering comprehensive listings and expert real estate services."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bokides-Hesseltine Real Estate Company",
+      "url": "https://bhrec.net/agricultural-listings/",
+      "snippet": "Explore agricultural properties with Bokides-Hesseltine Real Estate Company, offering comprehensive listings and expert real estate services.",
+      "query": "\"Bokides-Hesseltine Real Estate Company\" revenue",
+      "search_collected_at": "2026-10-23T12:31:35Z"
+    },
+    {
+      "title": "Bokides Hesseltine Real Estate Company - Real Estate Agency in Lodi, CA",
+      "url": "https://bhrec.net/",
+      "snippet": "As the premier Lodi, CA real estate agency, Bokides-Hesseltine Real Estate Company wants you to experience a seamless transition to your new home. Our office would love to speak with you and get started!",
+      "query": "\"Bokides-Hesseltine Real Estate Company\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:31:42Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:31:42Z",
+  "company_status": "SUCCESS"
+}

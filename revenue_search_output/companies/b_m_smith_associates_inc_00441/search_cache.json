@@ -1,0 +1,44 @@
+{
+  "company_key": "b.m. smith & associates, inc.|https://bmsmith.net",
+  "company_name": "B.M. Smith & Associates, Inc.",
+  "company_website": "https://bmsmith.net",
+  "created_at": "2026-10-23T11:19:34Z",
+  "searches": [
+    {
+      "query": "\"B.M. Smith & Associates, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:19:42Z",
+      "page_title": "\"B.M. Smith & Associates, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B.M.+Smith+%26+Associates%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BM Smith | LinkedIn",
+          "url": "https://in.linkedin.com/company/bm-smith",
+          "snippet": "About us Since 1908, B. M. Smith, Inc. has served South Arlington and greater Northern Virginia through management of multi-family and free-standing residential housing and commercial properties. The history of B.M. Smith & Associates, Inc. reflects the story of one family and its longstanding commitment to building community through principled development of housing and commercial properties ..."
+        }
+      ]
+    },
+    {
+      "query": "\"B.M. Smith & Associates, Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:19:48Z",
+      "page_title": "\"B.M. Smith & Associates, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22B.M.+Smith+%26+Associates%2C+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "BM Smith | LinkedIn",
+      "url": "https://in.linkedin.com/company/bm-smith",
+      "snippet": "About us Since 1908, B. M. Smith, Inc. has served South Arlington and greater Northern Virginia through management of multi-family and free-standing residential housing and commercial properties. The history of B.M. Smith & Associates, Inc. reflects the story of one family and its longstanding commitment to building community through principled development of housing and commercial properties ...",
+      "query": "\"B.M. Smith & Associates, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:19:42Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:19:48Z",
+  "company_status": "SUCCESS"
+}

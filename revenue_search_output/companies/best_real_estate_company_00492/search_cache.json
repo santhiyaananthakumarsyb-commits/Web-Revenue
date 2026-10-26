@@ -1,0 +1,30 @@
+{
+  "company_key": "best real estate company|https://bestrealestateco.com",
+  "company_name": "Best Real Estate Company",
+  "company_website": "https://bestrealestateco.com",
+  "created_at": "2026-10-23T11:30:34Z",
+  "searches": [
+    {
+      "query": "\"Best Real Estate Company\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:30:41Z",
+      "page_title": "\"Best Real Estate Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Best+Real+Estate+Company%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Best Real Estate Company\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:30:48Z",
+      "page_title": "\"Best Real Estate Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Best+Real+Estate+Company%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:30:48Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

@@ -1,0 +1,96 @@
+{
+  "company_key": "brooklyn real property, inc|https://brpassociates.nyc",
+  "company_name": "Brooklyn Real Property, Inc",
+  "company_website": "https://brpassociates.nyc",
+  "created_at": "2026-10-23T11:00:44Z",
+  "searches": [
+    {
+      "query": "\"Brooklyn Real Property, Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:00:50Z",
+      "page_title": "\"Brooklyn Real Property, Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brooklyn+Real+Property%2C+Inc%22+revenue",
+      "results": [
+        {
+          "title": "PDF Who we are - brooklynrealproperty.info",
+          "url": "https://www.brooklynrealproperty.info/resources/Bio (Revised).pdf",
+          "snippet": "Brooklyn Real Property, Inc. also known as BRP Associates, Inc. was founded by Jean Paul Ho in October 2012 \"At 389 Atlantic Avenue, Brooklyn, NY\". Then he opened \"9201 Flatlands Avenue\" in February 2013, \"4405 Avenue D\" in March 2014 & \"2106 Bath Avenue\" in 2015. In August 2016, the 5th office @ 522 West 37 Street between 10th Avenue & 11th Avenue at the \"Hudson Yard ..."
+        },
+        {
+          "title": "Brooklyn Real Property, Inc. | New York NY - Facebook",
+          "url": "https://www.facebook.com/BKNYRP/",
+          "snippet": "Brooklyn Real Property, Inc., New York. 113 followers. \"Brooklyn Real Property, Inc Aka. BRP Associates, In. We are your local Real Estate agency with more than 30 years experiences. We have 5..."
+        },
+        {
+          "title": "Jean Paul Ho, your Brooklyn Real Property CEO.",
+          "url": "https://www.brooklynrealproperty.com/staff/jean-paul-ho",
+          "snippet": "Brooklyn Real Property, Inc. also known as BRP Associates, Inc. was founded in October of 2012 it's first location Downtown Brooklyn \" 389 Atlantic Avenue Brooklyn NY 11217 \" by Jean-Paul Ho (Founder & Owner) & 2nd location \" 9201 Flatlands Avenue Brooklyn NY 11236 \" on February 2013 3rd location \" 4405 Avenue D Brooklyn New York 11203 March 2014\" & in 2015 BRP 4th Office at ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Brooklyn Real Property, Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:00:55Z",
+      "page_title": "\"Brooklyn Real Property, Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brooklyn+Real+Property%2C+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brooklyn Real Property, Inc Real Estate Agency in BROOKLYN, NY ...",
+          "url": "https://www.realtor.com/realestateagency/58caf13cdcbf760011549a6d",
+          "snippet": "Find real estate agency Brooklyn Real Property, Inc in BROOKLYN, NY on realtor.com®, your source for top rated real estate professionals."
+        },
+        {
+          "title": "Jean Paul Ho, your Brooklyn Real Property CEO.",
+          "url": "https://www.brooklynrealproperty.com/staff/jean-paul-ho",
+          "snippet": "Brooklyn Real Property, Inc. also known as BRP Associates, Inc. was founded in October of 2012 it's first location Downtown Brooklyn \" 389 Atlantic Avenue Brooklyn NY 11217 \" by Jean-Paul Ho (Founder & Owner) & 2nd location \" 9201 Flatlands Avenue Brooklyn NY 11236 \" on February 2013 3rd location \" 4405 Avenue D Brooklyn New York 11203 March 2014\" & in 2015 BRP 4th Office at ..."
+        },
+        {
+          "title": "PDF Who we are - brooklynrealproperty.info",
+          "url": "https://www.brooklynrealproperty.info/resources/Bio (Revised).pdf",
+          "snippet": "Brooklyn Real Property, Inc. also known as BRP Associates, Inc. was founded by Jean Paul Ho in October 2012 \"At 389 Atlantic Avenue, Brooklyn, NY\". Then he opened \"9201 Flatlands Avenue\" in February 2013, \"4405 Avenue D\" in March 2014 & \"2106 Bath Avenue\" in 2015. In August 2016, the 5th office @ 522 West 37 Street between 10th Avenue & 11th Avenue at the \"Hudson Yard ..."
+        },
+        {
+          "title": "Brooklyn Real Property, Inc. | New York NY - Facebook",
+          "url": "https://www.facebook.com/BKNYRP/",
+          "snippet": "Brooklyn Real Property, Inc., New York. 113 followers. \"Brooklyn Real Property, Inc Aka. BRP Associates, In. We are your local Real Estate agency with more than 30 years experiences. We have 5..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "PDF Who we are - brooklynrealproperty.info",
+      "url": "https://www.brooklynrealproperty.info/resources/Bio (Revised).pdf",
+      "snippet": "Brooklyn Real Property, Inc. also known as BRP Associates, Inc. was founded by Jean Paul Ho in October 2012 \"At 389 Atlantic Avenue, Brooklyn, NY\". Then he opened \"9201 Flatlands Avenue\" in February 2013, \"4405 Avenue D\" in March 2014 & \"2106 Bath Avenue\" in 2015. In August 2016, the 5th office @ 522 West 37 Street between 10th Avenue & 11th Avenue at the \"Hudson Yard ...",
+      "query": "\"Brooklyn Real Property, Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:00:50Z"
+    },
+    {
+      "title": "Brooklyn Real Property, Inc. | New York NY - Facebook",
+      "url": "https://www.facebook.com/BKNYRP/",
+      "snippet": "Brooklyn Real Property, Inc., New York. 113 followers. \"Brooklyn Real Property, Inc Aka. BRP Associates, In. We are your local Real Estate agency with more than 30 years experiences. We have 5...",
+      "query": "\"Brooklyn Real Property, Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:00:50Z"
+    },
+    {
+      "title": "Jean Paul Ho, your Brooklyn Real Property CEO.",
+      "url": "https://www.brooklynrealproperty.com/staff/jean-paul-ho",
+      "snippet": "Brooklyn Real Property, Inc. also known as BRP Associates, Inc. was founded in October of 2012 it's first location Downtown Brooklyn \" 389 Atlantic Avenue Brooklyn NY 11217 \" by Jean-Paul Ho (Founder & Owner) & 2nd location \" 9201 Flatlands Avenue Brooklyn NY 11236 \" on February 2013 3rd location \" 4405 Avenue D Brooklyn New York 11203 March 2014\" & in 2015 BRP 4th Office at ...",
+      "query": "\"Brooklyn Real Property, Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:00:50Z"
+    },
+    {
+      "title": "Brooklyn Real Property, Inc Real Estate Agency in BROOKLYN, NY ...",
+      "url": "https://www.realtor.com/realestateagency/58caf13cdcbf760011549a6d",
+      "snippet": "Find real estate agency Brooklyn Real Property, Inc in BROOKLYN, NY on realtor.com®, your source for top rated real estate professionals.",
+      "query": "\"Brooklyn Real Property, Inc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:00:55Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:00:55Z",
+  "company_status": "SUCCESS"
+}

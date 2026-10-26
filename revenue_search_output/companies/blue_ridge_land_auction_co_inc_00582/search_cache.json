@@ -1,0 +1,62 @@
+{
+  "company_key": "blue ridge land & auction co inc|https://blueridgelandandauction.com",
+  "company_name": "Blue Ridge Land & Auction Co Inc",
+  "company_website": "https://blueridgelandandauction.com",
+  "created_at": "2026-10-23T11:49:51Z",
+  "searches": [
+    {
+      "query": "\"Blue Ridge Land & Auction Co Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:49:56Z",
+      "page_title": "\"Blue Ridge Land & Auction Co Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Ridge+Land+%26+Auction+Co+Inc%22+revenue",
+      "results": [
+        {
+          "title": "Blue Ridge Land & Auction Co Inc - Floyd , VA - Company Profile",
+          "url": "https://www.dandb.com/businessdirectory/blueridgelandauctioncoinc-floyd-va-25207826.html",
+          "snippet": "Company Summary Blue Ridge Land & Auction Co Inc is located at 102 S Locust St in Floyd and has been in the business of Real Estate Agent, Residential since 1991."
+        },
+        {
+          "title": "Blue Ridge Land & Auction Co Inc - Floyd, VA - LoopNet",
+          "url": "https://www.loopnet.com/company/blue-ridge-land-auction-co-inc/5eh3ylpl/",
+          "snippet": "See all Blue Ridge Land & Auction Co Inc current commercial real estate listings and brokers from the Blue Ridge Land & Auction Co Inc office at 102 S Locust St, Floyd, VA 24091. Contact a Blue Ridge Land & Auction Co Inc broker for inquiries about any of their available listings for sale or lease."
+        }
+      ]
+    },
+    {
+      "query": "\"Blue Ridge Land & Auction Co Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:50:04Z",
+      "page_title": "\"Blue Ridge Land & Auction Co Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blue+Ridge+Land+%26+Auction+Co+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blue Ridge Land & Auction Co Inc - Floyd , VA - Company Profile",
+          "url": "https://www.dandb.com/businessdirectory/blueridgelandauctioncoinc-floyd-va-25207826.html",
+          "snippet": "Company Summary Blue Ridge Land & Auction Co Inc is located at 102 S Locust St in Floyd and has been in the business of Real Estate Agent, Residential since 1991."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blue Ridge Land & Auction Co Inc - Floyd , VA - Company Profile",
+      "url": "https://www.dandb.com/businessdirectory/blueridgelandauctioncoinc-floyd-va-25207826.html",
+      "snippet": "Company Summary Blue Ridge Land & Auction Co Inc is located at 102 S Locust St in Floyd and has been in the business of Real Estate Agent, Residential since 1991.",
+      "query": "\"Blue Ridge Land & Auction Co Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:49:56Z"
+    },
+    {
+      "title": "Blue Ridge Land & Auction Co Inc - Floyd, VA - LoopNet",
+      "url": "https://www.loopnet.com/company/blue-ridge-land-auction-co-inc/5eh3ylpl/",
+      "snippet": "See all Blue Ridge Land & Auction Co Inc current commercial real estate listings and brokers from the Blue Ridge Land & Auction Co Inc office at 102 S Locust St, Floyd, VA 24091. Contact a Blue Ridge Land & Auction Co Inc broker for inquiries about any of their available listings for sale or lease.",
+      "query": "\"Blue Ridge Land & Auction Co Inc\" revenue",
+      "search_collected_at": "2026-10-23T11:49:56Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:50:04Z",
+  "company_status": "SUCCESS"
+}

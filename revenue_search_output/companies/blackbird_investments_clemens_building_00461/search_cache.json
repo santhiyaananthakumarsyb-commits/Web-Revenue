@@ -1,0 +1,30 @@
+{
+  "company_key": "blackbird investments - clemens building|https://blackbirdinvest.com",
+  "company_name": "Blackbird Investments - Clemens Building",
+  "company_website": "https://blackbirdinvest.com",
+  "created_at": "2026-10-23T11:23:53Z",
+  "searches": [
+    {
+      "query": "\"Blackbird Investments - Clemens Building\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:24:01Z",
+      "page_title": "\"Blackbird Investments - Clemens Building\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackbird+Investments+-+Clemens+Building%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Blackbird Investments - Clemens Building\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:24:08Z",
+      "page_title": "\"Blackbird Investments - Clemens Building\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackbird+Investments+-+Clemens+Building%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:24:08Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

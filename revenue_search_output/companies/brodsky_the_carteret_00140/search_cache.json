@@ -1,0 +1,30 @@
+{
+  "company_key": "brodsky - the carteret|https://brodsky.com",
+  "company_name": "Brodsky - The Carteret",
+  "company_website": "https://brodsky.com",
+  "created_at": "2026-10-23T10:14:45Z",
+  "searches": [
+    {
+      "query": "\"Brodsky - The Carteret\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:14:52Z",
+      "page_title": "\"Brodsky - The Carteret\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brodsky+-+The+Carteret%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Brodsky - The Carteret\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:14:59Z",
+      "page_title": "\"Brodsky - The Carteret\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brodsky+-+The+Carteret%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:14:59Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

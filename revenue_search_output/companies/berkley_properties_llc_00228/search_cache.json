@@ -1,0 +1,84 @@
+{
+  "company_key": "berkley properties llc|https://berkleyproperties.com",
+  "company_name": "Berkley Properties LLC",
+  "company_website": "https://berkleyproperties.com",
+  "created_at": "2026-10-23T10:33:44Z",
+  "searches": [
+    {
+      "query": "\"Berkley Properties LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:33:50Z",
+      "page_title": "\"Berkley Properties LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkley+Properties+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Berkley Properties LLC Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/berkley-properties-llc-overview",
+          "snippet": "Discover essential details about Berkley Properties LLC, including address, contact, and journey of our company's evolution."
+        },
+        {
+          "title": "BERKLEY PROPERTIES LLC - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/berkleypropertiesllc-lakewood-nj-35164798.html",
+          "snippet": "Check business data for BERKLEY PROPERTIES LLC in LAKEWOOD, NJ. Access business profiles with the D&B Business Directory at DandB.com."
+        },
+        {
+          "title": "Berkley Properties Llc - Company Info, Employees & Competitors",
+          "url": "https://www.cience.com/company/berkley-properties-llc/5778160674645816497",
+          "snippet": "View Berkley properties llc berkleyllc.com location in Usa, revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkley Properties LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:33:55Z",
+      "page_title": "\"Berkley Properties LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkley+Properties+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkley Properties LLC Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/berkley-properties-llc-overview",
+          "snippet": "Discover essential details about Berkley Properties LLC, including address, contact, and journey of our company's evolution."
+        },
+        {
+          "title": "BERKLEY PROPERTIES LLC - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/berkleypropertiesllc-lakewood-nj-35164798.html",
+          "snippet": "Company Summary Berkley Properties Llc was founded in 2011. Berkley Properties Llc specializes in Nonresidential Building Operators. Berkley Properties Llc has 2 employees and estimated revenues of $120,000.00. VERIFIED Status:UNVERIFIED Address:UNVERIFIED LAST VERIFIED: -- Phone: UNVERIFIED Payment Method:UNVERIFIED view full report"
+        },
+        {
+          "title": "Berkley Properties Llc - Company Info, Employees & Competitors",
+          "url": "https://www.cience.com/company/berkley-properties-llc/5778160674645816497",
+          "snippet": "View Berkley properties llc berkleyllc.com location in Usa, revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkley Properties LLC Overview - Salary.com",
+      "url": "https://www.salary.com/research/company/berkley-properties-llc-overview",
+      "snippet": "Discover essential details about Berkley Properties LLC, including address, contact, and journey of our company's evolution.",
+      "query": "\"Berkley Properties LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:33:50Z"
+    },
+    {
+      "title": "BERKLEY PROPERTIES LLC - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/berkleypropertiesllc-lakewood-nj-35164798.html",
+      "snippet": "Check business data for BERKLEY PROPERTIES LLC in LAKEWOOD, NJ. Access business profiles with the D&B Business Directory at DandB.com.",
+      "query": "\"Berkley Properties LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:33:50Z"
+    },
+    {
+      "title": "Berkley Properties Llc - Company Info, Employees & Competitors",
+      "url": "https://www.cience.com/company/berkley-properties-llc/5778160674645816497",
+      "snippet": "View Berkley properties llc berkleyllc.com location in Usa, revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Berkley Properties LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:33:50Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T10:33:55Z",
+  "company_status": "SUCCESS"
+}

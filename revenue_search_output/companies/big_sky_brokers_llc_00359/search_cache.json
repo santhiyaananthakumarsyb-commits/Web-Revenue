@@ -1,0 +1,50 @@
+{
+  "company_key": "big sky brokers, llc|https://bigskybrokers.com",
+  "company_name": "Big Sky Brokers, LLC",
+  "company_website": "https://bigskybrokers.com",
+  "created_at": "2026-10-23T11:01:49Z",
+  "searches": [
+    {
+      "query": "\"Big Sky Brokers, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:01:55Z",
+      "page_title": "\"Big Sky Brokers, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Big+Sky+Brokers%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Big Sky Brokers, LLC - LinkedIn",
+          "url": "https://www.linkedin.com/company/big-sky-brokers-llc",
+          "snippet": "Big Sky Brokers, LLC | 86 followers on LinkedIn. Because experience matters, ours and yours! | Big Sky Brokers was established in 2001 with 'the best of the best' Realtor Brokers in the Helena area."
+        }
+      ]
+    },
+    {
+      "query": "\"Big Sky Brokers, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:02:02Z",
+      "page_title": "\"Big Sky Brokers, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Big+Sky+Brokers%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Big Sky Brokers, LLC - LinkedIn",
+          "url": "https://www.linkedin.com/company/big-sky-brokers-llc",
+          "snippet": "Big Sky Brokers, LLC | 86 followers on LinkedIn. Because experience matters, ours and yours! | Big Sky Brokers was established in 2001 with 'the best of the best' Realtor Brokers in the Helena area."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Big Sky Brokers, LLC - LinkedIn",
+      "url": "https://www.linkedin.com/company/big-sky-brokers-llc",
+      "snippet": "Big Sky Brokers, LLC | 86 followers on LinkedIn. Because experience matters, ours and yours! | Big Sky Brokers was established in 2001 with 'the best of the best' Realtor Brokers in the Helena area.",
+      "query": "\"Big Sky Brokers, LLC\" revenue",
+      "search_collected_at": "2026-10-23T11:01:55Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:02:02Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,91 @@
+{
+  "company_key": "bhhs fillmore real estate|https://bhhsfillmore.com",
+  "company_name": "BHHS Fillmore Real Estate",
+  "company_website": "https://bhhsfillmore.com",
+  "created_at": "2026-10-23T10:49:49Z",
+  "searches": [
+    {
+      "query": "\"BHHS Fillmore Real Estate\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:49:54Z",
+      "page_title": "\"BHHS Fillmore Real Estate\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHHS+Fillmore+Real+Estate%22+revenue",
+      "results": [
+        {
+          "title": "Douglas Daniels - BHHS Fillmore Real Estate - Crexi",
+          "url": "https://www.crexi.com/profile/douglas-daniels-douglasdaniel",
+          "snippet": "Check out Douglas Daniels's broker/agent profile on Crexi to view up-to-date listings, closed transactions, and contact information."
+        },
+        {
+          "title": "BHHS Fillmore Real Estate - Brooklyn, NY - LoopNet",
+          "url": "https://www.loopnet.com/company/bhhs-fillmore-real-estate/3hsywkgl/",
+          "snippet": "Berkshire Hathaway HomeServices is a global real estate brokerage franchise network. When their name goes on a real estate sign, it means something. It's a promise of trust, integrity, stability, longevity and the highest standards of work. And they don't take that promise lightly. That's why you'll see these values reflected in every office, every agent, every interaction. Berkshire ..."
+        },
+        {
+          "title": "Emilio Bien-Aime - BHHS Fillmore Real Estate - Crexi",
+          "url": "https://www.crexi.com/profile/emilio-bien-aime-emiliobi",
+          "snippet": "Check out Emilio Bien-Aime's broker/agent profile on Crexi to view up-to-date listings, closed transactions, and contact information."
+        }
+      ]
+    },
+    {
+      "query": "\"BHHS Fillmore Real Estate\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:50:00Z",
+      "page_title": "\"BHHS Fillmore Real Estate\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHHS+Fillmore+Real+Estate%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BHHS Fillmore Real Estate - Brooklyn, NY - LoopNet",
+          "url": "https://www.loopnet.com/company/bhhs-fillmore-real-estate/3hsywkgl/",
+          "snippet": "Berkshire Hathaway HomeServices is a global real estate brokerage franchise network. When their name goes on a real estate sign, it means something. It's a promise of trust, integrity, stability, longevity and the highest standards of work. And they don't take that promise lightly. That's why you'll see these values reflected in every office, every agent, every interaction. Berkshire ..."
+        },
+        {
+          "title": "Douglas Daniels - BHHS Fillmore Real Estate - The FIRM Office | Crexi",
+          "url": "https://www.crexi.com/profile/douglas-daniels-douglasdaniel",
+          "snippet": "Check out Douglas Daniels's broker/agent profile on Crexi to view up-to-date listings, closed transactions, and contact information."
+        },
+        {
+          "title": "Angela Fogarty - BHHS Fillmore Real Estate - Branch 29 Office | Crexi",
+          "url": "https://www.crexi.com/profile/angela-fogarty-angelafoga",
+          "snippet": "Check out Angela Fogarty's broker/agent profile on Crexi to view up-to-date listings, closed transactions, and contact information."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Douglas Daniels - BHHS Fillmore Real Estate - Crexi",
+      "url": "https://www.crexi.com/profile/douglas-daniels-douglasdaniel",
+      "snippet": "Check out Douglas Daniels's broker/agent profile on Crexi to view up-to-date listings, closed transactions, and contact information.",
+      "query": "\"BHHS Fillmore Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T10:49:54Z"
+    },
+    {
+      "title": "BHHS Fillmore Real Estate - Brooklyn, NY - LoopNet",
+      "url": "https://www.loopnet.com/company/bhhs-fillmore-real-estate/3hsywkgl/",
+      "snippet": "Berkshire Hathaway HomeServices is a global real estate brokerage franchise network. When their name goes on a real estate sign, it means something. It's a promise of trust, integrity, stability, longevity and the highest standards of work. And they don't take that promise lightly. That's why you'll see these values reflected in every office, every agent, every interaction. Berkshire ...",
+      "query": "\"BHHS Fillmore Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T10:49:54Z"
+    },
+    {
+      "title": "Emilio Bien-Aime - BHHS Fillmore Real Estate - Crexi",
+      "url": "https://www.crexi.com/profile/emilio-bien-aime-emiliobi",
+      "snippet": "Check out Emilio Bien-Aime's broker/agent profile on Crexi to view up-to-date listings, closed transactions, and contact information.",
+      "query": "\"BHHS Fillmore Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T10:49:54Z"
+    },
+    {
+      "title": "Angela Fogarty - BHHS Fillmore Real Estate - Branch 29 Office | Crexi",
+      "url": "https://www.crexi.com/profile/angela-fogarty-angelafoga",
+      "snippet": "Check out Angela Fogarty's broker/agent profile on Crexi to view up-to-date listings, closed transactions, and contact information.",
+      "query": "\"BHHS Fillmore Real Estate\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:50:00Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T10:50:00Z",
+  "company_status": "SUCCESS"
+}

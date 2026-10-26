@@ -1,0 +1,62 @@
+{
+  "company_key": "bradfield properties commercial division|https://bradfieldproperties.com",
+  "company_name": "Bradfield Properties Commercial Division",
+  "company_website": "https://bradfieldproperties.com",
+  "created_at": "2026-10-23T10:33:18Z",
+  "searches": [
+    {
+      "query": "\"Bradfield Properties Commercial Division\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:33:24Z",
+      "page_title": "\"Bradfield Properties Commercial Division\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bradfield+Properties+Commercial+Division%22+revenue",
+      "results": [
+        {
+          "title": "Bradfield Properties Commercial Division - San Antonio ... - LoopNet",
+          "url": "https://www.loopnet.com/company/bradfield-properties-commercial-division/xxf08vnl/",
+          "snippet": "Bradfield Properties, Inc. was founded in 1982. Today, it has earned its place as a trendsetter in the San Antonio, Boerne, Bulverde, New Braunfels, Kerrville, and Highland Lakes real estate marketplace. For over 27 years, the Bradfield name has stood for excellence. In the calendar year of 2006, Bradfield Properties closed over $500 million in real estate."
+        },
+        {
+          "title": "Kristy Bradfield Petlin - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/kristy-bradfield_petlin/5055068/",
+          "snippet": "Kristy Bradfield Petlin, Vice President/COO at Bradfield Properties Commercial Division in San Antonio, TX has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"Bradfield Properties Commercial Division\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:33:32Z",
+      "page_title": "\"Bradfield Properties Commercial Division\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bradfield+Properties+Commercial+Division%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bradfield Properties Commercial Division - San Antonio ... - LoopNet",
+          "url": "https://www.loopnet.com/company/bradfield-properties-commercial-division/xxf08vnl/",
+          "snippet": "Bradfield Properties, Inc. was founded in 1982. Today, it has earned its place as a trendsetter in the San Antonio, Boerne, Bulverde, New Braunfels, Kerrville, and Highland Lakes real estate marketplace. For over 27 years, the Bradfield name has stood for excellence. In the calendar year of 2006, Bradfield Properties closed over $500 million in real estate."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bradfield Properties Commercial Division - San Antonio ... - LoopNet",
+      "url": "https://www.loopnet.com/company/bradfield-properties-commercial-division/xxf08vnl/",
+      "snippet": "Bradfield Properties, Inc. was founded in 1982. Today, it has earned its place as a trendsetter in the San Antonio, Boerne, Bulverde, New Braunfels, Kerrville, and Highland Lakes real estate marketplace. For over 27 years, the Bradfield name has stood for excellence. In the calendar year of 2006, Bradfield Properties closed over $500 million in real estate.",
+      "query": "\"Bradfield Properties Commercial Division\" revenue",
+      "search_collected_at": "2026-10-23T10:33:24Z"
+    },
+    {
+      "title": "Kristy Bradfield Petlin - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/kristy-bradfield_petlin/5055068/",
+      "snippet": "Kristy Bradfield Petlin, Vice President/COO at Bradfield Properties Commercial Division in San Antonio, TX has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"Bradfield Properties Commercial Division\" revenue",
+      "search_collected_at": "2026-10-23T10:33:24Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T10:33:32Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,50 @@
+{
+  "company_key": "bizspace ltd|https://bizspace.co.uk",
+  "company_name": "Bizspace Ltd",
+  "company_website": "https://bizspace.co.uk",
+  "created_at": "2026-10-23T09:57:18Z",
+  "searches": [
+    {
+      "query": "\"Bizspace Ltd\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:57:26Z",
+      "page_title": "\"Bizspace Ltd\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bizspace+Ltd%22+revenue",
+      "results": [
+        {
+          "title": "BizSpace Ltd Information - RocketReach",
+          "url": "https://rocketreach.co/bizspace-ltd-profile_b5cb9627f42e14be",
+          "snippet": "BizSpace Ltd is a Real Estate, Industrial Units To Let, and Serviced Offices company located in UK with $34.1 million in revenue and 208 employees. Find top employees, contact details and business statistics at RocketReach."
+        }
+      ]
+    },
+    {
+      "query": "\"Bizspace Ltd\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:57:33Z",
+      "page_title": "\"Bizspace Ltd\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bizspace+Ltd%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BizSpace Ltd Information - RocketReach",
+          "url": "https://rocketreach.co/bizspace-ltd-profile_b5cb9627f42e14be",
+          "snippet": "BizSpace Ltd Questions What is the annual revenue of BizSpace Ltd? The BizSpace Ltd annual revenue was $34.1 million in 2026."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BizSpace Ltd Information - RocketReach",
+      "url": "https://rocketreach.co/bizspace-ltd-profile_b5cb9627f42e14be",
+      "snippet": "BizSpace Ltd is a Real Estate, Industrial Units To Let, and Serviced Offices company located in UK with $34.1 million in revenue and 208 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Bizspace Ltd\" revenue",
+      "search_collected_at": "2026-10-23T09:57:26Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T09:57:33Z",
+  "company_status": "SUCCESS"
+}

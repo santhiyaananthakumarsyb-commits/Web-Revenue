@@ -1,0 +1,62 @@
+{
+  "company_key": "boart longyear limited|https://boartlongyear.com",
+  "company_name": "Boart Longyear Limited",
+  "company_website": "https://boartlongyear.com",
+  "created_at": "2026-10-23T12:08:37Z",
+  "searches": [
+    {
+      "query": "\"Boart Longyear Limited\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:08:42Z",
+      "page_title": "\"Boart Longyear Limited\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boart+Longyear+Limited%22+revenue",
+      "results": [
+        {
+          "title": "Boart Longyear Ltd. - AnnualReports.com",
+          "url": "https://www.annualreports.com/Company/boart-longyear-ltd",
+          "snippet": "Boart Longyear Limited provides drilling services, drilling equipment, and performance tooling for mining and mineral drilling companies worldwide. The company operates through two divisions, Global Drilling Services and Global Products."
+        },
+        {
+          "title": "Boart Longyear Pty Limited - Enterprise Profile | IBISWorld",
+          "url": "https://www.ibisworld.com/australia/company/boart-longyear-pty-limited/11882/",
+          "snippet": "Boart Longyear Limited divides its operation into the following three business units: Global Drilling Services - The company provides surface drilling, underground, and water drilling services for a number of industries, and is also engaged in the provision of environmental, health & safety programs and training."
+        }
+      ]
+    },
+    {
+      "query": "\"Boart Longyear Limited\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:08:49Z",
+      "page_title": "\"Boart Longyear Limited\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boart+Longyear+Limited%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Boart Longyear Ltd. - AnnualReports.com",
+          "url": "https://www.annualreports.com/Company/boart-longyear-ltd",
+          "snippet": "Boart Longyear Limited provides drilling services, drilling equipment, and performance tooling for mining and mineral drilling companies worldwide. The company operates through two divisions, Global Drilling Services and Global Products."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Boart Longyear Ltd. - AnnualReports.com",
+      "url": "https://www.annualreports.com/Company/boart-longyear-ltd",
+      "snippet": "Boart Longyear Limited provides drilling services, drilling equipment, and performance tooling for mining and mineral drilling companies worldwide. The company operates through two divisions, Global Drilling Services and Global Products.",
+      "query": "\"Boart Longyear Limited\" revenue",
+      "search_collected_at": "2026-10-23T12:08:42Z"
+    },
+    {
+      "title": "Boart Longyear Pty Limited - Enterprise Profile | IBISWorld",
+      "url": "https://www.ibisworld.com/australia/company/boart-longyear-pty-limited/11882/",
+      "snippet": "Boart Longyear Limited divides its operation into the following three business units: Global Drilling Services - The company provides surface drilling, underground, and water drilling services for a number of industries, and is also engaged in the provision of environmental, health & safety programs and training.",
+      "query": "\"Boart Longyear Limited\" revenue",
+      "search_collected_at": "2026-10-23T12:08:42Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:08:49Z",
+  "company_status": "SUCCESS"
+}

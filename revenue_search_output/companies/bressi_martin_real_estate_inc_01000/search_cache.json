@@ -1,0 +1,84 @@
+{
+  "company_key": "bressi & martin real estate, inc.|https://bressiandmartin.com",
+  "company_name": "Bressi & Martin Real Estate, Inc.",
+  "company_website": "https://bressiandmartin.com",
+  "created_at": "2026-10-23T13:20:28Z",
+  "searches": [
+    {
+      "query": "\"Bressi & Martin Real Estate, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:20:34Z",
+      "page_title": "\"Bressi & Martin Real Estate, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bressi+%26+Martin+Real+Estate%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BRESSI & MARTIN REAL ESTATE, INC. - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bressi__martin_real_estate_inc.0fa998376f22f756aa39232de3579945.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRESSI & MARTIN REAL ESTATE, INC. of Elysburg, Pennsylvania. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Bressi & Martin Real Estate, Inc. in Shamokin, PA - (570) 644-0821",
+          "url": "https://www.buzzfile.com/business/Electronic-Realty-Association-570-644-0821",
+          "snippet": "Bressi & Martin Real Estate, Inc. (trade name Electronic Realty Association) is in the Real Estate Agent, Residential business. View competitors, revenue, employees, website and phone number."
+        },
+        {
+          "title": "Bressi & Martin Real Estate, Inc. - Shamokin, PA - LoopNet",
+          "url": "https://www.loopnet.com/company/bressi-martin-real-estate-inc/j7d3306l/",
+          "snippet": "Bressi & Martin Real Estate, Inc. is a residential and commercial brokerage firm."
+        }
+      ]
+    },
+    {
+      "query": "\"Bressi & Martin Real Estate, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:20:40Z",
+      "page_title": "\"Bressi & Martin Real Estate, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bressi+%26+Martin+Real+Estate%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BRESSI & MARTIN REAL ESTATE, INC. - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bressi__martin_real_estate_inc.0fa998376f22f756aa39232de3579945.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRESSI & MARTIN REAL ESTATE, INC. of Elysburg, Pennsylvania. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Bressi & Martin Real Estate, Inc. in Shamokin, PA - (570) 644-0821",
+          "url": "https://www.buzzfile.com/business/Electronic-Realty-Association-570-644-0821",
+          "snippet": "Bressi & Martin Real Estate, Inc. (trade name Electronic Realty Association) is in the Real Estate Agent, Residential business. View competitors, revenue, employees, website and phone number."
+        },
+        {
+          "title": "Bressi & Martin Real Estate, Inc. - Shamokin, PA - LoopNet",
+          "url": "https://www.loopnet.com/company/bressi-martin-real-estate-inc/j7d3306l/",
+          "snippet": "Bressi & Martin Real Estate, Inc. is a residential and commercial brokerage firm."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BRESSI & MARTIN REAL ESTATE, INC. - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bressi__martin_real_estate_inc.0fa998376f22f756aa39232de3579945.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BRESSI & MARTIN REAL ESTATE, INC. of Elysburg, Pennsylvania. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Bressi & Martin Real Estate, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:20:34Z"
+    },
+    {
+      "title": "Bressi & Martin Real Estate, Inc. in Shamokin, PA - (570) 644-0821",
+      "url": "https://www.buzzfile.com/business/Electronic-Realty-Association-570-644-0821",
+      "snippet": "Bressi & Martin Real Estate, Inc. (trade name Electronic Realty Association) is in the Real Estate Agent, Residential business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Bressi & Martin Real Estate, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:20:34Z"
+    },
+    {
+      "title": "Bressi & Martin Real Estate, Inc. - Shamokin, PA - LoopNet",
+      "url": "https://www.loopnet.com/company/bressi-martin-real-estate-inc/j7d3306l/",
+      "snippet": "Bressi & Martin Real Estate, Inc. is a residential and commercial brokerage firm.",
+      "query": "\"Bressi & Martin Real Estate, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T13:20:34Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:20:40Z",
+  "company_status": "SUCCESS"
+}

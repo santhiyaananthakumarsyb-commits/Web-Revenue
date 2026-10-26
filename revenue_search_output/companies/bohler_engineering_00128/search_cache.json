@@ -1,0 +1,115 @@
+{
+  "company_key": "bohler engineering|https://bohlerengineering.com",
+  "company_name": "Bohler Engineering",
+  "company_website": "https://bohlerengineering.com",
+  "created_at": "2026-10-23T10:12:17Z",
+  "searches": [
+    {
+      "query": "\"Bohler Engineering\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:12:24Z",
+      "page_title": "\"Bohler Engineering\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bohler+Engineering%22+revenue",
+      "results": [
+        {
+          "title": "Bohler Engineering P.C. Revenue, Growth & Competitor Profile",
+          "url": "https://incfact.com/company/bohlerengineeringpc-warren-nj/",
+          "snippet": "Bohler Engineering P.C. is classified as operating in the Engineering Services industry, NAICS Code 54133. Bohler Engineering P.C. Annual Revenue and Growth Rate"
+        },
+        {
+          "title": "Bohler Engineering | (610) 709-9971 | Bethlehem, Pennsylvania",
+          "url": "https://www.allbiz.com/business/bohler-engineering_12v-610-709-9971",
+          "snippet": "Michael E. Jeitner is the primary contact at Bohler Engineering. Bohler Engineering generates approximately USD 500,000 in revenue annually, and employs around 46 people at this location."
+        },
+        {
+          "title": "Bohlerengineering: 28 Tools Behind $175M Revenue [2026]",
+          "url": "https://techlist.ai/bohlerengineering.com",
+          "snippet": "Bohler Engineering: The Invisible Force Behind Real Estate A $175M revenue machine that powers land development without owning the land While developers chase headlines, Bohler Engineering quietly commands a $175.4M revenue engine by solving the unglamorous infrastructure problems that make or break real estate projects."
+        },
+        {
+          "title": "Bohler Engineering PC | (410) 821-7900 | Towson, Maryland - AllBiz",
+          "url": "https://www.allbiz.com/business/bohler-engineering-pc_8p-410-821-7900",
+          "snippet": "Greg Reed is the primary contact at Bohler Engineering PC. Bohler Engineering PC generates approximately USD 2,464,800 in revenue annually, and employs around 19 people at this location."
+        },
+        {
+          "title": "Bohler Engineering's Competitors, Revenue, Number of Employees, Funding ...",
+          "url": "https://www.owler.com/company/bohler",
+          "snippet": "Bohler Engineering's Profile, Revenue and Employees. Bohler is a civil engineering based firm that provides land surveying, program management, due diligence, landscape architecture and sustainable design."
+        }
+      ]
+    },
+    {
+      "query": "\"Bohler Engineering\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:12:29Z",
+      "page_title": "\"Bohler Engineering\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bohler+Engineering%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bohlerengineering: 28 Tools Behind $175M Revenue [2026]",
+          "url": "https://techlist.ai/bohlerengineering.com",
+          "snippet": "Bohler Engineering: The Invisible Force Behind Real Estate A $175M revenue machine that powers land development without owning the land While developers chase headlines, Bohler Engineering quietly commands a $175.4M revenue engine by solving the unglamorous infrastructure problems that make or break real estate projects."
+        },
+        {
+          "title": "Bohler Engineering | (703) 709-9500 | Herndon, Virginia - AllBiz",
+          "url": "https://www.allbiz.com/business/bohler_14N-703-709-9500",
+          "snippet": "Luis Laverde is the primary contact at Bohler Engineering. Bohler Engineering generates approximately USD 11,224,320 in revenue annually, and employs around 95 people at this location."
+        },
+        {
+          "title": "Bohler Engineering | (610) 709-9971 | Bethlehem, Pennsylvania - AllBiz",
+          "url": "https://www.allbiz.com/business/bohler-engineering_12v-610-709-9971",
+          "snippet": "Michael E. Jeitner is the primary contact at Bohler Engineering. Bohler Engineering generates approximately USD 500,000 in revenue annually, and employs around 46 people at this location."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bohler Engineering P.C. Revenue, Growth & Competitor Profile",
+      "url": "https://incfact.com/company/bohlerengineeringpc-warren-nj/",
+      "snippet": "Bohler Engineering P.C. is classified as operating in the Engineering Services industry, NAICS Code 54133. Bohler Engineering P.C. Annual Revenue and Growth Rate",
+      "query": "\"Bohler Engineering\" revenue",
+      "search_collected_at": "2026-10-23T10:12:24Z"
+    },
+    {
+      "title": "Bohler Engineering | (610) 709-9971 | Bethlehem, Pennsylvania",
+      "url": "https://www.allbiz.com/business/bohler-engineering_12v-610-709-9971",
+      "snippet": "Michael E. Jeitner is the primary contact at Bohler Engineering. Bohler Engineering generates approximately USD 500,000 in revenue annually, and employs around 46 people at this location.",
+      "query": "\"Bohler Engineering\" revenue",
+      "search_collected_at": "2026-10-23T10:12:24Z"
+    },
+    {
+      "title": "Bohlerengineering: 28 Tools Behind $175M Revenue [2026]",
+      "url": "https://techlist.ai/bohlerengineering.com",
+      "snippet": "Bohler Engineering: The Invisible Force Behind Real Estate A $175M revenue machine that powers land development without owning the land While developers chase headlines, Bohler Engineering quietly commands a $175.4M revenue engine by solving the unglamorous infrastructure problems that make or break real estate projects.",
+      "query": "\"Bohler Engineering\" revenue",
+      "search_collected_at": "2026-10-23T10:12:24Z"
+    },
+    {
+      "title": "Bohler Engineering PC | (410) 821-7900 | Towson, Maryland - AllBiz",
+      "url": "https://www.allbiz.com/business/bohler-engineering-pc_8p-410-821-7900",
+      "snippet": "Greg Reed is the primary contact at Bohler Engineering PC. Bohler Engineering PC generates approximately USD 2,464,800 in revenue annually, and employs around 19 people at this location.",
+      "query": "\"Bohler Engineering\" revenue",
+      "search_collected_at": "2026-10-23T10:12:24Z"
+    },
+    {
+      "title": "Bohler Engineering's Competitors, Revenue, Number of Employees, Funding ...",
+      "url": "https://www.owler.com/company/bohler",
+      "snippet": "Bohler Engineering's Profile, Revenue and Employees. Bohler is a civil engineering based firm that provides land surveying, program management, due diligence, landscape architecture and sustainable design.",
+      "query": "\"Bohler Engineering\" revenue",
+      "search_collected_at": "2026-10-23T10:12:24Z"
+    },
+    {
+      "title": "Bohler Engineering | (703) 709-9500 | Herndon, Virginia - AllBiz",
+      "url": "https://www.allbiz.com/business/bohler_14N-703-709-9500",
+      "snippet": "Luis Laverde is the primary contact at Bohler Engineering. Bohler Engineering generates approximately USD 11,224,320 in revenue annually, and employs around 95 people at this location.",
+      "query": "\"Bohler Engineering\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:12:29Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T10:12:29Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,74 @@
+{
+  "company_key": "blackrock real estate services|https://sellblackrock.com",
+  "company_name": "Blackrock Real Estate Services",
+  "company_website": "https://sellblackrock.com",
+  "created_at": "2026-10-23T12:16:38Z",
+  "searches": [
+    {
+      "query": "\"Blackrock Real Estate Services\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:16:43Z",
+      "page_title": "\"Blackrock Real Estate Services\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackrock+Real+Estate+Services%22+revenue",
+      "results": [
+        {
+          "title": "Blackrock Real Estate Services - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/blackrock-real-estate-services",
+          "snippet": "Blackrock Real Estate Services is a real estate agency that offer buys, sells, and leases commercial and residential properties. They invest in real estate assets that demand a local market presence in addition to operational and analytical competence."
+        },
+        {
+          "title": "Blackrock Real Estate Services Overview, Competitors, News, and ...",
+          "url": "https://www.clodura.ai/directory/company/blackrock-real-estate-services",
+          "snippet": "Blackrock Real Estate Services revenue, competitors, industry, employees, sales intent, org chart, technographic data and much more. Find similar companies as well as employees by title, seniority, and much more."
+        },
+        {
+          "title": "Blackrock Real Estate Services - Company Information",
+          "url": "https://6sense.com/company/blackrock-real-estate-services/627b16587925586bf04752d5",
+          "snippet": "Find useful insights on Blackrock Real Estate Services's company details, tech stack, news alerts, competitors and more. Use 6sense to connect with top decision-makers at Blackrock Real Estate Services."
+        }
+      ]
+    },
+    {
+      "query": "\"Blackrock Real Estate Services\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:16:50Z",
+      "page_title": "\"Blackrock Real Estate Services\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackrock+Real+Estate+Services%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blackrock Real Estate Services - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/blackrock-real-estate-services",
+          "snippet": "Blackrock Real Estate Services provides buying, selling, and leasing for commercial and residential properties."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blackrock Real Estate Services - Crunchbase",
+      "url": "https://www.crunchbase.com/organization/blackrock-real-estate-services",
+      "snippet": "Blackrock Real Estate Services is a real estate agency that offer buys, sells, and leases commercial and residential properties. They invest in real estate assets that demand a local market presence in addition to operational and analytical competence.",
+      "query": "\"Blackrock Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T12:16:43Z"
+    },
+    {
+      "title": "Blackrock Real Estate Services Overview, Competitors, News, and ...",
+      "url": "https://www.clodura.ai/directory/company/blackrock-real-estate-services",
+      "snippet": "Blackrock Real Estate Services revenue, competitors, industry, employees, sales intent, org chart, technographic data and much more. Find similar companies as well as employees by title, seniority, and much more.",
+      "query": "\"Blackrock Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T12:16:43Z"
+    },
+    {
+      "title": "Blackrock Real Estate Services - Company Information",
+      "url": "https://6sense.com/company/blackrock-real-estate-services/627b16587925586bf04752d5",
+      "snippet": "Find useful insights on Blackrock Real Estate Services's company details, tech stack, news alerts, competitors and more. Use 6sense to connect with top decision-makers at Blackrock Real Estate Services.",
+      "query": "\"Blackrock Real Estate Services\" revenue",
+      "search_collected_at": "2026-10-23T12:16:43Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T12:16:50Z",
+  "company_status": "SUCCESS"
+}

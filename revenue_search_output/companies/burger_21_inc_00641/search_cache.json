@@ -1,0 +1,50 @@
+{
+  "company_key": "burger 21 inc|https://burger21.com",
+  "company_name": "Burger 21 Inc",
+  "company_website": "https://burger21.com",
+  "created_at": "2026-10-23T12:02:42Z",
+  "searches": [
+    {
+      "query": "\"Burger 21 Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:02:50Z",
+      "page_title": "\"Burger 21 Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burger+21+Inc%22+revenue",
+      "results": [
+        {
+          "title": "Contact Us - Burger 21",
+          "url": "https://www.burger21.com/contact-us/",
+          "snippet": "At Burger 21 you can taste our obsession with burgers. burger 21 corporate office Burger 21 Inc. 3550 Buschwood Park Drive, Ste. 125 Tampa, Fl 33618 813-327-7870"
+        }
+      ]
+    },
+    {
+      "query": "\"Burger 21 Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:02:57Z",
+      "page_title": "\"Burger 21 Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Burger+21+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Contact Us - Burger 21",
+          "url": "https://www.burger21.com/contact-us/",
+          "snippet": "At Burger 21 you can taste our obsession with burgers. burger 21 corporate office Burger 21 Inc. 3550 Buschwood Park Drive, Ste. 125 Tampa, Fl 33618 813-327-7870"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Contact Us - Burger 21",
+      "url": "https://www.burger21.com/contact-us/",
+      "snippet": "At Burger 21 you can taste our obsession with burgers. burger 21 corporate office Burger 21 Inc. 3550 Buschwood Park Drive, Ste. 125 Tampa, Fl 33618 813-327-7870",
+      "query": "\"Burger 21 Inc\" revenue",
+      "search_collected_at": "2026-10-23T12:02:50Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:02:57Z",
+  "company_status": "SUCCESS"
+}

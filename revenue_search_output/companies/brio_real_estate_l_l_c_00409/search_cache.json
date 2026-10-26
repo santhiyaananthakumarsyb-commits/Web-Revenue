@@ -1,0 +1,30 @@
+{
+  "company_key": "brio real estate, l.l.c.|https://briore.com",
+  "company_name": "Brio Real Estate, L.L.C.",
+  "company_website": "https://briore.com",
+  "created_at": "2026-10-23T11:12:39Z",
+  "searches": [
+    {
+      "query": "\"Brio Real Estate, L.L.C.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:12:46Z",
+      "page_title": "\"Brio Real Estate, L.L.C.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brio+Real+Estate%2C+L.L.C.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Brio Real Estate, L.L.C.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:12:53Z",
+      "page_title": "\"Brio Real Estate, L.L.C.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brio+Real+Estate%2C+L.L.C.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:12:53Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

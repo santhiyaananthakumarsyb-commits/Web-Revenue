@@ -1,0 +1,125 @@
+{
+  "company_key": "bobby cox companies, inc.|https://bobbycox.com",
+  "company_name": "Bobby Cox Companies, Inc.",
+  "company_website": "https://bobbycox.com",
+  "created_at": "2026-10-23T11:50:14Z",
+  "searches": [
+    {
+      "query": "\"Bobby Cox Companies, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:50:20Z",
+      "page_title": "\"Bobby Cox Companies, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bobby+Cox+Companies%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Bobby Cox Companies, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bobby-cox-companies-inc-profile_b5c95842f42e3776",
+          "snippet": "Bobby Cox Companies, Inc. is a Restaurants, Food & Beverages, and Hospitality company located in Fort Worth, Texas with $276.1 million in revenue and 198 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bobby Cox Companies, Inc.",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bobby_cox_companies_inc.abca8b799c8f85865c12cbeb1e6ff89a.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Bobby Cox Companies, Inc. of Hurst, Texas. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Bobby Cox Companies, Inc. Information - SignalHire",
+          "url": "https://www.signalhire.com/companies/bobby-cox-companies-inc",
+          "snippet": "Bobby Cox Companies, Inc., headquartered in Fort Worth, TX, operates within the food services industry and supports a workforce of 200 to 500 employees. The company achieves annual revenues between $100 million and $500 million, reflecting its substantial presence in the market"
+        },
+        {
+          "title": "Bobby Cox Companies Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/Texas-Burger-817-377-6200",
+          "snippet": "Bobby Cox Companies, Inc. (trade name Texas Burger) is in the Fast-food Restaurant, Chain business. View competitors, revenue, employees, website and phone number."
+        },
+        {
+          "title": "Bobby Cox Companies Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/Texas-Burger-432-561-5633",
+          "snippet": "Bobby Cox Companies, Inc. (trade name Texas Burger) is in the Real Estate Agents and Managers business. View competitors, revenue, employees, website and phone number."
+        }
+      ]
+    },
+    {
+      "query": "\"Bobby Cox Companies, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:50:26Z",
+      "page_title": "\"Bobby Cox Companies, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bobby+Cox+Companies%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bobby Cox Companies, Inc. Information - RocketReach",
+          "url": "https://rocketreach.co/bobby-cox-companies-inc-profile_b5c95842f42e3776",
+          "snippet": "Bobby Cox Companies, Inc. is a Restaurants, Food & Beverages, and Hospitality company located in Fort Worth, Texas with $276.1 million in revenue and 198 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Bobby Cox Companies, Inc. Information - SignalHire",
+          "url": "https://www.signalhire.com/companies/bobby-cox-companies-inc",
+          "snippet": "Summary Bobby Cox Companies, Inc., headquartered in Fort Worth, TX, operates within the food services industry and supports a workforce of 200 to 500 employees. The company achieves annual revenues between $100 million and $500 million, reflecting its substantial presence in the market."
+        },
+        {
+          "title": "Bobby Cox Companies Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/Texas-Burger-432-561-5633",
+          "snippet": "Bobby Cox Companies, Inc. (trade name Texas Burger) is in the Real Estate Agents and Managers business. View competitors, revenue, employees, website and phone number."
+        },
+        {
+          "title": "Bobby Cox Companies Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/Taco-Villa-432-563-5233",
+          "snippet": "Bobby Cox Companies, Inc. (trade name Taco Villa) is in the Fast-food Restaurant, Chain business. View competitors, revenue, employees, website and phone number."
+        },
+        {
+          "title": "Bobby Cox Companies, Inc.",
+          "url": "https://www.dnb.com/business-directory/company-profiles.bobby_cox_companies_inc.abca8b799c8f85865c12cbeb1e6ff89a.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Bobby Cox Companies, Inc. of Hurst, Texas. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bobby Cox Companies, Inc. Information - RocketReach",
+      "url": "https://rocketreach.co/bobby-cox-companies-inc-profile_b5c95842f42e3776",
+      "snippet": "Bobby Cox Companies, Inc. is a Restaurants, Food & Beverages, and Hospitality company located in Fort Worth, Texas with $276.1 million in revenue and 198 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Bobby Cox Companies, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:50:20Z"
+    },
+    {
+      "title": "Bobby Cox Companies, Inc.",
+      "url": "https://www.dnb.com/business-directory/company-profiles.bobby_cox_companies_inc.abca8b799c8f85865c12cbeb1e6ff89a.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Bobby Cox Companies, Inc. of Hurst, Texas. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Bobby Cox Companies, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:50:20Z"
+    },
+    {
+      "title": "Bobby Cox Companies, Inc. Information - SignalHire",
+      "url": "https://www.signalhire.com/companies/bobby-cox-companies-inc",
+      "snippet": "Bobby Cox Companies, Inc., headquartered in Fort Worth, TX, operates within the food services industry and supports a workforce of 200 to 500 employees. The company achieves annual revenues between $100 million and $500 million, reflecting its substantial presence in the market",
+      "query": "\"Bobby Cox Companies, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:50:20Z"
+    },
+    {
+      "title": "Bobby Cox Companies Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.buzzfile.com/business/Texas-Burger-817-377-6200",
+      "snippet": "Bobby Cox Companies, Inc. (trade name Texas Burger) is in the Fast-food Restaurant, Chain business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Bobby Cox Companies, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:50:20Z"
+    },
+    {
+      "title": "Bobby Cox Companies Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.buzzfile.com/business/Texas-Burger-432-561-5633",
+      "snippet": "Bobby Cox Companies, Inc. (trade name Texas Burger) is in the Real Estate Agents and Managers business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Bobby Cox Companies, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:50:20Z"
+    },
+    {
+      "title": "Bobby Cox Companies Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.buzzfile.com/business/Taco-Villa-432-563-5233",
+      "snippet": "Bobby Cox Companies, Inc. (trade name Taco Villa) is in the Fast-food Restaurant, Chain business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Bobby Cox Companies, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:50:26Z"
+    }
+  ],
+  "result_count": 6,
+  "updated_at": "2026-10-23T11:50:26Z",
+  "company_status": "SUCCESS"
+}

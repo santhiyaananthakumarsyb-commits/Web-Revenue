@@ -1,0 +1,101 @@
+{
+  "company_key": "brickpoint properties, inc.|https://brickpoint.com",
+  "company_name": "Brickpoint Properties, Inc.",
+  "company_website": "https://brickpoint.com",
+  "created_at": "2026-10-23T11:32:30Z",
+  "searches": [
+    {
+      "query": "\"Brickpoint Properties, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:32:36Z",
+      "page_title": "\"Brickpoint Properties, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brickpoint+Properties%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BRICKPOINT PROPERTIES, INC. Company Profile: Financials, Valuation, and ...",
+          "url": "https://www.privco.com/company/brickpoint-properties_private_stock_annual_report_financials",
+          "snippet": "BRICKPOINT PROPERTIES, INC. is a privately-held company that operates in the real estate industry. BRICKPOINT PROPERTIES, INC. headquarters are located in Stoneham, Massachusetts."
+        },
+        {
+          "title": "Brickpoint Properties, Inc. - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/brickpointpropertiesinc.-stoneham-ma-14419454.html",
+          "snippet": "Brickpoint Properties, Inc. is located at 2 Main St Ste 200 in Stoneham and has been in the business of Real Estate Managers since 1960."
+        },
+        {
+          "title": "Brickpoint Properties, Inc.",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brickpoint_properties_inc.07a4e326c70a4f974a8184fb8806ed42.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRICKPOINT PROPERTIES, INC. of Peabody, Massachusetts. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "BRICKPOINT PROPERTIES, INC. Company Profile | Stoneham, MA ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brickpoint_properties_inc.4804e2d43b8ae79861ce2a3631c3992b.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRICKPOINT PROPERTIES, INC. of Stoneham, MA. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    },
+    {
+      "query": "\"Brickpoint Properties, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:32:41Z",
+      "page_title": "\"Brickpoint Properties, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brickpoint+Properties%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BRICKPOINT PROPERTIES, INC. Company Profile: Financials, Valuation, and ...",
+          "url": "https://www.privco.com/company/brickpoint-properties_private_stock_annual_report_financials",
+          "snippet": "BRICKPOINT PROPERTIES, INC. is a privately-held company that operates in the real estate industry. BRICKPOINT PROPERTIES, INC. headquarters are located in Stoneham, Massachusetts."
+        },
+        {
+          "title": "Brickpoint Properties, Inc. - Dun & Bradstreet",
+          "url": "https://www.dandb.com/businessdirectory/brickpointpropertiesinc.-stoneham-ma-14419454.html",
+          "snippet": "Brickpoint Properties, Inc. is located at 2 Main St Ste 200 in Stoneham and has been in the business of Real Estate Managers since 1960."
+        },
+        {
+          "title": "BRICKPOINT PROPERTIES, INC. Company Profile | Stoneham, MA ...",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brickpoint_properties_inc.4804e2d43b8ae79861ce2a3631c3992b.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRICKPOINT PROPERTIES, INC. of Stoneham, MA. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Brickpoint Properties, Inc.",
+          "url": "https://www.dnb.com/business-directory/company-profiles.brickpoint_properties_inc.07a4e326c70a4f974a8184fb8806ed42.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for BRICKPOINT PROPERTIES, INC. of Peabody, Massachusetts. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BRICKPOINT PROPERTIES, INC. Company Profile: Financials, Valuation, and ...",
+      "url": "https://www.privco.com/company/brickpoint-properties_private_stock_annual_report_financials",
+      "snippet": "BRICKPOINT PROPERTIES, INC. is a privately-held company that operates in the real estate industry. BRICKPOINT PROPERTIES, INC. headquarters are located in Stoneham, Massachusetts.",
+      "query": "\"Brickpoint Properties, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:32:36Z"
+    },
+    {
+      "title": "Brickpoint Properties, Inc. - Dun & Bradstreet",
+      "url": "https://www.dandb.com/businessdirectory/brickpointpropertiesinc.-stoneham-ma-14419454.html",
+      "snippet": "Brickpoint Properties, Inc. is located at 2 Main St Ste 200 in Stoneham and has been in the business of Real Estate Managers since 1960.",
+      "query": "\"Brickpoint Properties, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:32:36Z"
+    },
+    {
+      "title": "Brickpoint Properties, Inc.",
+      "url": "https://www.dnb.com/business-directory/company-profiles.brickpoint_properties_inc.07a4e326c70a4f974a8184fb8806ed42.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BRICKPOINT PROPERTIES, INC. of Peabody, Massachusetts. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Brickpoint Properties, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:32:36Z"
+    },
+    {
+      "title": "BRICKPOINT PROPERTIES, INC. Company Profile | Stoneham, MA ...",
+      "url": "https://www.dnb.com/business-directory/company-profiles.brickpoint_properties_inc.4804e2d43b8ae79861ce2a3631c3992b.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for BRICKPOINT PROPERTIES, INC. of Stoneham, MA. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Brickpoint Properties, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:32:36Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:32:41Z",
+  "company_status": "SUCCESS"
+}

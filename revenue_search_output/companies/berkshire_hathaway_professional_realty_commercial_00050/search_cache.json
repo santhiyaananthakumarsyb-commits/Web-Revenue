@@ -1,0 +1,80 @@
+{
+  "company_key": "berkshire hathaway professional realty commercial|https://bhhspro.com",
+  "company_name": "Berkshire Hathaway Professional Realty Commercial",
+  "company_website": "https://bhhspro.com",
+  "created_at": "2026-10-23T09:55:05Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Professional Realty Commercial\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:55:11Z",
+      "page_title": "\"Berkshire Hathaway Professional Realty Commercial\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Professional+Realty+Commercial%22+revenue",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Professional Realty Commercial Division ... - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/berkshire-hathaway-professional-realty-commercial-division-carmichael-commercial-group/1317479617",
+          "snippet": "Who is Berkshire Hathaway Professional Realty Commercial Division Carmichael Commercial Group Berkshire Hathaway Professional Realty Commercial Division Carmichael Commercial Group is a company that operates in the Real Estate industry. It e mploys 11-20 people and has $10M-$25M of revenue."
+        },
+        {
+          "title": "Berkshire Hathaway Professional Realty Commercial - Mason ... - LoopNet",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-professional-realty-commercial/l8fffbgl/",
+          "snippet": "At Berkshire Hathaway HomeServices Professional Realty, their dedicated team of real estate professionals span across four states and provide a broad range of real estate services. Whether you're navigating residential real estate, seeking relocation assistance, or exploring investment opportunities, their commitment to excellence ensures comprehensive coverage tailored to your personal needs."
+        },
+        {
+          "title": "David Mussari | Berkshire Hathaway Professional Realty Commercial ...",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/david-mussari/vss78seb",
+          "snippet": "David Mussari - Managing Partner of Berkshire Hathaway HomeServices Professional Realty. View David Mussari's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "Working at Berkshire Hathaway Professional Realty Commercial",
+          "url": "https://www.glassdoor.com/Overview/Working-at-Berkshire-Hathaway-Professional-Realty-Commercial-EI_IE8677373.11,60.htm",
+          "snippet": "See what employees say it's like to work at Berkshire Hathaway Professional Realty Commercial. Salaries, reviews, and more - all posted by employees working at Berkshire Hathaway Professional Realty Commercial."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Professional Realty Commercial\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:55:19Z",
+      "page_title": "\"Berkshire Hathaway Professional Realty Commercial\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Professional+Realty+Commercial%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Hathaway Professional Realty Commercial Division ... - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/berkshire-hathaway-professional-realty-commercial-division-carmichael-commercial-group/1317479617",
+      "snippet": "Who is Berkshire Hathaway Professional Realty Commercial Division Carmichael Commercial Group Berkshire Hathaway Professional Realty Commercial Division Carmichael Commercial Group is a company that operates in the Real Estate industry. It e mploys 11-20 people and has $10M-$25M of revenue.",
+      "query": "\"Berkshire Hathaway Professional Realty Commercial\" revenue",
+      "search_collected_at": "2026-10-23T09:55:11Z"
+    },
+    {
+      "title": "Berkshire Hathaway Professional Realty Commercial - Mason ... - LoopNet",
+      "url": "https://www.loopnet.com/company/berkshire-hathaway-professional-realty-commercial/l8fffbgl/",
+      "snippet": "At Berkshire Hathaway HomeServices Professional Realty, their dedicated team of real estate professionals span across four states and provide a broad range of real estate services. Whether you're navigating residential real estate, seeking relocation assistance, or exploring investment opportunities, their commitment to excellence ensures comprehensive coverage tailored to your personal needs.",
+      "query": "\"Berkshire Hathaway Professional Realty Commercial\" revenue",
+      "search_collected_at": "2026-10-23T09:55:11Z"
+    },
+    {
+      "title": "David Mussari | Berkshire Hathaway Professional Realty Commercial ...",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/david-mussari/vss78seb",
+      "snippet": "David Mussari - Managing Partner of Berkshire Hathaway HomeServices Professional Realty. View David Mussari's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"Berkshire Hathaway Professional Realty Commercial\" revenue",
+      "search_collected_at": "2026-10-23T09:55:11Z"
+    },
+    {
+      "title": "Working at Berkshire Hathaway Professional Realty Commercial",
+      "url": "https://www.glassdoor.com/Overview/Working-at-Berkshire-Hathaway-Professional-Realty-Commercial-EI_IE8677373.11,60.htm",
+      "snippet": "See what employees say it's like to work at Berkshire Hathaway Professional Realty Commercial. Salaries, reviews, and more - all posted by employees working at Berkshire Hathaway Professional Realty Commercial.",
+      "query": "\"Berkshire Hathaway Professional Realty Commercial\" revenue",
+      "search_collected_at": "2026-10-23T09:55:11Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T09:55:19Z",
+  "company_status": "SUCCESS"
+}

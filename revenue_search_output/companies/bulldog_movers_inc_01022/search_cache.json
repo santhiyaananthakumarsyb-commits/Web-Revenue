@@ -1,0 +1,30 @@
+{
+  "company_key": "bulldog movers, inc.|https://bulldogmovers.net",
+  "company_name": "Bulldog Movers, Inc.",
+  "company_website": "https://bulldogmovers.net",
+  "created_at": "2026-10-23T13:25:23Z",
+  "searches": [
+    {
+      "query": "\"Bulldog Movers, Inc.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:30Z",
+      "page_title": "\"Bulldog Movers, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bulldog+Movers%2C+Inc.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Bulldog Movers, Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:25:38Z",
+      "page_title": "\"Bulldog Movers, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bulldog+Movers%2C+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T13:25:38Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

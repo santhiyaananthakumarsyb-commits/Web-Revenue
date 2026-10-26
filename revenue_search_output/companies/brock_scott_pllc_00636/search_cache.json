@@ -1,0 +1,101 @@
+{
+  "company_key": "brock & scott pllc|https://brockandscott.com",
+  "company_name": "Brock & Scott PLLC",
+  "company_website": "https://brockandscott.com",
+  "created_at": "2026-10-23T12:01:38Z",
+  "searches": [
+    {
+      "query": "\"Brock & Scott PLLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:01:43Z",
+      "page_title": "\"Brock & Scott PLLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brock+%26+Scott+PLLC%22+revenue",
+      "results": [
+        {
+          "title": "Brock & Scott Pllc revenue - Zippia",
+          "url": "https://www.zippia.com/brock-scott-pllc-careers-17438/revenue/",
+          "snippet": "Brock & Scott Pllc's revenue is $62.0 Million - Learn more about Brock & Scott Pllc's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee."
+        },
+        {
+          "title": "Brock & Scott PLLC Revenue, Growth & Competitor Profile",
+          "url": "https://incfact.com/company/brockscottpllc-winstonsalem-nc/",
+          "snippet": "Company Report on Brock & Scott PLLC with Revenue, Growth, Competitors, & Trends"
+        },
+        {
+          "title": "Brock & Scott PLLC | (954) 618-6955 | Fort Lauderdale, Florida - AllBiz",
+          "url": "https://www.allbiz.com/business/brock-scott-pllc_293-954-618-6955",
+          "snippet": "Brock & Scott PLLC is located in Fort Lauderdale, Florida, and was founded in 1998. Annual sales for Brock & Scott PLLC are around USD 500,000."
+        },
+        {
+          "title": "Brock & Scott PLLC | (704) 643-6002 | Charlotte, North Carolina - AllBiz",
+          "url": "https://www.allbiz.com/business/brock-scott_7a-704-643-6002",
+          "snippet": "Steve Henley is the primary contact at Brock & Scott PLLC. Brock & Scott PLLC generates approximately USD 1,563,120 in revenue annually, and employs around 13 people at this location."
+        }
+      ]
+    },
+    {
+      "query": "\"Brock & Scott PLLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:01:48Z",
+      "page_title": "\"Brock & Scott PLLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brock+%26+Scott+PLLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brock & Scott PLLC Revenue, Growth & Competitor Profile",
+          "url": "https://incfact.com/company/brockscottpllc-winstonsalem-nc/",
+          "snippet": "Brock & Scott PLLC is classified as operating in the Law Firms industry, NAICS Code 54111. Brock & Scott PLLC Annual Revenue and Growth Rate ... Note: Brock & Scott PLLC's revenues are gauged from an analysis of company filings. Brock & Scott PLLC's Income Statement (based on Industry Averages) ... Market Share of Brock & Scott PLLC's Largest ..."
+        },
+        {
+          "title": "Brock & Scott Pllc Revenue: Annual, Quarterly, and Historic - Zippia",
+          "url": "https://www.zippia.com/brock-scott-pllc-careers-17438/revenue/",
+          "snippet": "Brock & Scott Pllc's revenue is $62.0 Million - Learn more about Brock & Scott Pllc's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee."
+        },
+        {
+          "title": "Brock & Scott PLLC | (704) 643-6002 | Charlotte, North Carolina - AllBiz",
+          "url": "https://www.allbiz.com/business/brock-scott_7a-704-643-6002",
+          "snippet": "Business Description Brock & Scott PLLC is located in Charlotte, North Carolina, and was founded in 1999. At this location, Brock & Scott PLLC employs approximately 13 people. This business is working in the following industry: Lawyers legal. Annual sales for Brock & Scott PLLC are around USD 1,563,120. You can contact Steve Henley at (919) 872-5466. Employees: 13 Revenue: USD 1,563,120 ..."
+        },
+        {
+          "title": "Brock & Scott PLLC | (954) 618-6955 | Fort Lauderdale, Florida - AllBiz",
+          "url": "https://www.allbiz.com/business/brock-scott-pllc_293-954-618-6955",
+          "snippet": "Brock & Scott PLLC is located in Fort Lauderdale, Florida, and was founded in 1998. Annual sales for Brock & Scott PLLC are around USD 500,000."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brock & Scott Pllc revenue - Zippia",
+      "url": "https://www.zippia.com/brock-scott-pllc-careers-17438/revenue/",
+      "snippet": "Brock & Scott Pllc's revenue is $62.0 Million - Learn more about Brock & Scott Pllc's revenue by exploring their annual revenue, historical revenue, quarterly revenue, and revenue per employee.",
+      "query": "\"Brock & Scott PLLC\" revenue",
+      "search_collected_at": "2026-10-23T12:01:43Z"
+    },
+    {
+      "title": "Brock & Scott PLLC Revenue, Growth & Competitor Profile",
+      "url": "https://incfact.com/company/brockscottpllc-winstonsalem-nc/",
+      "snippet": "Company Report on Brock & Scott PLLC with Revenue, Growth, Competitors, & Trends",
+      "query": "\"Brock & Scott PLLC\" revenue",
+      "search_collected_at": "2026-10-23T12:01:43Z"
+    },
+    {
+      "title": "Brock & Scott PLLC | (954) 618-6955 | Fort Lauderdale, Florida - AllBiz",
+      "url": "https://www.allbiz.com/business/brock-scott-pllc_293-954-618-6955",
+      "snippet": "Brock & Scott PLLC is located in Fort Lauderdale, Florida, and was founded in 1998. Annual sales for Brock & Scott PLLC are around USD 500,000.",
+      "query": "\"Brock & Scott PLLC\" revenue",
+      "search_collected_at": "2026-10-23T12:01:43Z"
+    },
+    {
+      "title": "Brock & Scott PLLC | (704) 643-6002 | Charlotte, North Carolina - AllBiz",
+      "url": "https://www.allbiz.com/business/brock-scott_7a-704-643-6002",
+      "snippet": "Steve Henley is the primary contact at Brock & Scott PLLC. Brock & Scott PLLC generates approximately USD 1,563,120 in revenue annually, and employs around 13 people at this location.",
+      "query": "\"Brock & Scott PLLC\" revenue",
+      "search_collected_at": "2026-10-23T12:01:43Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T12:01:49Z",
+  "company_status": "SUCCESS"
+}

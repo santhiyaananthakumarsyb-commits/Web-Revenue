@@ -1,0 +1,108 @@
+{
+  "company_key": "big sky asset management, llc|https://bigskymed.com",
+  "company_name": "Big Sky Asset Management, LLC",
+  "company_website": "https://bigskymed.com",
+  "created_at": "2026-10-23T13:08:41Z",
+  "searches": [
+    {
+      "query": "\"Big Sky Asset Management, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:08:46Z",
+      "page_title": "\"Big Sky Asset Management, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Big+Sky+Asset+Management%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Big Sky Asset Management Surpasses $100 Million in Acquisitions in 90 ...",
+          "url": "https://finance.yahoo.com/news/big-sky-asset-management-surpasses-140000216.html",
+          "snippet": "DALLAS, March 05, 2026 (GLOBE NEWSWIRE) -- Big Sky Asset Management, LLC (\"Big Sky\") announced the completion of five healthcare real estate acquisitions totaling more than $100 million over the ..."
+        },
+        {
+          "title": "Big Sky Asset Management Surpasses $100 Million in ... - LinkedIn",
+          "url": "https://www.linkedin.com/pulse/big-sky-asset-management-surpasses-100-million-acquisitions-ok2ue",
+          "snippet": "DALLAS, TX (February 2026) - Big Sky Asset Management, LLC (\"Big Sky\") today announced the completion of five healthcare real estate acquisitions totaling more than $100 million over the last 90 ..."
+        },
+        {
+          "title": "News Release: Big Sky Asset Management Surpasses $100 Million in ...",
+          "url": "https://wolfmediausa.com/2026/03/05/news-release-big-sky-asset-management-surpasses-100-million-in-acquisitions-in-90-days-across-five-transactions-with-four-capital-partners/",
+          "snippet": "About Big Sky Asset Management, LLC Big Sky Asset Management is a Dallas-based real estate investment firm focused exclusively on the acquisition and management of healthcare real estate across the United States."
+        }
+      ]
+    },
+    {
+      "query": "\"Big Sky Asset Management, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:08:52Z",
+      "page_title": "\"Big Sky Asset Management, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Big+Sky+Asset+Management%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Big Sky Asset Management Surpasses $100 Million in Acquisitions in 90 ...",
+          "url": "https://finance.yahoo.com/news/big-sky-asset-management-surpasses-140000216.html",
+          "snippet": "DALLAS, March 05, 2026 (GLOBE NEWSWIRE) -- Big Sky Asset Management, LLC (\"Big Sky\") announced the completion of five healthcare real estate acquisitions totaling more than $100 million over the ..."
+        },
+        {
+          "title": "BIG SKY ASSET MANAGEMENT, LLC in Sioux Falls, SD | Company Info - Bizapedia",
+          "url": "https://www.bizapedia.com/sd/big-sky-asset-management-llc.html",
+          "snippet": "Big Sky Asset Management, LLC is a Domestic llc organized under the laws of the State of South Dakota. The business was filed on February 1, 2024 and is currently listed as Good Standing with the South Dakota Secretary of State. The official file number for this entity is DL267678. The principal office address is located at 175 Hutton Ranch Rd Ste 102-2121 Kalispell, MT 59901. The Registered ..."
+        },
+        {
+          "title": "Big Sky Asset Management Surpasses $100 Million in ... - LinkedIn",
+          "url": "https://www.linkedin.com/pulse/big-sky-asset-management-surpasses-100-million-acquisitions-ok2ue",
+          "snippet": "DALLAS, TX (February 2026) - Big Sky Asset Management, LLC (\"Big Sky\") today announced the completion of five healthcare real estate acquisitions totaling more than $100 million over the last 90 ..."
+        },
+        {
+          "title": "Big Sky Asset Management Acquires Healthcare Facility in Denton, Texas ...",
+          "url": "https://finance.yahoo.com/news/big-sky-asset-management-acquires-170000352.html",
+          "snippet": "About Big Sky Asset Management, LLC Big Sky Asset Management is a Dallas-based real estate investment firm focused exclusively on the acquisition and management of healthcare real estate across ..."
+        },
+        {
+          "title": "News Release: Big Sky Asset Management Surpasses $100 Million in ...",
+          "url": "https://wolfmediausa.com/2026/03/05/news-release-big-sky-asset-management-surpasses-100-million-in-acquisitions-in-90-days-across-five-transactions-with-four-capital-partners/",
+          "snippet": "DALLAS, March 05, 2026 (GLOBE NEWSWIRE) — Big Sky Asset Management, LLC (\"Big Sky\") announced the completion of five healthcare real estate acquisitions totaling more than $100 million over the last 90 days."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Big Sky Asset Management Surpasses $100 Million in Acquisitions in 90 ...",
+      "url": "https://finance.yahoo.com/news/big-sky-asset-management-surpasses-140000216.html",
+      "snippet": "DALLAS, March 05, 2026 (GLOBE NEWSWIRE) -- Big Sky Asset Management, LLC (\"Big Sky\") announced the completion of five healthcare real estate acquisitions totaling more than $100 million over the ...",
+      "query": "\"Big Sky Asset Management, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:08:46Z"
+    },
+    {
+      "title": "Big Sky Asset Management Surpasses $100 Million in ... - LinkedIn",
+      "url": "https://www.linkedin.com/pulse/big-sky-asset-management-surpasses-100-million-acquisitions-ok2ue",
+      "snippet": "DALLAS, TX (February 2026) - Big Sky Asset Management, LLC (\"Big Sky\") today announced the completion of five healthcare real estate acquisitions totaling more than $100 million over the last 90 ...",
+      "query": "\"Big Sky Asset Management, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:08:46Z"
+    },
+    {
+      "title": "News Release: Big Sky Asset Management Surpasses $100 Million in ...",
+      "url": "https://wolfmediausa.com/2026/03/05/news-release-big-sky-asset-management-surpasses-100-million-in-acquisitions-in-90-days-across-five-transactions-with-four-capital-partners/",
+      "snippet": "About Big Sky Asset Management, LLC Big Sky Asset Management is a Dallas-based real estate investment firm focused exclusively on the acquisition and management of healthcare real estate across the United States.",
+      "query": "\"Big Sky Asset Management, LLC\" revenue",
+      "search_collected_at": "2026-10-23T13:08:46Z"
+    },
+    {
+      "title": "BIG SKY ASSET MANAGEMENT, LLC in Sioux Falls, SD | Company Info - Bizapedia",
+      "url": "https://www.bizapedia.com/sd/big-sky-asset-management-llc.html",
+      "snippet": "Big Sky Asset Management, LLC is a Domestic llc organized under the laws of the State of South Dakota. The business was filed on February 1, 2024 and is currently listed as Good Standing with the South Dakota Secretary of State. The official file number for this entity is DL267678. The principal office address is located at 175 Hutton Ranch Rd Ste 102-2121 Kalispell, MT 59901. The Registered ...",
+      "query": "\"Big Sky Asset Management, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:08:52Z"
+    },
+    {
+      "title": "Big Sky Asset Management Acquires Healthcare Facility in Denton, Texas ...",
+      "url": "https://finance.yahoo.com/news/big-sky-asset-management-acquires-170000352.html",
+      "snippet": "About Big Sky Asset Management, LLC Big Sky Asset Management is a Dallas-based real estate investment firm focused exclusively on the acquisition and management of healthcare real estate across ...",
+      "query": "\"Big Sky Asset Management, LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:08:52Z"
+    }
+  ],
+  "result_count": 5,
+  "updated_at": "2026-10-23T13:08:52Z",
+  "company_status": "SUCCESS"
+}

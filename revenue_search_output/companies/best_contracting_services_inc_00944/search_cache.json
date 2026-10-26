@@ -1,0 +1,86 @@
+{
+  "company_key": "best contracting services, inc|https://bestroofing.com",
+  "company_name": "Best Contracting Services, Inc",
+  "company_website": "https://bestroofing.com",
+  "created_at": "2026-10-23T13:08:17Z",
+  "searches": [
+    {
+      "query": "\"Best Contracting Services, Inc\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:08:22Z",
+      "page_title": "\"Best Contracting Services, Inc\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Best+Contracting+Services%2C+Inc%22+revenue",
+      "results": [
+        {
+          "title": "Best Contracting Services Inc. - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/best-contracting-services-inc",
+          "snippet": "Best Contracting Services, Inc. provides full construction envelope services with the expertise, capacity, and years of experience in roofing, waterproofing, sheet metal, and glazing to ensure that our clients have complete trust in us to meet their building demands."
+        },
+        {
+          "title": "#9 Best Contracting Services, Inc. | Top 100 Roofing Contractors",
+          "url": "https://www.roofingcontractor.com/2017/9-Best-Contracting",
+          "snippet": "2016 Annual Revenue: $118.4 million Last year was: With a substantial project backlog from 2015, work in 2016 allowed the opportunity to hire more skilled technicians, resulting in the successful and timely completion of projects."
+        },
+        {
+          "title": "Best Contracting Services Company Profile -Sales, Contacts, Competitors ...",
+          "url": "https://www.buzzfile.com/business/Construction-310-328-9176",
+          "snippet": "Best Contracting Services, Inc. (trade name Construction) is in the Roofing Contractor business. View competitors, revenue, employees, website and phone number."
+        }
+      ]
+    },
+    {
+      "query": "\"Best Contracting Services, Inc\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:08:28Z",
+      "page_title": "\"Best Contracting Services, Inc\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Best+Contracting+Services%2C+Inc%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Best Contracting Services Inc. - Crunchbase",
+          "url": "https://www.crunchbase.com/organization/best-contracting-services-inc",
+          "snippet": "Best Contracting Services, Inc. provides full construction envelope services with the expertise, capacity, and years of experience in roofing, waterproofing, sheet metal, and glazing to ensure that our clients have complete trust in us to meet their building demands."
+        },
+        {
+          "title": "BEST Contracting Services, Inc. Company Profile: Financials, Valuation ...",
+          "url": "https://system.privco.com/company/best-contracting-co-inc",
+          "snippet": "BEST Contracting Services, Inc. is a privately-held specialty contractor. BEST Contracting Services, Inc. was founded in 1982. BEST Contracting Services, Inc. headquarters are located in Gardena, California."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Best Contracting Services Inc. - Crunchbase",
+      "url": "https://www.crunchbase.com/organization/best-contracting-services-inc",
+      "snippet": "Best Contracting Services, Inc. provides full construction envelope services with the expertise, capacity, and years of experience in roofing, waterproofing, sheet metal, and glazing to ensure that our clients have complete trust in us to meet their building demands.",
+      "query": "\"Best Contracting Services, Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:08:22Z"
+    },
+    {
+      "title": "#9 Best Contracting Services, Inc. | Top 100 Roofing Contractors",
+      "url": "https://www.roofingcontractor.com/2017/9-Best-Contracting",
+      "snippet": "2016 Annual Revenue: $118.4 million Last year was: With a substantial project backlog from 2015, work in 2016 allowed the opportunity to hire more skilled technicians, resulting in the successful and timely completion of projects.",
+      "query": "\"Best Contracting Services, Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:08:22Z"
+    },
+    {
+      "title": "Best Contracting Services Company Profile -Sales, Contacts, Competitors ...",
+      "url": "https://www.buzzfile.com/business/Construction-310-328-9176",
+      "snippet": "Best Contracting Services, Inc. (trade name Construction) is in the Roofing Contractor business. View competitors, revenue, employees, website and phone number.",
+      "query": "\"Best Contracting Services, Inc\" revenue",
+      "search_collected_at": "2026-10-23T13:08:22Z"
+    },
+    {
+      "title": "BEST Contracting Services, Inc. Company Profile: Financials, Valuation ...",
+      "url": "https://system.privco.com/company/best-contracting-co-inc",
+      "snippet": "BEST Contracting Services, Inc. is a privately-held specialty contractor. BEST Contracting Services, Inc. was founded in 1982. BEST Contracting Services, Inc. headquarters are located in Gardena, California.",
+      "query": "\"Best Contracting Services, Inc\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:08:28Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T13:08:28Z",
+  "company_status": "SUCCESS"
+}

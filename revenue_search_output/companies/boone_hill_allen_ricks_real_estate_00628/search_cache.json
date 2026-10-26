@@ -1,0 +1,44 @@
+{
+  "company_key": "boone, hill, allen, & ricks real estate|https://boonehillallenricks.com",
+  "company_name": "Boone, Hill, Allen, & Ricks Real Estate",
+  "company_website": "https://boonehillallenricks.com",
+  "created_at": "2026-10-23T11:59:54Z",
+  "searches": [
+    {
+      "query": "\"Boone, Hill, Allen, & Ricks Real Estate\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:00:00Z",
+      "page_title": "\"Boone, Hill, Allen, & Ricks Real Estate\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boone%2C+Hill%2C+Allen%2C+%26+Ricks+Real+Estate%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Boone, Hill, Allen, & Ricks Real Estate\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:00:08Z",
+      "page_title": "\"Boone, Hill, Allen, & Ricks Real Estate\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boone%2C+Hill%2C+Allen%2C+%26+Ricks+Real+Estate%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Michael Allen - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/michael-allen/n9sxttpb",
+          "snippet": "Broker / Owner, Boone, Hill, Allen, & Ricks Real Estate Rocky Mount, NC 27804 Born and raised in Rocky Mount with 26 years of experience Send a Message Phone(252) 266-9900 Born and raised in Rocky Mount with 26 years of experience About Me Listings Links Licenses Specialties Investment Sales Broker Property Types Office, Multi-Family Markets ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Michael Allen - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/michael-allen/n9sxttpb",
+      "snippet": "Broker / Owner, Boone, Hill, Allen, & Ricks Real Estate Rocky Mount, NC 27804 Born and raised in Rocky Mount with 26 years of experience Send a Message Phone(252) 266-9900 Born and raised in Rocky Mount with 26 years of experience About Me Listings Links Licenses Specialties Investment Sales Broker Property Types Office, Multi-Family Markets ...",
+      "query": "\"Boone, Hill, Allen, & Ricks Real Estate\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T12:00:08Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:00:08Z",
+  "company_status": "SUCCESS"
+}

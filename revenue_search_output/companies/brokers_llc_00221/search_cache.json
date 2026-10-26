@@ -1,0 +1,91 @@
+{
+  "company_key": "brokers llc|https://brokersllc.com",
+  "company_name": "Brokers LLC",
+  "company_website": "https://brokersllc.com",
+  "created_at": "2026-10-23T10:32:16Z",
+  "searches": [
+    {
+      "query": "\"Brokers LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:32:22Z",
+      "page_title": "\"Brokers LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brokers+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Amerex Brokers LLC Information - RocketReach",
+          "url": "https://rocketreach.co/amerex-brokers-llc-profile_b5c69f6af42e0c95",
+          "snippet": "Amerex Brokers LLC is an Oil and Gas, Energy, Utilities & Waste Treatment General, and Energy Procurement Consulting company located in New York, New York with $93 million in revenue and 87 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Chenango Brokers LLC Information - RocketReach",
+          "url": "https://rocketreach.co/chenango-brokers-llc-profile_b40abea5ff9b1366",
+          "snippet": "Chenango Brokers LLC is an Insurance company located in Hancock, New York with $7 million in revenue and 5 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "PDF INTERACTIVE BROKERS LLC (SEC I.D. No. 8-47257) STATEMENT OF FINANCIAL ...",
+          "url": "https://www.sec.gov/Archives/edgar/data/922792/000092279224000002/ibllc_public-20231231.pdf",
+          "snippet": "Interactive Brokers LLC Notes to Statement of Financial Condition December 31, 2023 Secured Financing Transactions - Maturities and Collateral Pledged The table below presents gross obligations for securities loaned transactions by remaining contractual maturity and class of collateral pledged as of the period indicated:"
+        }
+      ]
+    },
+    {
+      "query": "\"Brokers LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:32:28Z",
+      "page_title": "\"Brokers LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brokers+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "PDF ANNUAL REPORTS FORM X-17A-5 PART III - SEC.gov",
+          "url": "https://www.sec.gov/Archives/edgar/data/867810/000086781025000001/FBS_Financials2.pdf",
+          "snippet": "The Company's principal business activity is the brokering of corporate and government debt securities. The Company is owned 60% by AO-First Brokers LLC and 40% by ICAP Global Broking Inc."
+        },
+        {
+          "title": "PDF INTERACTIVE BROKERS LLC (SEC I.D. No. 8-47257) STATEMENT OF FINANCIAL ...",
+          "url": "https://www.sec.gov/Archives/edgar/data/922792/000092279224000002/ibllc_public-20231231.pdf",
+          "snippet": "Interactive Brokers LLC Notes to Statement of Financial Condition December 31, 2023 Secured Financing Transactions - Maturities and Collateral Pledged The table below presents gross obligations for securities loaned transactions by remaining contractual maturity and class of collateral pledged as of the period indicated:"
+        },
+        {
+          "title": "Amerex Brokers LLC Information - RocketReach",
+          "url": "https://rocketreach.co/amerex-brokers-llc-profile_b5c69f6af42e0c95",
+          "snippet": "Amerex Brokers LLC is an Oil and Gas, Energy, Utilities & Waste Treatment General, and Energy Procurement Consulting company located in New York, New York with $93 million in revenue and 87 employees. Find top employees, contact details and business statistics at RocketReach."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Amerex Brokers LLC Information - RocketReach",
+      "url": "https://rocketreach.co/amerex-brokers-llc-profile_b5c69f6af42e0c95",
+      "snippet": "Amerex Brokers LLC is an Oil and Gas, Energy, Utilities & Waste Treatment General, and Energy Procurement Consulting company located in New York, New York with $93 million in revenue and 87 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Brokers LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:32:22Z"
+    },
+    {
+      "title": "Chenango Brokers LLC Information - RocketReach",
+      "url": "https://rocketreach.co/chenango-brokers-llc-profile_b40abea5ff9b1366",
+      "snippet": "Chenango Brokers LLC is an Insurance company located in Hancock, New York with $7 million in revenue and 5 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Brokers LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:32:22Z"
+    },
+    {
+      "title": "PDF INTERACTIVE BROKERS LLC (SEC I.D. No. 8-47257) STATEMENT OF FINANCIAL ...",
+      "url": "https://www.sec.gov/Archives/edgar/data/922792/000092279224000002/ibllc_public-20231231.pdf",
+      "snippet": "Interactive Brokers LLC Notes to Statement of Financial Condition December 31, 2023 Secured Financing Transactions - Maturities and Collateral Pledged The table below presents gross obligations for securities loaned transactions by remaining contractual maturity and class of collateral pledged as of the period indicated:",
+      "query": "\"Brokers LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:32:22Z"
+    },
+    {
+      "title": "PDF ANNUAL REPORTS FORM X-17A-5 PART III - SEC.gov",
+      "url": "https://www.sec.gov/Archives/edgar/data/867810/000086781025000001/FBS_Financials2.pdf",
+      "snippet": "The Company's principal business activity is the brokering of corporate and government debt securities. The Company is owned 60% by AO-First Brokers LLC and 40% by ICAP Global Broking Inc.",
+      "query": "\"Brokers LLC\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:32:28Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T10:32:28Z",
+  "company_status": "SUCCESS"
+}

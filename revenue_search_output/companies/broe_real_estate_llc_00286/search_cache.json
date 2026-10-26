@@ -1,0 +1,79 @@
+{
+  "company_key": "broe real estate llc|https://broe.com",
+  "company_name": "BROE Real Estate LLC",
+  "company_website": "https://broe.com",
+  "created_at": "2026-10-23T10:46:02Z",
+  "searches": [
+    {
+      "query": "\"BROE Real Estate LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:46:07Z",
+      "page_title": "\"BROE Real Estate LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BROE+Real+Estate+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Julie Bulatovic | BROE Real Estate LLC | Denver, CO - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/julie-bulatovic/1w7hn76b",
+          "snippet": "Julie Bulatovic - Director of Property Management. View Julie Bulatovic's professional profile and available commercial real estate listings on LoopNet.com"
+        },
+        {
+          "title": "BROE Real Estate LLC - Denver Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/broe-real-estate-llc/8jp3tt3l/",
+          "snippet": "The company began in 1972 as a Denver-based real estate asset management firm and grew from small residential and commercial rehabilitations into land trading, site assembly, and commercial property repositioning. Broe Real Estate Group acquires, develops, and manages commercial real estate assets across office, multifamily, industrial, retail, and land sectors, with capabilities that include ..."
+        },
+        {
+          "title": "Chris Tecu | BROE Real Estate LLC | Denver, CO - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/chris-tecu/r0cd862b",
+          "snippet": "Chris Tecu, Principal, recently joined Avison Young to focus on industrial brokerage services while helping to enhance the company's capital markets capabilities. In a career spanning nearly 20 years, Mr. Tecu has acted as a broker and owner within the Industrial Real Estate industry. As a commercial real estate industry veteran, Mr. Tecu's expertise includes working with Corporate Users and ..."
+        }
+      ]
+    },
+    {
+      "query": "\"BROE Real Estate LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:46:12Z",
+      "page_title": "\"BROE Real Estate LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BROE+Real+Estate+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BROE Real Estate LLC - Denver Commercial Listings & Brokers | LoopNet",
+          "url": "https://www.loopnet.com/company/broe-real-estate-llc/8jp3tt3l/",
+          "snippet": "The company began in 1972 as a Denver-based real estate asset management firm and grew from small residential and commercial rehabilitations into land trading, site assembly, and commercial property repositioning. Broe Real Estate Group acquires, develops, and manages commercial real estate assets across office, multifamily, industrial, retail, and land sectors, with capabilities that include ..."
+        },
+        {
+          "title": "Chris Tecu | BROE Real Estate LLC | Denver, CO - LoopNet",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/chris-tecu/r0cd862b",
+          "snippet": "Chris Tecu, Principal, recently joined Avison Young to focus on industrial brokerage services while helping to enhance the company's capital markets capabilities. In a career spanning nearly 20 years, Mr. Tecu has acted as a broker and owner within the Industrial Real Estate industry. As a commercial real estate industry veteran, Mr. Tecu's expertise includes working with Corporate Users and ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Julie Bulatovic | BROE Real Estate LLC | Denver, CO - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/julie-bulatovic/1w7hn76b",
+      "snippet": "Julie Bulatovic - Director of Property Management. View Julie Bulatovic's professional profile and available commercial real estate listings on LoopNet.com",
+      "query": "\"BROE Real Estate LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:46:07Z"
+    },
+    {
+      "title": "BROE Real Estate LLC - Denver Commercial Listings & Brokers | LoopNet",
+      "url": "https://www.loopnet.com/company/broe-real-estate-llc/8jp3tt3l/",
+      "snippet": "The company began in 1972 as a Denver-based real estate asset management firm and grew from small residential and commercial rehabilitations into land trading, site assembly, and commercial property repositioning. Broe Real Estate Group acquires, develops, and manages commercial real estate assets across office, multifamily, industrial, retail, and land sectors, with capabilities that include ...",
+      "query": "\"BROE Real Estate LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:46:07Z"
+    },
+    {
+      "title": "Chris Tecu | BROE Real Estate LLC | Denver, CO - LoopNet",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/chris-tecu/r0cd862b",
+      "snippet": "Chris Tecu, Principal, recently joined Avison Young to focus on industrial brokerage services while helping to enhance the company's capital markets capabilities. In a career spanning nearly 20 years, Mr. Tecu has acted as a broker and owner within the Industrial Real Estate industry. As a commercial real estate industry veteran, Mr. Tecu's expertise includes working with Corporate Users and ...",
+      "query": "\"BROE Real Estate LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:46:07Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T10:46:12Z",
+  "company_status": "SUCCESS"
+}

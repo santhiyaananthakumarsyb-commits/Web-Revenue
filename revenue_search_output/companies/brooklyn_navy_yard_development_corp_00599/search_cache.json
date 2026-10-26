@@ -1,0 +1,50 @@
+{
+  "company_key": "brooklyn navy yard development corp|https://brooklynnavyyard.org",
+  "company_name": "Brooklyn Navy Yard Development Corp",
+  "company_website": "https://brooklynnavyyard.org",
+  "created_at": "2026-10-23T11:53:38Z",
+  "searches": [
+    {
+      "query": "\"Brooklyn Navy Yard Development Corp\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:53:44Z",
+      "page_title": "\"Brooklyn Navy Yard Development Corp\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brooklyn+Navy+Yard+Development+Corp%22+revenue",
+      "results": [
+        {
+          "title": "BROOKLYN NAVY YARD DEVELOPMENT CORP | Brooklyn, NY | Pay",
+          "url": "https://lucidodata.com/en/organizations/brooklyn-navy-yard-development-corp-112137138",
+          "snippet": "What are BROOKLYN NAVY YARD DEVELOPMENT CORP's revenue and expenses? In 2023, BROOKLYN NAVY YARD DEVELOPMENT CORP reported $129.6M in total revenue and $100.7M in total expenses on its IRS Form 990."
+        }
+      ]
+    },
+    {
+      "query": "\"Brooklyn Navy Yard Development Corp\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:53:51Z",
+      "page_title": "\"Brooklyn Navy Yard Development Corp\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brooklyn+Navy+Yard+Development+Corp%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BROOKLYN NAVY YARD DEVELOPMENT CORP | Brooklyn, NY | Pay | Lucido",
+          "url": "https://lucidodata.com/en/organizations/brooklyn-navy-yard-development-corp-112137138",
+          "snippet": "What are BROOKLYN NAVY YARD DEVELOPMENT CORP's revenue and expenses? In 2023, BROOKLYN NAVY YARD DEVELOPMENT CORP reported $129.6M in total revenue and $100.7M in total expenses on its IRS Form 990."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BROOKLYN NAVY YARD DEVELOPMENT CORP | Brooklyn, NY | Pay",
+      "url": "https://lucidodata.com/en/organizations/brooklyn-navy-yard-development-corp-112137138",
+      "snippet": "What are BROOKLYN NAVY YARD DEVELOPMENT CORP's revenue and expenses? In 2023, BROOKLYN NAVY YARD DEVELOPMENT CORP reported $129.6M in total revenue and $100.7M in total expenses on its IRS Form 990.",
+      "query": "\"Brooklyn Navy Yard Development Corp\" revenue",
+      "search_collected_at": "2026-10-23T11:53:44Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T11:53:51Z",
+  "company_status": "SUCCESS"
+}

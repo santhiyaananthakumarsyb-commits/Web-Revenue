@@ -1,0 +1,69 @@
+{
+  "company_key": "bnp paribas real estate uk|https://bnpparibas.co.uk",
+  "company_name": "BNP Paribas Real Estate UK",
+  "company_website": "https://bnpparibas.co.uk",
+  "created_at": "2026-10-23T09:11:43Z",
+  "searches": [
+    {
+      "query": "\"BNP Paribas Real Estate UK\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:11:51Z",
+      "page_title": "\"BNP Paribas Real Estate UK\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BNP+Paribas+Real+Estate+UK%22+revenue",
+      "results": [
+        {
+          "title": "BNP Paribas Real Estate UK",
+          "url": "https://www.realestate.bnpparibas.co.uk/?l=en",
+          "snippet": "As one of the leading international real estate providers with a network across the UK, we offer clients a comprehensive range of services that span the entire real estate lifecycle: Property Development, Transaction, Consulting, Valuation, Property Management and Investment Management."
+        }
+      ]
+    },
+    {
+      "query": "\"BNP Paribas Real Estate UK\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:11:57Z",
+      "page_title": "\"BNP Paribas Real Estate UK\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BNP+Paribas+Real+Estate+UK%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BNP Paribas Real Estate UK's CEO steps away after 40 years with the ...",
+          "url": "https://www.propertyweek.com/news/bnp-paribas-real-estate-uks-ceo-steps-away-after-40-years-with-the-business",
+          "snippet": "BNP Paribas Real Estate fell to eighth on Property Week's annual commercial real estate agency ranking. The UK firm reported negative growth in 2024, with revenue falling by 1.1% year on year to £136.5m."
+        },
+        {
+          "title": "BNP Paribas Real Estate UK - Company Profile & Track Record",
+          "url": "https://www.buildington.co.uk/companies/bnp-paribas-real-estate-uk/id/576",
+          "snippet": "BNP Paribas Real Estate UK BNP Paribas Real Estate, one of the leading international real estate providers, offers its clients a comprehensive range of services that span the entire real estate lifecycle: property development, transaction, consulting, valuation, property management and investment management."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BNP Paribas Real Estate UK",
+      "url": "https://www.realestate.bnpparibas.co.uk/?l=en",
+      "snippet": "As one of the leading international real estate providers with a network across the UK, we offer clients a comprehensive range of services that span the entire real estate lifecycle: Property Development, Transaction, Consulting, Valuation, Property Management and Investment Management.",
+      "query": "\"BNP Paribas Real Estate UK\" revenue",
+      "search_collected_at": "2026-10-23T09:11:51Z"
+    },
+    {
+      "title": "BNP Paribas Real Estate UK's CEO steps away after 40 years with the ...",
+      "url": "https://www.propertyweek.com/news/bnp-paribas-real-estate-uks-ceo-steps-away-after-40-years-with-the-business",
+      "snippet": "BNP Paribas Real Estate fell to eighth on Property Week's annual commercial real estate agency ranking. The UK firm reported negative growth in 2024, with revenue falling by 1.1% year on year to £136.5m.",
+      "query": "\"BNP Paribas Real Estate UK\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:11:57Z"
+    },
+    {
+      "title": "BNP Paribas Real Estate UK - Company Profile & Track Record",
+      "url": "https://www.buildington.co.uk/companies/bnp-paribas-real-estate-uk/id/576",
+      "snippet": "BNP Paribas Real Estate UK BNP Paribas Real Estate, one of the leading international real estate providers, offers its clients a comprehensive range of services that span the entire real estate lifecycle: property development, transaction, consulting, valuation, property management and investment management.",
+      "query": "\"BNP Paribas Real Estate UK\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:11:57Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T09:11:57Z",
+  "company_status": "SUCCESS"
+}

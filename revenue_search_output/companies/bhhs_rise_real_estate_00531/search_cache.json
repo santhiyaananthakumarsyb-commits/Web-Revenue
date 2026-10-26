@@ -1,0 +1,30 @@
+{
+  "company_key": "bhhs-rise real estate|https://bhhsriserealestate.com",
+  "company_name": "BHHS-Rise Real Estate",
+  "company_website": "https://bhhsriserealestate.com",
+  "created_at": "2026-10-23T11:39:00Z",
+  "searches": [
+    {
+      "query": "\"BHHS-Rise Real Estate\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:39:07Z",
+      "page_title": "\"BHHS-Rise Real Estate\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHHS-Rise+Real+Estate%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"BHHS-Rise Real Estate\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:39:14Z",
+      "page_title": "\"BHHS-Rise Real Estate\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHHS-Rise+Real+Estate%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:39:14Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

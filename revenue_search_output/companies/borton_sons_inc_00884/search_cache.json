@@ -1,0 +1,44 @@
+{
+  "company_key": "borton & sons, inc.|https://bortonfruit.com",
+  "company_name": "Borton & Sons, Inc.",
+  "company_website": "https://bortonfruit.com",
+  "created_at": "2026-10-23T12:55:42Z",
+  "searches": [
+    {
+      "query": "\"Borton & Sons, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:55:50Z",
+      "page_title": "\"Borton & Sons, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Borton+%26+Sons%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Borton & Sons, Inc. · 2550 Borton Rd, Yakima, WA 98903-9766",
+          "url": "https://opengovwa.com/corporation/601115448",
+          "snippet": "BORTON & SONS, INC. is a business entity in Yakima, Washington registered with the Secretary of State of Washington State. The Unified Business Identifier (UBI) of the entity is #601115448, the entity type is Wa Profit Corporation and the business category is Regular Corporation. The entity was incorporated on August 14, 1970 in Washington, expiring on August 31, 2023. The current entity ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Borton & Sons, Inc.\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:55:58Z",
+      "page_title": "\"Borton & Sons, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Borton+%26+Sons%2C+Inc.%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Borton & Sons, Inc. · 2550 Borton Rd, Yakima, WA 98903-9766",
+      "url": "https://opengovwa.com/corporation/601115448",
+      "snippet": "BORTON & SONS, INC. is a business entity in Yakima, Washington registered with the Secretary of State of Washington State. The Unified Business Identifier (UBI) of the entity is #601115448, the entity type is Wa Profit Corporation and the business category is Regular Corporation. The entity was incorporated on August 14, 1970 in Washington, expiring on August 31, 2023. The current entity ...",
+      "query": "\"Borton & Sons, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:55:50Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T12:55:58Z",
+  "company_status": "SUCCESS"
+}

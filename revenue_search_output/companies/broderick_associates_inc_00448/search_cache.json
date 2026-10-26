@@ -1,0 +1,62 @@
+{
+  "company_key": "broderick & associates, inc.|https://broderickrealty.com",
+  "company_name": "Broderick & Associates, Inc.",
+  "company_website": "https://broderickrealty.com",
+  "created_at": "2026-10-23T11:21:05Z",
+  "searches": [
+    {
+      "query": "\"Broderick & Associates, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:21:13Z",
+      "page_title": "\"Broderick & Associates, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broderick+%26+Associates%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Broderick & Associates, Inc. - Pinellas County Real Estate & Property ...",
+          "url": "https://broderickrealty.com/",
+          "snippet": "Residential and commercial sales, leasing and property management in all Pinellas County cities. Part of the community since 1945. Approximately 1,000 units managed."
+        },
+        {
+          "title": "Our History - Broderick & Associates",
+          "url": "https://broderickrealty.com/our-history/",
+          "snippet": "Since 1945 The History of Broderick & Associates, Inc. A family-owned real estate company serving Tampa Bay from the same Pinellas Park location for three generations. Residential Brokerage Property Management Commercial Brokerage Construction & Development Asset Management Dispositions & Acquisitions"
+        }
+      ]
+    },
+    {
+      "query": "\"Broderick & Associates, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:21:21Z",
+      "page_title": "\"Broderick & Associates, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broderick+%26+Associates%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Broderick & Associates, Inc. - Pinellas County Real Estate & Property ...",
+          "url": "https://broderickrealty.com/",
+          "snippet": "Part of the community since 1945, Broderick & Associates provides commercial and residential sales and leasing throughout Pinellas County, Florida. We also manage approximately 1,000 units across our own properties and properties for outside landlords. Talk with Our Team Property Management Commercial Real Estate"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Broderick & Associates, Inc. - Pinellas County Real Estate & Property ...",
+      "url": "https://broderickrealty.com/",
+      "snippet": "Residential and commercial sales, leasing and property management in all Pinellas County cities. Part of the community since 1945. Approximately 1,000 units managed.",
+      "query": "\"Broderick & Associates, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:21:13Z"
+    },
+    {
+      "title": "Our History - Broderick & Associates",
+      "url": "https://broderickrealty.com/our-history/",
+      "snippet": "Since 1945 The History of Broderick & Associates, Inc. A family-owned real estate company serving Tampa Bay from the same Pinellas Park location for three generations. Residential Brokerage Property Management Commercial Brokerage Construction & Development Asset Management Dispositions & Acquisitions",
+      "query": "\"Broderick & Associates, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:21:13Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:21:21Z",
+  "company_status": "SUCCESS"
+}

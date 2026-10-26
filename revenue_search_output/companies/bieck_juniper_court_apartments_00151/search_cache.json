@@ -1,0 +1,50 @@
+{
+  "company_key": "bieck - juniper court apartments|https://bieckmanagement.com",
+  "company_name": "Bieck - Juniper Court Apartments",
+  "company_website": "https://bieckmanagement.com",
+  "created_at": "2026-10-23T10:17:04Z",
+  "searches": [
+    {
+      "query": "\"Bieck - Juniper Court Apartments\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:17:11Z",
+      "page_title": "\"Bieck - Juniper Court Apartments\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bieck+-+Juniper+Court+Apartments%22+revenue",
+      "results": [
+        {
+          "title": "Kevin Danikowski - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/kevin-danikowski/138289031/",
+          "snippet": "Kevin Danikowski, Owner at Bieck - Juniper Court Apartments in Milwaukee, WI has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    },
+    {
+      "query": "\"Bieck - Juniper Court Apartments\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:17:18Z",
+      "page_title": "\"Bieck - Juniper Court Apartments\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bieck+-+Juniper+Court+Apartments%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Kevin Danikowski - Commercial Real Estate Listings | Showcase",
+          "url": "https://www.showcase.com/p/kevin-danikowski/138289031/",
+          "snippet": "Kevin Danikowski, Owner at Bieck - Juniper Court Apartments in Milwaukee, WI has commercial real estate listings for sale or rent on showcase.com."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Kevin Danikowski - Commercial Real Estate Listings | Showcase",
+      "url": "https://www.showcase.com/p/kevin-danikowski/138289031/",
+      "snippet": "Kevin Danikowski, Owner at Bieck - Juniper Court Apartments in Milwaukee, WI has commercial real estate listings for sale or rent on showcase.com.",
+      "query": "\"Bieck - Juniper Court Apartments\" revenue",
+      "search_collected_at": "2026-10-23T10:17:11Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:17:18Z",
+  "company_status": "SUCCESS"
+}

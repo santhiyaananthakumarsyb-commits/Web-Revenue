@@ -1,0 +1,62 @@
+{
+  "company_key": "bsd realty worldwide, inc.|https://bsdrealty.nyc",
+  "company_name": "BSD Realty Worldwide, Inc.",
+  "company_website": "https://bsdrealty.nyc",
+  "created_at": "2026-10-23T12:26:17Z",
+  "searches": [
+    {
+      "query": "\"BSD Realty Worldwide, Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:26:23Z",
+      "page_title": "\"BSD Realty Worldwide, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BSD+Realty+Worldwide%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "BSD Realty Worldwide, Inc. - New York, NY - LoopNet",
+          "url": "https://www.loopnet.com/company/bsd-realty-worldwide-inc/913nnq4l/",
+          "snippet": "Founded in 2005 by professionals credited with closing successful real estate transactions valued in the hundreds of millions of dollars, BSD Realty Worldwide acquires, develops and manages high-yield properties with promising long-term potential in order to show our investors the highest possible return. BSD's professionals have the knowledge and capability to service all of our client's ..."
+        },
+        {
+          "title": "Bsd Realty Worldwide, Inc. · 80 State Street, Albany, NY 122072543",
+          "url": "https://opengovny.com/corporation/3598386",
+          "snippet": "Bsd Realty Worldwide, Inc. (DOS# 3598386) is a business entity registered with State of New York, Department of State (NYSDOS). The business filing date is November 28, 2007."
+        }
+      ]
+    },
+    {
+      "query": "\"BSD Realty Worldwide, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:26:29Z",
+      "page_title": "\"BSD Realty Worldwide, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BSD+Realty+Worldwide%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BSD Realty Worldwide, Inc. - New York, NY - LoopNet",
+          "url": "https://www.loopnet.com/company/bsd-realty-worldwide-inc/913nnq4l/",
+          "snippet": "Founded in 2005 by professionals credited with closing successful real estate transactions valued in the hundreds of millions of dollars, BSD Realty Worldwide acquires, develops and manages high-yield properties with promising long-term potential in order to show our investors the highest possible return. BSD's professionals have the knowledge and capability to service all of our client's ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BSD Realty Worldwide, Inc. - New York, NY - LoopNet",
+      "url": "https://www.loopnet.com/company/bsd-realty-worldwide-inc/913nnq4l/",
+      "snippet": "Founded in 2005 by professionals credited with closing successful real estate transactions valued in the hundreds of millions of dollars, BSD Realty Worldwide acquires, develops and manages high-yield properties with promising long-term potential in order to show our investors the highest possible return. BSD's professionals have the knowledge and capability to service all of our client's ...",
+      "query": "\"BSD Realty Worldwide, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:26:23Z"
+    },
+    {
+      "title": "Bsd Realty Worldwide, Inc. · 80 State Street, Albany, NY 122072543",
+      "url": "https://opengovny.com/corporation/3598386",
+      "snippet": "Bsd Realty Worldwide, Inc. (DOS# 3598386) is a business entity registered with State of New York, Department of State (NYSDOS). The business filing date is November 28, 2007.",
+      "query": "\"BSD Realty Worldwide, Inc.\" revenue",
+      "search_collected_at": "2026-10-23T12:26:23Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T12:26:29Z",
+  "company_status": "SUCCESS"
+}

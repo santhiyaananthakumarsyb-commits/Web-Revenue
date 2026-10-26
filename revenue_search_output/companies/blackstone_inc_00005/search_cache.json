@@ -1,0 +1,134 @@
+{
+  "company_key": "blackstone inc.|https://blackstone.com",
+  "company_name": "Blackstone Inc.",
+  "company_website": "https://blackstone.com",
+  "created_at": "2026-10-23T09:10:40Z",
+  "searches": [
+    {
+      "query": "\"Blackstone Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:10:45Z",
+      "page_title": "\"Blackstone Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackstone+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Blackstone (BX) Revenue 2005-2026 - Stock Analysis",
+          "url": "https://stockanalysis.com/stocks/bx/revenue/",
+          "snippet": "Current and historical revenue information for Blackstone Inc. (BX) stock, including a chart and comparison to related stocks."
+        },
+        {
+          "title": "Blackstone Inc. (BX) Income Statement - Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/BX/financials/",
+          "snippet": "Get the detailed quarterly/annual income statement for Blackstone Inc. (BX). Find out the revenue, expenses and profit or loss over the last fiscal year."
+        },
+        {
+          "title": "Blackstone Inc., BX:NYQ profile - FT.com",
+          "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=BX:NYQ",
+          "snippet": "Blackstone Inc. (BX:NYQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and more."
+        },
+        {
+          "title": "Blackstone Inc. Reports Earnings Results for the Third Quarter and Nine ...",
+          "url": "https://www.marketscreener.com/news/blackstone-inc-reports-earnings-results-for-the-third-quarter-and-nine-months-ended-september-30-2-ce785cdedb8ef125",
+          "snippet": "Blackstone Inc. reported earnings results for the third quarter and nine months ended September 30, 2026. For the third quarter, the company reported revenue was USD 3,062.89 million compared to USD..."
+        }
+      ]
+    },
+    {
+      "query": "\"Blackstone Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T09:10:51Z",
+      "page_title": "\"Blackstone Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackstone+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blackstone (BX) Revenue 2005-2026 - Stock Analysis",
+          "url": "https://stockanalysis.com/stocks/bx/revenue/",
+          "snippet": "Current and historical revenue information for Blackstone Inc. (BX) stock, including a chart and comparison to related stocks."
+        },
+        {
+          "title": "Blackstone Inc. (BX) Revenue History & Chart Since 2003",
+          "url": "https://wallstreetnumbers.com/stocks/bx/revenue",
+          "snippet": "Analyst Estimate Analysts estimate BX annual revenue at $ 15.03 B, +10.05 % higher than the current value"
+        },
+        {
+          "title": "Blackstone Inc. (BX) Earnings Estimates, Revenue Estimates | Seeking Alpha",
+          "url": "https://seekingalpha.com/symbol/BX/earnings/estimates",
+          "snippet": "Blackstone Inc. (BX) earnings estimates: forecast for revenue and EPS, high & low, YoY growth, forward PE and number of analysts."
+        },
+        {
+          "title": "Blackstone Inc. (BX) - Revenue (Annual)",
+          "url": "https://www.alphaquery.com/stock/BX/fundamentals/annual/revenue",
+          "snippet": "Revenue (Annual) Revenue: The sum of all revenue fields included for a company's operating activities. Blackstone Inc. (BX) had Revenue of $14.45B for the most recently reported fiscal year, ending 2025-12-31."
+        },
+        {
+          "title": "Blackstone Inc. (BX) Analyst Estimates - Revenue & EPS",
+          "url": "https://businessquant.com/stocks/bx/estimates/",
+          "snippet": "View detailed analyst estimates for Blackstone Inc. (BX), including Revenue and EPS forecasts, reported figures, and consensus data."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blackstone (BX) Revenue 2005-2026 - Stock Analysis",
+      "url": "https://stockanalysis.com/stocks/bx/revenue/",
+      "snippet": "Current and historical revenue information for Blackstone Inc. (BX) stock, including a chart and comparison to related stocks.",
+      "query": "\"Blackstone Inc.\" revenue",
+      "search_collected_at": "2026-10-23T09:10:45Z"
+    },
+    {
+      "title": "Blackstone Inc. (BX) Income Statement - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BX/financials/",
+      "snippet": "Get the detailed quarterly/annual income statement for Blackstone Inc. (BX). Find out the revenue, expenses and profit or loss over the last fiscal year.",
+      "query": "\"Blackstone Inc.\" revenue",
+      "search_collected_at": "2026-10-23T09:10:45Z"
+    },
+    {
+      "title": "Blackstone Inc., BX:NYQ profile - FT.com",
+      "url": "https://markets.ft.com/data/equities/tearsheet/profile?s=BX:NYQ",
+      "snippet": "Blackstone Inc. (BX:NYQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and more.",
+      "query": "\"Blackstone Inc.\" revenue",
+      "search_collected_at": "2026-10-23T09:10:45Z"
+    },
+    {
+      "title": "Blackstone Inc. Reports Earnings Results for the Third Quarter and Nine ...",
+      "url": "https://www.marketscreener.com/news/blackstone-inc-reports-earnings-results-for-the-third-quarter-and-nine-months-ended-september-30-2-ce785cdedb8ef125",
+      "snippet": "Blackstone Inc. reported earnings results for the third quarter and nine months ended September 30, 2026. For the third quarter, the company reported revenue was USD 3,062.89 million compared to USD...",
+      "query": "\"Blackstone Inc.\" revenue",
+      "search_collected_at": "2026-10-23T09:10:45Z"
+    },
+    {
+      "title": "Blackstone Inc. (BX) Revenue History & Chart Since 2003",
+      "url": "https://wallstreetnumbers.com/stocks/bx/revenue",
+      "snippet": "Analyst Estimate Analysts estimate BX annual revenue at $ 15.03 B, +10.05 % higher than the current value",
+      "query": "\"Blackstone Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:10:51Z"
+    },
+    {
+      "title": "Blackstone Inc. (BX) Earnings Estimates, Revenue Estimates | Seeking Alpha",
+      "url": "https://seekingalpha.com/symbol/BX/earnings/estimates",
+      "snippet": "Blackstone Inc. (BX) earnings estimates: forecast for revenue and EPS, high & low, YoY growth, forward PE and number of analysts.",
+      "query": "\"Blackstone Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:10:51Z"
+    },
+    {
+      "title": "Blackstone Inc. (BX) - Revenue (Annual)",
+      "url": "https://www.alphaquery.com/stock/BX/fundamentals/annual/revenue",
+      "snippet": "Revenue (Annual) Revenue: The sum of all revenue fields included for a company's operating activities. Blackstone Inc. (BX) had Revenue of $14.45B for the most recently reported fiscal year, ending 2025-12-31.",
+      "query": "\"Blackstone Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:10:51Z"
+    },
+    {
+      "title": "Blackstone Inc. (BX) Analyst Estimates - Revenue & EPS",
+      "url": "https://businessquant.com/stocks/bx/estimates/",
+      "snippet": "View detailed analyst estimates for Blackstone Inc. (BX), including Revenue and EPS forecasts, reported figures, and consensus data.",
+      "query": "\"Blackstone Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T09:10:51Z"
+    }
+  ],
+  "result_count": 8,
+  "updated_at": "2026-10-23T09:10:51Z",
+  "company_status": "SUCCESS"
+}

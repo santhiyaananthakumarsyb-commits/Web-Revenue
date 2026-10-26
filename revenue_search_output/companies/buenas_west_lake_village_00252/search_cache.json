@@ -1,0 +1,30 @@
+{
+  "company_key": "buenas - west lake village|https://buenascommunities.com",
+  "company_name": "Buenas - West Lake Village",
+  "company_website": "https://buenascommunities.com",
+  "created_at": "2026-10-23T10:38:48Z",
+  "searches": [
+    {
+      "query": "\"Buenas - West Lake Village\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:38:55Z",
+      "page_title": "\"Buenas - West Lake Village\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buenas+-+West+Lake+Village%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Buenas - West Lake Village\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:39:02Z",
+      "page_title": "\"Buenas - West Lake Village\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Buenas+-+West+Lake+Village%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:39:02Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

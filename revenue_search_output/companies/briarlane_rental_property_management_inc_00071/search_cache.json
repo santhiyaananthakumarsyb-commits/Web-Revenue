@@ -1,0 +1,86 @@
+{
+  "company_key": "briarlane rental property management inc.|https://briarlane.ca",
+  "company_name": "Briarlane Rental Property Management Inc.",
+  "company_website": "https://briarlane.ca",
+  "created_at": "2026-10-23T09:59:53Z",
+  "searches": [
+    {
+      "query": "\"Briarlane Rental Property Management Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:00:00Z",
+      "page_title": "\"Briarlane Rental Property Management Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Briarlane+Rental+Property+Management+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Briarlane Rental Property Management Inc. Information",
+          "url": "https://rocketreach.co/briarlane-rental-property-management-inc-profile_b44ff7fffd8855d5",
+          "snippet": "Briarlane Rental Property Management Inc. is a Real Estate company located in Markham, Ontario with $6.8 million in revenue and 102 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Briarlane Rental Property Management Inc. — buildings, scores and LTB ...",
+          "url": "https://landlordreport.ca/landlord/briarlane/",
+          "snippet": "Briarlane Rental Property Management Inc.: 69 registered Toronto rental buildings, 7,917 units, 273 LTB orders (Jan-June 2026). Official public records."
+        },
+        {
+          "title": "Briarlane Rental Property Management Inc. - Wiza",
+          "url": "https://wiza.co/d/briarlane-rental-property-management-inc/a960",
+          "snippet": "Briarlane Rental Property Management Inc. is a company located in Markham, ON, Canada. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to Briarlane Rental Property Management Inc.."
+        }
+      ]
+    },
+    {
+      "query": "\"Briarlane Rental Property Management Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:00:05Z",
+      "page_title": "\"Briarlane Rental Property Management Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Briarlane+Rental+Property+Management+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Briarlane Rental Property Management Inc. Overview - SignalHire",
+          "url": "https://www.signalhire.com/companies/briarlane-rental-property-management-inc",
+          "snippet": "Summary Briarlane Rental Property Management Inc. is a private company. The company currently specializes in the Real Estate area. Its headquarters is located at Markham, Ontario, CA. The number of employees ranges from 100 to 250. The annual revenue of Briarlane Rental Property Management Inc. varies between 5.0M and 25M."
+        },
+        {
+          "title": "Briarlane Rental Property Management Inc. - Wiza",
+          "url": "https://wiza.co/d/briarlane-rental-property-management-inc/a960",
+          "snippet": "View info about Briarlane Rental Property Management Inc. (briarlane.ca). Briarlane Rental Property Management Inc. is a company located in Markham, ON, Canada. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to Briarlane Rental Property Management Inc.."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Briarlane Rental Property Management Inc. Information",
+      "url": "https://rocketreach.co/briarlane-rental-property-management-inc-profile_b44ff7fffd8855d5",
+      "snippet": "Briarlane Rental Property Management Inc. is a Real Estate company located in Markham, Ontario with $6.8 million in revenue and 102 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Briarlane Rental Property Management Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:00:00Z"
+    },
+    {
+      "title": "Briarlane Rental Property Management Inc. — buildings, scores and LTB ...",
+      "url": "https://landlordreport.ca/landlord/briarlane/",
+      "snippet": "Briarlane Rental Property Management Inc.: 69 registered Toronto rental buildings, 7,917 units, 273 LTB orders (Jan-June 2026). Official public records.",
+      "query": "\"Briarlane Rental Property Management Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:00:00Z"
+    },
+    {
+      "title": "Briarlane Rental Property Management Inc. - Wiza",
+      "url": "https://wiza.co/d/briarlane-rental-property-management-inc/a960",
+      "snippet": "Briarlane Rental Property Management Inc. is a company located in Markham, ON, Canada. Find employees, official website, emails, phone numbers, revenue, employee headcount, social accounts, and anything related to Briarlane Rental Property Management Inc..",
+      "query": "\"Briarlane Rental Property Management Inc.\" revenue",
+      "search_collected_at": "2026-10-23T10:00:00Z"
+    },
+    {
+      "title": "Briarlane Rental Property Management Inc. Overview - SignalHire",
+      "url": "https://www.signalhire.com/companies/briarlane-rental-property-management-inc",
+      "snippet": "Summary Briarlane Rental Property Management Inc. is a private company. The company currently specializes in the Real Estate area. Its headquarters is located at Markham, Ontario, CA. The number of employees ranges from 100 to 250. The annual revenue of Briarlane Rental Property Management Inc. varies between 5.0M and 25M.",
+      "query": "\"Briarlane Rental Property Management Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:00:05Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T10:00:05Z",
+  "company_status": "SUCCESS"
+}

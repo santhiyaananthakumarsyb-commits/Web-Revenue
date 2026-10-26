@@ -1,0 +1,74 @@
+{
+  "company_key": "blueprint healthcare real estate advisors, llc|https://blueprinthcre.com",
+  "company_name": "Blueprint Healthcare Real Estate Advisors, LLC",
+  "company_website": "https://blueprinthcre.com",
+  "created_at": "2026-10-23T10:50:51Z",
+  "searches": [
+    {
+      "query": "\"Blueprint Healthcare Real Estate Advisors, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:50:57Z",
+      "page_title": "\"Blueprint Healthcare Real Estate Advisors, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blueprint+Healthcare+Real+Estate+Advisors%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Blueprint Healthcare Real Estate Advisors, LLC",
+          "url": "https://www.dnb.com/business-directory/company-profiles.blueprint_healthcare_real_estate_advisors_llc.270bbe06de71ffa41a38c36636c73ab9.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Blueprint Healthcare Real Estate Advisors, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Blueprint Healthcare Real Estate Advisors, LLC",
+          "url": "https://www.buzzfile.com/business/Blueprint-Healthcare-Real-Estate-Advisors,-LLC-312-300-4000",
+          "snippet": "Blueprint Healthcare Real Estate Advisors is in the Health and Allied Services, nec industry within the Health Services sector and has been in business for approximately 11 years."
+        },
+        {
+          "title": "October 2025 in Review | Blueprint HCRE",
+          "url": "https://www.blueprinthcre.com/october-2025-in-review",
+          "snippet": "BLUEPRINT HEALTHCARE REAL ESTATE ADVISORS, LLC 2026 © 312.300.4000"
+        }
+      ]
+    },
+    {
+      "query": "\"Blueprint Healthcare Real Estate Advisors, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:51:04Z",
+      "page_title": "\"Blueprint Healthcare Real Estate Advisors, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blueprint+Healthcare+Real+Estate+Advisors%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Blueprint Healthcare Real Estate Advisors, LLC",
+          "url": "https://www.dnb.com/business-directory/company-profiles.blueprint_healthcare_real_estate_advisors_llc.270bbe06de71ffa41a38c36636c73ab9.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Blueprint Healthcare Real Estate Advisors, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Blueprint Healthcare Real Estate Advisors, LLC",
+      "url": "https://www.dnb.com/business-directory/company-profiles.blueprint_healthcare_real_estate_advisors_llc.270bbe06de71ffa41a38c36636c73ab9.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Blueprint Healthcare Real Estate Advisors, LLC of Chicago, Illinois. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Blueprint Healthcare Real Estate Advisors, LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:50:57Z"
+    },
+    {
+      "title": "Blueprint Healthcare Real Estate Advisors, LLC",
+      "url": "https://www.buzzfile.com/business/Blueprint-Healthcare-Real-Estate-Advisors,-LLC-312-300-4000",
+      "snippet": "Blueprint Healthcare Real Estate Advisors is in the Health and Allied Services, nec industry within the Health Services sector and has been in business for approximately 11 years.",
+      "query": "\"Blueprint Healthcare Real Estate Advisors, LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:50:57Z"
+    },
+    {
+      "title": "October 2025 in Review | Blueprint HCRE",
+      "url": "https://www.blueprinthcre.com/october-2025-in-review",
+      "snippet": "BLUEPRINT HEALTHCARE REAL ESTATE ADVISORS, LLC 2026 © 312.300.4000",
+      "query": "\"Blueprint Healthcare Real Estate Advisors, LLC\" revenue",
+      "search_collected_at": "2026-10-23T10:50:57Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T10:51:04Z",
+  "company_status": "SUCCESS"
+}

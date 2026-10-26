@@ -1,0 +1,30 @@
+{
+  "company_key": "boraie - 50 rector park|https://boraie.com",
+  "company_name": "Boraie - 50 Rector Park",
+  "company_website": "https://boraie.com",
+  "created_at": "2026-10-23T10:50:14Z",
+  "searches": [
+    {
+      "query": "\"Boraie - 50 Rector Park\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:50:22Z",
+      "page_title": "\"Boraie - 50 Rector Park\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boraie+-+50+Rector+Park%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Boraie - 50 Rector Park\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:50:29Z",
+      "page_title": "\"Boraie - 50 Rector Park\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boraie+-+50+Rector+Park%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T10:50:29Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

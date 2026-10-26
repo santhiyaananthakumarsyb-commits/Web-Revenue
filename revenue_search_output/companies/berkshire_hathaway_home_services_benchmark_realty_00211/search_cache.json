@@ -1,0 +1,50 @@
+{
+  "company_key": "berkshire hathaway home services benchmark realty|https://bhhsbenchmark.com",
+  "company_name": "Berkshire Hathaway Home Services Benchmark Realty",
+  "company_website": "https://bhhsbenchmark.com",
+  "created_at": "2026-10-23T10:30:09Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Home Services Benchmark Realty\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:30:15Z",
+      "page_title": "\"Berkshire Hathaway Home Services Benchmark Realty\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Home+Services+Benchmark+Realty%22+revenue",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Home Services Benchmark Realty - Shawnee, OK",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-home-services-benchmark-realty/23t8z09l/",
+          "snippet": "Local real estate agency based in Shawnee, OK. Berkshire Hathaway Home Services Benchmark Realty Contacts Dana Austin (405) 850-6160 Contact"
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Home Services Benchmark Realty\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:30:22Z",
+      "page_title": "\"Berkshire Hathaway Home Services Benchmark Realty\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Home+Services+Benchmark+Realty%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Home Services Benchmark Realty - LoopNet",
+          "url": "https://www.loopnet.com/company/berkshire-hathaway-home-services-benchmark-realty/23t8z09l/",
+          "snippet": "Local real estate agency based in Shawnee, OK. Berkshire Hathaway Home Services Benchmark Realty Contacts Dana Austin (405) 850-6160 Contact"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Hathaway Home Services Benchmark Realty - Shawnee, OK",
+      "url": "https://www.loopnet.com/company/berkshire-hathaway-home-services-benchmark-realty/23t8z09l/",
+      "snippet": "Local real estate agency based in Shawnee, OK. Berkshire Hathaway Home Services Benchmark Realty Contacts Dana Austin (405) 850-6160 Contact",
+      "query": "\"Berkshire Hathaway Home Services Benchmark Realty\" revenue",
+      "search_collected_at": "2026-10-23T10:30:15Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:30:22Z",
+  "company_status": "SUCCESS"
+}

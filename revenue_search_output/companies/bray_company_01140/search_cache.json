@@ -1,0 +1,50 @@
+{
+  "company_key": "bray & company|https://brayandco.com",
+  "company_name": "Bray & Company",
+  "company_website": "https://brayandco.com",
+  "created_at": "2026-10-23T13:51:15Z",
+  "searches": [
+    {
+      "query": "\"Bray & Company\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:51:22Z",
+      "page_title": "\"Bray & Company\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bray+%26+Company%22+revenue",
+      "results": [
+        {
+          "title": "Bray & Company, CPA 2026 Company Profile: Valuation, Investors ...",
+          "url": "https://pitchbook.com/profiles/company/167669-20",
+          "snippet": "Bray & Company, CPA General Information Description Provider of accounting and auditing services. The company offers tax preparation and planning, healthcare accounting and consulting, retirement plan administration, strategic business planning, small business accounting, reviews and compilations, payroll processing, new business formation, cash flow management, succession planning, budgeting ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bray & Company\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:51:30Z",
+      "page_title": "\"Bray & Company\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bray+%26+Company%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bray & Company, CPA 2026 Company Profile: Valuation, Investors ...",
+          "url": "https://pitchbook.com/profiles/company/167669-20",
+          "snippet": "Information on acquisition, funding, investors, and executives for Bray & Company, CPA. Use the PitchBook Platform to explore the full profile."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bray & Company, CPA 2026 Company Profile: Valuation, Investors ...",
+      "url": "https://pitchbook.com/profiles/company/167669-20",
+      "snippet": "Bray & Company, CPA General Information Description Provider of accounting and auditing services. The company offers tax preparation and planning, healthcare accounting and consulting, retirement plan administration, strategic business planning, small business accounting, reviews and compilations, payroll processing, new business formation, cash flow management, succession planning, budgeting ...",
+      "query": "\"Bray & Company\" revenue",
+      "search_collected_at": "2026-10-23T13:51:22Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T13:51:30Z",
+  "company_status": "SUCCESS"
+}

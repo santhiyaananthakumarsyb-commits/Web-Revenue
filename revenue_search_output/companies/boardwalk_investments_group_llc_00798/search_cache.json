@@ -1,0 +1,96 @@
+{
+  "company_key": "boardwalk investments group, llc|https://boardwalkinvest.com",
+  "company_name": "Boardwalk Investments Group, LLC",
+  "company_website": "https://boardwalkinvest.com",
+  "created_at": "2026-10-23T12:36:46Z",
+  "searches": [
+    {
+      "query": "\"Boardwalk Investments Group, LLC\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:36:52Z",
+      "page_title": "\"Boardwalk Investments Group, LLC\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boardwalk+Investments+Group%2C+LLC%22+revenue",
+      "results": [
+        {
+          "title": "Home — Boardwalk Investments Group",
+          "url": "https://www.boardwalkinvest.com/home",
+          "snippet": "Welcome BOARDWALK INVESTMENTS GROUP, LLC IS A PRIVATELY HELD COMMERCIAL REAL ESTATE INVESTMENT COMPANY. About Us Headquartered in Newport Beach, California, the Firm currently manages a diverse commercial real estate portfolio comprised of retail, mixed-use, office and multifamily projects located primarily in Orange County, California."
+        },
+        {
+          "title": "Boardwalk Investments Group, LLC Costa Mesa, CA - filing information",
+          "url": "https://www.bizprofile.net/ca/costa-mesa/boardwalk-investments-group-llc",
+          "snippet": "Boardwalk Investments Group, LLC is a Costa Mesa, CA based company incorporated on March 4, 2019. Filing details extracted from the California Secretary of State's Registry as of 7/15/2025."
+        },
+        {
+          "title": "Boardwalk Investments Group, LLC - Costa Mesa, CA",
+          "url": "https://www.loopnet.com/company/boardwalk-investments-group-llc/1jyv9z6l/",
+          "snippet": "Boardwalk Investments Group, LLC is a privately held commercial real estate investment company. Headquartered in Newport Beach, California, the Firm currently manages a diverse commercial real estate portfolio comprised of retail, mixed-use, office and multifamily located primarily in Orange County, California. The Firm is led by a seasoned management team with over 50 years of commercial real ..."
+        },
+        {
+          "title": "Boardwalk Investments Group, LLC | BBB Business Profile",
+          "url": "https://www.bbb.org/us/ca/costa-mesa/profile/investment-management/boardwalk-investments-group-llc-1126-1000122828",
+          "snippet": "Boardwalk Investments Group, LLC — Not BBB Accredited. Phone: (949) 698-1553. Investment Management in Costa Mesa, CA. See BBB rating, reviews, complaints, and more."
+        }
+      ]
+    },
+    {
+      "query": "\"Boardwalk Investments Group, LLC\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T12:36:58Z",
+      "page_title": "\"Boardwalk Investments Group, LLC\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Boardwalk+Investments+Group%2C+LLC%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Home — Boardwalk Investments Group",
+          "url": "https://www.boardwalkinvest.com/home",
+          "snippet": "Welcome BOARDWALK INVESTMENTS GROUP, LLC IS A PRIVATELY HELD COMMERCIAL REAL ESTATE INVESTMENT COMPANY. About Us Headquartered in Newport Beach, California, the Firm currently manages a diverse commercial real estate portfolio comprised of retail, mixed-use, office and multifamily projects located primarily in Orange County, California."
+        },
+        {
+          "title": "Boardwalk Investments Group, LLC Costa Mesa, CA - filing information",
+          "url": "https://www.bizprofile.net/ca/costa-mesa/boardwalk-investments-group-llc",
+          "snippet": "Boardwalk Investments Group, LLC is a Costa Mesa, CA based company incorporated on March 4, 2019. Filing details extracted from the California Secretary of State's Registry as of 7/15/2025."
+        },
+        {
+          "title": "Boardwalk Investments Group, LLC | BBB Business Profile",
+          "url": "https://www.bbb.org/us/ca/costa-mesa/profile/investment-management/boardwalk-investments-group-llc-1126-1000122828",
+          "snippet": "Boardwalk Investments Group, LLC — Not BBB Accredited. Phone: (949) 698-1553. Investment Management in Costa Mesa, CA. See BBB rating, reviews, complaints, and more."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Home — Boardwalk Investments Group",
+      "url": "https://www.boardwalkinvest.com/home",
+      "snippet": "Welcome BOARDWALK INVESTMENTS GROUP, LLC IS A PRIVATELY HELD COMMERCIAL REAL ESTATE INVESTMENT COMPANY. About Us Headquartered in Newport Beach, California, the Firm currently manages a diverse commercial real estate portfolio comprised of retail, mixed-use, office and multifamily projects located primarily in Orange County, California.",
+      "query": "\"Boardwalk Investments Group, LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:36:52Z"
+    },
+    {
+      "title": "Boardwalk Investments Group, LLC Costa Mesa, CA - filing information",
+      "url": "https://www.bizprofile.net/ca/costa-mesa/boardwalk-investments-group-llc",
+      "snippet": "Boardwalk Investments Group, LLC is a Costa Mesa, CA based company incorporated on March 4, 2019. Filing details extracted from the California Secretary of State's Registry as of 7/15/2025.",
+      "query": "\"Boardwalk Investments Group, LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:36:52Z"
+    },
+    {
+      "title": "Boardwalk Investments Group, LLC - Costa Mesa, CA",
+      "url": "https://www.loopnet.com/company/boardwalk-investments-group-llc/1jyv9z6l/",
+      "snippet": "Boardwalk Investments Group, LLC is a privately held commercial real estate investment company. Headquartered in Newport Beach, California, the Firm currently manages a diverse commercial real estate portfolio comprised of retail, mixed-use, office and multifamily located primarily in Orange County, California. The Firm is led by a seasoned management team with over 50 years of commercial real ...",
+      "query": "\"Boardwalk Investments Group, LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:36:52Z"
+    },
+    {
+      "title": "Boardwalk Investments Group, LLC | BBB Business Profile",
+      "url": "https://www.bbb.org/us/ca/costa-mesa/profile/investment-management/boardwalk-investments-group-llc-1126-1000122828",
+      "snippet": "Boardwalk Investments Group, LLC — Not BBB Accredited. Phone: (949) 698-1553. Investment Management in Costa Mesa, CA. See BBB rating, reviews, complaints, and more.",
+      "query": "\"Boardwalk Investments Group, LLC\" revenue",
+      "search_collected_at": "2026-10-23T12:36:52Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T12:36:58Z",
+  "company_status": "SUCCESS"
+}

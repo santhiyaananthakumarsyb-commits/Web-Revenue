@@ -1,0 +1,62 @@
+{
+  "company_key": "better homes and gardens m3 realty|https://nextagem3realty.com",
+  "company_name": "Better Homes and Gardens M3 Realty",
+  "company_website": "https://nextagem3realty.com",
+  "created_at": "2026-10-23T11:22:29Z",
+  "searches": [
+    {
+      "query": "\"Better Homes and Gardens M3 Realty\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:22:34Z",
+      "page_title": "\"Better Homes and Gardens M3 Realty\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+and+Gardens+M3+Realty%22+revenue",
+      "results": [
+        {
+          "title": "Better Homes And Gardens M3 Realty",
+          "url": "https://www.realty.com/office/213126/better_homes_and_gardens_m3_realty",
+          "snippet": "Better Homes And Gardens M3 Realty in Edison, NJ - Office profile including office information, real estate agents, office reviews, and office listings."
+        },
+        {
+          "title": "Better Homes and Gardens M3 Realty - House tour",
+          "url": "https://www.youtube.com/watch?v=XtLsiuPAzmM",
+          "snippet": "House tour with Meiling Kravarik | Broker/Owner Better Homes and Gardens Real Estate M3 Realty I Residential & Commercial Real Estate 1910 Oak Tree Road, Edison, NJ 08820 | Office: 732-603-0700 ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Better Homes and Gardens M3 Realty\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:22:41Z",
+      "page_title": "\"Better Homes and Gardens M3 Realty\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+and+Gardens+M3+Realty%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Better Homes And Gardens M3 Realty",
+          "url": "https://www.realty.com/office/213126/better_homes_and_gardens_m3_realty",
+          "snippet": "Better Homes And Gardens M3 Realty in Edison, NJ - Office profile including office information, real estate agents, office reviews, and office listings."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Better Homes And Gardens M3 Realty",
+      "url": "https://www.realty.com/office/213126/better_homes_and_gardens_m3_realty",
+      "snippet": "Better Homes And Gardens M3 Realty in Edison, NJ - Office profile including office information, real estate agents, office reviews, and office listings.",
+      "query": "\"Better Homes and Gardens M3 Realty\" revenue",
+      "search_collected_at": "2026-10-23T11:22:34Z"
+    },
+    {
+      "title": "Better Homes and Gardens M3 Realty - House tour",
+      "url": "https://www.youtube.com/watch?v=XtLsiuPAzmM",
+      "snippet": "House tour with Meiling Kravarik | Broker/Owner Better Homes and Gardens Real Estate M3 Realty I Residential & Commercial Real Estate 1910 Oak Tree Road, Edison, NJ 08820 | Office: 732-603-0700 ...",
+      "query": "\"Better Homes and Gardens M3 Realty\" revenue",
+      "search_collected_at": "2026-10-23T11:22:34Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:22:41Z",
+  "company_status": "SUCCESS"
+}

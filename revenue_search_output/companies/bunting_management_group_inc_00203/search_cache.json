@@ -1,0 +1,44 @@
+{
+  "company_key": "bunting management group, inc.|https://buntingmanagement.com",
+  "company_name": "Bunting Management Group, Inc.",
+  "company_website": "https://buntingmanagement.com",
+  "created_at": "2026-10-23T10:28:18Z",
+  "searches": [
+    {
+      "query": "\"Bunting Management Group, Inc.\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:28:25Z",
+      "page_title": "\"Bunting Management Group, Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bunting+Management+Group%2C+Inc.%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Bunting Management Group, Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:28:32Z",
+      "page_title": "\"Bunting Management Group, Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bunting+Management+Group%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bunting Management Group Inc - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/0766089D:US",
+          "snippet": "Bunting Management Group, Inc. provides real estate services. The Company offers property buying and selling, leasing, asset management, and maintenance services."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bunting Management Group Inc - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/0766089D:US",
+      "snippet": "Bunting Management Group, Inc. provides real estate services. The Company offers property buying and selling, leasing, asset management, and maintenance services.",
+      "query": "\"Bunting Management Group, Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:28:32Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:28:32Z",
+  "company_status": "SUCCESS"
+}

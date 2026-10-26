@@ -1,0 +1,96 @@
+{
+  "company_key": "bloomfield capital partners|https://bloomfieldcapital.com",
+  "company_name": "Bloomfield Capital Partners",
+  "company_website": "https://bloomfieldcapital.com",
+  "created_at": "2026-10-23T11:24:22Z",
+  "searches": [
+    {
+      "query": "\"Bloomfield Capital Partners\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:24:27Z",
+      "page_title": "\"Bloomfield Capital Partners\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bloomfield+Capital+Partners%22+revenue",
+      "results": [
+        {
+          "title": "Bloomfield Capital Partners LP - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/0625322D:US",
+          "snippet": "Company profile page for Bloomfield Capital Partners LP including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "BLOOMFIELD CAPITAL PARTNERS LLP - Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/OC435735",
+          "snippet": "BLOOMFIELD CAPITAL PARTNERS LLP - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "Bloomfield Capital Partners Real Estate Firm Profile | Preqin",
+          "url": "https://www.preqin.com/data/profile/fund-manager/bloomfield-capital-partners/56825",
+          "snippet": "Bloomfield Capital Partners is a US-based real estate firm that targets the acquisition, development, repositioning and management of real estate assets, as well as the management of private real estate funds and the provision of private real estate debt. The firm focuses on opportunities in commercial, multi-family, hospitality, industrial, land development sites, medical/healthcare, mixed ..."
+        },
+        {
+          "title": "Bloomfield Capital Partners I - Company Overview, Employees & More ...",
+          "url": "https://www.phonebooks.com/business-profile/bloomfield-capital-partners-i.p52p5p5",
+          "snippet": "Bloomfield Capital Partners I is a real estate company and is headquartered in Birmingham, MI 48009. Learn about their estimated revenue, employees and more."
+        }
+      ]
+    },
+    {
+      "query": "\"Bloomfield Capital Partners\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:24:34Z",
+      "page_title": "\"Bloomfield Capital Partners\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bloomfield+Capital+Partners%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bloomfield Capital Partners LP - Company Profile and News",
+          "url": "https://www.bloomberg.com/profile/company/0625322D:US",
+          "snippet": "Company profile page for Bloomfield Capital Partners LP including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "BLOOMFIELD CAPITAL PARTNERS LLP - Companies House",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/OC435735",
+          "snippet": "BLOOMFIELD CAPITAL PARTNERS LLP - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity"
+        },
+        {
+          "title": "Bloomfield Capital Partners Real Estate Firm Profile | Preqin",
+          "url": "https://www.preqin.com/data/profile/fund-manager/bloomfield-capital-partners/56825",
+          "snippet": "Bloomfield Capital Partners is a US-based real estate firm that targets the acquisition, development, repositioning and management of real estate assets, as well as the management of private real estate funds and the provision of private real estate debt. The firm focuses on opportunities in commercial, multi-family, hospitality, industrial, land development sites, medical/healthcare, mixed ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bloomfield Capital Partners LP - Company Profile and News",
+      "url": "https://www.bloomberg.com/profile/company/0625322D:US",
+      "snippet": "Company profile page for Bloomfield Capital Partners LP including stock price, company news, executives, board members, and contact information",
+      "query": "\"Bloomfield Capital Partners\" revenue",
+      "search_collected_at": "2026-10-23T11:24:27Z"
+    },
+    {
+      "title": "BLOOMFIELD CAPITAL PARTNERS LLP - Companies House",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/OC435735",
+      "snippet": "BLOOMFIELD CAPITAL PARTNERS LLP - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
+      "query": "\"Bloomfield Capital Partners\" revenue",
+      "search_collected_at": "2026-10-23T11:24:27Z"
+    },
+    {
+      "title": "Bloomfield Capital Partners Real Estate Firm Profile | Preqin",
+      "url": "https://www.preqin.com/data/profile/fund-manager/bloomfield-capital-partners/56825",
+      "snippet": "Bloomfield Capital Partners is a US-based real estate firm that targets the acquisition, development, repositioning and management of real estate assets, as well as the management of private real estate funds and the provision of private real estate debt. The firm focuses on opportunities in commercial, multi-family, hospitality, industrial, land development sites, medical/healthcare, mixed ...",
+      "query": "\"Bloomfield Capital Partners\" revenue",
+      "search_collected_at": "2026-10-23T11:24:27Z"
+    },
+    {
+      "title": "Bloomfield Capital Partners I - Company Overview, Employees & More ...",
+      "url": "https://www.phonebooks.com/business-profile/bloomfield-capital-partners-i.p52p5p5",
+      "snippet": "Bloomfield Capital Partners I is a real estate company and is headquartered in Birmingham, MI 48009. Learn about their estimated revenue, employees and more.",
+      "query": "\"Bloomfield Capital Partners\" revenue",
+      "search_collected_at": "2026-10-23T11:24:27Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:24:34Z",
+  "company_status": "SUCCESS"
+}

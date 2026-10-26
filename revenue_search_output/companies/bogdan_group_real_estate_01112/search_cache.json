@@ -1,0 +1,50 @@
+{
+  "company_key": "bogdan group real estate|https://bogdan-group.com",
+  "company_name": "Bogdan Group Real Estate",
+  "company_website": "https://bogdan-group.com",
+  "created_at": "2026-10-23T13:45:23Z",
+  "searches": [
+    {
+      "query": "\"Bogdan Group Real Estate\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:45:30Z",
+      "page_title": "\"Bogdan Group Real Estate\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bogdan+Group+Real+Estate%22+revenue",
+      "results": [
+        {
+          "title": "BOGDAN GROUP Real Estate Agency in BRONX, NY | realtor.com®",
+          "url": "https://www.realtor.com/realestateagency/5e878f093c7b19001152562a",
+          "snippet": "Find real estate agency BOGDAN GROUP in BRONX, NY on realtor.com®, your source for top rated real estate professionals."
+        }
+      ]
+    },
+    {
+      "query": "\"Bogdan Group Real Estate\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:45:37Z",
+      "page_title": "\"Bogdan Group Real Estate\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bogdan+Group+Real+Estate%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BOGDAN GROUP Real Estate Agency in BRONX, NY | realtor.com®",
+          "url": "https://www.realtor.com/realestateagency/5e878f093c7b19001152562a",
+          "snippet": "Find real estate agency BOGDAN GROUP in BRONX, NY on realtor.com®, your source for top rated real estate professionals."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BOGDAN GROUP Real Estate Agency in BRONX, NY | realtor.com®",
+      "url": "https://www.realtor.com/realestateagency/5e878f093c7b19001152562a",
+      "snippet": "Find real estate agency BOGDAN GROUP in BRONX, NY on realtor.com®, your source for top rated real estate professionals.",
+      "query": "\"Bogdan Group Real Estate\" revenue",
+      "search_collected_at": "2026-10-23T13:45:30Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T13:45:37Z",
+  "company_status": "SUCCESS"
+}

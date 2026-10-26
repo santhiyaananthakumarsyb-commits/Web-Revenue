@@ -1,0 +1,62 @@
+{
+  "company_key": "berkshire axis development corp|https://berkshireaxis.com",
+  "company_name": "Berkshire Axis Development Corp",
+  "company_website": "https://berkshireaxis.com",
+  "created_at": "2026-10-23T11:37:43Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Axis Development Corp\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:37:49Z",
+      "page_title": "\"Berkshire Axis Development Corp\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Axis+Development+Corp%22+revenue",
+      "results": [
+        {
+          "title": "Berkshire Axis Development Corp - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.berkshire_axis_development_corp.3d80f5af56ecde5a961fae186fa6f9ae.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Berkshire Axis Development Corp of Toronto, ONTARIO. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Leslie Marlowe | Berkshire Axis Development Corp | Toronto",
+          "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/leslie-marlowe/pdsjjttb",
+          "snippet": "Leslie Marlowe began his real estate career in 1988 after receiving his BA in Economics & International Relations from The University of Toronto. As one of the founding members of Berkshire Axis Development, Leslie has developed and built over 8 million square feet of industrial and commercial real estate, and prides himself on ensuring projects are completed on time, within budget, and to the ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Axis Development Corp\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:37:58Z",
+      "page_title": "\"Berkshire Axis Development Corp\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Axis+Development+Corp%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Berkshire Axis Development Corp - Dun & Bradstreet",
+          "url": "https://www.dnb.com/business-directory/company-profiles.berkshire_axis_development_corp.3d80f5af56ecde5a961fae186fa6f9ae.html",
+          "snippet": "Find company research, competitor information, contact details & financial data for Berkshire Axis Development Corp of Toronto, ONTARIO. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Axis Development Corp - Dun & Bradstreet",
+      "url": "https://www.dnb.com/business-directory/company-profiles.berkshire_axis_development_corp.3d80f5af56ecde5a961fae186fa6f9ae.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for Berkshire Axis Development Corp of Toronto, ONTARIO. Get the latest business insights from Dun & Bradstreet.",
+      "query": "\"Berkshire Axis Development Corp\" revenue",
+      "search_collected_at": "2026-10-23T11:37:49Z"
+    },
+    {
+      "title": "Leslie Marlowe | Berkshire Axis Development Corp | Toronto",
+      "url": "https://www.loopnet.com/commercial-real-estate-brokers/profile/leslie-marlowe/pdsjjttb",
+      "snippet": "Leslie Marlowe began his real estate career in 1988 after receiving his BA in Economics & International Relations from The University of Toronto. As one of the founding members of Berkshire Axis Development, Leslie has developed and built over 8 million square feet of industrial and commercial real estate, and prides himself on ensuring projects are completed on time, within budget, and to the ...",
+      "query": "\"Berkshire Axis Development Corp\" revenue",
+      "search_collected_at": "2026-10-23T11:37:49Z"
+    }
+  ],
+  "result_count": 2,
+  "updated_at": "2026-10-23T11:37:58Z",
+  "company_status": "SUCCESS"
+}

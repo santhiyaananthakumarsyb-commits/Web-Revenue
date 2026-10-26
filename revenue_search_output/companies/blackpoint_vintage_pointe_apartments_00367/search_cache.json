@@ -1,0 +1,30 @@
+{
+  "company_key": "blackpoint - vintage pointe apartments|https://rentalsnovato.com",
+  "company_name": "Blackpoint - Vintage Pointe Apartments",
+  "company_website": "https://rentalsnovato.com",
+  "created_at": "2026-10-23T11:03:37Z",
+  "searches": [
+    {
+      "query": "\"Blackpoint - Vintage Pointe Apartments\" revenue",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:03:43Z",
+      "page_title": "\"Blackpoint - Vintage Pointe Apartments\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackpoint+-+Vintage+Pointe+Apartments%22+revenue",
+      "results": []
+    },
+    {
+      "query": "\"Blackpoint - Vintage Pointe Apartments\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:03:50Z",
+      "page_title": "\"Blackpoint - Vintage Pointe Apartments\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Blackpoint+-+Vintage+Pointe+Apartments%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [],
+  "result_count": 0,
+  "updated_at": "2026-10-23T11:03:50Z",
+  "company_status": "NO_RESULTS_PARSED"
+}

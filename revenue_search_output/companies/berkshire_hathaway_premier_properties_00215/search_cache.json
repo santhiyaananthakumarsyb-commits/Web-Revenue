@@ -1,0 +1,44 @@
+{
+  "company_key": "berkshire hathaway premier properties|https://berkshirehathawayhs.com",
+  "company_name": "Berkshire Hathaway Premier Properties",
+  "company_website": "https://berkshirehathawayhs.com",
+  "created_at": "2026-10-23T10:30:57Z",
+  "searches": [
+    {
+      "query": "\"Berkshire Hathaway Premier Properties\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:31:03Z",
+      "page_title": "\"Berkshire Hathaway Premier Properties\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Premier+Properties%22+revenue",
+      "results": [
+        {
+          "title": "Berkshire Hathaway Premier Properties - ZoomInfo",
+          "url": "https://www.zoominfo.com/c/berkshire-hathaway-premier-properties/398362265",
+          "snippet": "View Berkshire Hathaway Premier Properties (www.preproperties.com) location in Texas, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        }
+      ]
+    },
+    {
+      "query": "\"Berkshire Hathaway Premier Properties\" annual revenue estimate",
+      "status": "NO_RESULTS_PARSED",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:31:11Z",
+      "page_title": "\"Berkshire Hathaway Premier Properties\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Berkshire+Hathaway+Premier+Properties%22+annual+revenue+estimate",
+      "results": []
+    }
+  ],
+  "results": [
+    {
+      "title": "Berkshire Hathaway Premier Properties - ZoomInfo",
+      "url": "https://www.zoominfo.com/c/berkshire-hathaway-premier-properties/398362265",
+      "snippet": "View Berkshire Hathaway Premier Properties (www.preproperties.com) location in Texas, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+      "query": "\"Berkshire Hathaway Premier Properties\" revenue",
+      "search_collected_at": "2026-10-23T10:31:03Z"
+    }
+  ],
+  "result_count": 1,
+  "updated_at": "2026-10-23T10:31:11Z",
+  "company_status": "SUCCESS"
+}

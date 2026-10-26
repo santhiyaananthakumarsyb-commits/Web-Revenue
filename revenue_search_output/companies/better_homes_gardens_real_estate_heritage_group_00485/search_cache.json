@@ -1,0 +1,74 @@
+{
+  "company_key": "better homes & gardens real estate heritage group|https://myexitpartners.com",
+  "company_name": "Better Homes & Gardens Real Estate Heritage Group",
+  "company_website": "https://myexitpartners.com",
+  "created_at": "2026-10-23T11:28:55Z",
+  "searches": [
+    {
+      "query": "\"Better Homes & Gardens Real Estate Heritage Group\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:29:02Z",
+      "page_title": "\"Better Homes & Gardens Real Estate Heritage Group\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+%26+Gardens+Real+Estate+Heritage+Group%22+revenue",
+      "results": [
+        {
+          "title": "Better Homes & Gardens Real Estate Heritage Group",
+          "url": "https://www.realty.com/office/768516/better_homes__gardens_real_estate_heritage_group",
+          "snippet": "Better Homes & Gardens Real Estate Heritage Group in Shelbyville, TN - Office profile including office information, real estate agents, office reviews, and office listings."
+        }
+      ]
+    },
+    {
+      "query": "\"Better Homes & Gardens Real Estate Heritage Group\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:29:08Z",
+      "page_title": "\"Better Homes & Gardens Real Estate Heritage Group\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Better+Homes+%26+Gardens+Real+Estate+Heritage+Group%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Better Homes & Gardens Real Estate Heritage Group Real Estate Agency in ...",
+          "url": "https://www.realtor.com/realestateagency/589e4e8683ba75000fab00d5",
+          "snippet": "Find real estate agency Better Homes & Gardens Real Estate Heritage Group in Shelbyville, TN on realtor.com®, your source for top rated real estate professionals."
+        },
+        {
+          "title": "Better Homes & Gardens Real Estate Heritage Group",
+          "url": "https://www.realty.com/office/768516/better_homes__gardens_real_estate_heritage_group",
+          "snippet": "Better Homes & Gardens Real Estate Heritage Group in Shelbyville, TN - Office profile including office information, real estate agents, office reviews, and office listings."
+        },
+        {
+          "title": "Better Homes and Gardens Real Estate Heritage Group",
+          "url": "https://www.facebook.com/bhgreheritagegroup/",
+          "snippet": "Congratulations on a great month! Better Homes & Gardens Real Estate Heritage Group 2737 Hwy 231 N. Shelbyville, TN 37160 Office: 931-680-1680 Got plans tonight? Come take a look at 813 Brookhaven Circle! Morgan Stevens will be there from 5-7 PM to show you around this renovated 4-bedroom, 3-bath home."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Better Homes & Gardens Real Estate Heritage Group",
+      "url": "https://www.realty.com/office/768516/better_homes__gardens_real_estate_heritage_group",
+      "snippet": "Better Homes & Gardens Real Estate Heritage Group in Shelbyville, TN - Office profile including office information, real estate agents, office reviews, and office listings.",
+      "query": "\"Better Homes & Gardens Real Estate Heritage Group\" revenue",
+      "search_collected_at": "2026-10-23T11:29:02Z"
+    },
+    {
+      "title": "Better Homes & Gardens Real Estate Heritage Group Real Estate Agency in ...",
+      "url": "https://www.realtor.com/realestateagency/589e4e8683ba75000fab00d5",
+      "snippet": "Find real estate agency Better Homes & Gardens Real Estate Heritage Group in Shelbyville, TN on realtor.com®, your source for top rated real estate professionals.",
+      "query": "\"Better Homes & Gardens Real Estate Heritage Group\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:29:08Z"
+    },
+    {
+      "title": "Better Homes and Gardens Real Estate Heritage Group",
+      "url": "https://www.facebook.com/bhgreheritagegroup/",
+      "snippet": "Congratulations on a great month! Better Homes & Gardens Real Estate Heritage Group 2737 Hwy 231 N. Shelbyville, TN 37160 Office: 931-680-1680 Got plans tonight? Come take a look at 813 Brookhaven Circle! Morgan Stevens will be there from 5-7 PM to show you around this renovated 4-bedroom, 3-bath home.",
+      "query": "\"Better Homes & Gardens Real Estate Heritage Group\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:29:08Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T11:29:08Z",
+  "company_status": "SUCCESS"
+}

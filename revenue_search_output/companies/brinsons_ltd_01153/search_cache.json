@@ -1,0 +1,74 @@
+{
+  "company_key": "brinsons ltd|https://brinsons.co.uk",
+  "company_name": "Brinsons Ltd",
+  "company_website": "https://brinsons.co.uk",
+  "created_at": "2026-10-23T13:54:13Z",
+  "searches": [
+    {
+      "query": "\"Brinsons Ltd\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:54:19Z",
+      "page_title": "\"Brinsons Ltd\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brinsons+Ltd%22+revenue",
+      "results": [
+        {
+          "title": "Brinsons Analysis & Market Share Overview | Similarweb",
+          "url": "https://www.similarweb.com/company/brinsons.co.uk/",
+          "snippet": "NewsEmily leaves Brinsons Ltd.Emily, 28, joins from Brinsons in Caerphilly and will continue her ongoing studies to become a qualified surveyor via the Royal Institution of Chartered Surveyors' (RICS) accreditation process, while gaining wider experience in Knight Frank's valuations and agency divisions in Cardiff."
+        },
+        {
+          "title": "Brinsons Ltd - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/0317373D:LN",
+          "snippet": "Company profile page for Brinsons Ltd including stock price, company news, executives, board members, and contact information"
+        }
+      ]
+    },
+    {
+      "query": "\"Brinsons Ltd\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T13:54:25Z",
+      "page_title": "\"Brinsons Ltd\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Brinsons+Ltd%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Brinsons Ltd - Company Profile and News - Bloomberg Markets",
+          "url": "https://www.bloomberg.com/profile/company/0317373D:LN",
+          "snippet": "Company profile page for Brinsons Ltd including stock price, company news, executives, board members, and contact information"
+        },
+        {
+          "title": "Brinsons Limited in Caerphilly, CF83 1NX",
+          "url": "https://www.bizdb.co.uk/company/brinsons-limited-06030712/",
+          "snippet": "Brinsons Limited may be found at 'eastgate', Market Street in Caerphilly. The postal code is CF83 1NX. Brinsons has been operating in this business for eighteen years. The reg. no. is 06030712. The enterprise's SIC and NACE codes are 68310 meaning Real estate agencies. Brinsons Ltd released its latest accounts for the period that ended on 2023/03/31. The company's latest confirmation statement ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Brinsons Analysis & Market Share Overview | Similarweb",
+      "url": "https://www.similarweb.com/company/brinsons.co.uk/",
+      "snippet": "NewsEmily leaves Brinsons Ltd.Emily, 28, joins from Brinsons in Caerphilly and will continue her ongoing studies to become a qualified surveyor via the Royal Institution of Chartered Surveyors' (RICS) accreditation process, while gaining wider experience in Knight Frank's valuations and agency divisions in Cardiff.",
+      "query": "\"Brinsons Ltd\" revenue",
+      "search_collected_at": "2026-10-23T13:54:19Z"
+    },
+    {
+      "title": "Brinsons Ltd - Company Profile and News - Bloomberg Markets",
+      "url": "https://www.bloomberg.com/profile/company/0317373D:LN",
+      "snippet": "Company profile page for Brinsons Ltd including stock price, company news, executives, board members, and contact information",
+      "query": "\"Brinsons Ltd\" revenue",
+      "search_collected_at": "2026-10-23T13:54:19Z"
+    },
+    {
+      "title": "Brinsons Limited in Caerphilly, CF83 1NX",
+      "url": "https://www.bizdb.co.uk/company/brinsons-limited-06030712/",
+      "snippet": "Brinsons Limited may be found at 'eastgate', Market Street in Caerphilly. The postal code is CF83 1NX. Brinsons has been operating in this business for eighteen years. The reg. no. is 06030712. The enterprise's SIC and NACE codes are 68310 meaning Real estate agencies. Brinsons Ltd released its latest accounts for the period that ended on 2023/03/31. The company's latest confirmation statement ...",
+      "query": "\"Brinsons Ltd\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T13:54:25Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T13:54:25Z",
+  "company_status": "SUCCESS"
+}

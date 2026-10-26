@@ -1,0 +1,74 @@
+{
+  "company_key": "broward county property appraisers office|https://broward.org",
+  "company_name": "Broward County Property Appraisers Office",
+  "company_website": "https://broward.org",
+  "created_at": "2026-10-23T10:12:29Z",
+  "searches": [
+    {
+      "query": "\"Broward County Property Appraisers Office\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:12:36Z",
+      "page_title": "\"Broward County Property Appraisers Office\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broward+County+Property+Appraisers+Office%22+revenue",
+      "results": [
+        {
+          "title": "BCPA Broward County Property Appraiser's Office",
+          "url": "https://browardgov.com/bcpa-broward-county-property-appraisers-office/",
+          "snippet": "The Broward County Property Appraisers Office (BCPA) is responsible for determining the value of all property in Broward County for the purpose of property tax assessment. The BCPA's mission is to provide accurate, fair, and equitable property valuations to ensure that property owners pay only their fair share of property taxes."
+        }
+      ]
+    },
+    {
+      "query": "\"Broward County Property Appraisers Office\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:12:42Z",
+      "page_title": "\"Broward County Property Appraisers Office\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Broward+County+Property+Appraisers+Office%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BCPA Broward County Property Appraiser's Office",
+          "url": "https://browardgov.com/bcpa-broward-county-property-appraisers-office/",
+          "snippet": "The Broward County Property Appraisers Office (BCPA) is responsible for determining the value of all property in Broward County for the purpose of property tax assessment. The BCPA's mission is to provide accurate, fair, and equitable property valuations to ensure that property owners pay only their fair share of property taxes."
+        },
+        {
+          "title": "Jeffrey King - Commercial Income Specialist / Deputy ... - LinkedIn",
+          "url": "https://www.linkedin.com/in/jeffreyking1",
+          "snippet": "Commercial Income Specialist / Deputy Appraiser at Broward County Property Appraisers Office · Results oriented real estate/tax/business analyst. Previously finance/accounting manager with ..."
+        },
+        {
+          "title": "TILLOTSON v. BROWARD COUNTY PROPERTY APPRAISERS OFFICE (2024)",
+          "url": "https://caselaw.findlaw.com/court/fl-district-court-of-appeal/116265905.html",
+          "snippet": "Case opinion for FL District Court of Appeal TILLOTSON v. BROWARD COUNTY PROPERTY APPRAISERS OFFICE. Read the Court's full decision on FindLaw."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BCPA Broward County Property Appraiser's Office",
+      "url": "https://browardgov.com/bcpa-broward-county-property-appraisers-office/",
+      "snippet": "The Broward County Property Appraisers Office (BCPA) is responsible for determining the value of all property in Broward County for the purpose of property tax assessment. The BCPA's mission is to provide accurate, fair, and equitable property valuations to ensure that property owners pay only their fair share of property taxes.",
+      "query": "\"Broward County Property Appraisers Office\" revenue",
+      "search_collected_at": "2026-10-23T10:12:36Z"
+    },
+    {
+      "title": "Jeffrey King - Commercial Income Specialist / Deputy ... - LinkedIn",
+      "url": "https://www.linkedin.com/in/jeffreyking1",
+      "snippet": "Commercial Income Specialist / Deputy Appraiser at Broward County Property Appraisers Office · Results oriented real estate/tax/business analyst. Previously finance/accounting manager with ...",
+      "query": "\"Broward County Property Appraisers Office\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:12:42Z"
+    },
+    {
+      "title": "TILLOTSON v. BROWARD COUNTY PROPERTY APPRAISERS OFFICE (2024)",
+      "url": "https://caselaw.findlaw.com/court/fl-district-court-of-appeal/116265905.html",
+      "snippet": "Case opinion for FL District Court of Appeal TILLOTSON v. BROWARD COUNTY PROPERTY APPRAISERS OFFICE. Read the Court's full decision on FindLaw.",
+      "query": "\"Broward County Property Appraisers Office\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:12:42Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T10:12:42Z",
+  "company_status": "SUCCESS"
+}

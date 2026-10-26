@@ -1,0 +1,74 @@
+{
+  "company_key": "bhhs carolina premier properties|https://bhhscarolinapremierproperties.com",
+  "company_name": "BHHS Carolina Premier Properties",
+  "company_website": "https://bhhscarolinapremierproperties.com",
+  "created_at": "2026-10-23T10:58:22Z",
+  "searches": [
+    {
+      "query": "\"BHHS Carolina Premier Properties\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:58:29Z",
+      "page_title": "\"BHHS Carolina Premier Properties\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHHS+Carolina+Premier+Properties%22+revenue",
+      "results": [
+        {
+          "title": "BHHS Carolina Premier Properties - realtor.com",
+          "url": "https://www.realtor.com/realestateagency/56c8791a7e54f7010022e6a1",
+          "snippet": "Find real estate agency BHHS Carolina Premier Properties in Holden Beach, NC on realtor.com®, your source for top rated real estate professionals."
+        }
+      ]
+    },
+    {
+      "query": "\"BHHS Carolina Premier Properties\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:58:35Z",
+      "page_title": "\"BHHS Carolina Premier Properties\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22BHHS+Carolina+Premier+Properties%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "BHHS Carolina Premier Properties - realtor.com",
+          "url": "https://www.realtor.com/realestateagency/56c8791a7e54f7010022e6a1",
+          "snippet": "Find real estate agency BHHS Carolina Premier Properties in Holden Beach, NC on realtor.com®, your source for top rated real estate professionals."
+        },
+        {
+          "title": "Christy Wood, Realtor - BHHS Carolina Premier Properties - Facebook",
+          "url": "https://www.facebook.com/p/Christy-Wood-Realtor-BHHS-Carolina-Premier-Properties-61577039187856/",
+          "snippet": "Christy Wood, Realtor - BHHS Carolina Premier Properties My background in strategic management and client- focused service has uniquely prepared me to guide others through one of life's most important decisions—buying or selling a home."
+        },
+        {
+          "title": "Kelly Willis - Broker/Realtor at BHHS Carolina Premier Properties ...",
+          "url": "https://www.linkedin.com/in/kelly-willis-a73bb54",
+          "snippet": "Broker/Realtor at BHHS Carolina Premier Properties · Experience: Berkshire Hathaway HomeServices Carolina Premier Properties · Education: East Carolina University · Location: Wilmington · 278 ..."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "BHHS Carolina Premier Properties - realtor.com",
+      "url": "https://www.realtor.com/realestateagency/56c8791a7e54f7010022e6a1",
+      "snippet": "Find real estate agency BHHS Carolina Premier Properties in Holden Beach, NC on realtor.com®, your source for top rated real estate professionals.",
+      "query": "\"BHHS Carolina Premier Properties\" revenue",
+      "search_collected_at": "2026-10-23T10:58:29Z"
+    },
+    {
+      "title": "Christy Wood, Realtor - BHHS Carolina Premier Properties - Facebook",
+      "url": "https://www.facebook.com/p/Christy-Wood-Realtor-BHHS-Carolina-Premier-Properties-61577039187856/",
+      "snippet": "Christy Wood, Realtor - BHHS Carolina Premier Properties My background in strategic management and client- focused service has uniquely prepared me to guide others through one of life's most important decisions—buying or selling a home.",
+      "query": "\"BHHS Carolina Premier Properties\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:58:35Z"
+    },
+    {
+      "title": "Kelly Willis - Broker/Realtor at BHHS Carolina Premier Properties ...",
+      "url": "https://www.linkedin.com/in/kelly-willis-a73bb54",
+      "snippet": "Broker/Realtor at BHHS Carolina Premier Properties · Experience: Berkshire Hathaway HomeServices Carolina Premier Properties · Education: East Carolina University · Location: Wilmington · 278 ...",
+      "query": "\"BHHS Carolina Premier Properties\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:58:35Z"
+    }
+  ],
+  "result_count": 3,
+  "updated_at": "2026-10-23T10:58:35Z",
+  "company_status": "SUCCESS"
+}

@@ -1,0 +1,86 @@
+{
+  "company_key": "bowne & co., inc.|https://bowne.com",
+  "company_name": "Bowne & Co., Inc.",
+  "company_website": "https://bowne.com",
+  "created_at": "2026-10-23T11:51:19Z",
+  "searches": [
+    {
+      "query": "\"Bowne & Co., Inc.\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:51:25Z",
+      "page_title": "\"Bowne & Co., Inc.\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bowne+%26+Co.%2C+Inc.%22+revenue",
+      "results": [
+        {
+          "title": "Bowne & Co., Inc. | (415) 977-1900 | San Francisco - AllBiz",
+          "url": "https://www.allbiz.com/business/bowne-co-inc_1348-415-977-1900",
+          "snippet": "Gina Roth is the primary contact at Bowne & Co., Inc.. Bowne & Co., Inc. generates approximately USD 4,377,600 in revenue annually, and employs around 49 people at this location."
+        },
+        {
+          "title": "Bowne & Co., Inc. - Company History",
+          "url": "https://www.company-histories.com/Bowne-Co-Inc-Company-History.html",
+          "snippet": "Bowne & Co., Inc. is a manufacturing company founded in 1909 in New York, New York."
+        },
+        {
+          "title": "Bowne & Co., Inc. - Company Profile, Information, Business Description ...",
+          "url": "https://www.referenceforbusiness.com/history2/50/Bowne-Co-Inc.html",
+          "snippet": "The world's largest financial printer and one of the oldest companies in the United States, Bowne & Co., Inc. operates corporate printing operations that print prospectuses, offering circulars, annual reports, stock certificates, and other legal documents. Bowne also ranks as the leading provider of EDGAR electronic filing services to clients. The company's clients include corporations, law ..."
+        }
+      ]
+    },
+    {
+      "query": "\"Bowne & Co., Inc.\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T11:51:30Z",
+      "page_title": "\"Bowne & Co., Inc.\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Bowne+%26+Co.%2C+Inc.%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Bowne & Co., Inc. | (408) 749-4000 | Sunnyvale, California - AllBiz",
+          "url": "https://www.allbiz.com/business/bowne-co-inc_14g-408-749-4000",
+          "snippet": "Business Description Bowne & Co., Inc. is located in Sunnyvale, California, and was founded in 1969. At this location, Bowne & Co., Inc. employs approximately 125 people. This business is working in the following industry: Manufacture of computer and electronics. Annual sales for Bowne & Co., Inc. are around USD 6,139,173. Employees: 125 Revenue: USD 6,139,173 Founded: 1969 IndustryIndustry ..."
+        },
+        {
+          "title": "Bowne & Co., Inc. - Company History",
+          "url": "https://www.company-histories.com/Bowne-Co-Inc-Company-History.html",
+          "snippet": "The world's largest financial printer and one of the oldest companies in the United States, Bowne & Co., Inc. operates corporate printing operations that print prospectuses, offering circulars, annual reports, stock certificates, and other legal documents."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Bowne & Co., Inc. | (415) 977-1900 | San Francisco - AllBiz",
+      "url": "https://www.allbiz.com/business/bowne-co-inc_1348-415-977-1900",
+      "snippet": "Gina Roth is the primary contact at Bowne & Co., Inc.. Bowne & Co., Inc. generates approximately USD 4,377,600 in revenue annually, and employs around 49 people at this location.",
+      "query": "\"Bowne & Co., Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:51:25Z"
+    },
+    {
+      "title": "Bowne & Co., Inc. - Company History",
+      "url": "https://www.company-histories.com/Bowne-Co-Inc-Company-History.html",
+      "snippet": "Bowne & Co., Inc. is a manufacturing company founded in 1909 in New York, New York.",
+      "query": "\"Bowne & Co., Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:51:25Z"
+    },
+    {
+      "title": "Bowne & Co., Inc. - Company Profile, Information, Business Description ...",
+      "url": "https://www.referenceforbusiness.com/history2/50/Bowne-Co-Inc.html",
+      "snippet": "The world's largest financial printer and one of the oldest companies in the United States, Bowne & Co., Inc. operates corporate printing operations that print prospectuses, offering circulars, annual reports, stock certificates, and other legal documents. Bowne also ranks as the leading provider of EDGAR electronic filing services to clients. The company's clients include corporations, law ...",
+      "query": "\"Bowne & Co., Inc.\" revenue",
+      "search_collected_at": "2026-10-23T11:51:25Z"
+    },
+    {
+      "title": "Bowne & Co., Inc. | (408) 749-4000 | Sunnyvale, California - AllBiz",
+      "url": "https://www.allbiz.com/business/bowne-co-inc_14g-408-749-4000",
+      "snippet": "Business Description Bowne & Co., Inc. is located in Sunnyvale, California, and was founded in 1969. At this location, Bowne & Co., Inc. employs approximately 125 people. This business is working in the following industry: Manufacture of computer and electronics. Annual sales for Bowne & Co., Inc. are around USD 6,139,173. Employees: 125 Revenue: USD 6,139,173 Founded: 1969 IndustryIndustry ...",
+      "query": "\"Bowne & Co., Inc.\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T11:51:30Z"
+    }
+  ],
+  "result_count": 4,
+  "updated_at": "2026-10-23T11:51:30Z",
+  "company_status": "SUCCESS"
+}

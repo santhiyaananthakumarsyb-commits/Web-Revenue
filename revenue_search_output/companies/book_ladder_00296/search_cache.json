@@ -1,0 +1,137 @@
+{
+  "company_key": "book & ladder|https://bookandladderpm.com",
+  "company_name": "Book & Ladder",
+  "company_website": "https://bookandladderpm.com",
+  "created_at": "2026-10-23T10:48:09Z",
+  "searches": [
+    {
+      "query": "\"Book & Ladder\" revenue",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:48:16Z",
+      "page_title": "\"Book & Ladder\" revenue at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Book+%26+Ladder%22+revenue",
+      "results": [
+        {
+          "title": "Book & Ladder Information - RocketReach",
+          "url": "https://rocketreach.co/book-ladder-profile_b7f4f55bc25d2882",
+          "snippet": "Book & Ladder is a Real Estate company located in Aliso Viejo, California with $18.1 million in revenue and 48 employees. Find top employees, contact details and business statistics at RocketReach."
+        },
+        {
+          "title": "Book & Ladder Overview & Revenue | ContactOut",
+          "url": "https://contactout.com/company/book-amp-ladder-8323",
+          "snippet": "Book & Ladder is a Real Estate company founded in 2020, headquartered in Kent, United States. See $3.6M revenue and verified contacts."
+        },
+        {
+          "title": "Book & Ladder Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/book-ladder-overview",
+          "snippet": "Discover essential details about Book & Ladder, including address, contact, and journey of our company's evolution."
+        },
+        {
+          "title": "Book & Ladder Company Overview, Contact Details & Competitors | LeadIQ",
+          "url": "https://leadiq.com/c/book--ladder/613cc4fdd9e67c3ef5bd4f54",
+          "snippet": "Book & Ladder's 90 percent student housing exposure positions them as a go-to operator for universities, student-focused amenities, and leasing strategies tailored to high turnover and seasonal demand."
+        },
+        {
+          "title": "Book & Ladder · DST Report",
+          "url": "https://dst.report/companies/book-and-ladder/",
+          "snippet": "Versity Invest asset manager at 1% of Gross Revenue. Book & Ladder property manager at 3% of Monthly Gross Revenues. Same day: Apex South Creek IB leftover-equity notes $25M IBI Volcano, $6M West 4, $11M Comrit (assigned to Volcano 3 Jul 2023). 12% coupon, 14% default. 90% of IB redemption proceeds to the lenders. Crew LLC guaranteed."
+        },
+        {
+          "title": "Book & Ladder - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/book-ladder",
+          "snippet": "Book & Ladder is a real estate and property management company."
+        }
+      ]
+    },
+    {
+      "query": "\"Book & Ladder\" annual revenue estimate",
+      "status": "SUCCESS",
+      "http_status": 200,
+      "collected_at": "2026-10-23T10:48:22Z",
+      "page_title": "\"Book & Ladder\" annual revenue estimate at DuckDuckGo",
+      "final_url": "https://html.duckduckgo.com/html/?q=%22Book+%26+Ladder%22+annual+revenue+estimate",
+      "results": [
+        {
+          "title": "Book & Ladder Information - RocketReach",
+          "url": "https://rocketreach.co/book-ladder-profile_b7f4f55bc25d2882",
+          "snippet": "Book & Ladder Questions What is the annual revenue of Book & Ladder? The Book & Ladder annual revenue was $18.1 million in 2026."
+        },
+        {
+          "title": "Book & Ladder Overview & Revenue | ContactOut",
+          "url": "https://contactout.com/company/book-amp-ladder-8323",
+          "snippet": "Book & Ladder is a Real Estate company founded in 2020, headquartered in Kent, United States. See $3.6M revenue and verified contacts."
+        },
+        {
+          "title": "Book & Ladder Overview - Salary.com",
+          "url": "https://www.salary.com/research/company/book-ladder-overview",
+          "snippet": "Discover essential details about Book & Ladder, including address, contact, and journey of our company's evolution."
+        },
+        {
+          "title": "Book & Ladder - Crunchbase Company Profile & Funding",
+          "url": "https://www.crunchbase.com/organization/book-ladder",
+          "snippet": "Book & Ladder is a real estate and property management company."
+        },
+        {
+          "title": "Book & Ladder - Inspiring the Imagination & Intellect of Student Residents",
+          "url": "https://bookandladderpm.com/",
+          "snippet": "At Book and Ladder, we create a home for our student guests where we connect, imagine, and exceed expectations."
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "title": "Book & Ladder Information - RocketReach",
+      "url": "https://rocketreach.co/book-ladder-profile_b7f4f55bc25d2882",
+      "snippet": "Book & Ladder is a Real Estate company located in Aliso Viejo, California with $18.1 million in revenue and 48 employees. Find top employees, contact details and business statistics at RocketReach.",
+      "query": "\"Book & Ladder\" revenue",
+      "search_collected_at": "2026-10-23T10:48:16Z"
+    },
+    {
+      "title": "Book & Ladder Overview & Revenue | ContactOut",
+      "url": "https://contactout.com/company/book-amp-ladder-8323",
+      "snippet": "Book & Ladder is a Real Estate company founded in 2020, headquartered in Kent, United States. See $3.6M revenue and verified contacts.",
+      "query": "\"Book & Ladder\" revenue",
+      "search_collected_at": "2026-10-23T10:48:16Z"
+    },
+    {
+      "title": "Book & Ladder Overview - Salary.com",
+      "url": "https://www.salary.com/research/company/book-ladder-overview",
+      "snippet": "Discover essential details about Book & Ladder, including address, contact, and journey of our company's evolution.",
+      "query": "\"Book & Ladder\" revenue",
+      "search_collected_at": "2026-10-23T10:48:16Z"
+    },
+    {
+      "title": "Book & Ladder Company Overview, Contact Details & Competitors | LeadIQ",
+      "url": "https://leadiq.com/c/book--ladder/613cc4fdd9e67c3ef5bd4f54",
+      "snippet": "Book & Ladder's 90 percent student housing exposure positions them as a go-to operator for universities, student-focused amenities, and leasing strategies tailored to high turnover and seasonal demand.",
+      "query": "\"Book & Ladder\" revenue",
+      "search_collected_at": "2026-10-23T10:48:16Z"
+    },
+    {
+      "title": "Book & Ladder · DST Report",
+      "url": "https://dst.report/companies/book-and-ladder/",
+      "snippet": "Versity Invest asset manager at 1% of Gross Revenue. Book & Ladder property manager at 3% of Monthly Gross Revenues. Same day: Apex South Creek IB leftover-equity notes $25M IBI Volcano, $6M West 4, $11M Comrit (assigned to Volcano 3 Jul 2023). 12% coupon, 14% default. 90% of IB redemption proceeds to the lenders. Crew LLC guaranteed.",
+      "query": "\"Book & Ladder\" revenue",
+      "search_collected_at": "2026-10-23T10:48:16Z"
+    },
+    {
+      "title": "Book & Ladder - Crunchbase Company Profile & Funding",
+      "url": "https://www.crunchbase.com/organization/book-ladder",
+      "snippet": "Book & Ladder is a real estate and property management company.",
+      "query": "\"Book & Ladder\" revenue",
+      "search_collected_at": "2026-10-23T10:48:16Z"
+    },
+    {
+      "title": "Book & Ladder - Inspiring the Imagination & Intellect of Student Residents",
+      "url": "https://bookandladderpm.com/",
+      "snippet": "At Book and Ladder, we create a home for our student guests where we connect, imagine, and exceed expectations.",
+      "query": "\"Book & Ladder\" annual revenue estimate",
+      "search_collected_at": "2026-10-23T10:48:22Z"
+    }
+  ],
+  "result_count": 7,
+  "updated_at": "2026-10-23T10:48:22Z",
+  "company_status": "SUCCESS"
+}
